@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1092</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee2521aa-96d4-4c98-959d-ad209441edca</dc:identifier>
+        <dc:title>手绢上的花田</dc:title>
+        <dc:creator opf:file-as="安房直子" opf:role="aut">安房直子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;1973年&lt;br&gt;　　安房直子所营造的是一个唯美的艺术世界，作品充满了奇异的幻想，在甜美的幻想中散发着一种淡淡的哀愁，让人在凄美、空灵、梦幻般的文字中感受生命的诗意；安房直子善于把现实空间和幻想空间编织得天衣无缝，用幻想的故事映照真实的人生；安房直子的作品常见的主题是孤独、温情、怀念和爱。作家用独特的艺术语言和表现方式在探讨一个命题；人究竟是什么？&lt;br&gt;　　《手绢上的花田》写一个神奇的幻想故事，记录了一段曲折的心路历程，发人深省，催人深思。　　一个邮递员受老太太之托帮她保管茶壶。邮递员谨守诺言，尽情享受着神奇茶壶带来的无限美好与惬意。可随着时间的推移，邮递员到底还是忘了自己当初的诺言，于是不可思议的事情发生了……&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806799956</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:THSH</dc:subject>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <meta content="{&quot;安房直子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="安房直子系列" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-12T11:02:22+00:00" name="calibre:timestamp"/>
+        <meta content="手绢上的花田" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

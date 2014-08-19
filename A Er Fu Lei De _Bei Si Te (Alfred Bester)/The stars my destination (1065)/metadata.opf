@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57da9e0c-eee1-473d-ba78-78b6442bfce8</dc:identifier>
+        <dc:title>The Stars My Destination</dc:title>
+        <dc:creator opf:file-as="阿尔弗雷德·贝斯特 &amp; Eisenstein, Alex &amp; Eisenstein, Phyllis" opf:role="aut">阿尔弗雷德·贝斯特(Alfred Bester)</dc:creator>
+        <dc:creator opf:file-as="阿尔弗雷德·贝斯特 &amp; Eisenstein, Alex &amp; Eisenstein, Phyllis" opf:role="aut">Alex Eisenstein</dc:creator>
+        <dc:creator opf:file-as="阿尔弗雷德·贝斯特 &amp; Eisenstein, Alex &amp; Eisenstein, Phyllis" opf:role="aut">Phyllis Eisenstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-07-02T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Marooned in outer space after an attack on his ship, Nomad, Gulliver Foyle lives to obsessively pursue the crew of a rescue vessel that had intended to leave him to die. Reprint. 10,000 first printing.&lt;br&gt;(&lt;span style="color:red"&gt;子乌注：中文版《&lt;a href="http://book.zi5.me/books/detail/1064"&gt;群星，我的归宿&lt;/a&gt;》&lt;/span&gt;)&lt;/p&gt;</dc:description>
+        <dc:publisher>Vintage Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679767800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <meta content="{&quot;Alex Eisenstein&quot;: &quot;&quot;, &quot;阿尔弗雷德·贝斯特(Alfred Bester)&quot;: &quot;&quot;, &quot;Phyllis Eisenstein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科幻/奇幻/玄幻" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="stars my destination, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c251e0a-3fd6-4774-959f-83fc4a616494</dc:identifier>
+        <dc:title>三幕悲剧</dc:title>
+        <dc:creator opf:file-as="阿加莎.克里斯蒂" opf:role="aut">阿加莎.克里斯蒂</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-28T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>外国小说</dc:subject>
+        <dc:subject>侦探小说</dc:subject>
+        <meta content="阿加莎·克里斯蒂" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="2011-01-04T16:34:48.951445+00:00" name="calibre:timestamp"/>
+        <meta content="三幕悲剧" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

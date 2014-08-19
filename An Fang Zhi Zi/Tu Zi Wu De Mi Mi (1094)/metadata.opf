@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea234bb3-2029-421a-8bb6-5f4d8122b1c9</dc:identifier>
+        <dc:title>兔子屋的秘密</dc:title>
+        <dc:creator opf:file-as="安房直子" opf:role="aut">安房直子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;1988年&lt;br&gt;　　 安房直子所营造的是一个唯美的艺术世界，作品充满了奇异的幻想，在甜美的幻想中散发着一种淡淡的哀愁，让人在凄美、空灵、梦幻般的文字中感受生命的诗意；安房直子善于把现实空间和幻想空间编织得天衣无缝，用幻想的故事映照真实的人生；安房直子的作品常见的主题是孤独、温情、怀念和爱。作家用独特的艺术语言和表现方式在探讨一个命题：人究竟是什么？ &lt;br&gt;　　 家住卷心菜田边的年轻太太认识了会做各种美味佳肴的兔子，为了免除下厨的劳累与麻烦，她要求兔子每天为她提供饭菜，为此她付出了沉重的代价，而兔子受到的挫折与挑战更大……在寒冷的冬天，年轻的画家屋里没有暖炉，冻得直发抖，而他的运气更差，所画的画一直卖不出去。有一天，有人来敲门，是一只猫，接下来奇迹发生了……作品中无论是兔子、猫还是玻璃球、藏红花，都拥有某种奇异的魔法与魔力，而爱的力量、善的力量却有如种子一般顽强生长。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807322641</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:THSH</dc:subject>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <meta content="{&quot;安房直子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="安房直子系列" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-12T11:31:18+00:00" name="calibre:timestamp"/>
+        <meta content="兔子屋的秘密" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

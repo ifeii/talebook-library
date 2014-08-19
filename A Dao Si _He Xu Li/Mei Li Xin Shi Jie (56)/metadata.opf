@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36b117b7-2f94-46aa-b57d-e56f8e383474</dc:identifier>
+        <dc:title>美丽新世界</dc:title>
+        <dc:creator opf:file-as="阿道司·赫胥黎" opf:role="aut">阿道司·赫胥黎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;《美丽新世界》是二十世纪最经典的反乌托邦文学之一，与乔治·奥威尔的《1984》、扎米亚京的《我们》并称为“反乌托邦”三书，在国内外思想界影响深远。&lt;br&gt;书中引用了广博的生物学、心理学知识，为我们描绘了虚构的福特纪元632年即公元2532年的社会。这是一个人从出生到死亡都受着控制的社会。在这个“美丽新世界”里，由于社会与生物控制技术的发展，人类已经沦为垄断基因公司和政治人物手中的玩偶。这种统治甚至从基因和胎儿阶段就开始了。&lt;br&gt;这是一个有阶级、有社会分工的社会，人类经基因控制孵化，被分为五个阶级，分别从事劳心、劳力、创造、统治等不同性质的社会活动。人们习惯于自己从事的任何工作，视恶劣的生活和工作环境与极高的工作强度为幸福。因此，这是，一个快乐的社会，这种快乐还有别的措施保障，比如睡眠教学，催眠术被广泛用来校正人的思维，国家还发放叫做索麻的精神麻醉药物让人忘掉不愉快的事情。&lt;br&gt;正是在这个“美丽新世界”里，人们失去了个人情感，失去了爱情——性代替了爱，失去了痛苦、激情和经历危险的感觉。最可怕的是，人们失去了恩考的权利，失去了创造力。&lt;/p&gt;</dc:description>
+        <dc:publisher>漓江出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540771805</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>反乌托邦</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>赫胥黎</dc:subject>
+        <dc:subject>反乌托邦三部曲</dc:subject>
+        <meta content="反乌托邦" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="美丽新世界" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

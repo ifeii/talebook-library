@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1958</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d17fdf3-d4fa-4c44-aacb-ce7d9e087aa9</dc:identifier>
+        <dc:title>大江东去（共三部）</dc:title>
+        <dc:creator opf:file-as="阿耐" opf:role="aut">阿耐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-04T16:00:00+00:00</dc:date>
+        <dc:description>导演说：这小说本身就是一幅活动的历史影像。如果要把它变成影像艺术，几乎不需要做脚本的改动。但它比电影电视要优越得多，它更好地还原了过去的时间。&#13;
+　　文学评论家说：我首次看到有小说以这样宏大的气势写中国改革开放几十年的历史。《大江东去》如很多优秀的小说一样不仅仅是一部小说，而且是一部社会的百科全书。真实的生活变化细节，清晰的经济发展脉络，这部小说让我分外怀旧。&#13;
+　　出版学说：这几年好的有影响的作品大多诞生于一些非专业作家之手，《狼图腾》是一个典型例子，它让出版界振奋到现在。无名作者阿耐的《大江东去》让我看到了又一个振奋点。&#13;
+　　经济学家说：我与数字打交道多年，但我清楚地知道数字可以说明经济，但无法表现经济生活。《大江东去》让我会心一笑，使我有种冲动，想变成里面的一个人去创业了，哈哈。&#13;
+　　作者简介&#13;
+　　阿耐，女，浙江人。1990年大学毕业后从事商业工作。出版有《食荤者》、《余生》、《不得往下生》、《回家》等长篇小说。&#13;
+　　编辑推荐&#13;
+　　恢宏气势，深度揭示历史转新时期平凡人物命运，史诗笔法，全景展现改革开放三十年中国经济生活。&#13;
+　　经济活动中的历史明鉴，金融危机下的阅读盛宴。著名财经作家阿耐继《不得往生》畅销后撰写“改革开放三十记忆之书”。&#13;
+　　本书反映1978-1998年中国改革开放的历程。&#13;
+　　本书集《沧浪之水》的权谋，《圈子圈套》的商略，《激荡三十年》的史实于一体，好看，耐读。更多人称其为新世纪版的《平凡的世界》。值得一生收藏！&#13;
+　　我有幸生活在一个前所未有的变革时代。&#13;
+　　——阿耐</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;阿耐&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:08:50.733134+00:00" name="calibre:timestamp"/>
+        <meta content="大江东去（共三部）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

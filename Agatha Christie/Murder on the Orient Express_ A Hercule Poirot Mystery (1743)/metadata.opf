@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">400ef10f-d108-4c3b-9ef4-9d38dc2ee526</dc:identifier>
+        <dc:title>Murder on the Orient Express: A Hercule Poirot Mystery</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-21T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: One of Agatha Christie’s most famous mysteries, Murder on the Orient Express was inspired by two real-life crimes and the author’s own experience being stranded on the Orient Express during Christmas of 1931. While traveling to Paris, a wealthy American is stabbed to death in his cabin on the Orient Express. With the train stuck in a snowdrift, there is no easy escape for the killer. Fortunately, detective Hercule Poirot is aboard and launches a clever investigation into the curious assortment of passengers, of whom each seems to have a motive.</dc:description>
+        <dc:publisher>Black Dog Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781579126230</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery And Suspense Fiction</dc:subject>
+        <dc:subject>Detective</dc:subject>
+        <dc:subject>Private investigators</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>1890-1976</dc:subject>
+        <dc:subject>Private investigators - England</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Fiction - Mystery</dc:subject>
+        <dc:subject>Christie</dc:subject>
+        <dc:subject>Orient Express (Express train)</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Hercule (Fictitious character)</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <dc:subject>Mystery &amp; Detective - Traditional British</dc:subject>
+        <dc:subject>Traditional British</dc:subject>
+        <dc:subject>Agatha</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Poirot</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:04:34.075435+00:00" name="calibre:timestamp"/>
+        <meta content="Murder on the Orient Express: A Hercule Poirot Mystery" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

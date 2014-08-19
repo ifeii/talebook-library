@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9b64e074-e70c-42a4-934a-9ad494e1843f</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1325c66f-d13d-46ad-a73a-a6f163f31445</dc:identifier>
+        <dc:title>安徒生童话</dc:title>
+        <dc:creator opf:file-as="安徒生" opf:role="aut">安徒生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>《安徒生童话》精选了数十篇脍炙人口的佳作。在童话世界里，安徒生这个名字像一座永恒的丰碑，闪耀着最辉煌的光芒。他的一生创作了无数美丽的童话：贫困凄苦的卖火柴的小女孩去了她心中另一个温暖美丽的世界；愚蠢的皇帝穿上了那根本不存在的新装；小美人鱼为爱无私无悔的付出；丑小鸭最终变成了高贵的白天鹅……这就是《安徒生童话》，一个不仅仅是写给孩子也是写给成人的童话，一个跨越时间、空间成为永恒的经典。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532739677</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>北欧</dc:subject>
+        <dc:subject>安徒生童话</dc:subject>
+        <dc:subject>安徒生</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>丹麦</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T13:11:30.546000+00:00" name="calibre:timestamp"/>
+        <meta content="安徒生童话" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

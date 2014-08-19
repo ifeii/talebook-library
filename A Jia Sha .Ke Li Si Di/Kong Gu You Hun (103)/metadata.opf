@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed8800d-bb6a-4013-b661-43c8bbf355bf</dc:identifier>
+        <dc:title>空谷幽魂</dc:title>
+        <dc:creator opf:file-as="阿加莎.克里斯蒂" opf:role="aut">阿加莎.克里斯蒂</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-28T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>侦探小说</dc:subject>
+        <dc:subject>外国小说</dc:subject>
+        <meta content="阿加莎·克里斯蒂" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-04T16:34:58.478760+00:00" name="calibre:timestamp"/>
+        <meta content="空谷幽魂" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

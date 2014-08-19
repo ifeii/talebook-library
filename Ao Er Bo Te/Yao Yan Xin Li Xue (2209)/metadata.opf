@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f7e693f-2a50-44a2-b2f2-2beb8157a0c5</dc:identifier>
+        <dc:title>谣言心理学</dc:title>
+        <dc:creator opf:file-as="奥尔波特" opf:role="aut">奥尔波特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;大部分日常社交谈话总包含着谣传。日常生活中我们与朋友聊天时，也充斥着各种有根据或无根据的小道消息。&lt;br&gt;　　这种社交谈话只是向我们的对话者表达一种含糊的友好感觉，避免沉默的尴尬，它们只是谣言传播的一种形式。&lt;br&gt;　　谣言的散布一直是重大的社会和心理问题，在危机时刻更是如此，每当社会局势紧张，不实的报道便恶毒地增长。&lt;br&gt;　　在大多数事情上，我们都是非专业的，谣言就因此而产生。我们没有时间，也没有耐心去检验我们所听到的是否背离证据的外在标准，即使有时这些标准存在，也能得到。所以我们抵御谣言惟一可靠的方法就是对所有道听途说的描述持普遍怀疑的态度。希望读者通过对本书的阅读能形成谨慎的怀疑态度。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0b74d996-2d6b-4306-877e-f6adec2d4071</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;奥尔波特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:12:39.788261+00:00" name="calibre:timestamp"/>
+        <meta content="谣言心理学" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

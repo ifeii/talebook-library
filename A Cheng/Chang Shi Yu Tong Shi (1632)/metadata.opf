@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ad9ca59-b617-443b-8350-d419e49a9af1</dc:identifier>
+        <dc:title>常识与通识</dc:title>
+        <dc:creator opf:file-as="阿城" opf:role="aut">阿城</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《常識與通識》所收的十二篇文字,是阿城在一九九七年至一九九八年發表於上海的雙月刊文學雜誌《收穫》上的作品,談話的主題是「常識」。&lt;br&gt; 例如談到「思鄉」,他認為思鄉就是思飲食,思飲食的過程,思飲食的氣氛;為什麼會思這些?因為蛋白在作怪。談到「藝術」,阿城的說法是:藝術乃是起源於催眠,首先是自我催眠,由此而產生的作品再催眠閱讀者。再說說「鬼故事」吧,阿城說,鬼故事差不多就是在表達我們在文化中不得釋放的潛意識。&lt;br&gt; 為何阿城要與中國大陸的人們談論常識?因為,相對於當今高度發展的經濟,中國一直是意識型態較稀薄的國度,阿城希望藉由這些文字,將人們喚回一個真實無欺的世界,讓讀者不斷增進常識;每一次老錯誤的修改,每一次新知識的容納,都意味著常識的再次進展,是一個民智由蒙昧走向開化的過程。&lt;br&gt; 而在台灣「認真搞意識型態」之際,《常識與通識》這本書非常值得我們一讀。&lt;/p&gt;</dc:description>
+        <dc:publisher>shu.im</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4175b423-b143-4cc6-ba54-2d9f67182edc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;阿城&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:02:53.213514+00:00" name="calibre:timestamp"/>
+        <meta content="常识与通识" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

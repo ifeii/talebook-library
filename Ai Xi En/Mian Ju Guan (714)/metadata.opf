@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">714</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e82124f-4ef4-4414-a4dc-44bb7c67ee38</dc:identifier>
+        <dc:title>面具馆</dc:title>
+        <dc:creator opf:file-as="艾西恩" opf:role="aut">艾西恩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="color:red;"&gt;(子乌注：找这本书我翻遍了整个豆瓣，最终才发现，不仅书名改了，作者连笔名也换了。我看的时候作者闪苍，书名《犯罪心理学》)&lt;/p&gt;
+&lt;p&gt;　　该作品曾以《犯罪心理学》、《ID》为题、署名詹姆斯·梅里布克，闪苍在网友中引发震动——它是一部罕见的原创推理作品。&lt;/p&gt;&lt;p&gt;　　美国西部城市波特兰陷入惊恐之中——杀人案接踵而至，每一位受害者都被剥去了脸皮，尸体上都留下了铁钉、硬币等“记号”，身旁还有一行血字：“面具即将归来！”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801871183</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>悬疑·犯罪</dc:subject>
+        <meta content="侦探/悬疑" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-27T10:55:30.062000+00:00" name="calibre:timestamp"/>
+        <meta content="面具馆" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
