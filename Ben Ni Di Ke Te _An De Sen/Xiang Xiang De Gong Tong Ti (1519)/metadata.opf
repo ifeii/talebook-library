@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">691c947e-28ec-4e7d-aa0b-9df95e1d2945</dc:identifier>
+        <dc:title>想象的共同体</dc:title>
+        <dc:creator opf:file-as="本尼迪克特·安德森" opf:role="aut">本尼迪克特·安德森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;民族主义是一股奇异而强大的力量,它所触及的是人类灵魂深处对归属感的渴望;民族主义同时又是政治史和思想史上一个困惑难解、却又挥之不去的谜。民族和民族主义是什么?其本质是什么?它们在历史上是怎样出现的,又经历了怎样的变迁?为何它们能够在今天拥有如此深刻的情感上的正当性?这些都是研究民族和民族主义问题的学者们试图要解答的问题。本书的作者本尼迪克特·安德森以“哥白尼精神”独辟蹊径,从民族情感与文化根源出发探讨了不同民族属性的、全球各地的“想象的共同体”,力图提出一个解释上述关于民族与民族主义问题的新的理论典范。安德森将民族、民族属性与民族主义视为一种“特殊的文化的人造物”,将民族定义为“一种想象的政治共同体”。他认为这些“想象的共同体”的形成主要取决于以下因素:宗教信仰的领土化、古典王朝家族的衰微、时间观念的改变、资本主义与印刷术之间的交互作用、国家方言的发展等。通过比较史和历史社会学的方法,安德森对民族主义的起源与散布进行了论证:他否定了多数学者所认同的民族主义起源于欧洲的观点,认为18世纪末和19世纪初的南北美洲殖民地独立运动才是"第一波"的民族主义,民族主义是经由美洲而散播至欧洲,再到亚洲和非洲。安德森百科全书式的欧洲史素养与当代东南亚研究权威的背景,以及他对东西方多种语言的掌握能力,使得他的论证更具说服力。《想象的共同体》独辟蹊径的研究视角令它已经成为当代研究民族与民族主义的经典著作,其影响所及几乎横跨所有人文与社会学科,是当代文史社会科学学生必读之书,同时也是理解人类社会诸多现象时,不可或缺的指引。&lt;/p&gt;</dc:description>
+        <dc:publisher>上海世纪出版集团</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b6e740ad-f7b3-4353-995b-13acb9bd5a7b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;本尼迪克特·安德森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:00:57.076071+00:00" name="calibre:timestamp"/>
+        <meta content="想象的共同体" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

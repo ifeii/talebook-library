@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04b40f30-990f-4690-b484-829e96582397</dc:identifier>
+        <dc:title>Think In JAVA (the third edition)</dc:title>
+        <dc:creator opf:file-as="Bruce Eckel" opf:role="aut">Bruce Eckel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-22T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Bruce Eckel's Thinking in Java - JavaWorld Editor's Choice Award for Best Book, 2001 JavaWorld Reader's Choice Award for Best Book, 2000 Software Development Magazine Productivity Award, 1999 Java Developer's Journal Editor's Choice Award for Best Book, 1998 Software Development Magazine Jolt Product Excellence Award (for Thinking in C++), 1995 Thinking in Java has earned raves from programmers worldwide for its extraordinary clarity, careful organization, and small, direct programming examples. From the fundamentals of Java syntax to its most advanced features (in-depth object-oriented concepts, multithreading, automated project building, unit testing, and debugging), Thinking in Java is designed to teach, one simple step at a time. The classic Java Introduction, fully updated for Java 2 version 1.4, with new topics throughout! New testing framework validates each program and shows you the output. New chapter on unit testing, automated building, assertions, logging, debugging, and other ways to keep your programs in tune. Completely rewritten threading chapter gives you a solid grasp of the fundamentals. 350+ working Java programs, rewritten for this edition. 15,000+ lines of code. Companion web site includes all source code, annotated solution guide, essays and other resources. Includes entire Foundations for Java multimedia seminar on CD-ROM for Windows, Linux and Mac. For beginners and experts alike. Teaches Java linguistics, not platform-dependent mechanics. Thorough coverage of fundamentals; demonstrates advanced topics. Explains sound object-oriented principles as they apply to Java. Hands-on Java CD available online, with 15 hours of lectures and slides by Bruce Eckel. Live seminars, consulting, and reviews available. www.BruceEckel.com What people are saying- "The best book on Java...Your depth is amazing." "Definitely the thinking person's choice in a Java book." "One of the absolutely best programming tutorials I've seen, for any language."&lt;/p&gt;</dc:description>
+        <dc:publisher>Prentice Hall PTR</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780131002876</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>java</dc:subject>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Think In JAVA (the third edition)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

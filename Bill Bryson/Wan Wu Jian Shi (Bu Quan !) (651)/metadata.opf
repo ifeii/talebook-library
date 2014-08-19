@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">915af166-92a6-47eb-844a-ddc67e81b440</dc:identifier>
+        <dc:title>万物简史（不全！）</dc:title>
+        <dc:creator opf:file-as="Bryson, Bill" opf:role="aut">Bill Bryson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.11) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;(子乌注：突然发现这本书不全……先标注一下，尽快找到完整版再更新，不好意思)&lt;/p&gt;&lt;p class="description"&gt;这是一部有关现代科学发展史的既通俗易懂又引人入胜的书，作者用清晰明了、幽默风趣的笔法，将宇宙大爆炸到人类文明发展进程中所发生的繁多妙趣横生的故事一一收入笔下。惊奇和感叹组成了本书，历历在目的天下万物组成了本书，益于人们了解大千世界的无穷奥妙，掌握万事万物的发展脉络。&lt;br&gt;　　书中回溯了科学史上那些伟大与奇妙的时刻，引用了近年来发现的最新科学史料，几乎每一个被作者描述的事件都奇特而且惊人：宇宙起源于一个要用显微镜才能看得见的奇点；全球气候变暖可能会使北美洲和欧洲北部地区变得更加寒冷；1815年印度尼西亚松巴哇岛坦博士拉火山喷发，喷涌而出的熔岩以及相伴而来的海啸夺走了10万人的生命；美国黄石国家公园是“世界上最大的活火山”……而那些沉迷于科学的科学家们也是千奇百怪：达尔文居然为蚯蚓弹起了钢琴；牛顿将一根大针眼缝针插进眼窝，为的只是看看会有什么事情发生；富兰克林不顾生命危险在大雷雨里放风筝；卡文迪许在自己身上做电击强度实验，竟然到了失去知觉的地步……&lt;br&gt;　　这本书在讲述科学的奇迹与成就的同时，还浸润着浓郁的悲天悯人的人文关怀。全书从科学发展史的角度对“我们从哪里来？我们是谁？我们到哪里去？”这一千古命题作了极为精当的阐释，每一个人在阅读此书之后，都会对生命、对人生、对我们所生活的世界产生全新的感悟。一位美国小读者的父亲说，读过《万物简史》之后，他对死亡不再感到恐惧……作者认为，这是一本书所能获得的最高评价。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <dc:subject>ZDC:ZRKX</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>#DELETING#</dc:subject>
+        <meta content="{&quot;Bill Bryson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="29" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="万物简史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

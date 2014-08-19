@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b236a869-653b-4a6d-b2c9-71f4a76c9856</dc:identifier>
+        <dc:title>Bram Stoker's Dracula</dc:title>
+        <dc:creator opf:file-as="Stoker, Bram" opf:role="aut">Bram Stoker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Not for the faint of heart! Award-winning artist Gary Blythe brilliantly captures the eerie mood of Bram Stoker's uneasy tale, expertly edited for today's reader.&lt;/p&gt;
+&lt;p class="description"&gt;Can there be a more terrifying tale than this? The story of the notorious vampire Count Dracula, lord of the undead, who rises from his coffin at night to suck the blood of the living is, undoubtedly, the stuff of nightmares. A lunatic asylum, a bleak Transylvanian castle, an ancient cemetary . . . these are the dark backgrounds to the even darker deeds portrayed in this most bloodcurdling of tales.&lt;/p&gt;
+&lt;p class="description"&gt;Narrated from several viewpoints, DRACULA is a complex story that many know, but few have actually read. Jan Needle's newly edited version makes the gripping events accessible to the twenty-first reader without losing the incomparably chilling atmosphere of Bram Stoker's original novel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Candlewick</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780763625085</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>BramStoker</dc:subject>
+        <meta content="科幻/奇幻/玄幻" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Bram Stoker's Dracula" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

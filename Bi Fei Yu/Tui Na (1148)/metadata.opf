@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37c90b4d-a599-4450-a813-7548a6a8ac94</dc:identifier>
+        <dc:title>推拿</dc:title>
+        <dc:creator opf:file-as="毕飞宇" opf:role="aut">毕飞宇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;继《平原》之后作家毕飞宇时隔3年推出长篇小说《推拿》，这部近十八万字的小说讲述的是一群盲人推拿师内心深处的黑暗与光明，这是国内少有的以盲人群体为题材的文学作品，也是被誉为“最了解女性的男性作家”的毕飞宇首次涉足盲人题材的长篇小说。它的出版为全社会更好地了解盲人这一特殊群体提供了一个范本。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020068258</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:MDWX</dc:subject>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;毕飞宇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="60" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-08-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="推拿" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

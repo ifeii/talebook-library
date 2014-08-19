@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1067</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34eabc4a-9f51-4973-b5e7-f3c0ae46d38f</dc:identifier>
+        <dc:title>蚂蚁三部曲二 蚂蚁时代</dc:title>
+        <dc:creator opf:file-as="贝尔纳·韦尔贝尔" opf:role="aut">贝尔纳·韦尔贝尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-24T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是《蚂蚁三部曲》的第二部。本电子书是精校完整版。&lt;br&gt;　　早在人类出现在地球上的一亿年前，蚂蚁就创造了一个货真价实的社会文明。有最精密复杂的武器，其城邦及战争之发达，人类至今望尘莫及。本书作者以令人惊异、冷酷的笔法将我们带入一个充满罪恶、残酷与战争的世界。一个你绝对无法想像的蚂蚁世界。&lt;br&gt;　　人类社会与蚂蚁社会的较量，至今胜负未分，当褐蚁联邦的中心城市贝洛岗被人类一举摧毁之后，旧的王朝消亡了，新的王后诞生了，第１３３任褐蚁联邦王朝新蚁后贝洛姬·姬妮向人类社会发出了战争令，数亿只全副武装的讨伐人类的远征军从地球内部潮水般涌出，地球上最强大的两大社会文明的全面冲突一触即发……&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540520113</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <dc:subject>CNTY:FRANCE</dc:subject>
+        <meta content="{&quot;贝尔纳·韦尔贝尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="蚂蚁三部曲" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="蚂蚁三部曲二 蚂蚁时代" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

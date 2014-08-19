@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1068</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d89a2cd0-9bc9-4a1c-a78b-9b30650e68e1</dc:identifier>
+        <dc:title>蚂蚁三部曲三 蚂蚁革命</dc:title>
+        <dc:creator opf:file-as="贝尔纳·韦尔贝尔" opf:role="aut">贝尔纳·韦尔贝尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是《蚂蚁三部曲》的第三部。本电子书是精校完整版。这是关于地球内部的神秘传说，作者把我们远远地带到了一个引起幻觉的、可怕的空间之中。那里攒动着各种各样的昆虫，它们邪恶、残暴，却又那么富有诱惑力，《蚂蚁革命》不仅是一部让人恨不得一口气读完它的悬念小说，更是一部充满知识和哲理的智慧书。经历千百年来的互不了解和对抗，两大社会文明中的精英分子终于认识到人类与蚂蚁在地球上的共同命运。于是地球上的人类社会和地球内部的蚂蚁世界先后爆发了“蚂蚁革命”，双方从血腥残暴的战争对抗，到史无前例的智慧较量，终于走向了历史性的和平共处……&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540519810</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <dc:subject>CNTY:FRANCE</dc:subject>
+        <meta content="{&quot;贝尔纳·韦尔贝尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="蚂蚁三部曲" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="蚂蚁三部曲三 蚂蚁革命" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
