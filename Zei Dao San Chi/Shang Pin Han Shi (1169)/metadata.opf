@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d136a764-29b9-4da1-9e47-b7f9ea686871</dc:identifier>
+        <dc:title>上品寒士</dc:title>
+        <dc:creator opf:file-as="贼道三痴" opf:role="aut">贼道三痴</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;现代资深驴友穿越到东晋年间，寄魂于寒门少年陈操之，面临族中田产将被侵夺、贤慧的寡嫂被逼改嫁的困难局面，陈操之如何突破门第的偏见，改变自己的命运，从而维护自己和族人的利益？&lt;br&gt;　　且看寒门少年在九品官人法的森严等级中步步攀升，与顾恺之为友，娶谢道韫为妻，金戈铁马，北伐建功，成就穿越东晋第一书。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>ZDC:WLXS</dc:subject>
+        <meta content="{&quot;贼道三痴&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="网络小说" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-11-13T08:59:35+00:00" name="calibre:timestamp"/>
+        <meta content="上品寒士" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

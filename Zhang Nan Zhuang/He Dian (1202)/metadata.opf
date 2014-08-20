@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f8b0fa6-8196-4aa5-925c-4d2070c101bc</dc:identifier>
+        <dc:title>何典</dc:title>
+        <dc:creator opf:file-as="张南庄" opf:role="aut">张南庄</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-15T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="display: inline;" class="all hidden"&gt;　　《何典》是一部很奇特的中国古典小说，它采
+用了“幽默”的文体，在中国古典小说中别具一格。小说通过“下界阴山”“鬼谷”中的“三家村”土财主活鬼一家两代的不同遭遇，讽刺了阎罗王与妖魔鬼怪所在
+的阴曹地府的种种。它一反旧小说的“文人气”，无章无典，无规无矩；满目脏字却不下流，油嘴滑舌却很严肃。&lt;br&gt;　　由于小说的反传统，作者又是个在野才子，从嘉庆初年至光绪三年的七八十年间，小说一直没有登上大雅之堂；也没有人刻印过；光绪四年（一八七八年），才有了上海《申报》馆海上餐霞客写《跋》的版本。&lt;br&gt;　
+　一九二六年五月，刘复（半农）在无意问得到了《何典》的旧版本，标点校注后准备出版，并请鲁迅作序。鲁迅在五月二十五日连写了《题记》和《为半农题记
+＜何典＞后，作》两篇文章（前者收入《集外集拾遗》，后者收入《华盖集续编》）。鲁迅“很喜欢”“印成的样本”，并认为《何典》“谈鬼物正像人问，用新典
+一如古典”，“展示了活的人问相”，“在那时，敢于翻的人（张南庄）的魄力，可总要算是极大的了。”&lt;br&gt;　　《何典》出版问世后风靡一时，跟鲁迅的着
+力推荐有关；震惊中外的“三・一八’惨案发生，文化人在书斋里坐不住了，《何典》开场白中的“放屁放屁，真正岂有此理！”成了对时政最好的注解；国民党元
+老吴稚晖自称《何典》是他做嬉笑怒骂文章的范本；同时，文坛的一些重要人物胡适、周作人、林语堂等也不断提到这本书。但也有一些“文人雅士”，他们责难
+《何典》“不入流”。&lt;br&gt;　　一九三二年，日本打算编印《世界幽默全集》，鲁迅把《何典》作为中国的八种幽默作品之一，推荐给增田涉，并在五月二十二日致增田涉信中说：《何典》一书“近来当作滑稽本；颇有名声”。&lt;/span&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806169865</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:GDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;张南庄&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="66" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-26T08:41:13+00:00" name="calibre:timestamp"/>
+        <meta content="何典" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
