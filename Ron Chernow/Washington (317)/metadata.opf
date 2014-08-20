@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70a1beb6-a44f-4064-a5a6-508d0ba1d982</dc:identifier>
+        <dc:title>Washington</dc:title>
+        <dc:creator opf:file-as="Chernow, Ron" opf:role="aut">Ron Chernow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>NYTIMES</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="2011-01-19T10:51:28.031000+00:00" name="calibre:timestamp"/>
+        <meta content="Washington" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c25731e6-9164-43fe-ae7a-d590af095fcd</dc:identifier>
+        <dc:title>MySQL in a Nutshell</dc:title>
+        <dc:creator opf:file-as="Russell Dyer" opf:role="aut">Russell Dyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Need to find something in MySQL? This convenient reference offers you all the details you need, day in and day out, in one concise and extremely well organized book. The new edition contains all the commands and programming information for version 5.1, including new features and language interfaces. It's ideal for anyone using MySQL, from novices who need to get up to speed to advanced users who want a handy reference. &lt;br&gt;\n\n&lt;br&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>COMPUTERS / Data Processing</dc:subject>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T07:33:39.656000+00:00" name="calibre:timestamp"/>
+        <meta content="MySQL in a Nutshell" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

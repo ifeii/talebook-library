@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10e83184-653e-4c70-b201-cda5ed92720e</dc:identifier>
+        <dc:title>血脉四部曲-无星之夜</dc:title>
+        <dc:creator opf:file-as="R.A.萨尔瓦多" opf:role="aut">R.A.萨尔瓦多</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;精灵血脉－2&lt;/p&gt;
+&lt;p class="description"&gt;SUMMARY:&lt;br&gt;血脉系列的第二部，看了第一集肯定接着这本。（偷懒一下^_^）&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>中国工人出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500829362</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>崔斯特</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>R.A.Salvatore</dc:subject>
+        <dc:subject>龙与地下城</dc:subject>
+        <dc:subject>萨尔瓦多</dc:subject>
+        <dc:subject>D&amp;D</dc:subject>
+        <meta content="黑暗精灵" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-07T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="血脉四部曲-无星之夜" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
