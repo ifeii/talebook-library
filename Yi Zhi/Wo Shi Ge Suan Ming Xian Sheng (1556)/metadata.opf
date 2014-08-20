@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e155871-b641-4d4d-a846-6af36ede5268</dc:identifier>
+        <dc:title>我是个算命先生</dc:title>
+        <dc:creator opf:file-as="易之" opf:role="aut">易之</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;　　算命这个行当，萌芽于先秦，发展于隋唐，泛滥于明清；汉代张良、三国诸葛亮、明代刘伯温，不同时期的代表人物，都在手相、面相、八字、八卦中辨认着人类的命运。&lt;br&gt;　　祖爷，生于1902年，卒年不详，民国时期名震大江南北的算命群体“江相派”掌门人。《沪报》将他与袁树珊、韦千里、徐乐吾并称为“民国四大算命宗师”，所谓“南袁北韦东乐吾，三仙归来问祖爷”。&lt;br&gt;　　祖爷15岁开始为人算命，每算必中，令人咋舌；而后叱咤江湖30多年，留下无数不可思议的神算传奇与悬念；乃至于中原大战之前，山西军阀阎锡山也三顾茅庐，终于求得祖爷一卦。&lt;br&gt;　　祖爷总说，看的是面相，算的是八字，捕捉的是问卦人脸上不断闪烁的欲望：贪婪、虚荣、妒忌、恐惧、傲慢——人的命运，确实写在脸上。&lt;br&gt;　　祖爷一生几乎从未失手，唯一没有算到的，却是他自己的命运；面对凄凉晚景，他认为是自己泄露了太多天机……&lt;br&gt;　　翻开《我是个算命先生》，让一个82岁的算命老先生带您见识算命背后的古老智慧与江湖猫腻。&lt;/p&gt;</dc:description>
+        <dc:publisher>中国城市出版社</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>现代·当代</dc:subject>
+        <meta content="{&quot;易之&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:30.999333+00:00" name="calibre:timestamp"/>
+        <meta content="我是个算命先生" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29fe35f7-97df-42f0-8164-8be2124a1e9d</dc:identifier>
+        <dc:title>看不见的城市</dc:title>
+        <dc:creator opf:file-as="伊塔洛·卡尔维诺" opf:role="aut">伊塔洛·卡尔维诺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+童年时在海边城郊废墟中嬉戏玩耍的男孩罗塞伊，如今成了巴塞罗那小有名气的画廊老板。一天，有人匿名寄来一部十八世纪建筑师罗塞利的书稿《看不见的城市回忆录》，勾起他童年故乡的回忆：那时候，家中长辈禁止任何孩子提起那座“看不见的城市”。
+神秘的书稿召唤着他去揭开传说中那座看不见的城市的重重谜团。然而，所有线索都指向罗塞利隐藏的一个秘密：巴洛克时代壁画大师提埃坡罗从未面世的古画。罗塞伊与童年的玩伴一起，历经千辛万苦寻找这幅失踪的古画，而名画的背后，正是一个发生在两百年前西班牙宫廷中爱情与理想、政治与艺术纠缠交织的传奇。
+两百年前，统治西班牙的波旁王朝国王卡洛斯三世，雄心勃勃要仿效俄国彼得大帝兴建的圣彼得堡，在海边开凿运河，建造一座梦想之城“圣卡洛斯”。然而，这一充满理想与激情的宏伟计划，因为一段没有结果的苦恋，因为一个人的妒嫉与仇恨而摧毁殆尽，它永远只是一座看不见的城市……
+SUMMARY:
+在《看不见的城市》里人们找不到能认得出的城市。所有的城市都是虚构的；我给它们每一个都起了一个女人的名字。这本书是由一些短小的章节构成的，每个章节都应提供机会，让我们对某个城市或泛指意义上的城市进行反思。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544700603</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>卡尔维诺</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>城市</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="看不见的城市" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

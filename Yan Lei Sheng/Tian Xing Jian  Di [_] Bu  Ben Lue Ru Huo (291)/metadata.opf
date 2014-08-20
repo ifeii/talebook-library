@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">605517a8-72ec-421a-be63-0d4322a24c92</dc:identifier>
+        <dc:title>天行健 第一部 奔掠如火</dc:title>
+        <dc:creator opf:file-as="燕垒生" opf:role="aut">燕垒生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;燕大的代表作品，写实风的架空历史巨作。唯刀百辟，唯心不易。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <meta content="天行健" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-17T12:53:30.750000+00:00" name="calibre:timestamp"/>
+        <meta content="天行健 第一部 奔掠如火" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
