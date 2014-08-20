@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dc89ce6-3a7a-41fe-a429-1dbda27d31ed</dc:identifier>
+        <dc:title>亮剑</dc:title>
+        <dc:creator opf:file-as="都梁" opf:role="aut">都梁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-11T16:00:00+00:00</dc:date>
+        <dc:publisher>金读 kindle.im</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="37" name="calibre:series_index"/>
+        <meta content="2011-01-11T14:20:48.585487+00:00" name="calibre:timestamp"/>
+        <meta content="亮剑" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

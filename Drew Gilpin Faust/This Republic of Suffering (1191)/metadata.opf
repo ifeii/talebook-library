@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2edd7e82-fe0d-4771-a7c8-49995cf87fa8</dc:identifier>
+        <dc:title>This Republic of Suffering</dc:title>
+        <dc:creator opf:file-as="Faust, Drew Gilpin" opf:role="aut">Drew Gilpin Faust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-07T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div id="outer_postBodyPS" style="overflow: hidden; z-index: 1; height: auto;"&gt;
+      &lt;div id="postBodyPS" style="overflow: hidden;"&gt;
+         &lt;div&gt;&lt;p&gt;More than 600,000 soldiers lost their lives in the 
+American Civil War. An equivalent  proportion of today's population 
+would be six million. In &lt;b&gt;This Republic of Suffering&lt;/b&gt;,  Drew Gilpin
+ Faust reveals the ways that death on such a scale changed not only 
+individual  lives but the life of the nation, describing how the 
+survivors managed on a practical  level and how a deeply religious 
+culture struggled to reconcile the unprecedented  carnage with its 
+belief in a benevolent God. Throughout, the voices of soldiers and  
+their families, of statesmen, generals, preachers, poets, surgeons, 
+nurses, northerners  and southerners come together to give us a vivid 
+understanding of the Civil War's  most fundamental and widely shared 
+reality.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;This Republic of Suffering&lt;/i&gt; made the &lt;i&gt;New York Times Book Review&lt;/i&gt; list of "10 Best Books of 2008" as chosen by the papers editors. The book was also a finalist for the National Book Awards (2008) and the Pulitzer Prize. (2009) &lt;/li&gt;
+&lt;li&gt;&lt;i&gt;This Republic of Suffering&lt;/i&gt; received the 2009 Bancroft Prize from Columbia University.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+         
+      &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375703836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;Drew Gilpin Faust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="47" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-20T02:44:15+00:00" name="calibre:timestamp"/>
+        <meta content="This Republic of Suffering" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

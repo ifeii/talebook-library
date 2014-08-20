@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2e6bacd-1600-49b7-8ef5-10fb812e18ef</dc:identifier>
+        <dc:title>預知夢</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+本書為「偵探伽利略」系列的第二彈。屬於本格短篇推理集，主角仍然是帝都大學理工學院物理系的副教授──素有偵探伽利略之追根究柢精神的湯川學貫穿全場，以邏輯方式解決一樁樁神秘離奇的事件。
+素封家遭人入侵，嫌犯是一名二十七歲的青年，他侵犯了在二樓睡覺的素封家女兒。被警方逮捕的青年供稱，他在十七年前曾夢見自己與這名少女結婚。在夢裡出現的少女竟然存在於現實生活中，這是預知夢嗎？
+從羅曼蒂克的第一章＜做夢＞開始，到＜視靈＞、＜靈動＞、＜絞殺＞、＜預知＞等總共五篇短篇推理，神秘學的題材與巧妙的詭計以輕快的文字呈現，故事鋪陳充滿明朗清晰的推理與確實的邏輯，展現作者罕見的寫作功力，是一本不可多得的推理佳作。</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954658</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="預知夢" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

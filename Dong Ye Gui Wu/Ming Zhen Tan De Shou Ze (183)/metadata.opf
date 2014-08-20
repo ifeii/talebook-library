@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">666d76d5-e306-4e78-a5cc-eb46e9111f4b</dc:identifier>
+        <dc:title>名侦探的守则</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+推理小说的核心在于解谜，解谜的真髓在于逻辑，逻辑的对象则在于诡计。
+迄今涌现的无数大师终其一生都在想一个问题：如何写出千古奇绝的诡计？
+密室之谜、不在场证明、叙述性诡计、童谣杀人、死亡密码、暴风雪山庄、消失的凶器……所有推理模式都已被人写尽，推理世界还剩下什么？当真一定要扑朔迷离、峰回路转、异想天开，才能令人感到刺激有趣？
+一部由东野圭吾系统“研究”诡计的作品，一部开拓推理小说疆域的作品，整理种种可能，道出种种不能，涉及诡计之广、意外之深，无不令人瞠目……
+《名侦探的守则》以幽默讽刺的口吻，解构本格推理小说创作模式，将历来耳熟能详的诡计与作案手法彻底颠覆，别出心裁令人击节赞叹，用心良苦让人掩卷深思。正如作家自己所述：“我想要读者大吃一惊，才无视所有小说的套路……”
+我个人实在是不太能明白，身为现代的作家，究竟为什么还要去写诸如金田一耕助那种带着复古风的推理小说？ ——东野圭吾
+年轻的我们，重复过去的大师们历经思考所编织的各种诡计与模式，真的有意义吗？就创作者来说，是否是一种投机取巧？——东野圭吾
+当我带着批判讽刺的意念，着手写出了《名侦探的守则》最早的短篇时，万万没有想到会意外得到周遭如此的好评。——东野圭吾</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544246873</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="名侦探的守则" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

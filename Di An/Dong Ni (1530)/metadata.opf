@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2786fc0-a27d-46bc-b9eb-23e6d288d46c</dc:identifier>
+        <dc:title>东霓</dc:title>
+        <dc:creator opf:file-as="笛安" opf:role="aut">笛安</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-12T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;相比《西决》，这本《东霓》让我们有机会更真切地认识到笛安在塑造人物上的功力。也许是郑东霓这个女性角色比郑西决更外向，更具戏剧性，更便于作者为她所身处的生活构造矛盾，为她的情感寻找各式各样的宣泄途径，也给了读者更为刻骨铭心的阅读感受——正如文章所写的那样“我总是在最糟糕的时候，莫名其妙地发现，其实我还是喜欢活着。没错，就是活着。比方说现在，我一个人坐在我空荡荡的店里，恶狠狠地打开一罐啤酒，在雪白的泡沫泛滥之前，用我的嘴唇截住它们。它们在我的舌尖上前仆后继地粉身碎骨，那种麻酥酥的破灭，就是活着”。&lt;br&gt;　　我们一向习惯用“精准”来形容笛安的文笔，我们习惯全身心投入笛安的故事——这种感觉并不像在看一部小说、一个虚构时空中的虚构的人事，而是像在回顾自己的一切，在审视自己的生活，身陷在一幕幕熟悉而深刻的场景中，任凭那些或尖锐粗糙或温吞煽情的镜头将自己吞没。笛安的特质，发自她细致入微的笔触，来自她简洁而深刻的叙述，源自她对爱、对亲情、对世间万事的深情厚谊。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">db4f9be9-f792-4e46-8f58-ea619b81118c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta content="{&quot;笛安&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:03.662268+00:00" name="calibre:timestamp"/>
+        <meta content="东霓" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f04b07e3-7576-48f2-acfc-261b8b4fef8b</dc:identifier>
+        <dc:title>信</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+日本《每日新聞》連載話題作，單行本突破一百萬冊！
+2003年第129屆直木賞候選作品
+日本亞馬遜書店網站讀者★★★★★推薦
+東野書迷票選感人肺腑、熱淚盈眶度第一名
+「哥哥，你好嗎？這是我寫給你的最後一封信……
+從你離去之後，這個社會開始對我復仇……」
+「有哥哥的存在，就沒有我的人生……」
+武島直貴，這個與社會格格不入的青年，在他的眼眸中存在著迴避眾人目光的理由----他的哥哥剛志為了替他籌學費而闖入民宅偷竊，失手殺人。剛志為此入獄服刑，兄弟倆只能用書信互相聯絡。哥哥在獄中為自己的罪贖罪，身為弟弟的直貴儘管無辜，卻從此背上了「殺人犯的弟弟」身分，在這個社會上，一次又一次的被歧視，被驅逐……他失去了原先安靜的校園生活，失去了原本可以在歌唱舞台上發光發熱的機會，失去了初戀女友，他還能為自己哥哥所犯的罪失去多少？
+首部深入探討受刑人家屬心境和遭遇的作品。
+親情和家庭、罪與罰、被放逐與自我放逐……</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954719</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="信" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

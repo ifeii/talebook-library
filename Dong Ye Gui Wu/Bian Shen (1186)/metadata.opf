@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">998a76ec-cb8c-4127-b9f0-ba5f87dfa720</dc:identifier>
+        <dc:title>变身</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-10T11:53:56+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《变身》属于一个写作意外，东野圭吾称之为自己“唯一有灵感闪现”之作，评论界将这部作品与《分身》、《平行世界的爱情故事》并称为“东野私小说三部曲”，纯情凄美的爱情故事令万千人潸然泪下…… 即使我变得不再是我，即使我已变身为嗜血的凶徒，即使整个世界已变成废墟，我仍然会用全部生命来爱你，至死不渝…… 灿烂羞涩的阿惠与善良朴实的纯一目光第一次相撞，便各自从对方眼睛里感觉到了心仪已久的凝望与承诺。他们的爱情令人痴痴神往，唯美清新得令人荡气回肠。一声突如其来的枪响，纯一右脑中弹。醒来之后，他已奇迹般获救，但竟心性大变，有如横遭诅咒一般灵魂全然被残暴嗜血主宰。 一个找不到自己、无法控制灵魂之人内心的惶恐和凄凉，令人心碎。纯一发誓要找回自己，找回然而植给自己的右脑的源头。几经周折，当他真正揭开一道骇人听闻的黑暗之门时，他已不可挽回地滑向了无边的深渊，唯一的牵挂只剩下美丽如花的阿惠和相守终生的约定……&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544244848</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-03-10T11:53:56+00:00" name="calibre:timestamp"/>
+        <meta content="变身" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

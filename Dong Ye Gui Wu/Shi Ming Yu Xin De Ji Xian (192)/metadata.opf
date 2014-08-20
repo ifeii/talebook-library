@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf415bb8-3411-43d5-879a-912db5b0e9ce</dc:identifier>
+        <dc:title>使命與心的極限</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+東野圭吾最新力作！！
+推理版本的白色巨塔
+揭露醫學界層層包圍的祕密，直指真相！
+一心一意要當上心臟外科醫生的冰室夕紀，美貌而努力，看似菁英的她心裡隱瞞著不為人知的祕密：十幾年前某一天，她擔任警察的父親毫無預警的死在手術檯上。完全無法接受事實的夕紀赫然發現，父親死後，母親和主刀的醫生之間開始約會，是預謀、是醫療疏失，還是父親真的命本該絕？
+年幼的夕紀從此想要查出真相，希望能替父親討回公道，她一邊在醫院裡努力工作，以當上心藏外科醫生為目標，一邊暗中進行調查。然而，手術室裡即將引發另一樁更可怕的悲劇……</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954931</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="使命與心的極限" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

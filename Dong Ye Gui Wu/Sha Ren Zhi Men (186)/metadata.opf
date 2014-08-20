@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aac6a89f-e06b-4162-bddd-9b12867402eb</dc:identifier>
+        <dc:title>殺人之門</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-27T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+小心，別因閱讀本書而喚醒你沉眠已久的殺意！
+千面寫手 － 東野圭吾，
+「江戶川亂步獎」、「日本推理作家協會獎」得主，
+繼「惡意」之後，又一部剖析殺人動機的懸疑之作，
+不同以往的寫作風格，同樣出人意表的結局！
+人的內心深處是否都隱藏著殺人欲望？要怎樣的引信才會跨過殺人之門？
+是需要一時的衝動，還是動機、環境、時機、導火線缺一不可？
+一本以喧騰一時的詐欺事件為題材，探討人性黑暗面的深度小說。
+這世上發生的事情，大部分不只是單純的巧合。
+「你對我下了詛咒，而我則逃不出那個縛咒。」
+「如果有一條界線，決定能不能成為殺人犯……我的心應該游走在界線邊緣。」
+毒殺、詐欺、詛咒信、家破人亡……
+看似時運不濟的背後，隱藏著充滿預謀、惡意的真相。
+當真相大白時，長久以來的殺人憧憬，是否能付諸實行？
+《殺人之門》這個故事訴說著人的善良如何被社會結構一步一步地摧毀，乍看之下似乎有些不可思議，其實是十分寫實的。
+也許東野圭吾注意到日本社會八○年代以後越來越嚴重的校園問題：從凌虐殺人到拒學繭居等。被視為本格派推理小說家的東野，就這一點而言，似乎也可以稱為社會派，或者是試圖結合這兩派的推理作家。</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954047</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="殺人之門" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

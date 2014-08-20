@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e936f54f-df57-4e46-b29e-8a6335f4de9e</dc:identifier>
+        <dc:title>沉睡的森林</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-04-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+東野圭吾筆下獵犬般的名偵探
+加賀恭一郎系列第二彈
+2010春季當紅日劇《新參者》帥哥刑事過往大公開！
+加賀恭一郎╳芭蕾舞伶╳宿命的相會
+對芭蕾舞的熱情、對藝術的追求……
+他們還能犧牲到什麼程度？
+華麗舞臺的背後，是舞者熱情燃盡後的絕望
+高柳芭蕾舞團在即將演出經典名作《睡美人》的前一週，赫然發生一起不明人士潛入被殺案件。
+加賀恭一郎為此案傷透腦筋，沒想到這只是一連串死亡的揭幕式……
+深夜的芭蕾舞團辦公室躺著一具不明人士的屍體，失手殺死他的芭蕾舞伶是正當防衛，抑或意圖殺害？
+為了調查高柳芭蕾舞團一起命案而逐一調查團員關係的加賀恭一郎，在深入接觸後才發現，看似優雅光鮮的芭蕾舞臺背後，是難以想像的嚴苛訓練與生存競爭。舞者們真有可能為了登上首席舞者的寶座而不惜痛下殺手？這一連串命案謎團的背後是什麼樣的熱情與絕望？
+【加賀恭一郎】
+初登場時為21 ~ 22歲，國立Ｔ大社會系四年級在學中，劍道部主將，曾贏得全日本選手權優勝，興趣是茶道與欣賞古典芭蕾。
+大學畢業後歷經兩年教員生涯，覺得自己教師失格而轉行當刑警（詳見《惡意》，其父親亦為警察）。原任職警視廳搜查一課，之後調職練馬警察署，目前任職日本橋警察署。
+身形高瘦，肩膀寬闊，五官輪廓明顯，雙眼深邃，尖下巴。因為不吸菸，牙齒非常白，笑容爽朗，然而在搜查現場卻是目光犀利。不算能言善道，亦非沉默寡言，性格沉穩嚴謹而重情重意，具領導氣質，但當上刑警後卻經常單獨行動。雖是文學院出身，對於工科的理化資訊科學等領域也多所涉獵。
+加賀刑事冷靜厚道而富男子氣概的性格使其擁有廣大加賀迷，隨著系列作的出版，加賀恭一郎的成長過程也成為加賀迷津津樂道的軼事。</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866562600</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>加贺恭一郎</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="沉睡的森林" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

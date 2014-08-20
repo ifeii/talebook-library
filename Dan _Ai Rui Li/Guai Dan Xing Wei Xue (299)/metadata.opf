@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e42df7df-695c-431c-a8d2-2c861149086a</dc:identifier>
+        <dc:title>怪诞行为学</dc:title>
+        <dc:creator opf:file-as="丹·艾瑞里" opf:role="aut">丹·艾瑞里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+生活中我们常有莫名其妙的举动。你真的会失控？一时冲动就是没道理可言？本书作者丹·艾瑞里告诉你：错！所有的现象，背后都有经济的力量！社会当实验室，真人做小白鼠，丹·艾瑞里的这本《怪诞行为学》一语道破，用轻松幽默的方式告诉我们这是为什么，又该如何改变。他比别的所有经济学家都更好地揭示、解释了我们不可思议的行为背后的原因。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508612799</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>行为经济学</dc:subject>
+        <dc:subject>行为学</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>丹.艾瑞里</dc:subject>
+        <meta content="心理" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="怪诞行为学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

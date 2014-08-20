@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b7053f9-81fb-45f1-84f1-a0fc3ef4d278</dc:identifier>
+        <dc:title>雪地殺機</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+內容簡介
+已經試鏡合格的七位年輕男女，懷著明星夢，集合在初春的高原山莊內，準備接受即將展開的舞台訓練。
+但是，在被大雪封鎖的孤立山莊內殺人劇上演了。隨著同伴們一個接一個的失蹤，其餘的人開始產生懷疑了，這真的只是演戲嗎？</dc:description>
+        <dc:publisher>林白出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789578122505</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="雪地殺機" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

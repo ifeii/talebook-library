@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2bfc286-ace1-4621-b261-7702faa20222</dc:identifier>
+        <dc:title>中国商业第一家族:荣氏百年</dc:title>
+        <dc:creator opf:file-as="杜博奇" opf:role="aut">杜博奇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;从清末荣宗敬、荣德生兄弟开办实业打响名声，到荣毅仁获得“红色资本家”称号，再到荣智健叱咤商界、名噪中外，荣氏一族当仁不让成为中国最大的民族工业财团。&lt;br&gt;一切成功都建立在艰苦拼搏之上，回顾荣氏几代风云，无一不是在泥泞中前行，通过重重考验，更上一层台阶。当一代“巨富”荣智健因投资外汇巨亏辞去中信泰富集团主席时，荣氏家族坎坷传奇的百年历史，翻开新的一页。过去的辉煌载入了史册，豪门荣耀会由谁来续写？荣氏家族百年的经商积淀，能否为后来者提供一个成功的路径依赖？&lt;/p&gt;</dc:description>
+        <dc:publisher>浙江大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">58eab781-e086-471c-baac-c1d85e4fae4b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>荣氏</dc:subject>
+        <dc:subject>家族史</dc:subject>
+        <dc:subject>杜博奇</dc:subject>
+        <meta content="{&quot;杜博奇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:12.083538+00:00" name="calibre:timestamp"/>
+        <meta content="中国商业第一家族:荣氏百年" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

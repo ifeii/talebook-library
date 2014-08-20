@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3eb2e809-928f-4366-9b98-902de43ddff3</dc:identifier>
+        <dc:title>瀕死之眼 Dying Eye</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-10T13:10:58+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;一次意外的车祸使雨村慎介失去了许多之前的回忆。但是，为了查询车祸的起因，雨村开始了细致的调查。随着调查的深入，失去的回忆似乎一点点苏醒，而众多玄妙的事件也随之一件件发生。谎言与真相都徘徊在死亡的边缘。幕后的神秘人物到底是谁？面对死亡，是该睁大眼睛还是紧紧地闭上？&lt;/p&gt;&lt;p class="description"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注&lt;/font&gt;：&lt;/p&gt;&lt;p class="description"&gt;在确认书籍内容的时候，搜到了一篇对这本书的介绍及作者访谈，有兴趣的可以看看：&lt;span class="Apple-style-span" style="color: rgb(196, 102, 59); font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; line-height: 18px; "&gt;&lt;a href="http://noin-blog.blogspot.com/2009/11/blog-post_8956.html"&gt;瀕死之眼&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789861853536</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-03-10T13:10:58+00:00" name="calibre:timestamp"/>
+        <meta content="瀕死之眼 Dying Eye" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

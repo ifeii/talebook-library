@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5551898-da04-4d25-8be3-0e4fec14625b</dc:identifier>
+        <dc:title>探偵倶楽部</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-24T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+商品紹介
+麗しき二人の探偵が不可解な謎を解き明かす！
+＜探偵倶楽部＞それは政財界のVIPのみを会員とする調査機関。会社社長が風呂場で感電死した。電気コードを用いた家政婦の犯行と処理されるが、疑問を感じた社長夫人は探偵倶楽部に調査を命じ…。傑作ミステリ！
+内容（「BOOK」データベースより）
+「お母さん、殺されたのよ」―学校から帰ってきた美幸は、家で母が殺害されたことを知らされる。警察は第一発見者である父を疑うが、彼には確かなアリバイがあった。しかしその言動に不審を抱いた美幸は、VIP専用の調査機関“探偵倶楽部”に調査を依頼する。探偵の捜査の結果、明らかになった意外な真相とは?冷静かつ迅速。会員制調査機関“探偵倶楽部”が難事件を鮮やかに解決。</dc:description>
+        <dc:publisher>角川文庫</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784043718023</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>短篇集</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="探偵倶楽部" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

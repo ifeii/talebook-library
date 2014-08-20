@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f43981c5-b488-4b8f-8054-4872e701ad7f</dc:identifier>
+        <dc:title>JavaScript: The Definitive Guide</dc:title>
+        <dc:creator opf:file-as="Flanagan, David" opf:role="aut">David Flanagan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-18T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Whether you need an example-driven programmer's guide or a complete desk reference, &lt;i&gt;JavaScript: The Definitive Guide&lt;/i&gt; is the most authoritative book on the language that runs the Web. The sixth edition offers comprehensive coverage of ECMAScript 5 (the new language standard) and also the new APIs introduced in HTML5. The chapters on functions and classes have been completely rewritten and updated to match current best practices. A new chapter covers language extensions and subsets.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0596805527</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:DNWL</dc:subject>
+        <dc:subject>CNTY:UNKNOWN</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <meta content="{&quot;David Flanagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-09T03:46:40+00:00" name="calibre:timestamp"/>
+        <meta content="JavaScript: The Definitive Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

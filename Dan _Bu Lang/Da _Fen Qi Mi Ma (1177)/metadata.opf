@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17165c1c-3b05-44be-96d0-9ed2768c0191</dc:identifier>
+        <dc:title>达·芬奇密码</dc:title>
+        <dc:creator opf:file-as="丹·布朗" opf:role="aut">丹·布朗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;哈佛大学的符号学专家罗伯特·兰登在法国巴黎出差期间的一个午夜接到一个紧急电话，得知卢浮宫博物馆年迈的馆长被人杀害在卢浮宫的博物馆里，人们在他的尸体旁边发现了一个难以捉摸的密码。兰登与法国一位颇有天分的密码破译专家索菲·奈芙，在对一大堆怪异的密码进行整理的过程当中，发现一连串的线索就隐藏在达芬奇的艺术作品当中，深感震惊。这些线索，大家都清楚可见，然而却被画家巧妙地隐藏起来。兰登无意之中非常震惊地发现，已故的博物馆馆长是峋山隐修会（Priory of sion）的成员--这是一个真实存在的秘密组织，其成员包括艾撒克?牛顿爵士、波提切利、维克多·雨果与达芬奇，这无疑给他们增加了风险。兰登感觉到他们是在找寻一个石破天惊的历史秘密，这是个数世纪以来就证明了的既能给人启迪又很危险的秘密。在这场足迹遍及巴黎以及伦敦的追逐中，兰登与奈芙发现他们在跟一位始终不露面的幕后操纵者斗智斗勇。他们必须解开这个错综复杂的谜团，否则，峋山隐修会掩盖的秘密，那隐藏了多年的令人震惊的古老真相，将永远消逝在历史的尘埃之中。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208050037</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;丹·布朗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="丹·布朗" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-02-15T07:04:13+00:00" name="calibre:timestamp"/>
+        <meta content="达·芬奇密码" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

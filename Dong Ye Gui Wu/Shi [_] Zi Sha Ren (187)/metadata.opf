@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b594e7dc-5755-4e5e-8dbf-e638e03fb9eb</dc:identifier>
+        <dc:title>十一字杀人</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-12T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+你以為的『答案』，永遠只是真相的冰山一角！
+東野圭吾充滿懸疑動感的本格推理絕妙力作！
+這十一個字，由地獄般的憎恨而生！而所有的謊言與藉口，也因這十一個字而逐漸顯現……
+我的男友川津雅之被殺了！他先被毒死，接著後腦勺遭到重重一擊，最後被棄屍在港口。兇手到底有什麼深仇大恨，要這麼殘忍地殺害他呢？我想起不久前，他曾害怕地說自己『被人盯上了！』而且有人從他的遺物中偷走了某樣資料……身為推理小說家的我，決定自己來追查真相，沒想到我接觸過的人也一個接著一個被殺了！而他們死前，都收到了一張白紙，上面只有十一個字：『來自於無人島的滿滿殺意』……
+《十一字殺人》發表時，
+正逢綾□行人發表《殺人十角館》揭起新本格推理往後風起雲湧的年代，
+同樣是本格推理的核心創作，
+也同樣面對本格推理復興的年代，
+把推理小說寫作當作是職業的東野圭吾，往後的創作觀念，
+與同時代的新本格推理作家雖有同質的重複，
+卻有截然不同的本格推理領域的拓展方向。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532749522</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="十一字杀人" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

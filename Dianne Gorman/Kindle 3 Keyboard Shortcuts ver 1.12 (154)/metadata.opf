@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">956a5677-3b48-41b6-9937-133a1d0a2a0e</dc:identifier>
+        <dc:title>Kindle 3 Keyboard Shortcuts ver 1.12</dc:title>
+        <dc:creator opf:file-as="Gorman, Dianne" opf:role="aut">Dianne Gorman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Keyboard shortcuts and tips for the Kindle 3.&lt;/p&gt;</dc:description>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>Kindle reference</dc:subject>
+        <meta content="kindle相关" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-11T14:20:37.067466+00:00" name="calibre:timestamp"/>
+        <meta content="Kindle 3 Keyboard Shortcuts ver 1.12" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">030485cf-c367-47e2-bca6-e838e8be4c0b</dc:identifier>
+        <dc:title>布鲁特斯的心脏</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-10T13:36:54+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;跨越550公里！一場超完美的&lt;br&gt;完全犯罪殺人接力？ &lt;br&gt;●東野圭吾挑戰「倒述推理」全新手法、展現強大寫作才華的驚悚傑作！ &lt;br&gt;●日本亞馬遜書店讀者四顆半星超高評價！ 機器人「布魯特斯」沒有心，不會撒謊、怠惰、恐嚇、嫉妒，還有背叛。 可是一旦染上了人的惡意，即使是機器人，也將開始殺戮的心跳…… 在MM重工擔任人工智慧機器人開發工作的拓也，苦學出身的他終於成為贏家，不但受到公司重用，他研發的新型視覺辨識機器人「布魯特斯」，更在日本和美國的國際學會上得到高度肯定，他也因此獲得升遷，並成為老闆的女婿候選人。 美好的前程正等待著拓也，但是他在公司裡的地下情人康子卻懷孕了！就在拓也百般苦惱之際，竟有人向他提出一項計畫──聯手殺了康子！原來康子的情人不只他一個，老闆的長男直樹、同事敦司都和康子過從甚密，也都遭到相同的威脅。於是三個男人決定互相替對方掩護，以取得完美的不在場證明，展開這場大阪A殺人→名古屋B運屍→東京C棄屍的謀殺接力，然而事情的演變卻大大地出乎他們的意料之外……&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573326243</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="22" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-03-10T13:36:54+00:00" name="calibre:timestamp"/>
+        <meta content="布鲁特斯的心脏" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

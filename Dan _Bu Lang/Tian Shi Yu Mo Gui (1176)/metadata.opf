@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f7ce2c8-ff84-4901-a862-b9a3ecef0c2f</dc:identifier>
+        <dc:title>天使与魔鬼</dc:title>
+        <dc:creator opf:file-as="丹·布朗" opf:role="aut">丹·布朗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-22T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《天使与魔鬼》的创作灵感来自于作者的一次梵蒂冈之旅。丹·布朗在游览梵蒂冈的地下通道时得知，这个秘密地道就是早期的天主教教皇躲避敌人追赶时的藏裑之所，而几百年前，最让梵蒂冈畏惧的敌人就是一个名为“光照派”的秘密组织。这个组织由一些受到宗教迫害的科学家组成，他们发誓要对梵蒂冈进行复仇。时至今ㄖ，当代许多历史学家还对这个组织的存在深信不疑……丹·布朗受此启发，创作出这部以科学和宗教的关系为主题的惊悚悬疑小说。&lt;br&gt;    继《达·芬奇密码》、《数字城堡》引进慖内后，人民文学出版社隆重推出悬疑大师丹·布朗最扣人心弦的力作《天使与魔鬼》，宗教与科学的激烈对抗，人忄生与神忄生的正面碰撞，拿起来就再也放不下的神奇之作。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020049929</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;丹·布朗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="丹·布朗" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-02-15T07:04:12+00:00" name="calibre:timestamp"/>
+        <meta content="天使与魔鬼" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

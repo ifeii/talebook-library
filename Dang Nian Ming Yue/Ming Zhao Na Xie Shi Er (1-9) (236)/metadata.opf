@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61e6004d-b0b1-4702-9f65-bd64bf117703</dc:identifier>
+        <dc:title>明朝那些事儿（1-9）</dc:title>
+        <dc:creator opf:file-as="番茄花园" opf:role="aut">当年明月</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《明朝那些事儿》讲述从1344年到1644年，明朝三百年间的历史。作品以史料为基础，以年代和具体人物为主线，运用小说的笔法，对明朝十七帝和其他王公权贵和小人物的命运进行全景展示，尤其对官场政治、战争、帝王心术着墨最多。作品也是一部明朝政治经济制度、人伦道德的演义。</dc:description>
+        <dc:publisher>中国海关出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801656087</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>明朝</dc:subject>
+        <dc:subject>当年明月</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="明朝那些事儿（1-9）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

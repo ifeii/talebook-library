@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1a28559-71d3-4a65-ae30-ec681b226b4a</dc:identifier>
+        <dc:title>偵探伽利略</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+「我認識的伽利略精神，是向任何以權威為基礎的教條展開熱烈戰鬥。」 ? 愛因斯坦
+天才物理學家湯川學，以伽利略般追根究柢的精神，與好友刑警草薙共同解開各個不可思議的謎團！
+少年的頭突然起火燃燒，是人體自燃？
+國中生在池邊撿到人臉面具，是死者冤魂不散？
+心臟麻痺的死者，其實是感染怪異疾病？
+海上突然出現巨大殺人火柱，是超自然現象？
+目擊命案現場的少年，竟是靈魂出竅？
+五個離奇事件，隱藏在其背後細緻刁鑽的科學詭計！
+東野圭吾最受讀者喜愛的名偵探搭檔「湯川＆草薙系列」第一作！
+離奇的案件，絕妙的破解手法
+理科出身之東野最佳科學推理短篇
+人物個性鮮明幽默，充滿魅力
+超越人所理解的怪奇現象，不可思議的離奇事件
+突破以往的嶄新詭計，節奏緊湊、令人屏息，這才是真正的新本格推理！
+運用科技當作寫作素材，天生具有時代的挑戰性。
+……然而儘管如此，知道物理原理是一回事，理解人性恐怕又是另一回事。作者在故事裡再度將熟練的敘事手法加以巧妙的運用，在犯人身份的認定上，有層漂亮的轉折。這個轉折也讓這篇小說再度擁有極佳的時代跨越性：縱使你看得穿謎團，但你就是會落入作者的詭計之中。
+－－國立大學準物理博士 紗卡</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954320</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>短篇集</dc:subject>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="偵探伽利略" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
