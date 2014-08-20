@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55bd1f32-5bf4-4963-8009-a55f2a0c40cd</dc:identifier>
+        <dc:title>谈美</dc:title>
+        <dc:creator opf:file-as="朱光潜" opf:role="aut">朱光潜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-07T16:00:00+00:00</dc:date>
+        <dc:description>《谈美》是朱光潜先生以书信体形式为青年写的一本美学入门书，自问世以来即深受好评，被视为学术性与普及性兼备的经典之作。全书从“要求人生净化，先要求人生美化”的理念出发，顺着美感态度的特性、艺术与人生的距离、美感经验与移情的关系、美感与快感、自然美与艺术美等问题次第展开，最后呼吁人们“慢慢走，欣赏啊”，因为“欣赏之中都寓有创造，创造之中也都寓有欣赏”。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;朱光潜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:20.646805+00:00" name="calibre:timestamp"/>
+        <meta content="谈美" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

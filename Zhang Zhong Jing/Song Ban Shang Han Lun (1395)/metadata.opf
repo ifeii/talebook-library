@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5ac43d3-6358-40d2-b7ff-d55d998a420e</dc:identifier>
+        <dc:title>宋版伤寒论</dc:title>
+        <dc:creator opf:file-as="张仲景" opf:role="aut">张仲景</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-22T16:00:00+00:00</dc:date>
+        <dc:description>余每览越人入虢之诊，望齐侯之色，未尝不慨然叹其才秀也。怪当今居世之士，曾不留神医药，精究方术，上以疗君亲之疾，下以救贫贱之厄，中以保身长全，以养其生，但竞逐荣势，企踵权豪，孜孜汲汲，惟名利是务，崇饰其末，忽弃其本，华其外而悴其内，皮之不存，毛将安附焉。卒然遭邪风之气，婴非常之疾，患及祸至，而方震慓，降志屈节，钦望巫祝，告穷归天，束手受败，赉百年之寿命，持至贵之重器，委付凡医，恣其所措，咄嗟呜呼！厥身以毙，神明消灭，变为异物，幽潜重泉，徒为啼泣。痛夫！举世昏迷，莫能觉悟，不惜其命，若是轻生，彼何荣势之云哉！而进不能爱人知人，退不能痛身知已，遇灾值祸，身居厄地，蒙蒙昧昧，蠢若游魂。哀乎！趋世之士，弛竞浮华，不固根本，忘驱徇物，危若冰谷，至于是也。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>医学书籍</dc:subject>
+        <meta content="{&quot;张仲景&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:59:03.656216+00:00" name="calibre:timestamp"/>
+        <meta content="宋版伤寒论" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

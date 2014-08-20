@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84017c65-be38-4f69-9e29-1b62f5ac99fa</dc:identifier>
+        <dc:title>心灵史</dc:title>
+        <dc:creator opf:file-as="张承志" opf:role="aut">张承志</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-05T16:00:00+00:00</dc:date>
+        <dc:description>1991年，张承志发表《心灵史》，这本书集合性地体现了作者的身份：既是内陆亚洲史研究者，又是文学家；既是回族穆斯林，又是前红卫兵。毫不意外，它的出生正如作者本人一样，很难被归类；这种看起来孤独、尴尬、但却傲慢的姿态，看起来似乎也是作者的一贯立场，他甚至大概对此不无享受。《心灵史》的发表可说标志着张承志与主流文坛的进一步疏离，不过这种疏离是他主动选择的结果——他是一个决不妥协的人。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>现代·当代</dc:subject>
+        <meta content="{&quot;张承志&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:02:16.911570+00:00" name="calibre:timestamp"/>
+        <meta content="心灵史" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
