@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baaad7b9-824b-48d1-8282-4c4874ce2642</dc:identifier>
+        <dc:title>战略历程</dc:title>
+        <dc:creator opf:file-as="亨利·明茨伯格 &amp; 布鲁斯·阿尔斯特兰德 &amp; 约瑟夫·兰佩尔" opf:role="aut">亨利·明茨伯格</dc:creator>
+        <dc:creator opf:file-as="亨利·明茨伯格 &amp; 布鲁斯·阿尔斯特兰德 &amp; 约瑟夫·兰佩尔" opf:role="aut">布鲁斯·阿尔斯特兰德</dc:creator>
+        <dc:creator opf:file-as="亨利·明茨伯格 &amp; 布鲁斯·阿尔斯特兰德 &amp; 约瑟夫·兰佩尔" opf:role="aut">约瑟夫·兰佩尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　这本书介绍并剖析了战略管理的十大流派，它们是设计学派、计划学派、定位学派、企业家学派、认识学派、学习学派、权力学派、文化学派、环境学派和结构学派。这十大流派分别从不同的角度或层次分析反映了战略形成的客观规律，对战略管理理论做出了贡献，它们互相补充，共同构成了完整的战略管理理论体系。&lt;/span&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;（&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;子乌注：扫描版，因为质量问题，竖屏看着比较不爽，横屏可读——也不是很爽就是了……&lt;/font&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787111090823</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <meta content="{&quot;布鲁斯·阿尔斯特兰德&quot;: &quot;&quot;, &quot;亨利·明茨伯格&quot;: &quot;&quot;, &quot;约瑟夫·兰佩尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-29T16:58:55+00:00" name="calibre:timestamp"/>
+        <meta content="战略历程" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

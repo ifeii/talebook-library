@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d0bfd93-26f8-46b9-896b-aa834d92f4e3</dc:identifier>
+        <dc:title>The Invisible Man</dc:title>
+        <dc:creator opf:file-as="Wells, H. G." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: 'Trebuchet MS', Geneva, Tahoma; font-size: 13px; line-height: 17px; "&gt;Spine-tingling and entertaining, The Invisible Man is a science fiction classic–and a penetrating, unflinching look into the heart of human nature. To its author, H. G. Wells, the novel was as compelling as “a good gripping dream.” But to generations of readers, the terrible and evil experiment of the demented scientist, Griffin, has conveyed a chilling nightmare of believable horror. An atmosphere of ever-increasing suspense begins with the arrival of a mysterious stranger at an English village inn and builds relentlessly to the stark terror of a victim pursued by a maniacal invisible man. The result is a masterwork: a dazzling display of the brilliant imagination, psychological insight, and literary craftsmanship that made H. G. Wells one of the most influential writers of his time.&lt;/span&gt;</dc:description>
+        <dc:publisher>epubBooks (www.epubbooks.com)</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <meta content="科幻/奇幻/玄幻" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T11:54:00.640000+00:00" name="calibre:timestamp"/>
+        <meta content="Invisible Man, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

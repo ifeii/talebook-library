@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4be7a1c1-38a2-4629-b0bb-557afcb07ba0</dc:identifier>
+        <dc:title>穆斯林的葬礼</dc:title>
+        <dc:creator opf:file-as="霍达" opf:role="aut">霍达</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; line-height: 19px; background-color: rgb(255, 255, 255); "&gt;　　一个穆斯林家族，六十年间的兴衰，三代人命运的沉浮，两个发生在不同时代、有着不同内容却又交错扭结的爱情悲剧。&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; line-height: 19px; background-color: rgb(255, 255, 255); "&gt;&lt;br&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; line-height: 19px; background-color: rgb(255, 255, 255); "&gt;　　这部五十余万字的长篇，以独特的视角，真挚的情感，丰厚的容量，深刻的内涵，冷峻的文笔，宏观地回顾了中国穆斯林漫长而艰难的足迹，揭示了他们在华夏文化与穆斯林文化的撞击和融合中独特的心理结构，以及在政治、宗教氛围中对人生真谛的困惑和追求，塑造了梁亦清、韩子奇、梁君壁、梁冰玉、韩新月、楚雁潮等一系列栩栩如生、血肉丰满的人物，展现了奇异而古老的民族风情和充满矛盾的现实生活。作品含蓄蕴藉，如泣如诉，以细腻的笔触拨动读者的心灵，曲终掩卷，回肠荡气，余韵绕梁。&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530201244</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:MDWX</dc:subject>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;霍达&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="56" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-08-24T15:35:14+00:00" name="calibre:timestamp"/>
+        <meta content="穆斯林的葬礼" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

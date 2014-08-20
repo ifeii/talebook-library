@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bf80dd1-352e-47c6-abae-6f362ed2637b</dc:identifier>
+        <dc:title>赫遜河畔談中國歷史</dc:title>
+        <dc:creator opf:file-as="黃仁宇" opf:role="aut">黃仁宇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: Arial, Verdana, MingLiu, sans-serif; border-collapse: collapse; color: rgb(34, 34, 34); font-size: 13px; line-height: 24px; -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; "&gt;&lt;p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1.9em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-style: normal; "&gt;　　這一本集子收錄了黃仁宇在《中國時報》人間副刊發表過的三十三篇歷史文字，發表的時間自 1987 年年初到 1989 年夏天。所包括的內容自先秦至元末。其重點則在具體表彰中國歷史有它的特色，前後連貫，通過各朝代及政治上分裂的階段，各篇雖大致以人物傳記之體裁主，所紀事之影響遠逾當時人之人身經驗，積累之則與我們今日之立場仍然有關。&lt;/p&gt;&lt;p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1.9em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-style: normal; "&gt;　　自明朝至現今的一段，原擬定也照同樣體裁敘述，只因歷史的進展成螺線式，愈至後端積累的分量愈重，內容也更複雜，其安排不容易保持文藝副刊的風格及篇幅的限制。&lt;/p&gt;&lt;p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1.9em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-style: normal; "&gt;　　「赫遜河畔談中國歷史」系列史論，的確完全擺脫了既往的學術論文體制；他往往抓住某個歷史事件即一路鋪延而下，在濤濤的時間黑流中，一一還原事件的面貌。黃仁宇的理想是希望高中程度的讀者，就可自在的閱讀這些著作。不過這種寫法，他自謙不一定是最好的、唯一的，他說這只是一個起點，但願能改變以往的寫史觀念。黃仁宇衷心期盼別的歷史學家能尋出更好的形式。&lt;/p&gt;&lt;p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1.9em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-style: normal; "&gt;　　黃仁宇在他的歷史著作中，一再揭櫫「大歷史史觀」，提倡以「長時間、遠距離、寬視野」的條件重新檢歷史。他自述此一史觀即是：作者及讀者，不斤斤計較書中人物短時片面的賢愚得失：其重點在將這些事蹟與我們今日的處境互相印證，也不只抓住一言一事，借題發揮，而應竭力將當日社會輪廓，盡量勾畫，才不至於因材料參差，造成偏激的印象。黃仁宇的這種嶄新觀念，實際上全由生活煎熬所致，其學術成就，事實上是因命運的困蹇躓踣得來的。&lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789571300467</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <meta content="{&quot;黃仁宇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="43" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-29T17:07:10+00:00" name="calibre:timestamp"/>
+        <meta content="赫遜河畔談中國歷史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

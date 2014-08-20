@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d991a44-4bba-4468-91cc-12ad6ed4a197</dc:identifier>
+        <dc:title>大法官说了算：美国司法观察笔记</dc:title>
+        <dc:creator opf:file-as="何帆" opf:role="aut">何帆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-13T16:00:00+00:00</dc:date>
+        <dc:description>您对美国联邦最高法院的认识，是不是还停留在马伯里诉麦迪逊案、米兰达诉亚利桑那州案、纽约时报诉沙利文案发生的那些时期？您了解现任九位大法官的背景、经历、个性与司法立场吗？在这个Twitter、Facebook与Myspace盛行的年代，九位大法官如何思考、办案？他们使用维基百科吗？他们还阅读法学期刊吗？他们有自己的律政偶像吗？他们为何在审判中扮演历史学家角色？他们如何处理判决书中的“脏话”？他们退休之后，如何发挥余热？这本书尝试在回答上述问题的同时，告诉您一个最新、最In的联邦最高法院。&#13;
+　　2007年至2010年，联邦最高法院大法官们做出了一系列判决。他们加大了对在校学生言论自由的限制，但又宣布校方对学生的“光身搜查”违法；他们认为处决奸淫幼童者违宪，却又确认了注射死刑的合宪性；他们要求民选法官必须在一方当事人为本人捐助者的案件中回避，又放开了企业、工会对政治选举的资金介入；他们要求CSI专家必须出庭作证，还命令不雅词汇退出电视节目。有人说他们与时俱进，顺应时势；有人骂他们祸国殃民，开历史倒车。真相到底如何？这些判决背后，到底有什么样的力量博弈与法理智慧？这本书将为您揭开谜底。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>专业书籍</dc:subject>
+        <meta content="{&quot;何帆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:11:19.809460+00:00" name="calibre:timestamp"/>
+        <meta content="大法官说了算：美国司法观察笔记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

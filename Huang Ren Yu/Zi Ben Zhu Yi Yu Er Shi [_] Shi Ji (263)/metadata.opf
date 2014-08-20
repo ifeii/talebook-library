@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5e8a3ad-99a3-43c6-bc84-5e96b4669df7</dc:identifier>
+        <dc:title>资本主义与二十一世纪</dc:title>
+        <dc:creator opf:file-as="黄仁宇" opf:role="aut">黄仁宇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+作者以其“大历史”的宏观视野，涉足欧美等国的近代历史，讲解世界现代化发展的历史路径。《资本主义与二十一世纪》以意大利、荷兰、英国、美国、日本、德国、法国和俄罗斯等国的社会转型为中心，研究和分析了资本主义兴起时的社会经济与经营方式，及其在各国不同的民族特性和文化背景之中的演化过程。书中侧重分析资本主义的技术性格，将资本主义综合为一种组织和一种运动。</dc:description>
+        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108009159</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>黄仁宇</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>经济史</dc:subject>
+        <dc:subject>资本主义</dc:subject>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="资本主义与二十一世纪" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

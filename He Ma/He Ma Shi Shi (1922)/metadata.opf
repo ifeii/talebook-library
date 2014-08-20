@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d130965e-6180-4108-8bf6-0fb56539a2eb</dc:identifier>
+        <dc:title>荷马史诗</dc:title>
+        <dc:creator opf:file-as="荷马" opf:role="aut">荷马</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《伊利亚特》叙述的是十代希腊人与特洛伊人之间的一场战争争。特少伊王子帕&lt;br&gt;里斯拐起了斯巴达国王的妻子海伦、希腊人为夺回海伦、组成十万联军,远征特洛伊&lt;br&gt;城。战争持久续了整整十年。希腊最勇猛的将领阿基琉斯面对节节失利的危急局面,&lt;br&gt;抛开了与主帅阿伽门农的个人恩怨声载道盎然勇作战,扭转了战局,最后,希腊人用&lt;br&gt;木马计智特洛伊城,取得胜利。&lt;br&gt;  《奥德赛》叙述了在特洛伊战争结束后伊塔卡国王奥德修斯历经十年漂泊,终于返回家园的故事,一路上,他遇到了了凶残的独目巨人,痴情的女神卡吕普索,一心想置&lt;br&gt;他于死地的海神波塞冬。靠着非风的智慧和坚毅,他战胜了种种磨难和诱惑,最后孤&lt;br&gt;身一人回到祖国,与妻子团聚。&lt;/p&gt;</dc:description>
+        <dc:publisher>天津教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">56aa4d69-ec4b-48d4-96b0-2a6168ed96d5</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532116348</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>史诗</dc:subject>
+        <dc:subject>希腊</dc:subject>
+        <dc:subject>希腊神话</dc:subject>
+        <dc:subject>神话</dc:subject>
+        <meta content="{&quot;荷马&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:08:03.324707+00:00" name="calibre:timestamp"/>
+        <meta content="荷马史诗" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
