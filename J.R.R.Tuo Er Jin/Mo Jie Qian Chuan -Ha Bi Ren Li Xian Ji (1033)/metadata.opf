@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d2f3ae8-0595-436a-8711-fedb6fbca94a</dc:identifier>
+        <dc:title>魔戒前传-哈比人历险记</dc:title>
+        <dc:creator opf:file-as="J.R.R.托尔金" opf:role="aut">J.R.R.托尔金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《魔戒前傳－哈比人歷險記》出版於1937年，為魔戒三部曲的前傳。作者托爾金以融合童話與傳奇小說的手法描述，呈現出豐富的想像力、華麗而詭譎的壯麗場景。主角比爾博被巫師甘道夫挑上，激發出他冒險的慾望，與十三個矮人組成探險隊，前往有一條惡龍守護的孤山，展開了尋寶之旅。途中雖然經歷了各種危險，但也結識了許多不同種族的友人，比爾博更因緣際會地得到了一枚魔戒（在此書中尚未解開它是至尊魔戒，卻是延伸出後來魔戒三部曲的關鍵）。&lt;br&gt;　　探險隊最後斬殺惡龍，矮人們佔據了寶山，並與人類為了寶藏開戰。但在比爾博和甘道夫的斡旋協調，以及魔族的來襲下，人類與矮人聯盟擊潰了魔族聯軍，勝利的一方分得了財寶，比爾博回到哈比屯後，成了一夜致富的傳奇人物，直到《魔戒》三部曲又展開了另一個傳奇故事……&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570823349</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;J.R.R.托尔金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="魔戒" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="魔戒前传-哈比人历险记" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

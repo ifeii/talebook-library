@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74379e7e-24f9-45e6-85a3-2c08c2905095</dc:identifier>
+        <dc:title>空椅子</dc:title>
+        <dc:creator opf:file-as="杰佛瑞·迪弗" opf:role="aut">杰佛瑞·迪弗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-06T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《空椅子》一改惊悚推理小说的陈旧模式，但依旧让你无法逃出他所设下的陷阱。少年被杀，少女遭绑架，在一个没有孩子的南方小镇。连环杀手是怎么形成的？支离破碎的家庭，毫无亲情的领养家庭，倍受同龄孩子的羞辱。这一切难道还不足以让一个小孩埋下仇恨的种子吗？林肯面对的是最意想不到的对手。隐秘的不安与恐惧，难以言喻的惊悚之旅……&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802255067</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <meta content="{&quot;杰佛瑞·迪弗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="杰佛瑞·迪弗" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-21T18:46:02+00:00" name="calibre:timestamp"/>
+        <meta content="空椅子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

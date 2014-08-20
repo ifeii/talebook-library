@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88354f46-3767-4dbe-87fa-b60140278e80</dc:identifier>
+        <dc:title>疯狂的程序员</dc:title>
+        <dc:creator opf:file-as="绝影" opf:role="aut">绝影</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是一部真实再现程序员成长历程的原创小说,以作者的学习、工作、生活为原型,分为大学、工作、创业三部分,环环相扣,精彩迭出,其中作为主线的实际项目案例都基于作者深厚的技术积淀。本书生动描写了软件行业中的形形色色的人和事,形象而深刻、生动而亲切,充满了智慧的职场警句,能让不同职业的读者都受益匪浅.&lt;/p&gt;</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6a68be6a-d06c-48d7-b2fd-24d82d475b6b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115190239</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Computer Programming</dc:subject>
+        <meta content="{&quot;绝影&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:00:24.400020+00:00" name="calibre:timestamp"/>
+        <meta content="疯狂的程序员" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

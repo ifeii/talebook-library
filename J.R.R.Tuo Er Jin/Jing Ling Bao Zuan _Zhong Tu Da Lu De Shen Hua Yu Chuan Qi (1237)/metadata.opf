@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a4ef5e-5b2a-4884-b563-cd703d139199</dc:identifier>
+        <dc:title>精靈寶鑽：中土大陸的神話與傳奇</dc:title>
+        <dc:creator opf:file-as="J.R.R.托尔金" opf:role="aut">J.R.R.托尔金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+    &lt;span style="display: inline;" class="all hidden"&gt;
+        
+&lt;div class="intro"&gt;
+    &lt;p&gt;《精靈寶鑽》於1977年首次出版時，曾獲得以下的佳評： 「這本一個人寫作超過半世紀的作品，竟成為一群人的創作源頭，這是怎麼辦到的？」 ─衛報&lt;/p&gt;    &lt;p&gt;「原本抱著創作英文神話的雄心，最後卻成了偉大的真神話！」 ─金融時報&lt;/p&gt;    &lt;p&gt;「一部非凡絕美的創作……在其最佳時刻展現壯麗風華。」 ─華盛頓郵報&lt;/p&gt;    &lt;p&gt;「一本嚴酷、悲傷、細密構思而又美麗不已的書，充滿著英雄主義與希望。」─多倫多環球郵報&lt;/p&gt;    &lt;p&gt;此書敘述中土世界第一紀元的故事，遠比《魔戒》的時代古老許多，《魔戒》中的人物，如愛隆與凱蘭崔爾，都在這齣古老的戲劇中扮演了重要的角色。&lt;/p&gt;    &lt;p&gt;書
+名《精靈寶鑽》是「精靈寶鑽爭戰史」的簡稱，描寫最有才能的精靈－－費諾所造三顆偉大寶石的故事；他將照亮諸神所居之地維林諾的雙聖樹的光芒收存到寶石之
+中。當黑暗之王魔苟斯摧毀了雙聖樹後，那璀璨的光芒唯獨活在精靈寶鑽中；魔苟斯奪走了寶石，將它們鑲在他的王冠上，他在中土大陸北方的堡壘，固若金湯的安
+格班中稱王。《精靈寶鑽》記載費諾與其族人背叛了諸神，流亡到了中土大陸，對魔苟斯這位巨大而可怕的敵人發動戰爭，寫下一連串精靈與人類絕望又英勇的故
+事。&lt;/p&gt;    &lt;p&gt;本書除了最主要的「精靈寶鑽爭戰史」，還包含其他短篇：敘述創造之始的〈埃努的大樂章〉，描述諸神特性與力量的〈關於維拉與邁
+雅的記載〉，述說爭戰史之後的短篇〈努曼諾爾淪亡史〉，講述在第二紀元末努曼諾爾島上的王國沈淪滅亡的故事；最後，讓本書大功告成的短篇是〈魔戒與第三紀
+元〉。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;（&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注：该版本为2002年联经版，来源于下面这个doc文档，简体中文版——即未修订的2012译林版——在爱问可下。为了表示对&lt;/font&gt;&lt;b&gt;&lt;font class="Apple-style-span" color="#996633"&gt;免费开放&lt;/font&gt;&lt;/b&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;电子版的联经出版社及译者邓嘉宛的尊敬，出版社保留原有的联经出版社，而不是按照惯例写上epub/mobi制作者。另外需要说明的是，书中的插图我尽可能地恢复到对应的章节，但是还有不少无法对应，另外似乎缺漏数张，待后期补充。&lt;/font&gt;）&lt;/p&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>聯經出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570825244</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;J.R.R.托尔金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="魔戒" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-17T21:24:34+00:00" name="calibre:timestamp"/>
+        <meta content="精靈寶鑽：中土大陸的神話與傳奇" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

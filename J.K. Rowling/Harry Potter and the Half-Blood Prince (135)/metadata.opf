@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c02f30a0-0a97-49ba-ae49-c23ca29025fc</dc:identifier>
+        <dc:title>Harry Potter and the Half-Blood Prince</dc:title>
+        <dc:creator opf:file-as="Rowling, J.K." opf:role="aut">J.K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Scholastic&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">0439784549</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <meta content="哈利·波特" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-11T14:20:15.433545+00:00" name="calibre:timestamp"/>
+        <meta content="Harry Potter and the Half-Blood Prince" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

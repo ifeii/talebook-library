@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6023e809-af47-4352-904a-6b05cd42c98b</dc:identifier>
+        <dc:title>精灵宝钻</dc:title>
+        <dc:creator opf:file-as="J.R.R.托尔金" opf:role="aut">J.R.R.托尔金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;　　此書敘述中土世界第一紀元的故事，遠比《魔戒》的時代古老許多，《魔戒》中的人物，如愛隆與凱蘭崔爾，都在這齣古老的戲劇中扮演了重要的角色。&lt;br&gt;　　&lt;br&gt;　　書名《精靈寶鑽》是「精靈寶鑽爭戰史」的簡稱，描寫最有才能的精靈－－費諾所造三顆偉大寶石的故事；他將照亮諸神所居之地維林諾的雙聖樹的光芒收存到寶石之中。當黑暗之王魔苟斯摧毀了雙聖樹後，那璀璨的光芒唯獨活在精靈寶鑽中；魔苟斯奪走了寶石，將它們鑲在他的王冠上，他在中土大陸北方的堡壘，固若金湯的安格班中稱王。《精靈寶鑽》記載費諾與其族人背叛了諸神，流亡到了中土大陸，對魔苟斯這位巨大而可怕的敵人發動戰爭，寫下一連串精靈與人類絕望又英勇的故事。&lt;br&gt;　　&lt;br&gt;　　本書除了最主要的「精靈寶鑽爭戰史」，還包含其他短篇：敘述創造之始的〈埃努的大樂章〉，描述諸神特性與力量的〈關於維拉與邁雅的記載〉，述說爭戰史之後的短篇〈努曼諾爾淪亡史〉，講述在第二紀元末努曼諾爾島上的王國沈淪滅亡的故事；最後，讓本書大功告成的短篇是〈魔戒與第三紀元〉。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570825244</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;J.R.R.托尔金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="魔戒" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="精灵宝钻" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

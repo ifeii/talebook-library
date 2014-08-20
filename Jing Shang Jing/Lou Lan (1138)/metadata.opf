@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b52f44b-be36-42c0-9aa2-138f83c46924</dc:identifier>
+        <dc:title>樓蘭</dc:title>
+        <dc:creator opf:file-as="井上靖" opf:role="aut">井上靖</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 22px; "&gt;以西域為背景的歷史小說,悽美的思古幽情,深深撼動人心 &lt;br&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573210139</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;井上靖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-29T17:31:30+00:00" name="calibre:timestamp"/>
+        <meta content="樓蘭" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

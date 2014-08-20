@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77100a65-e272-45dc-ad0f-791f81000358</dc:identifier>
+        <dc:title>Why Leaders Lie</dc:title>
+        <dc:creator opf:file-as="Mearsheimer, John J." opf:role="aut">John J. Mearsheimer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-20T03:04:48+00:00</dc:date>
+        <dc:description>&lt;div&gt;For more than two decades, John J. Mearsheimer has been regarded as one 
+of the foremost realist thinkers on foreign policy. Clear and incisive 
+as well as a fearlessly honest analyst, his coauthored 2007 &lt;em&gt;New York Times &lt;/em&gt;bestseller, &lt;em&gt;The Israel Lobby and U.S. Foreign Policy&lt;/em&gt;,
+ aroused a firestorm with its unflinching look at the making of 
+America's Middle East policy. Now he takes a look at another 
+controversial but understudied aspect of international relations: lying.&lt;br&gt;&lt;br&gt;In &lt;em&gt;Why Leaders Lie,&lt;/em&gt;
+ Mearsheimer provides the first systematic analysis of lying as a tool 
+of statecraft, identifying the varieties, the reasons, and the potential
+ costs and benefits. Drawing on a wealth of examples, he argues that 
+leaders often lie for good strategic reasons, so a blanket condemnation 
+is unrealistic and unwise. Yet there are other kinds of deception 
+besides lying, including concealment and spinning. Perhaps no 
+distinction is more important than that between lying to another state 
+and lying to one's own people. Mearsheimer was amazed to discover how 
+unusual interstate lying has been; given the atmosphere of distrust 
+among the great powers, he found that outright deceit is difficult to 
+pull off and thus rarely worth the effort. Moreover, it sometimes 
+backfires when it does occur. Khrushchev lied about the size of the 
+Soviet missile force, sparking an American build-up. Eisenhower was 
+caught lying about U-2 spy flights in 1960, which scuttled an upcoming 
+summit with Krushchev. Leaders are more likely to mislead their own 
+publics than other states, sometimes with damaging consequences. Though 
+the reasons may be noble--Franklin Roosevelt, for example, lied to the 
+American people about German U-boats attacking the destroyer USS Greer 
+in 1940, to build a case for war against Hitler-they can easily lead to 
+disaster, as with the Bush administration's falsehoods about Iraq's 
+weapons of mass destruction. &lt;br&gt;&lt;br&gt;There has never been a sharp 
+analysis of international lying. Now a leading expert provides a richly 
+informed and powerfully argued work that will change our understanding 
+of why leaders lie.&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780199758739</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>ZDC:SHXX</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;John J. Mearsheimer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="社会" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-20T03:04:48+00:00" name="calibre:timestamp"/>
+        <meta content="Why Leaders Lie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38b4c26f-bf22-42a6-83c4-2711f0f7921a</dc:identifier>
+        <dc:title>隋乱</dc:title>
+        <dc:creator opf:file-as="酒徒" opf:role="aut">酒徒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.44) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;酒徒，男，1974年生，内蒙古赤峰人，东南大学毕业。&lt;br&gt;　　2000年完成第一部作品《秦》，三年后第一部历史架空小说《明》写就；2006年，第二本历史架空小说《指南录》完成。&lt;br&gt;　　《隋乱》，原名《家园》，计六卷，一百多万字。&lt;br&gt;　　在新历史小说中，酒徒的作品气度恢宏，语言凝练，情节曲折，凸显出思想的凝重性和深刻性。&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;(子乌20110627注：cnepub版缺了第四卷第四章的四下和五上，已补全)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807554301</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>ZDC:WLXS</dc:subject>
+        <meta content="网络小说" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-03-10T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="隋乱" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

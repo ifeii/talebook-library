@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c0dd2ce-8ef1-4bf5-879a-03e3c9ad24dc</dc:identifier>
+        <dc:title>Dubliners</dc:title>
+        <dc:creator opf:file-as="Joyce, James" opf:role="aut">James Joyce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-21T07:50:25+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;"Don't you think there is a certain resemblance between the mystery of the Mass and what I am trying to do?...To give people some kind of intellectual pleasure or spiritual enjoyment by converting the bread of everyday life into something that has a permanent artistic life of its own." &lt;br&gt;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-- James Joyce, in a letter to his brother&lt;/p&gt;&lt;p class="description"&gt;(&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注:pdf格式为A4文字版本，kindle阅读应该无压力，用多看应该更无压力吧……再另：是英文版，懒得在标题写了&lt;/font&gt;)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553213805</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;James Joyce&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="64" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-12-21T07:50:25+00:00" name="calibre:timestamp"/>
+        <meta content="Dubliners" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

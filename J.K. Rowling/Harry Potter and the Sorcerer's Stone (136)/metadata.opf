@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ff052bd-0ed1-4a2a-b615-1d5eede4fb13</dc:identifier>
+        <dc:title>Harry Potter and the Sorcerer's Stone</dc:title>
+        <dc:creator opf:file-as="Rowling, J.K." opf:role="aut">J.K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-30T16:00:00+00:00</dc:date>
+        <dc:publisher>Scholastic Paperbacks</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <meta content="哈利·波特" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2011-01-11T14:20:17.145591+00:00" name="calibre:timestamp"/>
+        <meta content="Harry Potter and the Sorcerer's Stone" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

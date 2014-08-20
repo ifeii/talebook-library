@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95e91165-b142-4dbc-a6c3-7d4d01f1f12e</dc:identifier>
+        <dc:title>此间的少年</dc:title>
+        <dc:creator opf:file-as="江南" opf:role="aut">江南</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-17T16:00:00+00:00</dc:date>
+        <dc:description>典藏版语音书,献给象牙塔中尘封青春的华丽纪念册。
+感动于九州天神江南,另类校园小说风情。
+一段纪念大学生活的文字,让少年未满的你心怀憧憬,让洗尽铅华的你开始追忆。
+江南、记忆坊,联手制作《此间的少年》限量典藏版语音书,附语音典藏书光盘一张。一本书,一片真情,一切为了榕锋......
+曾经有一位少年名为榕锋,用魔法将这本小说的文字化为了声音,让黑白的情节变得鲜活。如今,那个声音的主人却不幸患了重症,而且不愿接受外界的无偿捐助,希望以自己的努力来和病魔抗争。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">998ece32-b777-4ec5-960c-fa427a767e72</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>都市·言情</dc:subject>
+        <meta content="{&quot;江南&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:58:49.368901+00:00" name="calibre:timestamp"/>
+        <meta content="此间的少年" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

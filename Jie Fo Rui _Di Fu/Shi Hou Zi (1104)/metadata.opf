@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a01abaae-9165-48fb-a131-bfc1773a0041</dc:identifier>
+        <dc:title>石猴子</dc:title>
+        <dc:creator opf:file-as="杰佛瑞·迪弗" opf:role="aut">杰佛瑞·迪弗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-06T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《石猴子》讲述在美国政府征召下，林肯·莱姆接下了这个几乎不可能达成的任务，与搭挡阿米利亚·萨克斯一起追踪一艘载有二十多名中国偷渡客的货轮，以及恶名昭彰的杀手——绰号“幽灵”的蛇头。他们必须抢在“幽灵”之前，在纽约市如迷宫一般的中国城中，找到那两个侥幸逃过船难的家庭。除了惊险的追捕行动，还有激烈的情感纠葛，萨克斯竟与偷渡客发生了关系！而后果势必将直接影响到她与亲密爱人暨工作伙伴林肯·莱姆。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802255074</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <meta content="{&quot;杰佛瑞·迪弗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="杰佛瑞·迪弗" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-21T18:47:09+00:00" name="calibre:timestamp"/>
+        <meta content="石猴子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

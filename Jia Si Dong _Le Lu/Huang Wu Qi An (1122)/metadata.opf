@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4c69c5a-bf9b-4daa-ac53-f179fd71d413</dc:identifier>
+        <dc:title>黄屋奇案</dc:title>
+        <dc:creator opf:file-as="加斯东·勒鲁" opf:role="aut">加斯东·勒鲁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-07T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;深夜，橡栗城堡的“黄屋”中传来悲惨的呼救声，那是斯坦日松小姐的喊声。闻声赶到这间门窗紧闭的小屋的小姐的父亲和未婚夫以及两个仆人破门而入，见小姐倒在血泊中奄奄一息，而凶手却消失得无影无踪。但令人不解的是，“黄屋”案件发生之后，凶手冒着被抓到的危险再次潜入小姐的卧室，并且是小姐亲自为他开的门。那么，究竟谁是真正的凶手呢？原来，在这离奇的“黄屋”案件背后，隐藏着一段鲜为人知的感情纠葛。&lt;br&gt;　　《“黄屋”奇案》同爱伦·坡的《莫格街凶杀案》和柯南道尔的《斑点带子案》一样，描写了作案现场的密室，安排了活人消失不见的奇特情节，令人非一口气读完不可。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787501427987</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>CNTY:FRANCE</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;加斯东·勒鲁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="侦探/悬疑" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-09T04:39:35+00:00" name="calibre:timestamp"/>
+        <meta content="黄屋奇案" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

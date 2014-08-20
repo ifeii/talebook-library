@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adc24438-dc2c-4e55-9e6c-b9b2a4f375fb</dc:identifier>
+        <dc:title>千古名将英雄梦(更新至第四部第三话耿恭)</dc:title>
+        <dc:creator opf:file-as="江湖闲乐生" opf:role="aut">江湖闲乐生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-11T16:00:00+00:00</dc:date>
+        <dc:description>本系列书籍是有史以来第一部以通俗幽默的笔法全方位评述中国三千年战争史的历史巨著，作者开创性的以中国历史上一个个赫赫有名的军事将领为视角，满怀激情的为读者展开了一幅幅金戈铁马气势恢宏的历史画卷，时而浓墨重彩，时而处处留白，它讲战争，讲权谋，但更多的是对文化的关注，对人性的反思，以及对民族兴亡社会演变历史发展的深度剖析。读者从中可以看到作者思想的轨迹，更可以看到的是中华民族从古到今踏着血泪奋勇前行的心路历程。&#13;
+　　【江湖闲乐生】原名朱晖，男。王安石故里、江西临川资溪人，现居福州福清，乃一网络工程师，识字起便好史成狂，读书二十余载，不曾写得一字， 06后年开始沉迷网络，自号江湖闲乐生，是为“江湖一扁舟，闲乐笑忘仇，逍遥从此去，天地任遨游。” 并开始在天涯和猫扑发布自己的文章，笔耕不辍，多次被版主作为首页推荐文章。出版有长篇历史读物《霸道--春秋三巨头传奇》。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;江湖闲乐生&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:07:29.058993+00:00" name="calibre:timestamp"/>
+        <meta content="千古名将英雄梦(更新至第四部第三话耿恭)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

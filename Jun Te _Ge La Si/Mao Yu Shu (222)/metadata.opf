@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2b5df86-1561-479f-a2f0-e5f35b6a06b3</dc:identifier>
+        <dc:title>猫与鼠</dc:title>
+        <dc:creator opf:file-as="君特·格拉斯" opf:role="aut">君特·格拉斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+本书是《但泽三部曲》的第二部，出版时在德国引起一场“艺术与色情”的争论，有人指责书中的“军队里男女淫乱”情节，其中的“色情描写对青少年有毒害”，它“应该被列入禁书名单”等，但大多数意见认为，它“属于艺术作品，有助于丰富人们的艺术享受”。现被列入德国中学的选修课本。
+中学生马尔克生理上有缺陷，不断遭到同学们的讥笑和嘲弄，这使他产生了自卑感，可他又是一个好强的人，为了能成为大家心目中的“英雄”，他刻苦锻炼，在体操、游泳和潜水方面赢得了同学们的赞扬，这又使他虚荣心膨胀起来，以致偷了回校作报告的海军军官的勋章挂在身上，事发后被学校开除。之后他去服役，在军队里积极肯干，任劳任怨，受到一位军官太太的赏识，并在这个女人的引诱下和她发生了关系，事情败露后遭到处分。不过他机灵过人，不久在一个水塘里发现了敌方的一个地下仓库，因立功又受到了表彰。后来他加入了坦克部队，在作战中击毁了许多苏军坦克，获得了真正的勋章。为了给自己恢复名誉，他要求回母校做“英雄事迹”报告，不料被校长拒绝。衣锦还乡的梦想破灭后，他便在人们的视线里永远消失了。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532744992</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>格拉斯</dc:subject>
+        <dc:subject>君特·格拉斯</dc:subject>
+        <dc:subject>Günter_Grass</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>但泽三部曲</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="猫与鼠" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c47587db-1d6a-422f-ae54-f868f4d1ab32</dc:identifier>
+        <dc:title>魔戒三部曲：王者再临</dc:title>
+        <dc:creator opf:file-as="J.R.R.托尔金" opf:role="aut">J.R.R.托尔金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书，也就是第三部分，魔戒圣战的最后一部分，将描述甘道夫和索伦对抗的战略，记载了光明与黑暗双方的冲突，以及黑暗时代的终结。首先，让我们来看看西方大战的结果如何——&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570823387</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:KHXH</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;J.R.R.托尔金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="魔戒" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="魔戒三部曲：王者再临" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

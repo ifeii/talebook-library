@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fde73fe-a658-47d4-bb6a-2639c56d8376</dc:identifier>
+        <dc:title>棺材舞者</dc:title>
+        <dc:creator opf:file-as="杰佛瑞·迪弗" opf:role="aut">杰佛瑞·迪弗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-06T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《棺材舞者》讲述了棺材舞者精通枪械炸药，拥有钢铁般坚毅的耐心，为了等待那致命的一击能一动不动轻易等上几个小时。他没有个人情感，下手心狠手辣，如果要死一百或一千个无辜的人去达成任务，他会毫不犹豫地立刻就做。他活生生就是一部冷酷的杀人机器，而且，从来没有他不能完成的任务。也因此，黑道上有一个说法：“如果你不幸成为棺材舞者的下一个目标，那么不要犹疑了，还是请早自尽罢了。”不单如此，棺材舞者能轻易融入人群，获取人的信任，加上他的反应极其敏捷，常常能在千钧一发之际做下生死攸关的决定。准确的判断力，也让他多次逃过猎犬般林肯·莱姆的追捕。而掩藏在其层层假面具下，那让读者恐惧的神经质般的心态，那种老洗手以求洗去脑海里在嚼食他双手的蛆虫的怪诞行为，总让人感觉分外毛骨悚然。称他为林肯系列的头号杀手，一点不为过。棺舞者当然就是《棺材舞者》一书里幽灵般的职业杀手。他行踪飘忽，身份如谜，姓甚名谁无人知晓。唯一的幸存者也只曾见其手臂上刻有一诡谲的图案：一个骷髅挽着一位长发女郎在棺材前翩翩起舞。棺材舞者之名便是由此而来。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802255050</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <meta content="{&quot;杰佛瑞·迪弗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="杰佛瑞·迪弗" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-21T18:47:01+00:00" name="calibre:timestamp"/>
+        <meta content="棺材舞者" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

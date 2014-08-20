@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6c6831d-fdd6-49c5-a064-4e4c317efd26</dc:identifier>
+        <dc:title>后巷说百物语〈下〉</dc:title>
+        <dc:creator opf:file-as="京极夏彦" opf:role="aut">京极夏彦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-24T16:00:00+00:00</dc:date>
+        <dc:description>本書是大受好評且獲頒第130回直木賞的《後巷說百物語》。亦是《巷說百物語》系列之續集。書中沿襲前作，巧妙引用日本民間流傳的怪談故事，除了呈現以人智表現的懸疑，更以書中各式妖怪奇事象徵人心醜惡更勝魑魅魍魎。既有精彩的戲劇起伏安排，同時影射世間人事百態，堪稱雅俗共賞的佳作。也為時下傳統推理、神怪小說另闢一片嶄新風景。&#13;
+　　明治十年，一等巡查矢作劍之進，就某座島嶼的怪異傳說之真偽與友人起了爭議。由於爭議難解，一行人決意前往東京郊外，向一位老隱士詢求解答。此名曰一白翁之老人酷愛神鬼故事，年輕時曾欲出版百物語，因而為此周遊列國，廣蒐各地之奇聞怪談。老翁靜靜地、緩緩地述說起古老奇案。心中憶起了那聲鈴響，以及某人那句：&#13;
+　　「御行奉為——」&#13;
+　　「相傳道盡最後一則百物語，聆聽者將悉數命喪黃泉！」&#13;
+　　昔日，曾有種名曰「百物語」的遊戲。此乃是由與會者在一夜之間說完一百則駭人、奇妙的鬼怪故事。相傳在說完第一百則鬼怪故事後，將會召徠災厄、喚醒妖物，發生某種駭人異象……共收錄「山男」、「五位光」、「風神」三篇故事。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;京极夏彦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:10:32.334431+00:00" name="calibre:timestamp"/>
+        <meta content="后巷说百物语〈下〉" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

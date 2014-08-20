@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d392629f-1032-4803-99e9-5feade027525</dc:identifier>
+        <dc:title>霍乱时期的爱情</dc:title>
+        <dc:creator opf:file-as="加西亚·马尔克斯" opf:role="aut">加西亚·马尔克斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-14T16:00:00+00:00</dc:date>
+        <dc:description>霍乱时期的爱情
+SUMMARY:
+《霍乱时期的爱情》是加西亚马尔克斯获诺贝尔文学奖后发表的又一力作，通过魔幻现实主义的手法，他把一对恋人用一生时间的爱恋，描绘成了波澜壮阔的爱情史诗，而这个爱情史诗不过是由哥伦比亚的一对普通人来完成的。这部小说包罗万象地描绘了各种各样的爱情，忠贞的、淫荡的、花心的、转瞬即逝的和生死相依的；关于人类情欲的展示和对无望爱情的守候，没有超过这部小说的了。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544218597</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>拉美文学</dc:subject>
+        <dc:subject>哥伦比亚</dc:subject>
+        <dc:subject>加西亚·马尔克斯</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="42" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="霍乱时期的爱情" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

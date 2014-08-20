@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99e16667-782d-4101-a31e-984f10a00daf</dc:identifier>
+        <dc:title>The Book of Lost Things</dc:title>
+        <dc:creator opf:file-as="Connolly, John" opf:role="aut">John Connolly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-09T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;span class="all hidden" style="display: inline; "&gt;約翰‧康諾利成名故事，早已成為出版界的傳奇。很久很久以前，他的驚悚小說處女作《奪面旅人》（Every Dead Thing）以三十五萬英鎊售出英國版權，一百萬美金售出美國版權，創下繼《輕聲細語》後最高的新人預付版稅記錄。這本書與《人魔》同一年出版，媒體評價和讀者反應毫不遜色，並且成為史上第一個贏得夏姆斯獎的非美籍作者。這位遠征新大陸的愛爾蘭記者，在大西洋兩岸都引起熱烈迴響，如今他是愛爾蘭首席驚悚大師，一系列查理帕克探案融合詩意而緻密的語言，驚人的兇殘場面，獨特的場景描寫，還有若隱若現的超自然力量，締造了全球三百萬冊銷量，售出二十餘國版權。&lt;br&gt;　　他的第一部獨立作《惡人絕路》（Bad Men）是靈異色彩濃厚的驚悚小說，虛構緬因州外海的孤島，數百年前的屠殺浩劫過後，惡靈徘徊，灰蛾飛舞，隨著罪犯返鄉尋仇而掀起腥風血雨。這本書即將由派拉蒙拍成電影。&lt;br&gt;　　《失物之書》是康諾利的第二部獨立作，也是和他先前作品截然不同的作品，融合了童話、驚悚、成長故事、恐怖元素和寓言體例，這個陰森但是美麗的成人童話為康諾利的寫作生涯開啟全新篇章，也是他出道至今銷量最佳的顛峰代表作。&lt;/span&gt; &lt;/span&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;（&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;两点说明，1、虽然注明是童话，但却是“成人童话”！2、目前只有英文版是全文，但文字并不会太晦涩，配上字典应该可以顺利通读。&lt;/font&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743298858</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>外文原版</dc:subject>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-24T12:41:51.295000+00:00" name="calibre:timestamp"/>
+        <meta content="Book of Lost Things, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
