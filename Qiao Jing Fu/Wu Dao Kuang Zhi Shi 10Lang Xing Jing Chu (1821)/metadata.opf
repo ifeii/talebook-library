@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">361a43d0-cf75-40fa-9ad5-7905fffa7314</dc:identifier>
+        <dc:title>武道狂之诗10狼行荆楚</dc:title>
+        <dc:creator opf:file-as="乔靖夫" opf:role="aut">乔靖夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-05T16:00:00+00:00</dc:date>
+        <dc:description>猛獸出山　技驚朝野。	&#13;
+『除了背上這柄刀，還有甚麼非帶不可的東西？』	&#13;
+荊州府的江湖道上，一名號稱「鬼刀陳」的神秘高手突如彗星崛起，甚至引得南昌寧王府注意，雌狼刀客霍瑤花奉命前往故地查探，一試其霸氣刀鋒！	&#13;
+「破門六劍」行俠江西干犯官府，燕橫與童靜雙雙試劍臨江城；同時荊裂卻遇上武道生涯裡最大的難關……	&#13;
+奸臣錢寧為除大患，實行「以武制武」，鼓動正德皇帝發出了駕馭天下武林的欽令，武者尊嚴遭逢嚴峻考驗……	&#13;
+狼派武俠第十幕．愛與戰鬥！	&#13;
+「這部小說，我著力描寫武者那不屈的魂魄，期望這股奮發向上的正能量，能夠感染和提振人心。」──喬靖夫	&#13;
+喬靖夫暢銷長篇系列《武道狂之詩》，從經典武俠原點再出發，以獨特視角與筆法，創造出具凌厲狠勁，強悍而不孤的濃厚「狼派」風味，令人熱血奔騰</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>武侠小说</dc:subject>
+        <meta content="{&quot;乔靖夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:06.752267+00:00" name="calibre:timestamp"/>
+        <meta content="武道狂之诗10狼行荆楚" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

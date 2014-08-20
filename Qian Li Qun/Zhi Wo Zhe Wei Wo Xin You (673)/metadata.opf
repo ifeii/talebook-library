@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51d0002e-bb61-4eb6-a68b-a05747c060d1</dc:identifier>
+        <dc:title>知我者謂我心憂</dc:title>
+        <dc:creator opf:file-as="钱理群" opf:role="aut">钱理群</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-22T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;這本書的最大特點就是“不公開性”，它從一開始就不準備公開發表，這樣才保持了最大限度的思考與表達的真實性。我們這一代人活得實在太窩囊，一輩子都在看著別人的眼色，按照體制的要求，說大話，套話，廢話，假話，做違心的事和文。現在老了老就太對不住自己了。我要最大限度保存一個真實的自我。&lt;br&gt;　　本書的另一個重要動因，是要以此記念遛寺（谐音……）運動二十週年。我始終認為，自己對二十年前，以青年學生、工人、市民的犠牲為代價的運動，是負有責任的。我說過 ﹕作為老師，卻沒有盡到保護學生的責任，儘管我無能為力，但我仍然不能擺脫內心的愧疚和不安，這至今仍是壓在我心上的墳。謹以本書奉獻給那場震撼世界的運動的犠牲者和他們的親人，以及因此而受到迫害的人們，作為我這個倖存者的心的記念。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789889945633</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-22T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="知我者謂我心憂" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

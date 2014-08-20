@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a91ce4c3-fcbd-4ecf-a372-b366e3401e6c</dc:identifier>
+        <dc:title>巨流河</dc:title>
+        <dc:creator opf:file-as="齐邦媛" opf:role="aut">齐邦媛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;一部反映中国近代苦难的家族记忆史；一部过渡新旧时代冲突的女性奋斗史；一部台湾文学走入西方世界的大事纪；一部用生命书写壮阔幽微的天籁诗篇！&lt;br&gt;巨流河，位于中国东北地区，是中国七大江河之一，被称为辽宁百姓的‘母亲河’。南滨渤海与黄海，西南与内蒙内陆河、河北海滦河流域相邻，北与松花江流域相连。这条河古代称句骊河，现在称辽河，清代称巨流河。影响中国命运的‘巨流河之役’，发生在民国十四年，当地淳朴百姓们仍沿用着清代巨流河之名。&lt;br&gt;本书的记述，从长城外的‘巨流河’开始，到台湾南端恒春的‘哑口海’结束……&lt;br&gt;作者齐邦媛的父亲齐世英──民国初年的留德热血青年，九一八事变前的东北维新派，毕生憾恨围绕着巨流河功败垂成的一战，渡不过的巨流像现实中的严寒，外交和革新思想皆困冻于此，从此开始了东北终至波及整个中国的近代苦难。&lt;br&gt;作者的一生，正是整个二十世纪颠沛流离的缩影。&lt;br&gt;作者以邃密通透、深情至性、字字珠玑的笔力，记述纵贯百年、横跨两岸的大时代故事。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789862163719</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>台港澳文学</dc:subject>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-27T06:53:00.546000+00:00" name="calibre:timestamp"/>
+        <meta content="巨流河" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

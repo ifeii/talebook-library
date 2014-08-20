@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b248768-6815-4b0f-8b22-d3bdc4e805ea</dc:identifier>
+        <dc:title>湖上闲思录</dc:title>
+        <dc:creator opf:file-as="钱穆" opf:role="aut">钱穆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《湖上闲思录》为作者1948年徜佯于湖光胜景中闲思遐想的结晶,分别就人类精神和文化领域诸多或具体或抽象的相对命题。如情与欲、理与气、善与恶等作了灵动,细腻而深刻的分析与阐发,从二元对立的视角思索了人类存在的基本问题。全书言浅意深,语重心长,既见出史家的沈潜与细密,又见出哲人的深邃和文学家的灵透与光彩、显示了作者多样的才华。&lt;/p&gt;</dc:description>
+        <dc:publisher>三联书店</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6af1662d-f400-4fc2-affe-d4d6f3815980</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787108022424</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Chinese</dc:subject>
+        <meta content="{&quot;钱穆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:57:34.747860+00:00" name="calibre:timestamp"/>
+        <meta content="湖上闲思录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

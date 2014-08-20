@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c25e2fd-5e32-4bfd-baff-a3809a5f8430</dc:identifier>
+        <dc:title>传统十论</dc:title>
+        <dc:creator opf:file-as="秦晖" opf:role="aut">秦晖</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-08T16:00:00+00:00</dc:date>
+        <dc:description>秦暉认为，对传统中国乡村社会的认识与乡村改革的认识无法分离。因而自近代以来，在西方政治社会学“国家-社会”二元分析的理论基础上，出现了对古代中国社会“国家-宗族”或“皇权-绅权”的二元分析模式，强调宗族本位，强调乡村自治，强调伦理秩序。这种观点与受阶级分析影响的租佃模式形成对立，并在改革开放后重新进入内地后逐渐形成风趸。秦暉对此提出质疑，认为它不仅无力解释王朝崩溃循环的历史现象，同时也易于迷惑人们对传统与现代的区分认识，从而有可能帮助各种历史沉渣借助现代的名目重新泛起，甚至推衍极端。因此，秦暉需要对传统中国乡土社会重新进行解读，也就是他在《传统十论》中的核心问题，即古代中国国家控制的整体图景和臣民人格的形成。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>哲学·社会</dc:subject>
+        <meta content="{&quot;秦晖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:09.312262+00:00" name="calibre:timestamp"/>
+        <meta content="传统十论" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
