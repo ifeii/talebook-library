@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc5802b4-22e9-4188-a804-79008d286f00</dc:identifier>
+        <dc:title>我们</dc:title>
+        <dc:creator opf:file-as="尤金·扎米亚京" opf:role="aut">尤金·扎米亚京</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;作为第一部反乌托邦作品，《我们》针对的是极权主义的种种弊端。全书采用笔记形式，假借生活在未来世界中的一个模范公民之口，戏拟了一个高度数字化、采用集中统一管理的“联众国”中各色人等的生活和心态。&lt;/p&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;在这个攀上了“人类文明的最高峰”的联众国，所有公民一律被冠以数字为名。主人公便叫“D-503号”。D-503号是一名联众国培养成人的数学家，他对联众国满怀忠诚，特地记起了笔记，想借之赞颂威哉壮哉的联众国。&lt;/p&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;怎料，联众国再发达文明，也仍旧奈何不了残留的人性。某个美艳过人的女性号码I-330突然出现，完全震撼了D-503号的纯洁心灵。在I-330的引诱下，D-503号一步步解放了本性，由小说开始时恨不能化身为机器的极端忠诚分子渐渐转变为有恨有爱，有血有肉有“灵魂”的凡人。不过，事情远没有这么简单。I-330之所以接近D-503号，自有她的秘密计划。作品的结局是出乎意料、震撼人心的。&lt;/p&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;《我们》的写作风格直接影响了后来的《1984》、《美丽新世界》等反乌托邦作品。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>文学名著</dc:subject>
+        <meta content="反乌托邦" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T02:42:16.015000+00:00" name="calibre:timestamp"/>
+        <meta content="我们" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
