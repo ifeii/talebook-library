@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c01ad04-f2ae-496d-a82a-37596cc24689</dc:identifier>
+        <dc:title>纳兰词笺注</dc:title>
+        <dc:creator opf:file-as="纳兰性德" opf:role="aut">纳兰性德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-14T16:00:00+00:00</dc:date>
+        <dc:description>纳兰词笺注</dc:description>
+        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>Antiques &amp; Collectibles</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="诗词" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="纳兰词笺注" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

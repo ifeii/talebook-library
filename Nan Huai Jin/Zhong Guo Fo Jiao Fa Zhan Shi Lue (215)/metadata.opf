@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3ae6fe1-36e0-40cb-8d7e-021e0fca133f</dc:identifier>
+        <dc:title>中国佛教发展史略</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">南怀瑾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;兹经《中国佛教发展史略》作者和原出版单位台湾老古文化事业公司授权，将老古1991年第3版改为今名，校订出版，以供研究。&lt;/p&gt;</dc:description>
+        <dc:publisher>复旦大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787309017069</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>佛教</dc:subject>
+        <dc:subject>南怀瑾</dc:subject>
+        <dc:subject>佛学</dc:subject>
+        <dc:subject>宗教及宗教学</dc:subject>
+        <dc:subject>佛教发展史</dc:subject>
+        <dc:subject>宗教</dc:subject>
+        <meta content="哲学" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="中国佛教发展史略" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

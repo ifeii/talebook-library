@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3e5a2fd-6131-457e-965c-536d2fa90b11</dc:identifier>
+        <dc:title>I Remember Nothing</dc:title>
+        <dc:creator opf:file-as="Ephron, Nora" opf:role="aut">Nora Ephron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-08T16:00:00+00:00</dc:date>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307595621</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>NYTIMES</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-19T10:51:20.640000+00:00" name="calibre:timestamp"/>
+        <meta content="I Remember Nothing" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
