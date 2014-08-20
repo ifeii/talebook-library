@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e375bbcd-feae-4ae8-8f43-d8fff80640d9</dc:identifier>
+        <dc:title>作为意志和表象的世界</dc:title>
+        <dc:creator opf:file-as="叔本华" opf:role="aut">叔本华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-31T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+“世界是我的意志、世界是我的表象。”完成这本书的时候，叔本华只有28岁，这部后来影响了包括尼采、瓦格纳、托玛斯·曼甚至存在主义的哲学名作，包含了叔本华哲学的一切细节，其后他漫长一生都只不过是在解释或补充这部著作。这位被称为极忧伤、极悲观的哲学家，以他的唯意志论和忧伤语调征服了无数后辈，他认为“人生有如钟摆，摆动在痛苦与倦怠之间……当人们把一切痛苦归之于地狱，那么剩下来属于天国的只有倦怠。”</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100022965</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>叔本华</dc:subject>
+        <dc:subject>学术</dc:subject>
+        <meta content="哲学" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="作为意志和表象的世界" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

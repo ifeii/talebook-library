@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0907b40-da39-4aa8-9cf7-e1303153dd4b</dc:identifier>
+        <dc:title>决策与判断</dc:title>
+        <dc:creator opf:file-as="斯科特·普劳斯" opf:role="aut">斯科特·普劳斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-20T16:00:00+00:00</dc:date>
+        <dc:description>本书的对象是希望了解决策与判断心理学的基础知识的非专业人士。它着重是实验结果而不是心理学理论，是出人意料的结论而不是猜想，是对研究的描述而不是数学公式。一句话，这本书是想要大家高兴而且思考，同时也是为了传播和普及心理学的知识。
+　　 本书共分6部分，前两个部分主要介绍决策与判断的基本要素，包括知觉、记忆、情境和提问方式。第三和第四部分主要介绍决策的经典模式，并与最近有关判断偏差的新模式做对比。第五部分探讨由团体做出的判断和关于团体的判断。第六部分讨论决策与判断的一些常见的陷阱。第一章都设计成能够单独成立的专题，所以读者可以自由地跳跃不同的章节或随意地安排阅读顺序。
+　　 本书一个与众不同的地方就是第1章之前的读者调查，这个调查的问题是根据以后章节中涉及的研究问题改编和复制而成的。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>生活·励志</dc:subject>
+        <meta content="{&quot;斯科特·普劳斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:57:29.581705+00:00" name="calibre:timestamp"/>
+        <meta content="决策与判断" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

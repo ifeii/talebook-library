@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2f1bca5-6bb9-40fb-beb3-3a8389f4e8d1</dc:identifier>
+        <dc:title>WATER FOR ELEPHANT</dc:title>
+        <dc:creator opf:file-as="Gruen, Sara" opf:role="aut">Sara Gruen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.62) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="display: inline;" class="all hidden"&gt;　　An atmospheric, 
+gritty, and compelling novel of star-crossed lovers, set in the circus 
+world circa 1932, by the bestselling author of  Riding Lessons .&lt;br&gt;　　&lt;br&gt;　
+　 When Jacob Jankowski, recently orphaned and suddenly adrift, jumps 
+onto a passing train, he enters a world of freaks, drifters, and 
+misfits, a second-rate circus struggling to survive during the Great 
+Depression, making one-night stands in town after endless town. A 
+veterinary student who almost earned his degree, Jacob is put in charge 
+of caring for the circus menagerie. It is there that he meets Marlena, 
+the beautiful young star of the equestrian act, who is married to 
+August, the charismatic but twisted animal trainer. He also meets Rosie,
+ an elephant who seems untrainable until he discovers a way to reach 
+her.&lt;br&gt;　　&lt;br&gt;　　  Beautifully written,  Water for Elephants  is 
+illuminated by a wonderful sense of time and place. It tells a story of a
+ love between two people that overcomes incredible odds in a world in 
+which even love is a luxury that few can afford.   --This text refers to
+ the Hardcover edition.&lt;/span&gt;</dc:description>
+        <dc:publisher>Algonquin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781565125605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;Sara Gruen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="67" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-07-28T11:38:36+00:00" name="calibre:timestamp"/>
+        <meta content="WATER FOR ELEPHANT" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

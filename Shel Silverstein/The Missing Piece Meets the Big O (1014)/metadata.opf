@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bbb569e-64c7-4e95-a171-ad312d4ac953</dc:identifier>
+        <dc:title>The Missing Piece Meets the Big O</dc:title>
+        <dc:creator opf:file-as="Silverstein, Shel" opf:role="aut">Shel Silverstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-11T16:00:00+00:00</dc:date>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060256579</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:AB</dc:subject>
+        <meta content="{&quot;Shel Silverstein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="漫画·绘本" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Missing Piece Meets the Big O, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

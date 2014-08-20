@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72dbe01e-ce4b-4ef8-b96b-be957aba7782</dc:identifier>
+        <dc:title>水浒传（金圣叹评七十回本）</dc:title>
+        <dc:creator opf:file-as="施耐庵" opf:role="aut">施耐庵</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-05T16:00:00+00:00</dc:date>
+        <dc:description>毫无疑问，金圣叹读批《水浒》是中国文学史最具特色的评点之一，由此而招致的赞誉、诋毁也可谓铺天盖地，对于其是非功过的争论丝毫不亚于高鹗续《红楼梦》。金圣叹读批《水浒》在以下几点令人赞叹不已。&#13;
+首先是批文中表现出来的那种惊世骇俗的思想见解。这些思想见解具有鲜明的近代甚至现代意义和特色，因而，在暮气十足的晚明清初，不愧开风气之先,说他超越时代也毫不过分。他在读批《水浒传》中借司马迁作《史记》大发议论"……下笔者，文人之事也。以一代之大事……供其为绝世奇文之料，是文人之权矣，君相虽至尊，又乌敢置一末喙乎哉！"如此犀利的笔触，畅快淋漓的见解，从古至"金"，可谓绝无仅有。&#13;
+金圣叹思想的离经叛道还在于他对通俗文学地位的尊重，他不认为儒家的"四书"、"五经"就是圣贤至尊，天经地义，他把《左传》、《庄子》、《离骚》、《史记》、《杜诗》、《水浒》、《西厢》合称"七才子书"并对《水浒》和《西厢》进行颇具真人气息式的评点，让人耳目一新，境界开阔，领略了一片新天地。 &#13;
+金圣叹读批《水浒》除了其思想锋芒令人刮目相看外,其对中国古典小说理论的贡献也是让人叹为观止，可圈可点。他对小说的评点超过了在他之前的任何一位先行者，特别是他在小说创作上发表的许多真知灼见大大提高了对小说这种文学样式的本质特征和创作规律的认识、把握，其价值远远超过对《水浒》这部书的阐释、评论。难怪清人冯镇峦在《读杂说》中说："金人瑞批《水浒》、《西厢》，灵心妙舌，开后人无限眼界，无限文心"，确乎其然。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>古典文学</dc:subject>
+        <meta content="{&quot;施耐庵&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:22.083035+00:00" name="calibre:timestamp"/>
+        <meta content="水浒传（金圣叹评七十回本）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

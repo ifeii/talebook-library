@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba82eced-738f-401d-a998-6c7b85fe1d23</dc:identifier>
+        <dc:title>HTML5 Canvas</dc:title>
+        <dc:creator opf:file-as="Fulton, Steve &amp; Fulton, Jeff" opf:role="aut">Steve Fulton</dc:creator>
+        <dc:creator opf:file-as="Fulton, Steve &amp; Fulton, Jeff" opf:role="aut">Jeff Fulton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-25T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;HTML5 is revolutionizing the way web applications are developed, and this practical, hands-on book puts you right in the middle the action. You'll learn how to build interactive multimedia applications with HTML5's Canvas, using this new element to draw, animate, compose images, and more. You'll also learn the best way to use existing JavaScript libraries, as well as how to incorporate related aspects such as audio and video.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449393908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:DNWL</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <meta content="{&quot;Steve Fulton&quot;: &quot;&quot;, &quot;Jeff Fulton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-09T03:01:41+00:00" name="calibre:timestamp"/>
+        <meta content="HTML5 Canvas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

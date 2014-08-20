@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2afa8c06-598e-4cc5-9275-fab09fa5e32c</dc:identifier>
+        <dc:title>时间简史</dc:title>
+        <dc:creator opf:file-as="Wells, Herbert George" opf:role="aut">史蒂芬·霍金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-21T14:58:14+00:00</dc:date>
+        <dc:publisher>babyshan hcs@fj163.com</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2011-01-03T16:37:11.239899+00:00" name="calibre:timestamp"/>
+        <meta content="时间简史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

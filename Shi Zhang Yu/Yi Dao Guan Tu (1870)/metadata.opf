@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc95d4e4-3bb8-43f7-b4d4-f7aa9ff4d222</dc:identifier>
+        <dc:title>医道官途</dc:title>
+        <dc:creator opf:file-as="石章鱼" opf:role="aut">石章鱼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-27T16:00:00+00:00</dc:date>
+        <dc:description>几乎所有人都知道隋末第一条好汉是李元霸，却没几个知道隋末第一圣手是张一针，这和国人的英雄情结固然有关，咱们中华民族从来都是英雄流芳千古，奸臣遗臭万年，张一针这种贪财好色的家伙很容易被淹没在滚滚红尘之中。
+张一针不是个英雄，虽然医术高超，可是从来不做没有回报的事情，找他看病好办，要么有银子，要么有美色，张一针治好的富人多，基本上都是给了银子的，张一针治好的女人多，多数都是姿色出众的，对于这种不良医生野史都羞于记载。
+张一针死的很惨，武功已臻化境的他先是喝下隋炀帝的毒酒，然后被一千名御林军乱箭攒心，起因却是他不计报酬的做了一件好事，救活了隋炀帝难产的贵妃，所以他很感到很冤枉，做好事救了母子两条命，竟然落到这个结局，真是千古奇冤。
+炀帝可不觉着冤：“麻痹的，我的女人你也敢碰，让你这样死都算便宜你了！”
+后世科学证明，怨气的能量可以穿越时空，是为怨气冲天，所以张一针同志也成为千百万穿越众中的一员，很幸运的穿越了。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1eed0e05-b719-44f5-b304-f9326a77e277</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>都市生活</dc:subject>
+        <meta content="{&quot;石章鱼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:43.660130+00:00" name="calibre:timestamp"/>
+        <meta content="医道官途" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

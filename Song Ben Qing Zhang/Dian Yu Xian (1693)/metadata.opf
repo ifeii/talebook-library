@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bea81a99-9453-4977-95d0-804012eb48aa</dc:identifier>
+        <dc:title>点与线</dc:title>
+        <dc:creator opf:file-as="松本清张" opf:role="aut">松本清张</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-23T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;通过敏锐的观察和冷静的分析，描述了政界与财界之间的勾结和营私舞弊行为，揭示了时代的痼疾，被誉为世界十大推理小说之一。小说通过触目惊心的描绘，披露了资本中义社会的种种丑态以及资产阶级法律的虚伪性。司法检查部门明知凶手是谁而有法不依，法律对上层人物来说形同废纸。石田主任逍遥法外，使人们彻悟到：石田上级的污秽思想的蔓延，才是奸商和贪官污吏得逞的社会条件。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5b70a13d-dbd4-4217-ab88-ff6696d777ab</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>侦探·悬疑</dc:subject>
+        <meta content="{&quot;松本清张&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:03:52.754601+00:00" name="calibre:timestamp"/>
+        <meta content="点与线" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

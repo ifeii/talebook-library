@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14b4bf4d-c564-4d5a-91bb-6b1e27a0b2e1</dc:identifier>
+        <dc:title>别相信任何人</dc:title>
+        <dc:creator opf:file-as="S.J.沃森" opf:role="aut">S.J.沃森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.25) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-09T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="intro"&gt;
+    &lt;p&gt;每天醒来，克丽丝汀都身处一个陌生的房间，身旁躺着一个不认识的男人。&lt;/p&gt;    &lt;p&gt;当她面对镜子，发现自己居然老了20岁。那个男人会告诉他，你今年47岁，20年前遭遇严车祸，从此记忆受损。我是你的丈夫本，你很安全。&lt;/p&gt;    &lt;p&gt;克丽丝汀的记忆只能保持一天，每天醒来，就再也不记得昨天发生过事。关于她世界里的一切，全部只能由本告知。不过每一天，她也会接到陌生的纳什医生来电，要她到衣橱后方找出日记。原来，克丽丝汀在睡前会写下今天的事作为“备忘录”，提醒明天失忆的自己。&lt;/p&gt;    &lt;p&gt;就这样，克丽丝汀借着日记的累积，一天天重建了自己的历史，但细节渐渐和本以及纳什医生的说法产生矛盾。他到底该相信谁？&lt;/p&gt;    &lt;p&gt;今天醒来，她翻开日记，只见第一页写着：别相信本。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;（&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注：书籍来源于&lt;a href="http://ishare.iask.sina.com.cn/f/34953633.html"&gt;新浪爱问&lt;/a&gt;，虽然是txt，但可以算是精校版，我看了第一章，排版跟文字校对都很好，感谢原校对者。&lt;/font&gt;）&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508628332</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>ZDC:UK</dc:subject>
+        <meta content="{&quot;S.J.沃森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="73" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-10T11:16:00+00:00" name="calibre:timestamp"/>
+        <meta content="别相信任何人" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: &quot;小说&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

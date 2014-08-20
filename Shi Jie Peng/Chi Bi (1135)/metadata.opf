@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c08f3dcd-0467-4353-ac43-42c93556ae9b</dc:identifier>
+        <dc:title>赤壁</dc:title>
+        <dc:creator opf:file-as="史傑鵬" opf:role="aut">史傑鵬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: MingLiu; color: rgb(51, 51, 51); "&gt;赤壁之戰是中國歷史上著名的以少勝多的戰役。究竟以如何之少對如何之多？落魄的劉備為何會得到謀有諸葛武有趙雲的追隨與青睞？擁有江東富庶之地的孫權和自命不凡的周瑜為何肯與弱小的卻是潛在對手的劉備聯手抗曹？年輕的諸葛孔明在七星壇上使用了何種招術換來了東風？雄才大略的曹操為何一而再再而三地中計？二喬與諸位英雄究竟有著怎樣的情感糾葛？青年才俊史傑鵬用他的學識與想像構築了一個他心中的三國，隔著千載塵埃奏出赤壁之戰的絕響。&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563370238</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;史傑鵬&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-29T17:13:04+00:00" name="calibre:timestamp"/>
+        <meta content="赤壁" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

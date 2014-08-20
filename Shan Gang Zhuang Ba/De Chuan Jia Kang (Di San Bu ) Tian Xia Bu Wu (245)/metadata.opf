@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8aed592-0f2c-465b-b79d-3e1c35d4884a</dc:identifier>
+        <dc:title>德川家康（第三部） 天下布武</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+本书展现了德川家康作为乱世终结者和盛世开创者丰满、曲折、传奇的一生,书中每一行每一面都充满着智慧与杀伐、谋略与权术、天道与玄机!它不仅成为商战兵法、政略宝典、兵家必备,更是不配的盛志传奇。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238175</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>Japanese fiction</dc:subject>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第三部） 天下布武" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

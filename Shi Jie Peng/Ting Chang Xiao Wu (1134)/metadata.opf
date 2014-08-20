@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7194b887-cfd3-495a-a2ea-a185617d89f6</dc:identifier>
+        <dc:title>亭長小武</dc:title>
+        <dc:creator opf:file-as="史傑鵬" opf:role="aut">史傑鵬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: MingLiu; color: rgb(51, 51, 51); "&gt;這部被業內權威評價為「用小說重寫《漢書》」的恢宏長篇，以漢武帝時代「巫蠱之變」為背景、以湖北張家山出土漢簡所記載的一個離奇案件為緣起，引出一段曲折生動、扣人心弦的傳奇故事，塑造了小武這個精通漢律、亦正亦邪、亦儒亦俠的文俠形象，及其平民發跡的傳奇人生。書中全面展現了強漢風骨、蒼涼雄放的時代風貌，濃烈狂野的男女之愛，以及凌厲雄勁的戰陣兵鋒、市井閭裡的日常生活等漢代社會的原生態。&lt;br&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506020855</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;史傑鵬&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-29T17:12:37+00:00" name="calibre:timestamp"/>
+        <meta content="亭長小武" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

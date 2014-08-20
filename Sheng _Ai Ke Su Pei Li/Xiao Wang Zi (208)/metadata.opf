@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb618307-cac6-4a09-94a6-57b70a6c59d7</dc:identifier>
+        <dc:title>小王子</dc:title>
+        <dc:creator opf:file-as="圣·埃克苏佩里" opf:role="aut">圣·埃克苏佩里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《小王子》所讲述的是美丽的伤感故事，飞行员“我”因为飞机出了故障，被迫降落在远离人烟的撒哈拉沙漠上，这时一位迷人而神秘的小男孩出现了，执拗地请“我”给他画一只绵羊。他就是小王子，纯洁、忧郁，来自太阳系中某个不为人知的小行星，爱提问题，对别人的问题却从不作答。在攀谈中小王子的秘密逐渐揭开了，他是因为与他美丽而骄傲的玫瑰发生了感情纠葛才负气出走的。他在各星球中漫游，分别造访了国王、自负的人、酒鬼、商人、掌灯人和地理学家的星球，最后降临到地球上，试图找到疏解孤独和痛苦的良方，小王子结识了狐狸，同狐狸建立了友谊，也从狐狸那里学到了人生的真谛。他决定回到他的玫瑰那里去，但是他的躯壳是难以带走的，于是他决定求助于那条30秒钟内就能致人于死地的毒蛇……</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802282902</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>童真</dc:subject>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="小王子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

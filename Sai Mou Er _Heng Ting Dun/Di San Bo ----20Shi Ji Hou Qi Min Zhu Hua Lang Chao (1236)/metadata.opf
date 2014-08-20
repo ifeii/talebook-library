@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ede8ccd9-595a-4f50-9e12-59584d000870</dc:identifier>
+        <dc:title>第三波——20世纪后期民主化浪潮</dc:title>
+        <dc:creator opf:file-as="塞缪尔·亨廷顿" opf:role="aut">塞缪尔·亨廷顿</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-15T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;本书探讨的是二十世纪后期一项重要的，也是最重要的全球性政治发展：即大约有30个 
+国家由非民主政治体制过渡到民主政治体制。这本书试图解释发生在1974――1990年间这一 
+波民主化的原因、方式及其直接后果。本书横跨理论和历史两个领域，但是它既不是一部理 
+论著作，也不是一部史书。它位于两者之间；它基本上是一部解释性的专著。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注：该电子书根据修订版pdf和扫描版pdf校对排版而成，这里提供下载的pdf即修订版，注意，pdf是完整尺寸的，不是6寸版。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;扫描版可以说是一个洁本，基本上没有与我朝相关的任何信息，修订版则适当恢复（或者增加？）了一些内容，但是那些很关键的字眼则一个都找不到。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;如果说这是一本自上而下进行改革的手册，那&lt;a href="http://book.zi5.me/books/detail/921"&gt;这一本&lt;/a&gt;则是自下而上的，可以对照着看看。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;老规矩，该书仅供参考，看看就好，关联的那本也是一样。&lt;/font&gt;)&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542611437</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <meta content="{&quot;塞缪尔·亨廷顿&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="34" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-15T22:03:02+00:00" name="calibre:timestamp"/>
+        <meta content="第三波——20世纪后期民主化浪潮" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

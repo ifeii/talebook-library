@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce98f597-40af-4c63-a6f4-e176e5fde44d</dc:identifier>
+        <dc:title>賭徒陳湯</dc:title>
+        <dc:creator opf:file-as="史傑鵬" opf:role="aut">史傑鵬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: MingLiu; color: rgb(51, 51, 51); "&gt;史傑鵬原本就是以說故事見長的成熟作家，在《賭徒陳湯》中，他更將「說故事」這件事發揮到極致：全書是由不同角色分別以第一人稱視角發聲來講述：青梅竹馬樂縈、鬥雞都尉萭章、廷尉陳遂、匈奴郅支單于、北軍中壘副校尉陳湯；而這五個主角，又引帶出四個配角用不同風格娓娓道出幾則短篇故事：結巴的縣令之子王君房、身份神秘的陳湯之母、粗中帶細的強盜呂仲、擅說鬼的老僕陳長年。&lt;br&gt;&lt;br&gt;故事中有故事，而且每個故事都因為不同的講述者、不同的講述環境和不同的聽眾，有著全然不同的風味，每個講述者各自有各自的口調、各自的口頭禪。&lt;br&gt;&lt;br&gt;王君房之結巴，將近兩千字的故事卻毫不遲滯；陳湯的母親懷想當年，旁枝比主線說得更津津有味；呂仲有一句可為招牌的口頭禪，令人印象深刻；陳長年的鬼故事說來聲音表情十足，驚悚萬分。&lt;br&gt;&lt;br&gt;故事的主要核心，則是由樂縈、萭章、陳遂、郅支單于四人，將陳湯的一生用好幾種截然不同甚至恰恰相反的角度鋪陳而出，宛如芥川龍之介《竹藪中》，卻又生動有趣而不至詭譎難讀。&lt;br&gt;&lt;br&gt;陳湯在末章才現身說法，然而身為最主要主角的他，前面幾章當然也不會缺席。有趣的是，同一個故事，不同人嘴裡卻有了出入，而這些微的出入，正是暗示了巧妙之處。&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506027632</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;史傑鵬&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-29T17:13:13+00:00" name="calibre:timestamp"/>
+        <meta content="賭徒陳湯" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

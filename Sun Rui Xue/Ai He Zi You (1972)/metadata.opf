@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6acf785e-5d19-4454-9aac-4c92a58007e4</dc:identifier>
+        <dc:title>爱和自由</dc:title>
+        <dc:creator opf:file-as="孙瑞雪" opf:role="aut">孙瑞雪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-21T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《爱和自由:孙瑞雪幼儿教育演讲录(全新增订第4版)》是孙瑞雪教育机构经典图书《爱和自由》全新增订第4版。从第一版到今天的第4版，《爱和自由》已经走进几十万个家庭。千万个父母因此书而彻底改变，她们“心灵受到震撼，感动而愧疚”，并从中学会真正的爱，真正的教育。千万个孩子因此书而健康、愉悦地成长，成长为心理有力量、有强大自我、有创造品质的一代新人！&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d28ca13d-6211-4f8b-ab44-0113ae8ef3c7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>儿童教育</dc:subject>
+        <meta content="{&quot;孙瑞雪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:09:03.448742+00:00" name="calibre:timestamp"/>
+        <meta content="爱和自由" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

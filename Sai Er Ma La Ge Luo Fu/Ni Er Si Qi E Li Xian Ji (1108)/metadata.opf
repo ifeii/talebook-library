@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cc9abc5-fb39-41cc-b7a2-d8f3a125930d</dc:identifier>
+        <dc:title>尼尔斯骑鹅历险记</dc:title>
+        <dc:creator opf:file-as="塞尔玛・拉格洛芙" opf:role="aut">塞尔玛・拉格洛芙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-28T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description" style="color: rgb(4, 12, 41); font-size: 12px; -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; "&gt;1909年诺贝尔文学奖。&lt;/p&gt;&lt;p class="description" style="color: rgb(4, 12, 41); font-size: 12px; -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; "&gt;获奖理由：“由于她作品中特有的高贵的理想主义、丰饶的想象力、平易而优美的风格”。&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#040C29" size="3"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px;"&gt;1897年，拉格洛夫在瑞典中部的法隆市定居。1906年应瑞典一位小学校长的请求，答应写一本适合儿童读的书。年近50岁的作家，为了搜集有关资料，忍受着腿疾带来的巨大痛苦，跋山涉水，在全国进行实地考查。她在认真研究飞禽走兽的生活习性和规律、调查各地的风俗习惯和民间传说的基础上，终于完成了举世闻名的童话小说《尼尔斯骑鹅历险记》（直译为《尼尔斯·豪格尔森传奇般地周游瑞典》）。这部作品使作家从此与安徒生齐名。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#040C29" size="3"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px;"&gt;(&lt;font class="Apple-style-span" color="#FF0000"&gt;子乌注：不知道是该电子版的目录问题还是后来出的实体书都是缩略版，实体书的目录比电子版少了很大一截&lt;/font&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806579596</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:THSH</dc:subject>
+        <dc:subject>CNTY:SWEDEN</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;塞尔玛・拉格洛芙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诺贝尔文学奖" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-29T14:47:42+00:00" name="calibre:timestamp"/>
+        <meta content="尼尔斯骑鹅历险记" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

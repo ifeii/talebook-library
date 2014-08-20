@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4971ea3-562f-4b1a-9498-276e25222e87</dc:identifier>
+        <dc:title>德川家康（第十三部） 长河落日</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+庆长二十年，大坂夏役开战，东西军激战于道明寺、若江等地，西军诸将力竭，相继战亡，大坂一败涂地。已逾七十的德川家康虽有心挽救丰臣秀赖母子性命，然关东众人心怀宿怨，瞒天过海，致使秀赖母子于城破后自尽，秀赖子国松丸被处死，丰臣氏终走向末路。
+秀赖既去，德川家康痛定思痛，反省自身，竭力安排身后诸事。为防野心勃勃的伊达政宗生变，忍痛圈禁六子忠辉；颁武家法度十三条及公卿法令，为天下立规矩……元和二年（1616）正月，德川家康狩猎途中患病，因年老体弱不治，一代雄主终于四月寿终正寝，享年七十有五。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238953</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>战国</dc:subject>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第十三部） 长河落日" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

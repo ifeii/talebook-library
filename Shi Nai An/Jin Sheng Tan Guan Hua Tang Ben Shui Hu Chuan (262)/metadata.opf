@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c252fae-bd81-4ce0-8ca2-94d54c84cec2</dc:identifier>
+        <dc:title>金圣叹贯华堂本水浒传</dc:title>
+        <dc:creator opf:file-as="施耐庵" opf:role="aut">施耐庵</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中国档案出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801665836</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>水浒传</dc:subject>
+        <dc:subject>金圣叹</dc:subject>
+        <meta content="古典名著" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="金圣叹贯华堂本水浒传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

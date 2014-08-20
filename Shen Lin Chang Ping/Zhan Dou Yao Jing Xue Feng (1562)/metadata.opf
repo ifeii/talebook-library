@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84c9ffd8-11dd-4d82-9594-780e26fd6902</dc:identifier>
+        <dc:title>战斗妖精雪风</dc:title>
+        <dc:creator opf:file-as="神林长平" opf:role="aut">神林长平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-29T16:00:00+00:00</dc:date>
+        <dc:description>《战斗妖精雪风》是荣获日本科幻星云赏里程碑式的经典作品，讲述是菲尔利空军（FAF）中战略情报特殊部队飞行员深井零和他强大的拥有人工智能电脑的战机雪风共同战斗的故事。&#13;
+　　追求人类和机械间的极限系列大作！&#13;
+    神林长平:1953年出生。1979年以入选第5届早川，SF竞赛佳作的「与狐共舞」出道。自从第一作长篇「愿君魂获得安息」以独特的世界观为基础，发表了多数使用「语言」「机械」等主题的作品，受到大量喜爱SF读者的支持。也曾以「敌人是海贼．海贼版」、本书的续篇「Good Luck战斗妖精．雪风」等长短篇获得多次星云赏（早川书房发行）。1995年以「言壶」获颁第16届日本SF大赏。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;神林长平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:35.563983+00:00" name="calibre:timestamp"/>
+        <meta content="战斗妖精雪风" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

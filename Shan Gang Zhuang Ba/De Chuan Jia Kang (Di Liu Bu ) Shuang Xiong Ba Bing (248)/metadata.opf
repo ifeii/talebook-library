@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">583218fc-4612-4027-bbe4-df2092b3f8d0</dc:identifier>
+        <dc:title>德川家康（第六部） 双雄罢兵</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+短短二十年的工夫,日本就从站后的废墟中复兴,进而成为世界经济强国。为什么那么了不起?问题的答案就在德川家康身上。事实上,每一个日本人都是另一个德川家康,要了解日本、超越日本,必须先了解德川家康...</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238885</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>Japanese fiction</dc:subject>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第六部） 双雄罢兵" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

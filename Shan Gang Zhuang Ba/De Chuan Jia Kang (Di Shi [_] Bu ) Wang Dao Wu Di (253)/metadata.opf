@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b87693d-bfb2-48dc-890e-9b2b1ffb3ee2</dc:identifier>
+        <dc:title>德川家康（第十一部） 王道无敌</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+丰臣秀赖进京未果，德川家康不仅不加责怪，反而令六子忠辉往大坂探病。但淀夫人仍无动于衷，反而生起疑心。
+德川家康重用英吉利人三浦按针，激起旧教国葡萄牙与西班牙传教士的不满与恐慌。但家康内心对新旧教并无区别对待，对其明争暗斗浑无知觉，一方面重用林道春等儒家学人，治理国内礼仪风气，一方面愈热衷于海外发展，逐渐取得成果。
+不料值此天下太平、百废俱兴之际，大久保长安竟生起狼子野心，私藏黄金，制联名状，想让主子忠辉与将军秀忠平分天下，但尚未及起事，长安突然病亡。长安身亡后，联名状事发，德川家重臣大久保家受连累败落。
+德川家康进京，丰臣秀赖上洛相会。祖孙携手言欢。但双方重臣心怀宿怨，出言相讥，致使丰臣家重臣怀恨在心，生起反意，而因联名状上又有丰臣秀赖之名，天下形势再陷危机……</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238939</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第十一部） 王道无敌" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83cf057b-005e-42ef-83e8-f5f81928d46e</dc:identifier>
+        <dc:title>德川家康（第八部） 枭雄归尘</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+文禄二年（1593），丰臣秀吉喜得一子，爱如珍宝。此时，秀次倒行逆施，行事残暴，被人称作“杀生关白”，在与秀吉妾茶茶和宠臣石田三成的斗争中，获罪自杀。同时，朝鲜战事陷入泥潭，议和失败，一代枭雄丰臣秀吉心力交瘁，终于于庆长三年归于尘土。临终时，将爱子托与德川家康等重臣。秀吉身后，纷争四起。五奉行之一、野心勃勃的石田三成欲挟幼主号令天下，深惧德川家康，遂串通另外四奉行，挑拨前田利家，想合力对抗家康。
+眼看天下又将大乱，德川家康镇定自若，弹压群雄，匡扶正道，努力承继太平大任。利家绝症缠身，病危之际，深明大义的他将幼主托付与家康。三成阴谋败露，被丰臣家众宿将追杀，不得已逃到家康处避难。家康不计前嫌加以庇护，但却于不动声色之中，巧妙逼其退隐……</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238908</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>Japanese fiction</dc:subject>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第八部） 枭雄归尘" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

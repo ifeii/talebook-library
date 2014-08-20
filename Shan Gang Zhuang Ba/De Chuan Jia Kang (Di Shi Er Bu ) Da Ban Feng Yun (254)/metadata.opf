@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">047a385a-0a59-4cc3-9443-2ef40df612f5</dc:identifier>
+        <dc:title>德川家康（第十二部） 大半风云</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+自庆长十八年始，天下风云突变，丰臣氏重臣召集浪人，与天主教徒勾结，致使野心之人云集大坂，战争一触即发。年事已高的德川家康为世间太平，不得不费尽心思延缓开战，不得已于庆长十九年冬亲自领兵之后，又围而不攻，欲令丰臣众人醒悟，主动解散大坂浪人。但大坂不能领会家康苦心，迫不得已之下，德川家康炮轰大坂城天守阁，令丰臣家乌合之众丧胆，同时授意己方与丰臣家暗通款曲，至此，淀夫人等方被迫接受议和。德川家康为消除隐患，欲移封秀赖至大和郡山。
+原本东西议和，天下安定，然大野治长等大坂主战之人，以德川方填埋总壕为借口，再生风波，派兵烧毁郡山，屡屡挑衅，和约已成废纸。德川被迫再度出兵，丰臣氏自寻绝路……</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238946</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第十二部） 大半风云" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
