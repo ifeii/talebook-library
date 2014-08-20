@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">519011c2-ce6b-4e51-81fe-38584feaf149</dc:identifier>
+        <dc:title>艺术的故事</dc:title>
+        <dc:creator opf:file-as="贡布里希" opf:role="aut">贡布里希 (Sir E.H.Gombrich)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;全书概括地叙述了从最早的洞窟绘画到当今的实验艺术的发展历程，以阐明艺术史是“各种传统不断迂回，不断改变的历史，每一件作品在历史中都既回顾过去又导向未来。”&lt;br&gt;　　贡布里希爵士，其殚见洽闻，斐然文采之作，往往寥寥数语就能阐发一个时期的整个气氛。他以一本《艺术的故事》极为成功地教会了成千上万的人如何去欣赏前人的绘画，这是一部博学动人的精彩之作，也是有关艺术的书籍中最著名、最流行、而又最经久不衰的著作之一。&lt;br&gt;　　《艺术的故事》自在西方问世以来，已重版二十余次，享誉全球，国内也有几个版本。本版为三联书店版，为艺术史大家、贡布里希研究专家范景中教授的译本，名著名译，图文并茂，制作精美，引人入胜。&lt;br&gt;(子乌注：&lt;span style="color:red"&gt;缺第150页！&lt;/span&gt;)&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108013132</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;贡布里希 (Sir E.H.Gombrich)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="艺术" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-14T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="艺术的故事" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

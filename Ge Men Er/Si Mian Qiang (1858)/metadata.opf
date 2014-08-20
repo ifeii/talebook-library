@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2223368d-d2f3-4131-bde3-e63e233265de</dc:identifier>
+        <dc:title>四面墙</dc:title>
+        <dc:creator opf:file-as="哥们儿" opf:role="aut">哥们儿</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;不论何时何地,四面都是墙、墙、墙,即使你身自由,你心已囚。 ——题记  不可不来,不可再来。哪里有权威,哪里就有卑微。   ——墙中警句  这是一个“不能惹也不能躲的世界。”疯狂的脏话,冷酷的刑罚,牢友之间的勾心斗角......这一切给了我们一真实的监狱生活。读完《四面墙》,才真正地对自己所生活的世界了解更多。  ——黑色光明  看着《四面墙》才发现以前自己说话做事是多么的艰稚,如果早有《四面墙》中描写的比那些狗屁“办公室三十六计”“实用孙子兵法”强一万倍的生活智慧,很多事情会顺利的多......不过,我希望这里的很多生活智慧永远不会用到。  ——路八说  读着那一句句或粗俗、或精辟、或狡诈、或“直白”的对话,扁平的文字“立体”而生动,黑乎乎的方块上好像有魔法棒挥过,一幅幅声、光、影俱全的影像出现在面前。我从来没有想到过,竟然能够像看一部长篇电视剧那样来欣赏一部小说!  ——正将  一个人的本性,只有在黑暗之中,在绝境之中才能够体现出来。不过所谓的真实又是什么呢?《四面墙》给出了一个答案。它用一个个可以深深触及到灵魂的故事,一个人有血有肉的人物给了我们一个答案。  ——洛天月  他的作品的含金量一点也不比那些有着深厚的“诺贝尔”情结的作品差......不关注哥们儿这亲的作家,是评论界的失职,也是评论界的失败。如果我们的文学评论懂得与时俱进,以读者为中心去展开文学批评的话,那一定要感谢哥们儿以及《四面墙》模式提供的有价值的评论资源。  ——人性的光彩  麦麦这个平凡的小人物,一个微不足道的小知识分子,被“讲哥们儿义气”的“江湖流毒”所害,突然被投进一个完全陌生的牢笼,面对一群获罪于强奸、抢劫、杀人、偷盗的嫌疑人,面对一幕幕陌生、残酷、压抑、乖戾变态的场景,他的心灵将受到怎样的震撼、历练?他又将如何抉择自己的生存方式?&lt;/p&gt;</dc:description>
+        <dc:publisher>文化艺术出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d58ab9b7-ed83-432d-ac1d-5d4fe6e32072</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787503928550</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Chinese Fiction</dc:subject>
+        <meta content="{&quot;哥们儿&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:30.736879+00:00" name="calibre:timestamp"/>
+        <meta content="四面墙" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

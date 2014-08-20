@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2e5df06-099c-494b-b599-32941c04c33e</dc:identifier>
+        <dc:title>李鴻章</dc:title>
+        <dc:creator opf:file-as="高阳" opf:role="aut">高阳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: MingLiu; color: rgb(51, 51, 51); "&gt;所謂「上有天堂，下有蘇杭」，但在亂世，天堂成了地獄。「李鴻章」一書描寫同治年間，洪楊之亂時，淪陷的蘇州和杭州，由地方士紳支持的官軍克復的經過。 全書以李鴻章在蘇州「殺降」為故事的骨幹，取材深廣，氣勢不凡，人物眾多，高陽尤其著重於「長毛」與「洋將」兩類人物的刻劃，更見生動，是高陽迷不可錯過的大作。&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573901174</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;高阳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-11T01:00:57+00:00" name="calibre:timestamp"/>
+        <meta content="李鴻章" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
