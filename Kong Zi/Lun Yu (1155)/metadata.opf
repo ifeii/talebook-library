@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">983c0101-5763-4c1a-8fa7-41f1e78d819a</dc:identifier>
+        <dc:title>论语</dc:title>
+        <dc:creator opf:file-as="孔子" opf:role="aut">孔子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-02T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;《论语》是一部语录体思想散文集。早在春秋后期孔子设坛讲学时期，其主体内容就已初始创成；孔子去世以后，他的辫子和再传弟子代代传授他的言论，并逐渐将这些口头记诵的语录言行记录下来，集腋成裘，最终在战国初年汇辑论纂成书，因此称“论”。《论语》主要记载孔子及其弟子的言行，因此称为“语”。&lt;br&gt;　　孔子思想以立身为出发点，而人能立身于世的首要条件就是具有“君子”人格。君子具备仁爱之心，自重自律；表里如一，言行一致；积极进取，德才兼备；孜孜于学，注重实践；安贫乐道，谨守正义等等；始终坚守人之间的相处之道，遵从不同的伦理关系，构建着和谐友爱的人际关系和社会环境。&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;（子乌注：只有文言文，无注释）&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;孔子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-10-03T15:56:43+00:00" name="calibre:timestamp"/>
+        <meta content="论语" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

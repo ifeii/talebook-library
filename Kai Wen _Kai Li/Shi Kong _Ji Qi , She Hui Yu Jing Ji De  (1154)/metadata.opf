@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e45dd74-9c81-4fd1-ae7b-524ef649c5e2</dc:identifier>
+        <dc:title>失控:机器、社会与经济的新生物学</dc:title>
+        <dc:creator opf:file-as="凯文·凯利" opf:role="aut">凯文·凯利</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="display: inline;" class="all hidden"&gt; 《失控》,全名为《失控:机器、社会与经济的新生物学》(Out of Control: The New Biology of Machines, Social Systems, and the Economic World)。&lt;br&gt; 2006年,《长尾》作者克里斯·安德森在亚马逊网站上这样评价该书:&lt;br&gt; “这可能是90年代最重要的一本书”,并且是“少有的一年比一年卖得好的书”。“尽管书中的一些例子在十几年后可能有些过时,但(它们所表达的)信息却 越来越成为真知灼见”。“在那时人们还无法想象博客和维基等大众智慧的突起,但凯利却分毫不差地预见到了。这可能是过去十年来最聪明的一本书。”&lt;br&gt; 这是一部思考人类社会(或更一般意义上的复杂系统)进化的“大部头”著作,对于那些不惧于“头脑体操”的读者来说,必然会开卷有益。&lt;br&gt; 《失控》成书于1994年,作者是《连线》杂志的创始主编凯文·凯利。这本书所记述的,是他对当时科技、社会和经济最前沿的一次漫游,以及借此所窥得的未来图景。&lt;br&gt; 书中提到并且今天正在兴起或大热的概念包括:大众智慧、云计算、物联网、虚拟现实、敏捷开发、协作、双赢、共生、共同进化、网络社区、网络经济,等等。说它是一本“预言式”的书并不为过。其中必定还隐藏着我们尚未印证或窥破的对未来的“预言”。&lt;/span&gt;</dc:description>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513300711</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <dc:subject>ZDC:DNWL</dc:subject>
+        <meta content="{&quot;凯文·凯利&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-09-26T03:08:07+00:00" name="calibre:timestamp"/>
+        <meta content="失控:机器、社会与经济的新生物学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

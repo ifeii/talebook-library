@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ea2cf26-9365-4c67-a3f2-1d17c279846f</dc:identifier>
+        <dc:title>面包与自由</dc:title>
+        <dc:creator opf:file-as="克鲁泡特金" opf:role="aut">克鲁泡特金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-07T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;《汉译世界学术名著丛书:面包与自由》是作者克鲁泡特金在1886年，就法国社会改造而写的。他从政治、经济的角度，批判了现实社会制度，对代议制、法
+律、强权等，进行了分析与抨击。同时提出无政府共产主义的经济与政治主张——若废除私有制，实行共产共有、经济平等，消灭国家，取消政府，废除法律，由各
+种自由联合的社团代替强权的国家，由社团成员的自由意志，代替法律的力量，以互助的形式和科学的方法提高社会劳动生产等。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100006385</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:RUSSIA</dc:subject>
+        <dc:subject>ZDC:SHXX</dc:subject>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <meta content="{&quot;克鲁泡特金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="汉译世界学术名著" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-13T17:13:41+00:00" name="calibre:timestamp"/>
+        <meta content="面包与自由" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

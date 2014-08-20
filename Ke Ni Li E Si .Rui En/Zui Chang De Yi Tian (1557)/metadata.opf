@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">057c7c8c-f486-40e9-926f-5e38ad2c9b08</dc:identifier>
+        <dc:title>最长的一天</dc:title>
+        <dc:creator opf:file-as="科尼利厄斯.瑞恩" opf:role="aut">科尼利厄斯.瑞恩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;看过这部作品的人都曾被他深深震撼,作为非虚构文学的创作典范和战争纪实的巅峰之作,该书真实的记录了诺曼底登陆的策划内幕和激战过程。生动的描述了血腥海水和钢铁火焰的战场奇观,还细致入微的描述了双方将帅和士兵作为个人所遇到的传奇般的命运。这本书作者历时10年时间,并被好莱坞拍摄成同名电影。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">74eb56e3-01da-4da2-817c-4617a6bfc144</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史军事</dc:subject>
+        <meta content="{&quot;科尼利厄斯.瑞恩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:31.593968+00:00" name="calibre:timestamp"/>
+        <meta content="最长的一天" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

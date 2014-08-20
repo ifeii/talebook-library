@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aa84840-2f62-437e-b426-a1a140dfe1f8</dc:identifier>
+        <dc:title>尚书正义</dc:title>
+        <dc:creator opf:file-as="孔颖达" opf:role="aut">孔颖达</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-04T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《尚书》是中国有史以来最早的一部历史文献汇编，保存了尧、舜以来经夏、商至各代不少珍贵史料。由于经秦火之劫，它在传承过程中有缺佚，并出现了多种版本，有所谓今古文真伪之辨。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;孔颖达&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-10-04T16:19:31+00:00" name="calibre:timestamp"/>
+        <meta content="尚书正义" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
