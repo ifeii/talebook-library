@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0b4e522-06ef-4ec3-a208-b012200f79ad</dc:identifier>
+        <dc:title>把话说到心窝里（合订本）</dc:title>
+        <dc:creator opf:file-as="刘墉" opf:role="aut">刘墉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-07T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;刘墉，在语言表现上的才华可能在他的绘画与文学之先。小学时代，他两次获得台北演讲比赛冠军，中学时又获得全台湾演讲比赛第一名。大学时代，他所导演的朗诵诗四度获得台湾竞赛冠军，更因主演《红鼻子》舞台剧，得到话剧界最高荣誉“金鼎奖”。 大学毕业后，刘墉先在“三台联播晚会”中独撑大局，获得瞩目，接着主持益智节目“分秒必争”，并被邀请进入中视新闻部。他所制作并主持的新闻节目“时事论坛”，获得金钟奖；于是他被《综合电视周刊》选为台湾“最受欢迎的电视记者”。 刘墉的演讲极为叫座，他在祖国大陆、台湾、马来西亚都举行过多次巡回演讲。同时，他也成为三地最畅销的作家之一。 刘墉“文字”上的魅力其实源于他“语言”的魅力。这本《把话说到心窝里》（合订本），除了将说话的技巧作深入的分析，也透露出他在文学作品中语出惊人，讽而不刺的奥秘。&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">95b45031-fa6a-4716-a173-3efe9f18d143</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>刘墉 把话说到心窝里 情商 交际技巧 散文</dc:subject>
+        <meta content="{&quot;刘墉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:19.909619+00:00" name="calibre:timestamp"/>
+        <meta content="把话说到心窝里（合订本）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

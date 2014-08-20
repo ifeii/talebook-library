@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">844c1576-bc5b-4dd1-b0d4-69e043a39ee4</dc:identifier>
+        <dc:title>金瓶梅</dc:title>
+        <dc:creator opf:file-as="兰陵笑笑生" opf:role="aut">兰陵笑笑生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+本书由王汝梅与李昭恂、于凤树校点。</dc:description>
+        <dc:publisher>齐鲁出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787533300814</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>兰陵笑笑生</dc:subject>
+        <dc:subject>禁书</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>中国古典文学</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-05T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="金瓶梅" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

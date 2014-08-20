@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c5f79a1-0f55-4a98-9a5b-c3c4d0cbd89e</dc:identifier>
+        <dc:title>我不是教你诈(1-5合集)</dc:title>
+        <dc:creator opf:file-as="刘墉" opf:role="aut">刘墉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-12T16:00:00+00:00</dc:date>
+        <dc:description>《我不是教你诈》这本书的书名和内容都算得上有趣。它的定位是一本针对社会现象所写的实用小册子,通过世间百相的揭示,告诉你不吃亏的学问。刘墉的这些小册子比较象一种文化快餐,且不论营养价值多高,品后但觉爽心可口。不会绞尽脑汁,亦不会闹消化不良。会心处一笑,即可。 书中蕴藏着作家许多个不眠之夜的愤懑、挣扎与省思,以深入浅出的写作风格,透过一些具有强烈反讽意味的小故事,由政治到商业,由商业引出我们日常的处世方法,文笔犀利,生动有趣,从而引发一连串辛辣而又思辨色彩极其浓厚的议题。
+  我写了这篇《我不是教你诈1》。它只是我系列“处世学”作品的一部分,因为那学问太大了,故事也太多了。为了不过度剌激学生读者,本篇中的题材,还是经过了调配,有尖锐也有柔和。我尽量为每个人生处境,提出解决方法,希望读者们看完后,就能用。
+  本篇的篇名是《我不是教你诈1》,实际整个句子应该是“我不是教你诈,是教你看清世事”。在写作上,我不再像前两篇点到为止,而采取追究到底的方式,把同一个问题,编成许多小故事,一层层摊开,一层层分析。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">02f988da-0b07-45dc-8194-0b9d41b7d749</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>生活·励志</dc:subject>
+        <meta content="{&quot;刘墉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:57:33.682663+00:00" name="calibre:timestamp"/>
+        <meta content="我不是教你诈(1-5合集)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

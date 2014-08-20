@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cedcdf9-5884-4594-9050-aebdce565b16</dc:identifier>
+        <dc:title>细说清朝</dc:title>
+        <dc:creator opf:file-as="黎东方" opf:role="aut">黎东方</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-15T16:00:00+00:00</dc:date>
+        <dc:description>本书是“细说中国历史丛书”的一种,由旅美著名历史学家黎东方先生撰写。它叙述了从努尔哈赤、皇太极建立清朝至清朝灭亡期间的重要事件和重要人物。作者以“讲史”的形式,通俗而生动地讲述了对俄和战、鸦片战争、太平天国革命,戊戌政变、八国联军侵华等历史事件,以及康熙、雍正、乾隆、吴三桂、洪秀全、和珅、李鸿章、康有为、慈禧等历史人物。全书既有生动的故事和真实的历史,又有颇具见识的评点,还阐释了顺治出家、雍正暴亡、乾隆身世等历史之谜。本丛书所采用的“细说体”既不像正史的艰深枯燥,又不似野史的胡编乱造,是别具风采的史学著作。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6d62f4e3-6f12-421d-9af7-a10fa379b754</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;黎东方&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:12:11.099744+00:00" name="calibre:timestamp"/>
+        <meta content="细说清朝" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

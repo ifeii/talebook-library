@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b18e6c4b-9134-4d3e-979c-0ef8f040647d</dc:identifier>
+        <dc:title>球状闪电</dc:title>
+        <dc:creator opf:file-as="Kyle" opf:role="aut">刘慈欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+在某个离奇的雨夜，一颗球状闪电闯进了少年的视野。它的啸叫低沉中透着尖利，像是一个鬼魂在太古的荒原上吹着埙。当鬼魂奏完乐曲，球状闪电在一瞬间将少年的父母化为灰烬，而他们身下板凳却是奇迹般的冰凉。
+这一夜，少年的命运被彻底改变了，他将毕其一生去解开那个将他变成孤儿的自然之谜。但是他未曾想到，多年以后，单纯的自然科学研究被纳入进“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终极武器！
+当被禁锢在终极武器中的大自然的伟力被释放时，一轮冰冷的“蓝太阳”升起在大西部的戈壁滩上，整个戈壁淹没在它的蓝光中，这个世界变得陌生而怪异。一个从未有人想像过的未来，在宇宙观测者的注视下，降临在人类面前……</dc:description>
+        <dc:publisher>四川科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536455382</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>刘慈欣</dc:subject>
+        <dc:subject>球状闪电</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="球状闪电" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6687d233-d347-4d5e-aa01-bd874bcf5685</dc:identifier>
+        <dc:title>一路走来一路读</dc:title>
+        <dc:creator opf:file-as="林达" opf:role="aut">林达</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; line-height: 19px; "&gt;　　美国是一个历史很短的国家，开拓初期的日子里，又惟求能速速安顿，因而村镇都因陋就简，也就始终少有东方和欧洲的巍峨古迹。可是，逛得多了，觉得症状国也有它特别的韵味。它的开拓者中有着一批来自欧洲的思想者。他们从欧洲传承的思想，到了北美的荒原上，褪尽精美修饰，却有了实实在在的精神。这是林达最新的一本关于美国、欧洲的风土人情、历史、文明和社会的书。作者延续一贯的创作风格，对美国及欧洲几十个著名的城市与乡村、人物与事件作了贯穿历史的透视，以轻松的阅读来深刻理解欧美的历史和社会。林达的写作本身就是一个风光无限的旅程――知识与思考、智慧与大度造就了善于观察和阅读的眼睛。通过作者犀利的目光和委婉的笔触，一个个发生在异国的故事透射出了历史文化、战乱风云、文明发展和社会演变的信息。随着作者的引领，“读万卷书行万里路”的新境界徐徐展开。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; line-height: 19px; "&gt;&lt;/span&gt;(&lt;font class="Apple-style-span" color="#FF0000"&gt;子乌注：用于校对的扫描版：&lt;/font&gt;&lt;a href="http://www.scribd.com/doc/7086475/%E4%B8%80%E8%B7%AF%E8%B5%B0%E6%9D%A5%E4%B8%80%E8%B7%AF%E8%AF%BB"&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;一路走来一路读&lt;/font&gt;&lt;/a&gt;)&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540431716</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <dc:subject>ZDC:YJ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;林达&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="游记/Jounrey" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-26T16:28:52+00:00" name="calibre:timestamp"/>
+        <meta content="一路走来一路读" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

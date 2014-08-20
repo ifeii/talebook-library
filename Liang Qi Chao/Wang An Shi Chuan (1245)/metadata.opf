@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01bb5cf0-b305-4a7b-a696-72afaa152a0d</dc:identifier>
+        <dc:title>王安石传</dc:title>
+        <dc:creator opf:file-as="梁启超" opf:role="aut">梁启超</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="intro"&gt;&lt;p&gt;　　作为百年不遇的杰出人士，却生前被世人责难，死后数代都不能洗刷骂名，在西方有英国之克伦威尔，在中国则有宋代王安石。千百年来，王安石被
+骂做集一切乱臣贼子之大成的元凶。其实，他才真是数千年中华文明史上少见的完人。其德量汪然若千顷之陂，其气节岳然若万仞之壁，其学术集九流之粹，其文章
+起八代之衰，其所施之事功，适应于时代之要求而救其弊，其良法美意，往往传诸之日莫之能废。&lt;/p&gt;    &lt;p&gt;&lt;/p&gt;    &lt;p&gt;　　本书以发挥荆公政术为第一义，故于其所创诸新法之内容及其得失，言之特详，而往往以今世欧美政治比较之，使读者于新旧知识咸得融合。宋史记熙丰富实者成于南渡以后史
+官之手，而元人因袭之，皆反对党之言，不可征信。今于其污篾荆公处皆一一详辩之，别为考异若干条。本书行文，信笔而成，不复覆视，芜衍疏略，自知不免，尚
+希海内方闻之士有以教之。&lt;/p&gt;&lt;p&gt;（&lt;font class="Apple-style-span" color="#804000"&gt;子乌注：该书为文言文，存在较多生僻字，有点担心kindle或其他阅读器是否能够正确显示，如果不想麻烦的话可以直接下pdf，是6寸版，是制作完epub之后做的，质量可以保证。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font class="Apple-style-span" color="#804000"&gt;另一个事儿，这个pdf是在换操作系统后第一次试制，花了点心思，有建议欢迎提出，如果想自己搞的话可以下docx自己做~以后有时间的话会尽量顺便提供6寸pdf版本。&lt;/font&gt;）&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530643983</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;梁启超&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="46" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-01-12T15:28:01+00:00" name="calibre:timestamp"/>
+        <meta content="王安石传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

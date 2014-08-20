@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ae2c7d1-6dd3-4acd-a880-bbc6a45cd9f9</dc:identifier>
+        <dc:title>菊与刀</dc:title>
+        <dc:creator opf:file-as="鲁思・本尼迪克特" opf:role="aut">鲁思・本尼迪克特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;“菊”本是日本皇室家徽，“刀”是武士道文化的象征。美国人类学家鲁思・本尼迪克特用《菊与刀》来揭示日本人的矛盾性格亦即日本文化的双重性(如爱美而黩武、尚礼而好斗、喜新而顽固、服从而不驯等)……&lt;/p&gt;</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100012935</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;鲁思・本尼迪克特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="汉译世界学术名著" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="菊与刀" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

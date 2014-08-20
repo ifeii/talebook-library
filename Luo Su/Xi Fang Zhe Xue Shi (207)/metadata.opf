@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f27a34f-240a-4fab-9978-74c97bda4a68</dc:identifier>
+        <dc:title>西方哲学史</dc:title>
+        <dc:creator opf:file-as="罗素" opf:role="aut">罗素</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-30T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《经典通读》是将经典学术巨著进行全新通俗化编译的丛书，旨在引领读者轻松快速阅读学术经典，从而普及对人类影响深远的社会科学、自然科学的名家名著。 《经典通读:西方哲学史》该丛书之一，是畅销世界的西方哲学教科书。</dc:description>
+        <dc:publisher>北京出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787200069662</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>哲学史</dc:subject>
+        <dc:subject>罗素</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <meta content="哲学" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="西方哲学史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

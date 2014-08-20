@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">508539b9-cb38-4825-9a6f-9aeb32a5f41a</dc:identifier>
+        <dc:title>原来你非不快乐</dc:title>
+        <dc:creator opf:file-as="林夕" opf:role="aut">林夕</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-14T16:00:00+00:00</dc:date>
+        <dc:description>原来你非不快乐
+SUMMARY:
+这本书是林夕在2007年至2008年间写作的关于人生与社会生活的作品专集，围绕“快乐/不快乐”的主题，内容涉及心境、工作、时事、社会民生、生命等等多个方面的思考。用他自己的话来说，就是直面“不快乐”，将苦痛解剖，从而找到真正的长久的快乐，以安稳人生，改塑生活的面貌和品质。文字上承袭林夕词作一向的精致风格，蕴涵与晓畅兼备，殊值品味。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563379071</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>林夕</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-03T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="原来你非不快乐" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a15968d9-4438-488e-9182-9f5910a55ef2</dc:identifier>
+        <dc:title>中国套盒</dc:title>
+        <dc:creator opf:file-as="略萨" opf:role="aut">略萨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是著名作家巴尔加斯?略萨的一组涉及文学话题的随笔。作家以文学“起源于反抗情绪”为立论的出发点，对长篇小说的创作、特别是长篇小说的艺术形式提出了系统而富有创见的见解。由于作者本人即是大师级的长篇作家，因而在援引诸如塞万提斯、福楼拜、雨果、海明威、卡夫卡、福克纳等等一系列古今名家的上百部作品时，常能左右逢源，有感而发，得出令人耳目一新的结论。它没有一般评论文章那种臃肿、沉闷的文风，相反，文中处处是妙趣横生的寓言、比喻、幽默，常令读者忍俊不禁。作家认为“一篇评论文章本身即是一部创作，丝毫不比一部优秀小说或长诗逊色”，可以说本书正是这一见解一个非常成功的范例。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">297cc018-e6b9-4ab3-8711-6c9149f32766</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;略萨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:00:52.924873+00:00" name="calibre:timestamp"/>
+        <meta content="中国套盒" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

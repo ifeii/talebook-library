@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">330ea6b0-54b9-4477-9e2f-0594580b3caf</dc:identifier>
+        <dc:title>紫川</dc:title>
+        <dc:creator opf:file-as="老猪" opf:role="aut">老猪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;两百年前的蓝河战场，光明帝国的50万皇家军团在20万魔族的喧嚣声中崩溃，帝国最后的皇帝林坚毅、元帅鲁单言双双战死。而后左加明越众而出，单人只剑当众杀魔族将领、卫队数千人，进而魔族撤兵，退守远东。然而混乱的西川大陆上没有了共同的君主，群雄并起而混战，武力是生存下去的唯一本钱，制霸天下，是一代代强者的梦想。&lt;br&gt;　　现大陆东南，有一个两百多年的强大势力——紫川家族。他西击流风家，东挡魔族，南镇林家。为了强大的梦想，为了家族血统的薪火相传，无数紫川俊杰前仆后继，谱写了一曲史诗般壮丽的历史。本文《紫川》，讲述的就是这么一个家族的百年悲歌传奇。&lt;br&gt;　　神话般的西川大陆，一代代的热血传奇。帝都，河丘，远京，蓝城，帕伊，特兰，每一座雄伟的城市，都有自己的英雄传说。人类、魔族、远东各族……血与火的交融，刀与剑的碰撞，迷与迷的交织，构成了庞大的史诗般的巨著——紫川。&lt;/span&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9787539932682</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <meta content="网络小说" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="紫川" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

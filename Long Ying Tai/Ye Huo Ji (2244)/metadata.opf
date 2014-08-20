@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e59cc219-163b-4d4a-90a4-86e7525f7e57</dc:identifier>
+        <dc:title>野火集</dc:title>
+        <dc:creator opf:file-as="龙应台" opf:role="aut">龙应台</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-14T16:00:00+00:00</dc:date>
+        <dc:description>中国人，你为什么不生气 在昨晚的电视新闻中，有人微笑着说：“你把检验不合格的厂商都揭露 了，叫这些生意人怎么吃饭？”我觉得恶心，觉得愤怒。但我生气的对象倒 不是这位人士，而是台湾一千八百万懦弱自私的中国人。 我所不能了解的是：中国人，你为什么不生气？ ※※※ 包德甫的《苦海余生》英文原本中有一段他在台湾的经验：他看见一 辆车子把小孩撞伤了，一脸的血。过路的人很多。却没有一个人停下来帮助 受伤的小孩，或谴责肇事的人。我在美国读到这一段。曾经很肯定地跟朋友 说：不可能！中国人以人情味自许，这种情况简直不可能！ 回国一年了，我睁大眼睛，发觉包德甫所描述的不只可能，根本就是 每天发生、随地可见的生活常态。在台湾，最容易生存的不是蝉螂，而是“坏 人”，因为中国人怕事、自私，只要不杀到他床上去，他宁可闭着眼假寐。 我看见摊贩占据着你家的骑楼，在那儿烧火洗锅，使走廊垢上一层厚 厚的油污，腐臭的菜叶塞在墙角。半夜里，吃客喝酒猜拳作乐，吵得鸡犬不 宁。</dc:description>
+        <dc:language>zho</dc:language>
+        <dc:subject>龙应台</dc:subject>
+        <meta content="{&quot;龙应台&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:13:08.966345+00:00" name="calibre:timestamp"/>
+        <meta content="野火集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

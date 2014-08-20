@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7e7d202-188d-480e-a874-14e7c95a6aeb</dc:identifier>
+        <dc:title>李鴻章傳</dc:title>
+        <dc:creator opf:file-as="梁啟超" opf:role="aut">梁啟超</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;div class="indent" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-all; "&gt;　　四十年来，中国大事，几无一不与李鸿章有关系。故为李鸿章作传，不可不以作近世史之笔力行之。著者于时局稍有所见，不敢隐讳，意不在古人，在来者也。——梁启超&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530624227</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;梁啟超&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="38" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-11T01:00:57+00:00" name="calibre:timestamp"/>
+        <meta content="李鴻章傳" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

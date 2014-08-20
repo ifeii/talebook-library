@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1af1972-e3ae-404b-921d-0bc4dd702ca6</dc:identifier>
+        <dc:title>时间回旋</dc:title>
+        <dc:creator opf:file-as="罗伯特·查尔斯·威尔森" opf:role="aut">罗伯特·查尔斯·威尔森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;十月的一个夜晚，泰勒站在自家的后院里观望夜空，却见到群星都失去了光亮，取而代之的是一片平坦坦、空荡荡的黑色屏障。泰勒与他的好友杰森、黛安一道，亲眼目睹了这惊人的一幕。而这也彻底改变了他们的人生。太阳如今不再是硕大无朋的天体，而成了一个稀松平常的圆碟而已；月亮也失踪不见了，可潮汐作用依在。随着泰勒、杰森和黛安渐渐年长，太空探测器揭开一个诡异无比的真相：黑色的屏障并非天然生成，而是由外星人留下的巨大不明器物引起的。屏障外面的时间流逝比里面快得多：地球上一年，屏障外就过去了一亿年。照这种速度，太阳的寂亡即将在地球上的四十年之后发生。在末日的阴影下，泰勒与双胞胎渐渐长大，走上完全不同的道路：杰森成为顶尖科学家，用先进科技展开探索；黛安归向宗教，在神学中寻找心灵慰藉；泰勒选择成为了济世救人的医生，却不知道这在世界毁灭时还有什么意义。&lt;/p&gt;</dc:description>
+        <dc:publisher>金读 kindle.im</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>科幻小说</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-17T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="时间回旋" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

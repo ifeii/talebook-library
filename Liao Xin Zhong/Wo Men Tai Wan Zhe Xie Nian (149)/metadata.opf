@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">acef4ec9-6411-43ec-8fd4-7526b7190af9</dc:identifier>
+        <dc:title>我们台湾这些年</dc:title>
+        <dc:creator opf:file-as="廖信忠" opf:role="aut">廖信忠</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-30T16:00:00+00:00</dc:date>
+        <dc:description>60年来第一本，让13亿大陆人真正了解台湾普通民众真实生活的书。
+一个台湾青年写给13亿大陆同胞的一封家书
+
+讲述30年来政治巨变下，台湾老百姓自己的故事</dc:description>
+        <dc:publisher>金读 kindle.im</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>台港澳文学</dc:subject>
+        <meta content="历史" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2011-01-11T14:20:31.216461+00:00" name="calibre:timestamp"/>
+        <meta content="我们台湾这些年" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c69208e5-8e81-423e-aa95-2ed4fab2b8c3</dc:identifier>
+        <dc:title>厚黑学</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">李宗吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《厚黑学》:李宗吾的《厚黑学》版本诸多，良莠不齐，根据此书编著出来的衍生作品更是不计其数，为此众多读者很难一睹该作的庐山真面目，尽解其中的精髓。在这种情况下，版本的优劣就至关重要，它直接影响到读者对作品的解读程度，过于浅显或过于深奥都会对阅读造成负面影响。本版厚黑学包括《厚黑学》（白话文版及文言文原版）、《厚黑原理（心理与力学）》、《厚黑丛话》、《社会问题之商榷》、《中国学术之趋势》等，是一部真正意义上的“厚黑大全”，经过长达一年之久的编纂，已文通意顺，堪称精品。卷末还附有张默生、林语堂、南怀瑾、柏杨等文化名流对李宗吾其人其书的深度解读。</dc:description>
+        <dc:publisher>五洲传播出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508515618</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>床头书</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>李宗吾</dc:subject>
+        <dc:subject>搞懂坏人</dc:subject>
+        <dc:subject>处世</dc:subject>
+        <meta content="哲学" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="厚黑学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

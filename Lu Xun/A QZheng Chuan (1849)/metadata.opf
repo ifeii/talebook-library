@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1849</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03bae7cd-bf05-4431-8eaf-d70c1650da60</dc:identifier>
+        <dc:title>阿Q正传</dc:title>
+        <dc:creator opf:file-as="鲁迅" opf:role="aut">鲁迅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-01T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《阿Q正传》:在一般意义上讲,中篇小说通常是就小说的篇幅而言,它是介于长篇小说和短篇小说之间的一种体裁。对于中文作品来说,人们一般将三到十万字左右的小说叫作中篇小说。在英文中,长篇小说称为novel,短篇小说为short story,各自拥有独立的称谓,而中篇则是novelette,是一个在词义上具有依附性的衍生词,字面意义可以理解为小于长篇的小说。这表明中篇小说本身还是一个相对模糊的概念。在中国,现代意义上中篇小说概念的形成是伴随着其创作的产生而逐渐清晰的。鲁迅先生创作于1921年的《阿Q正传》,是中国现代意义上中篇小说的开山之作。这之后陆续出现了沈从文的《边城》,老舍的《月牙儿》、《我这一辈子》,萧红的《生死场》,巴金的《憩园》等优秀的中篇作品。这种影响一直接续不断,特别是改革开放三十年间,中篇小说更是进入了一个空前繁荣的发展时期,以致有研究者认为,中篇小说代表了近三十年文学的高端水平。&lt;/p&gt;</dc:description>
+        <dc:publisher>shu.im</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">464286fd-2e13-4c40-b1d8-2e4ef2fc3901</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;鲁迅&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:24.158033+00:00" name="calibre:timestamp"/>
+        <meta content="阿Q正传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

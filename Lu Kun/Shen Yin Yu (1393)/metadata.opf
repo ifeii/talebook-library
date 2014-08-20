@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d5fd009-6fd2-43da-99b9-c0c7665ef2be</dc:identifier>
+        <dc:title>呻吟语</dc:title>
+        <dc:creator opf:file-as="吕坤" opf:role="aut">吕坤</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>《呻吟语》是一位饱经人世忧患、富有人生经验的儒哲以儒家的中庸之道为立足点，扬弃释道，冲破宋明理学的牢笼，独辟蹊径探索人生、思考宇宙的思想结晶。　　 《呻吟语》反映了作者深刻的哲学思想以及他对人生的思考和探索。　　 作为一部探讨人生的哲学著作，作者说得最多的还是修身养性、处事应物的道理和方法，他从十几个不同的侧面展示了他的体会和心得，或者是人生经验的总结，或者是深思熟虑的格言，读这样的书，你像听一位厚道正直的长者娓娓而谈，亲切有趣，个中意味，使人回味无穷。　　 《呻吟语》的很多人生观点和处世方法是对中华民族优良传统的弘扬，体现了中国古代优秀的知识分子的本质特征。</dc:description>
+        <dc:publisher>未知</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>吕坤</dc:subject>
+        <meta content="{&quot;吕坤&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:59:02.475168+00:00" name="calibre:timestamp"/>
+        <meta content="呻吟语" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

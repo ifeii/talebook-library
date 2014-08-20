@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">960481e8-8f5a-4448-8478-3bc0fb2b8c1a</dc:identifier>
+        <dc:title>帝国政界往事：公元1127年大宋实录</dc:title>
+        <dc:creator opf:file-as="李亚平" opf:role="aut">李亚平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-26T16:00:00+00:00</dc:date>
+        <dc:description>公元1127年，即北宋靖康二年，南宋建炎元年。&#13;
+　　这一年，北宋帝国覆灭，南宋帝国在风雨飘摇中宣告诞生。&#13;
+　　中国人陷入长达十余年的兵凶战危血雨腥风之中。&#13;
+　　先是头年底，帝国首都沦陷敌手；进入正月，金国骑兵将首都汴京城内的金银宝货、文玩古物、仪仗图籍搜罗一空；二月，金人立原来的帝国宰相张邦昌为大楚皇帝；三、四月间，我们帝国的两位皇帝——当了一年多太上皇的宋徽宗赵佶，和他的大儿子、只当了一年多皇帝的宋钦宗赵桓全部成为大金骑兵俘虏，被掳掠到了金国。一同被掠去的还有在开封的全部皇家宗室、妃嫔宫女、文武百官、工匠艺伎等一万四千多人。北宋帝国就此灭亡。&#13;
+　　这是中国人从未遭遇过的耻辱。&#13;
+　　从此，“靖康之耻”刀子般刻进了中国的记忆。&#13;
+　　宋徽宗的第九个儿子康王赵构侥幸脱身，旋即逃往南京，就是今天的河南商丘。当年五月一日，赵构在南京应天府称帝，建立南宋帝国，改年号靖康二年为建炎元年。当时赵构刚满21岁。他成了大宋帝国的第十位皇帝，也是南宋的第一位皇帝，史称宋高宗。&#13;
+　　这一年，本书所涉及到的人物，情况各个不同。他们当中，有一些被认为需要对本年发生的一切负责，有些则被本年度发生的一切改变了命运，这种改变有时表现得相当彻底。&#13;
+　　遂成为令人无法释怀的帝国政界实录。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;李亚平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:04:12.833736+00:00" name="calibre:timestamp"/>
+        <meta content="帝国政界往事：公元1127年大宋实录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

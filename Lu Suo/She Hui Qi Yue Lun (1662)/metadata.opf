@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">974af287-fc21-42e5-9e60-45733733cc5a</dc:identifier>
+        <dc:title>社会契约论</dc:title>
+        <dc:creator opf:file-as="卢梭" opf:role="aut">卢梭</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《社会契约论》所蕴藏的思想财富和学术价值,为学人所熟知,毋需赘述。这些译本过去以单行本印行,难见系统,汇编为丛书,才能相得益彰,蔚为大观,既便于研读查考,又利于文化积累。为此,我们从1981年着手分辑刊行。限于目前印制能力,1981年和1982年各刊行五十种,两年累计可达一百种。今后在积累单本著作的基础上将陆续汇印。由于采用原纸型,译文未能重新校订,体例也不完全统一,凡是原来译本可用的序跋,都一仍其旧,个别序跋予以订正或删除。读书界完全懂得要用正确的分析态度去研读这些著作,汲取其对我有用的精华,剔除其不合时宜的糟粕,这一点也无需我们多说。希望海内外读书界、著译界给我们批评、建议,帮助我们把这套丛书出好。&lt;/p&gt;</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4d11205a-7957-4281-b78c-502fe8fe5fb4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787807231349</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>政治哲学</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>卢梭</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>政治学</dc:subject>
+        <meta content="{&quot;卢梭&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:03:28.613909+00:00" name="calibre:timestamp"/>
+        <meta content="社会契约论" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
