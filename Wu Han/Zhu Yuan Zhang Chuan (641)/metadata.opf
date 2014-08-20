@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caa09928-c7af-400a-a530-1ef3657e737f</dc:identifier>
+        <dc:title>朱元璋傳</dc:title>
+        <dc:creator opf:file-as="吳晗" opf:role="aut">吳晗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: MingLiu; color: rgb(51, 51, 51); "&gt;本書是國史學家、胡適弟子、前北京市副市長吳晗的一部著名傳記作品，主要描述明太祖朱元璋的生平和相關歷史背景。該書曾於40至60年代四易其稿，不同的原因（包括種種政治因素）令作者或出版者不得不一再改變內容或敘事手法。後吳晗因《海瑞罷官》案而下獄，掀起文革的第一浪。此版為第四版（係吳晗1965年完稿）&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530630280</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-18T10:40:20.179000+00:00" name="calibre:timestamp"/>
+        <meta content="朱元璋傳" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ef10e99-957f-45c4-aef2-6dd6b2195538</dc:identifier>
+        <dc:title>古文觀止</dc:title>
+        <dc:creator opf:file-as="吳楚材、吳調侯" opf:role="aut">吳楚材、吳調侯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-29T16:00:00+00:00</dc:date>
+        <dc:description>《古文觀止》是清人吳楚材、吳調侯于康熙三十三年1694選定的。二吳均是浙江紹興人,長期設館授徒,此書是為學生編的教材。除本書外,二吳還細著了《綱鑒易知錄》。 散文是我國古代的主要文體之一。散文的發展大體上經歷了以下幾個階段:一是先秦時期。《尚書》是第一部散文集。春秋戰國時代,百家爭鳴,產生了諸子散文。《左傳》與《戰國策》是先秦歷史散文的代表。“至戰國而后世之文體備”章學誠《文史通義。詩教上》。二是兩漢時代,本期散文進一步發展,《史記》乃“史家之絕唱,無韻之離騷”,代表了兩漢散文的最高成就。三是魏晉南北朝時期,本期文章多講求聲律,形成馬并儷文體,《水經注》、《洛陽伽藍記》不同凡響。四是唐宋時期。中唐韓愈、柳宗元領導了古文運動,“文起八代之衰”。北宋時,歐陽修力倡古文,蘇氏父子等人互相應和,古文日漸占領文壇。五是元明清時期。本期散文基本上繼承發展了唐宋古文運動的精神。明代出現了前后七子的復古派,反對復古的唐宋派,主張性靈的公安派......,出現了歸有光等散文大家,清代影響最大的是桐城派。 《古文觀止》所選之文上起先秦,上迄明末,大體反映了先秦至明末散文發展的大致輪廓和主要面貌。其中包括《左傳》34篇、《國語》11篇,《公羊傳》3篇、《禮記》6篇,《戰國策》14篇,韓愈文17篇;柳宗元文8篇,歐陽修11篇,蘇軾文11篇,蘇轍文3篇,王安石3篇......共222篇</dc:description>
+        <dc:publisher>epub掌上書苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ead421d2-f1ea-49fd-bc51-101cbcfb4248</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;吳楚材、吳調侯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:05:49.303418+00:00" name="calibre:timestamp"/>
+        <meta content="古文觀止" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

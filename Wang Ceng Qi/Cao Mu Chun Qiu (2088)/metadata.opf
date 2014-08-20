@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cecb0839-b6ee-4def-be6e-97f5a349eb8c</dc:identifier>
+        <dc:title>草木春秋</dc:title>
+        <dc:creator opf:file-as="汪曾祺" opf:role="aut">汪曾祺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-29T16:00:00+00:00</dc:date>
+        <dc:description>散文是一种轻灵而又自由的文体，为我国历代文人墨客所喜爱。数千的来，流派异彩纷呈，名篇佳作迭出，一直是中国文学发展史上的一道亮丽景观。为了展示当代散文创作，弘扬社会主义先进文化，促进中国文学事业的不断发展，我社将推出一套“当代散文大家精品文库”丛书。经过严格遴选，进入本套丛书的作家，都是当代创作颇丰、名满文坛的散文大家。&#13;
+　　本书是当代散文大家汪曾祺的精品散文汇集。内收散文五十篇，记人事、写风景、说文化、述掌故，兼及饮食瓜果、草木虫鱼，无不集于笔下。闲淡中有滋味，闲适中有惊威，给读者以文学艺术的审美享受及文化修养的提高。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>现代·当代</dc:subject>
+        <meta content="{&quot;汪曾祺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:10:35.480492+00:00" name="calibre:timestamp"/>
+        <meta content="草木春秋" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

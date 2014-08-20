@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">293fb786-5d4a-401a-a8a8-2c812fb071fd</dc:identifier>
+        <dc:title>蝇王</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">威廉·戈尔丁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《蝇王》描述在一场未来的核战争中，一架飞机带着一群孩子从本土飞到南方疏散。飞机被击落，孩子们乘坐的机舱落到一座世外桃源般的、荒无人烟的珊瑚岛上。起初孩子们齐心协力，后来由于害怕所谓的“野兽”分裂成两派，以崇尚本能的专制派压倒了讲究理智的民主派而告终。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532740109</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>反乌托邦</dc:subject>
+        <dc:subject>威廉·戈尔丁</dc:subject>
+        <dc:subject>戈尔丁</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="蝇王" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

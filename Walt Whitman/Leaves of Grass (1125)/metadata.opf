@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72e8f27c-bd7e-40f5-a239-a5e57d7be9e1</dc:identifier>
+        <dc:title>Leaves of Grass</dc:title>
+        <dc:creator opf:file-as="Whitman, Walt" opf:role="aut">Walt Whitman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;span class="all hidden" style="display: inline; "&gt;&lt;b&gt;WHEN&lt;/b&gt; Walt Whitman self-published his Leaves of Grass in July 1855, he altered the course of literary history. One of the greatest masterpieces of American literature, it redefined the rules of poetry while describing the soul of the American character. &lt;br&gt;　　&lt;br&gt;&lt;b&gt;THROUGHOUT&lt;/b&gt; his great career, Whitman continuously revised, expanded, and republished Leaves of Grass, but as Harold Bloom reminds us, the book that matters most is the 1855 original. In celebration of the poem's 150th anniversary, Penguin Classics proudly presents the 1855 text in its original and complete form, with a specially commissioned introductory essay by Harold Bloom.&lt;br&gt;　　&lt;br&gt;　　 I celebrate myself, and sing myself, &lt;br&gt;　　 And what I assume you shall assume,&lt;br&gt;　　 For every atom belonging to me as good belongs to you.&lt;br&gt;　　&lt;br&gt;&lt;div style="text-align: left;"&gt;&lt;span class="all hidden" style="display: inline; "&gt;"Whitman, the great poet, has meant so much to me. Whitman the one man breaking a way ahead. Whitman the one pioneer . . . Ahead of Whitman, nothing. Ahead of all poets, pioneering into the wilderness of unopened life, Whitman. Beyond him, none." &lt;/span&gt;&lt;/div&gt;&lt;div style="text-align: right;"&gt;&lt;span class="all hidden" style="display: inline; "&gt;D. H. Lawrence&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780143039273</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:SGSW</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;Walt Whitman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诗词" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-18T15:30:37+00:00" name="calibre:timestamp"/>
+        <meta content="Leaves of Grass" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
