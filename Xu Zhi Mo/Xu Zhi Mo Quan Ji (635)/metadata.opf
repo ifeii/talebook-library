@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3eaf1255-b62f-4b68-9e67-2442ed7b56b4</dc:identifier>
+        <dc:title>徐志摩全集</dc:title>
+        <dc:creator opf:file-as="徐志摩" opf:role="aut">徐志摩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: Verdana, Arial, Tahoma, sans-serif; color: rgb(51, 51, 51); font-size: 12px; line-height: 20px; "&gt;&lt;h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px; font-size: 12px; "&gt;除了天賦的限度是事實無可勉強，我敢說我確是有願心想把文章當文章寫的一個人。&lt;/h3&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;徐志摩（1897～1931），原名章垿，字槱森，後改字志摩。中國著名新月派詩人、散文家。一生追求「愛」、「自由」與「美」（胡適語）。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;西元1922年秋天，從英國劍橋留學歸國的徐志摩，發表了一篇「徐志摩離婚通告」，成了近代史上第一宗廣為人知的西式離婚事件，挑戰百年前中國的封建婚姻制度。多數人對徐志摩的印象，也總是與他浪漫不羈的愛情故事相關，甚至多半來自於電視劇《人間四月天》中的描述。&lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>百年千书</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-18T04:23:42.085000+00:00" name="calibre:timestamp"/>
+        <meta content="徐志摩全集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
