@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3cbb16e-76fc-4d1d-9b6e-22bc5c02e8d6</dc:identifier>
+        <dc:title>国富论</dc:title>
+        <dc:creator opf:file-as="亚当·斯密" opf:role="aut">亚当·斯密</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+亚当·斯密并不是经济学说的最早开拓者，他最著名的思想中有许多也并非新颖独特，但是他首次提出了全面系统的经济学说，为该领域的发展打下了良好的基础。因此完全可以说《国富论》是现代政治经济学研究的起点。
+《国富论》远远不是一部通常所认为的学术论文。虽然斯密也劝说放任自由，但他的论证却更多地是反对政府干预和反对垄断；虽然他赞扬贪欲的结果，却又几乎总是鄙视商人的行为和策略。他也不认为商业制度本身是完全值得赞美的。</dc:description>
+        <dc:publisher>华夏出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508036083</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>学术</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>亚当・斯密</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>亚当斯密</dc:subject>
+        <meta content="经济" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="国富论" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
