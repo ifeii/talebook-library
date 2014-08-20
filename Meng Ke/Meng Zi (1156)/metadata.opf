@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a7772d3-be84-4cf6-bee4-f7c8ba9d9492</dc:identifier>
+        <dc:title>孟子</dc:title>
+        <dc:creator opf:file-as="孟轲" opf:role="aut">孟轲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-03T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;《孟子》是中国儒家典籍中的一部，记录了战国时期思想家孟子的治国思想和政治策略，是孟子和他的弟子记录并整理而成的。《孟子》在儒家典籍中占有很重要的地位，为“四书”之一。&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;（子乌注：只有文言文原文。）&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;孟轲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-10-03T16:08:51+00:00" name="calibre:timestamp"/>
+        <meta content="孟子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

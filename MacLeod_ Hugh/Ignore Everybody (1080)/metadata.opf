@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23a1cd1e-5005-49d6-b736-f46645986d95</dc:identifier>
+        <dc:title>Ignore Everybody</dc:title>
+        <dc:creator opf:file-as="Hugh, MacLeod," opf:role="aut">MacLeod, Hugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;不写说明了，直接去看别人的书评吧，这本书不错～&lt;/div&gt;Book Review:&lt;div&gt;(中文)&lt;a href="http://sivers.org/ie/zh"&gt;http://sivers.org/ie/zh&lt;/a&gt;&lt;/div&gt;&lt;div&gt;(English)&lt;a href="http://sivers.org/ie/zh"&gt;http://sivers.org/ie&lt;/a&gt;&lt;/div&gt;&lt;div&gt;Book Descrption:&lt;/div&gt;&lt;div&gt;(from his own website)&lt;/div&gt;&lt;div&gt;&lt;a href="http://gapingvoid.com/ie/"&gt;http://gapingvoid.com/ie/&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PENGUIN group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781591842590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:LZCG</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;MacLeod, Hugh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="励志成功" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-09T03:06:37+00:00" name="calibre:timestamp"/>
+        <meta content="Ignore Everybody" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

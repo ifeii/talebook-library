@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b636acd7-4a04-4085-9711-47f0926b3f86</dc:identifier>
+        <dc:title>刀锋</dc:title>
+        <dc:creator opf:file-as="毛姆" opf:role="aut">毛姆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;小说写一个参加第一次世界大战的美国青年飞行员拉里·达雷尔。在军队中，拉里结识了一个爱尔兰好友：这人平时是那样一个生龙活虎般的置生死于度外的飞行员，但在一次遭遇战中，因为救拉里而中弹牺牲。拉里因此对人生感到迷惘，弄不懂世界上为什么有恶和不幸，拉里开始了他令人匪夷所思的转变……&lt;/p&gt;&lt;p class="description"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="description"&gt;(&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注：第一次读这本书应该是高中，可以算是对我人生影响非常大的一本书，甚至包括了信仰。&lt;/font&gt;)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532716951</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;毛姆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="74" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-12T13:30:23+00:00" name="calibre:timestamp"/>
+        <meta content="刀锋" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

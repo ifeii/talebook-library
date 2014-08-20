@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24c6bf0f-6e59-413f-9d32-bb9df352da9e</dc:identifier>
+        <dc:title>自由选择</dc:title>
+        <dc:creator opf:file-as="米尔顿·弗里德曼 &amp; 罗斯·弗里德曼" opf:role="aut">米尔顿·弗里德曼</dc:creator>
+        <dc:creator opf:file-as="米尔顿·弗里德曼 &amp; 罗斯·弗里德曼" opf:role="aut">罗斯·弗里德曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-28T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;在这本探讨经济、自由以及二者之间关系的经典著作当中，米尔顿·弗里德曼和罗斯·弗里德曼为我们揭示了，正是由于华盛顿当局制定了过多的法律法规、实施了过多的政府管制、建立了过多的行政机构、花费了过多的财政预算，才使我们的自由和财富受到了侵蚀和削弱。一旦政府以中间人的身份插手干预，良好的愿望往往会导致悲惨的结果，对此，两位作者也进行了细致的考察研究。此外，针对这些经济问题，弗里德曼夫妇还提出了积极的建议和意见，告诉我们应当如何扩展自由、增进财富。&lt;br&gt;　　不论是探讨美国在以往岁月中的错误和失误，还是指出将来为增进经济繁荣所应采取的政策策略，本书都是一部重要的著作，其分析透彻，论证有力，说服力很强。&lt;br&gt;(&lt;span style="color:red"&gt;子乌注：这个版本是在掌上书苑的epub版的基础上参照pdf精校版校对而成，补录了其中缺失的一段文字以及6张图表。&lt;b&gt;&lt;u&gt;注意：PDF版不是6寸，而是A4尺寸的精校版！&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;)&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100027120</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <meta content="{&quot;罗斯·弗里德曼&quot;: &quot;&quot;, &quot;米尔顿·弗里德曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="经济" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-19T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="自由选择" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

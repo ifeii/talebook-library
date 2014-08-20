@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2de689c2-50f5-4fe9-bd63-1d7d2b3b66b8</dc:identifier>
+        <dc:title>成都，今夜请将我遗忘</dc:title>
+        <dc:creator opf:file-as="慕容雪村" opf:role="aut">慕容雪村</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-05T16:00:00+00:00</dc:date>
+        <dc:description>窒息是谁的原因？梦的着陆点在哪里呢……当男人遭遇欲望的急流时，还懂得选择遵守誓言的贞洁吗？女人被孤独围困时，偏离方向是不是命运必然的安排？这就是我们曾经热切盼望过的未来生活？&#13;
+&#13;
+　　一个普通人陈重，一个沉沦着却不甘心沉沦的都市青年，一个在粪坑中寻找花朵的理想主义者。当身体在物欲横流的城市深深陷落，他的灵魂却不断仰望着堕落之前的纯真理想。他淫乱、放纵、醉生梦死，与同事勾心斗角、不择手段地追逐金钱；与最好的朋友互相算计，友谊脆弱得不值一线，甚至勾引对方的未婚妻；他爱自己的妻子，却以和别的女人上床来表达这种爱……</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>都市生活</dc:subject>
+        <meta content="{&quot;慕容雪村&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:12:50.995713+00:00" name="calibre:timestamp"/>
+        <meta content="成都，今夜请将我遗忘" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

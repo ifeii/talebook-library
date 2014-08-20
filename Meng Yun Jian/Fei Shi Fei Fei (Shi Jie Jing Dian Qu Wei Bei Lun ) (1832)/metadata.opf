@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b89755cf-daaf-4da8-8fd6-bdb5795ecf33</dc:identifier>
+        <dc:title>非是非非(世界经典趣味悖论)</dc:title>
+        <dc:creator opf:file-as="孟云剑" opf:role="aut">孟云剑</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-12T15:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;自从人类由野蛮走向文明，就不仅努力探索客观世界的奥秘，也执著地探索着人类思维的奥秘：既寻找客观世界的规律，也寻找人类思维的规律。在探索客观世界的过程中，人类会发现自己的面前有许多未知，也会出现各种各样的错误。但在探索人类思维的过程中，除了那些情况外，还有一种特别的现象——悖论。 　　 悖论的特点：按照正确的逻辑推理，却得到了逻辑矛盾，由于这个特点，悖论一直是逻辑学所关注的问题。 　　 在本书中，作者用通俗生动的故事，展现了形形色色的悖论，能使读者在轻松愉快中体验到悖论的特点，也会使读者产生解决悖论的愿望。然而，看似简单的悖论，解决起来却很不简单，需要很坚实的逻辑基础，也要有一定的哲学素养和语言学知识，所以在本书中不可能详细讨论如何解决悖论，而只是提出一个开放的空间。　　 这是一本向青年学生敞开哲学之门的好书。它融合了中西方哲学的精华，但又是如此有趣生动……&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b50ca186-dad0-42fc-a902-4c7770f9045c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;孟云剑&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:13.770569+00:00" name="calibre:timestamp"/>
+        <meta content="非是非非(世界经典趣味悖论)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

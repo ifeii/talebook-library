@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a557d75d-353d-4c29-9edc-f257e1af80b2</dc:identifier>
+        <dc:title>相约星期二</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">米奇·阿尔博姆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+莫里是一位年逾七旬，身患绝症的社会学心理教授，1994年，当他知道自己即将因病离开这个世界的时候，他与自己的学生，美国著名专栏作家米奇・阿尔博姆相约，每个星期二给学生上最后一门课，课程的名字是人生，课程的内容是这位社会学教授对人生宝贵的思考，课程总共上了十四周，最后一堂是老人的葬礼。
+老人谢世后，学生把听课笔记整理出版，定名为《相约星期二》。书中涉及有关世界与死亡，家庭与感情，金钱与永恒的爱等人生永远的话题。该书一出，立即引起全美的轰动，连续40周名列美国图书畅销排行榜。中译本出版后，也引起了国内各界的广泛关注―――感召力是没有国界的。
+作家余秋雨在此书的序言中说：“他把课堂留下了，课堂越变越大，现在延伸到了中国。我向过路的朋友们大声招呼：来，值得进去听听。”</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532722341</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>人生哲理</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>米奇·阿尔博姆</dc:subject>
+        <dc:subject>死亡</dc:subject>
+        <dc:subject>人生</dc:subject>
+        <dc:subject>心灵</dc:subject>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="相约星期二" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

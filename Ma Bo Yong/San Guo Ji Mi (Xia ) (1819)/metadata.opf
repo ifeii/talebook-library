@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40068ebd-ba83-4da4-b265-dddb6d152109</dc:identifier>
+        <dc:title>三国机密（下）</dc:title>
+        <dc:creator opf:file-as="马伯庸" opf:role="aut">马伯庸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-22T16:00:00+00:00</dc:date>
+        <dc:description>建安五年，曹操与袁绍相持于官渡，大战拉开帷幕。&#13;
+    汉献帝白龙鱼服，深入官渡战地。&#13;
+    曹丕随献帝前往，历经九死一生。&#13;
+    表面看，袁曹两军攻城略地轰轰烈烈，谁知实际的操控者却是沉迷酒色的郭嘉和隐居东山的蜚先生。而多年前的一场爱恨情仇埋下了他们仇恨的种子？&#13;
+    谁会是官渡之战真正的智者，谁才是官渡之战背后最大的赢家？</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;马伯庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:06:05.168136+00:00" name="calibre:timestamp"/>
+        <meta content="三国机密（下）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

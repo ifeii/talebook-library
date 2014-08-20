@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a24842f6-50a3-49cb-a519-5349aafca466</dc:identifier>
+        <dc:title>蛙</dc:title>
+        <dc:creator opf:file-as="莫言" opf:role="aut">莫言</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-19T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;以新中国近60年波澜起伏的农村生育史为背景，通过讲述从事妇产科工作50多年的乡村女医生姑姑的人生经历，在形象描述国家为了控制人口剧烈增长、实施计划生育国策所走过的艰巨而复杂的历史过程的同时，成功塑造了一个生动鲜明、感人至深的农村妇科医生形象；并结合计划生育过程中的复杂现象，剖析了以叙述人蝌蚪为代表的知识分子卑微、尴尬、纠结、矛盾的精神世界。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532136766</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:MDWX</dc:subject>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;莫言&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="61" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-08-24T15:35:19+00:00" name="calibre:timestamp"/>
+        <meta content="蛙" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

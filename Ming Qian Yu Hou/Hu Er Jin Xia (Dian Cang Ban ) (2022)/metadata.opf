@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49c8eae3-7654-418a-9a88-186df5f1981c</dc:identifier>
+        <dc:title>忽而今夏（典藏版）</dc:title>
+        <dc:creator opf:file-as="明前雨后" opf:role="aut">明前雨后</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-23T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;封面上说,《忽而今夏》不是一部虚构的小说，而是属于你自己的真实故事。 &lt;br&gt;　　　　 &lt;br&gt;　　看到林荫路上，穿着运动服的微笑的少年们，就是章远，就是何洛。他们行走在左边，青春行走在右 边。 十年，十年前纯净得让人嫉妒的青春岁月，这样纯纯的青涩爱情，我们再也不可能拥有。 &lt;br&gt;　　在我们老去之前，请珍藏这套书，如同珍藏我们每个人的青春回忆。” &lt;br&gt;　　　　 &lt;br&gt;　　短短的几句话，便打动了我的心。我的十年前，初中高中，没有爱恋，却有着少年不知愁滋味的美好年华，每日为高考那个目标努力，充实而简单，却美好而华丽。 &lt;br&gt;　　　　 &lt;br&gt;　　开始怀念那样的明丽岁月 &lt;br&gt;　　我们可不可以不长大 &lt;br&gt;　　我们可不可以永远简单而纯真下去？ &lt;br&gt;　　　　 &lt;br&gt;　　回不去，只有往前走 &lt;br&gt;　　　　 &lt;br&gt;　　细水长流，岁月静好，我最想要的生活状态和心情 &lt;br&gt;　　　　 &lt;br&gt;　　只是，真的不知道还有多少漫长的路要走，才能得到那样的平淡和悠然。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">daa8a056-ecd4-46c7-8cb4-8b612fdb6c3c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>青春校园</dc:subject>
+        <meta content="{&quot;明前雨后&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:09:45.030546+00:00" name="calibre:timestamp"/>
+        <meta content="忽而今夏（典藏版）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

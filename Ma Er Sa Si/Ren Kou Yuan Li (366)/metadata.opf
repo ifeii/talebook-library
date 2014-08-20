@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d3b61b2-71cc-49f8-bb7d-8e203fb4277c</dc:identifier>
+        <dc:title>人口原理</dc:title>
+        <dc:creator opf:file-as="马尔萨斯" opf:role="aut">马尔萨斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;《人口原理》从两个不变法则出发：①食物为人类生存所必需；②两性间的情欲是必然的；论证人口以几何级数增加，生活资料以算术级数增加，人口增长必然超过生活资料增长。人口自然法则要求二者保持平衡，因此，必然发生强大的妨碍，阻止人口的增加，这种妨碍就是贫穷与罪恶。此外，对于人口增加的妨碍，马尔萨斯又举出了道德抑制，即无力赡养自己的子女者不要结婚或者晚婚，而在未婚前要保持贞洁。&lt;/p&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;《人口原理》的基本论题是人口增长有超过食物供应增长趋势的思想。它以“土地报酬递减规律”为基础，认为由于“土地报酬递减规律”的作用，食物生产只能以算术级数增加，赶不上以几何级数增加的人口需要，并认为这是“永恒的人口自然规律”。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>学习资料</dc:subject>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T02:42:29.437000+00:00" name="calibre:timestamp"/>
+        <meta content="人口原理" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

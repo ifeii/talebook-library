@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d11439fe-bfcf-4ac5-9199-049bd1f6e76b</dc:identifier>
+        <dc:title>庆余年(精校版)</dc:title>
+        <dc:creator opf:file-as="猫腻" opf:role="aut">猫腻</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-28T16:00:00+00:00</dc:date>
+        <dc:description>积善之家,必有余庆,留余庆,留余庆,忽遇恩人;幸娘亲,幸娘亲,积得阴功。劝人生,济困扶穷......而谁可知,人生于世,上承余庆,终究却是要自己做出道路抉择,正是所谓岔枝发:
+  东风携云雨,幼藤吐新芽。
+  急催如颦鼓,洗尽茸与华。
+  且待朝阳至,绿遍庭中架。
+  更盼黄叶时,采得数枚瓜。
+  ......
+  ......
+  当今世界,千穿万穿,唯有马屁不穿。所以这是一个穿越的故事,因为故事发生在庆国,而那位病人很奢侈地拥有了多出来的一截生命,所以取名为:庆余年--很有乡土气息的名字。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1a256e38-85cd-4c3a-8415-d062b38b7482</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>穿越·架空</dc:subject>
+        <meta content="{&quot;猫腻&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:09:13.064864+00:00" name="calibre:timestamp"/>
+        <meta content="庆余年(精校版)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

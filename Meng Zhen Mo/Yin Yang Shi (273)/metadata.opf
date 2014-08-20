@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a22692c-bdd3-4c57-880f-1126b511c440</dc:identifier>
+        <dc:title>阴阳师</dc:title>
+        <dc:creator opf:file-as="梦枕貘" opf:role="aut">梦枕貘</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《阴阳师》是梦枕貘最负盛名的作品，以幽暗遥远的平安时代为背景，虚构了一个神秘典雅的人鬼共处世界。相传，日本平安时代，世界明暗未分，人鬼妖杂相共处。阴阳师安倍晴明，白衣飘飘，儒雅不羁；武士源博雅腰悬长刀，淳朴耿直。一对挚情好友淡漠生死，游走于阴阳两界，在谈笑之间破解桩桩离奇事件，为人鬼解忧。
+《阴阳师》中的很多章节见于经史典籍，书中多数鬼怪生前都是著名的历史人物，阅读时，可从中找到许多著名人物生前的若干疑团。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544229418</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>阴阳师</dc:subject>
+        <dc:subject>梦枕貘</dc:subject>
+        <dc:subject>鬼怪</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="17" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="阴阳师" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
