@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d348622-41fa-4587-ab0d-8f06a15d02a0</dc:identifier>
+        <dc:title>黄金时代</dc:title>
+        <dc:creator opf:file-as="王小波" opf:role="aut">王小波</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.11) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;(&lt;span style="color:red"&gt;子乌注：《黄金时代》在《王小波全集》中已经收录，不另外收录了，可前往&lt;a href="http://book.zi5.me/books/detail/1015"&gt;查看&lt;/a&gt;。&lt;/span&gt;)&lt;br&gt;《黃金時代》名列 世紀百強 第 77。作者王小波 (1952～1997)，生前鮮為人知，死後聲名廣播。自一九九七年四月十一日去世後，他的作品幾為全部出版。評論、紀念文章大量湧現，出現了「王小波熱」的文化現象。出版作品有：《黃金時代》、《白銀時代》、（青銅時代》、《我的精神家園》、《沉默的大多數》、《黑鐵時代》、（地久天長》；紀念、評論集有：《浪漫騎士》、《不再沉默》、《王小波畫傳》。一個嚴肅作家在死後兩年時間裡，如此地被人們閱讀、關注、討論，應該說是十分罕見的，其中所蘊涵的文化意義是非常豐富的，而它所透露出來的一個基本信息就是，王小波為許許多多的人們深深地喜愛著。&lt;/p&gt;</dc:description>
+        <dc:publisher>花城出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536025080</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;王小波&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="77" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="黄金时代" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

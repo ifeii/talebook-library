@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bfbfd4d-b4ec-4c53-8a40-8573a479d547</dc:identifier>
+        <dc:title>老夫子漫画作品全集</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">未知</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-12T16:00:00+00:00</dc:date>
+        <dc:language>zh-CN</dc:language>
+        <meta content="漫画" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T17:38:41.902144+00:00" name="calibre:timestamp"/>
+        <meta content="老夫子漫画作品全集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

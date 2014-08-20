@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6469caca-d3b5-47d4-a622-ee58ef0adb74</dc:identifier>
+        <dc:title>THE ELEMENTS OF STYLE (2011 EDITION)</dc:title>
+        <dc:creator opf:file-as="Strunk, William Junior" opf:role="aut">William Strunk Junior</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div id="outer_postBodyPS" style="overflow: hidden; z-index: 1; height: auto;"&gt;
+      &lt;div id="postBodyPS" style="overflow: hidden;"&gt;
+         &lt;div&gt;The Elements of Style is a prescriptive American English 
+writing style guide comprising eight "elementary rules of usage", ten 
+"elementary principles of composition", "a few matters of form", a list 
+of forty-nine "words and expressions commonly misused", and a list of 
+fifty-seven "words often misspelled". In 2011, Time magazine listed the 
+writing style-guide as one of the 100 best and most influential books 
+written in English since 1923. Cornell University professor of English 
+William Strunk, Jr., wrote The Elements of Style in 1918, and privately 
+published it in 1919, for in-house use at the university. In The 
+Elements of Style (1918), as a professor of English, William Strunk 
+concentrated on specific questions of usage and the cultivation of good 
+writing with the recommendation "Make every word tell"; hence, the 17th 
+principle of composition is the simple instruction: "Omit needless 
+words."&lt;/div&gt;
+         
+      &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The Elements of Style Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781612931104</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;William Strunk Junior&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文学理论" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-20T04:29:52+00:00" name="calibre:timestamp"/>
+        <meta content="ELEMENTS OF STYLE (2011 EDITION), THE" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c73b897-f044-45c3-803c-d57f24f74d6f</dc:identifier>
+        <dc:title>大数据时代:生活,工作与思维的大变革 (湛庐文化•财富汇)</dc:title>
+        <dc:creator opf:file-as="维克托•迈尔-舍恩伯格 &amp; 肯尼思•库克耶" opf:role="aut">维克托•迈尔-舍恩伯格</dc:creator>
+        <dc:creator opf:file-as="维克托•迈尔-舍恩伯格 &amp; 肯尼思•库克耶" opf:role="aut">肯尼思•库克耶</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-15T00:00:00+00:00</dc:date>
+        <dc:publisher>ZHLCN</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fa4c57fa-ed24-4f7a-aa29-a049251e7c21</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;维克托•迈尔-舍恩伯格&quot;: &quot;&quot;, &quot;肯尼思•库克耶&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:02:14.757413+00:00" name="calibre:timestamp"/>
+        <meta content="大数据时代:生活,工作与思维的大变革 (湛庐文化•财富汇)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

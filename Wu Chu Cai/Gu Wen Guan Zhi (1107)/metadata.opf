@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37dc2159-c655-4db6-99aa-a330362326cd</dc:identifier>
+        <dc:title>古文观止</dc:title>
+        <dc:creator opf:file-as="吴楚材 &amp; 吴调侯" opf:role="aut">吴楚材</dc:creator>
+        <dc:creator opf:file-as="吴楚材 &amp; 吴调侯" opf:role="aut">吴调侯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-28T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;　　去年这个时候，我在网上看到了《古文观止》的电子版，深感其中错讹较多，并且文章缺失很多，于是有了自己制作一个电子版的念头。另一方面，自己刚考完研，突然闲下来，也觉无事可做。&lt;/div&gt;&lt;div&gt;　　其中困难很多，很多古字、死字、异体字难以输入，工作量太大，自己也从来不愿意打字。总算一切都过去了，但是很遗憾没有注解（都输入的话不知道会不会用一辈子，呵呵），不过大多数平时少用的字或是古今读音不同的字都作了注音。总体说来，自己很满意，希望爱好文言文的朋友们能够喜欢。&lt;/div&gt;&lt;div&gt;　　这本电子书使用的是中华书局87年版安平秋校注的版本。&lt;/div&gt;&lt;div style="text-align: right;"&gt;scorpio搜集整理&lt;/div&gt;&lt;div&gt;(&lt;font class="Apple-style-span" color="#FF0000"&gt;子乌注：感谢网友&lt;/font&gt;&lt;u&gt;&lt;b&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;王宇&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;prc版本，不知道为啥，转换出来的mobi版没有prc版本好看，希望效果比较好的话建议看prc和epub版——主要是注音会直接标注在生僻字之上，而不是在文字后加括号标注&lt;/font&gt;)&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>fishdream</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101000290</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:GDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;吴楚材&quot;: &quot;&quot;, &quot;吴调侯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="古典名著" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-29T12:34:13+00:00" name="calibre:timestamp"/>
+        <meta content="古文观止" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

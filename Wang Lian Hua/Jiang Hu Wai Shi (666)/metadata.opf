@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be510ad3-d4f5-4997-98c0-1abe743d91ab</dc:identifier>
+        <dc:title>江湖外史</dc:title>
+        <dc:creator opf:file-as="王怜花" opf:role="aut">王怜花</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;div class="indent" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-all; "&gt;　　曾经名动网络的“古金兵器谱”，加上脍炙人口的“怜花宝鉴之人物志”，构成了这本畅销不衰的《江湖外史》。它是一本借金庸、古龙小说中的人物说事的书，也是一部关于八十年代北大“青春记忆”的书，更是一部探讨生活道路问题的书。此书被誉为品评金庸古龙最精妙、最富才情的作品。&lt;br&gt;&lt;/div&gt;&lt;h2 style="margin-top: 24px; margin-right: 0px; margin-bottom: 3px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; font-weight: normal; font: normal normal normal 14px/normal Arial, Helvetica, sans-serif; color: rgb(0, 102, 0); line-height: 21px; "&gt;作者简介   · · · · · · &lt;/h2&gt;&lt;div class="indent" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; word-break: break-all; "&gt;　　作者王怜花，原名蔡恒平，北大著名诗人，汉语手工艺人；自由主义者；市场原教旨主义者；享乐主义者；一个倡导自己和员工“努力工作、及时行乐”的人。现居北京，供职于某公司。著有《谁会感到不安》、《古金兵器谱》，其小说《上坡路和下坡路是同一条路》曾流传一时。&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802280403</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>武侠小说</dc:subject>
+        <meta content="文化" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-22T12:58:43.781000+00:00" name="calibre:timestamp"/>
+        <meta content="江湖外史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
