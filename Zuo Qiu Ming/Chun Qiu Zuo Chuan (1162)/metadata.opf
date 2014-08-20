@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b03bd1c-27a7-4e6d-ba13-211b54532d1a</dc:identifier>
+        <dc:title>春秋左传</dc:title>
+        <dc:creator opf:file-as="左丘明" opf:role="aut">左丘明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-05T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　《春秋左传》以孔子的《春秋》为纲。运用大量史实。详细地叙述了这一时期各国的政治、经济以及文化状况。同时，作者以细腻的笔触。生动地描绘了春秋时期能人异士的斗智斗勇、纵横捭阖；争霸战争的金戈铁马、气势恢宏。而儒家所崇尚的等级秩序、宗法伦理以及民本思想也从字里行间散发出来。总之。《春秋左传》是一部文史并美的优秀作品。&lt;/span&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSDL</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;左丘明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-10-06T09:08:23+00:00" name="calibre:timestamp"/>
+        <meta content="春秋左传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

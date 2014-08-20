@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28531625-b050-4ba1-bab4-585723c55dda</dc:identifier>
+        <dc:title>舒克和贝塔全传</dc:title>
+        <dc:creator opf:file-as="郑渊洁" opf:role="aut">郑渊洁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-30T16:00:00+00:00</dc:date>
+        <dc:description>舒克和贝塔是童话大王郑渊洁笔下最著名的童话形象,舒克和贝塔伴随了几代人的成长。郑渊洁花费十几年时间写作长达一百多万字的《舒克和贝塔全传》。大多数读者只看过《舒克和贝塔》前100集,而《舒克和贝塔》总共366集。这是郑渊洁首次授权出版社出版366集全本《舒克和贝塔全传》。县念迭起,扣人心弦,故事精彩,想象奇特是这部巨著的特色。《舒克和贝塔全传》是成年人回到童年、未成年人享受童年的灵丹妙药,是馈赠孩子和朋友的礼品精神大餐。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cf9f7bf5-a951-4bbf-bdd0-911faeb3c096</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>儿童·幽默</dc:subject>
+        <meta content="{&quot;郑渊洁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:23.030533+00:00" name="calibre:timestamp"/>
+        <meta content="舒克和贝塔全传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

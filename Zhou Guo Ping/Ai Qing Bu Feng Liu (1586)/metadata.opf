@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29a9706d-91a6-4918-82e7-a585d8a83b8f</dc:identifier>
+        <dc:title>爱情不风流</dc:title>
+        <dc:creator opf:file-as="周国平" opf:role="aut">周国平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-20T16:00:00+00:00</dc:date>
+        <dc:description>浩渺宇宙间，任何一个生灵的降生都是偶然的，离去却是必然的；一个生灵与另一个生灵的相遇总是千载一瞬，分别却是万劫不复，说到底，谁和谁不同是这空空世界里的天涯论落人？一个男人真正需要的只是自然和女人。其余的一切，诸如功名之类，都是奢侈品。&#13;
+　　当我们把一个异性唤做恋人时，是我们的激情在呼唤。当我们把一个异性唤做亲人时，却是我们的全部人生经历在呼唤。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <meta content="{&quot;周国平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:02:04.848396+00:00" name="calibre:timestamp"/>
+        <meta content="爱情不风流" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

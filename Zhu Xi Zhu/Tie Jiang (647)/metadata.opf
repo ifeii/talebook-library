@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b172e94b-2252-4272-b632-2005a8ac12f1</dc:identifier>
+        <dc:title>鐵漿</dc:title>
+        <dc:creator opf:file-as="朱西寧" opf:role="aut">朱西寧</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《鐵漿》名列 世紀百強 第 53。作者朱西寧，原名朱青海，1927年生於山東省臨胸縣的一個篤信基督教的家庭。抗日戰爭爆發那年，他才11歲，便離開家鄉，開始了流亡生活，浪跡於蘇北、皖東、南京、上海等地，斷斷續續地讀書和工作。抗戰勝利後，入杭州國立藝專。1946年，他19歲時，在當時的《中央日報》副刊發表第一篇小說《洋化》。解放戰爭時期加入國民黨軍隊，並隨之去了台灣。他在國民黨軍隊中，從上等兵至上校軍階，先後25年之久。50年代登上台灣文壇，是台灣「軍中作家」之一。他曾任台灣黎明文化公司總編輯、中國文化大學中文系兼任教授，並曾主編《新文藝》雜誌、任職於新中國出版社。70年代，他曾公開提倡開放30年代文學作品，因而遭到官方冷遇。1977年8月，台灣當局召開規模較大的「第二次文藝會談」，會議不僅不讓他參加，還針對他所提倡的開放30年代文學作品問題，正式通過決議，要「匡正視聽，以免流毒社會」云云。著有：長篇小說《貓》、《畫夢記》、《旱魃》、《獵狐記》、《茶鄉》等，短篇小說集《大火炬的愛》、《鐵漿》、《狼》、《破曉時分》、《第一號隧道》、《冶金者》、《現在幾點種》、《奔向太陽》、《非禮記》、《蛇》、《將軍與我》、《將軍令》、《海燕》、《牛郎星宿》、《熊》等。他的夫人劉慕沙，是台灣著名的女翻譯家，三個女兒朱天文、朱天心和朱天衣，也寫小說或寫電影劇本，或表演京劇。&lt;/p&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789867810380</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;朱西寧&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="53" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="鐵漿" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

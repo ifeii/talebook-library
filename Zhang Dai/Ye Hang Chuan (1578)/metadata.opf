@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b342576f-52ef-4fbb-b78d-930328a0bd20</dc:identifier>
+        <dc:title>夜航船</dc:title>
+        <dc:creator opf:file-as="张岱" opf:role="aut">张岱</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-23T16:00:00+00:00</dc:date>
+        <dc:description>张岱为什么把他的著作取名《夜航船》呢?夜航船是南方水乡苦途长旅的象征，人们外出都要坐船，在时日缓慢的航行途中，坐着无聊，便以闲谈消遣。其中乘客有文人学士，也有富商大贾。有赴任的官员，也有投亲的百姓。各色人等应有尽有，谈话的内容也包罗万象。张岱说：“天下学问，惟夜航船最难对付。”他在《夜航船》序中讲了这样一个故事：昔日有一僧人与一士子同宿夜航船。士子高谈阔论，僧畏慑，拳足而寝。僧人听其语有破绽，乃曰：“请问相公，澹台灭明是一个人、两个人?”士子曰：“是两个人”。僧曰：“这等尧舜是一个人、两个人?”士子曰：“自然是一个人!”僧乃笑曰：“这等说来，且待小僧伸伸脚。”于是，张岱便编写了一本列述中国文化常识的书，便取名《夜航船》，使人们不至于在类似夜航船的场合丢丑。“但勿使僧人伸脚则可矣”。&#13;
+　　《夜航船》并非高深莫测的古书，而是用较为浅显的文言叙述四千余个文化常识段子，这些条目绝大多数都是作为一个有文化的人所必须熟知的内容。虽然也收录了一些现在看来荒诞不经的内容，但作为古人的情趣笑谈，有助于我们了解古代的一些文化状况，也未尝不可以看看。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>百科类普及读本</dc:subject>
+        <meta content="{&quot;张岱&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:54.760341+00:00" name="calibre:timestamp"/>
+        <meta content="夜航船" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

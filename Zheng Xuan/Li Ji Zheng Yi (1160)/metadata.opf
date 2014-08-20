@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3e4f82e-f962-4de7-865d-f6f0307844f5</dc:identifier>
+        <dc:title>礼记正义</dc:title>
+        <dc:creator opf:file-as="郑玄 &amp; 孔颖达" opf:role="aut">郑玄</dc:creator>
+        <dc:creator opf:file-as="郑玄 &amp; 孔颖达" opf:role="aut">孔颖达</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-04T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本书是儒家十三经之一，是学习、研究古代文化遗产的重要文献。汉代有郑玄作注，唐代有孔颖达为之正义，都是古人对《礼记》的注释，是今人阅读研究《礼记》的重要版本。今归入上海古籍出版社出版的《十三经注疏》，由吕友仁先生以影印宋绍熙刻本《礼记正义》校以品本，并将唐陆明《经典释文》中《礼记音义》，分别插入经、注各条之下，以方便读者。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;孔颖达&quot;: &quot;&quot;, &quot;郑玄&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-10-05T15:32:45+00:00" name="calibre:timestamp"/>
+        <meta content="礼记正义" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

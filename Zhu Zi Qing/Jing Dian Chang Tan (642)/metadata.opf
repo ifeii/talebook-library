@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ff6809f-f708-4cb9-8cc6-39099eba4ae8</dc:identifier>
+        <dc:title>經典常談</dc:title>
+        <dc:creator opf:file-as="朱自清" opf:role="aut">朱自清</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: Verdana, Arial, Tahoma, sans-serif; color: rgb(51, 51, 51); font-size: 12px; line-height: 20px; "&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;朱自清作品。以十三篇文字解讀了中國古代經典的精華，不僅是本好的導讀、解釋，同時也傳授了極為重要的研究法與讀書法，深入淺出，實為難得。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;以散文《背影》而廣被人知的現代散文家、詩人，百年千書選了這本《經典常談》，實在是寓意深重。朱自清除了創作之外，實為清華大學中文系教授，專攻文學研究。《經典常談》實際上是為了中等教育而撰寫的經典訓練教材，也就是經史子集四部的簡要介紹。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;深入淺出，實際上是最難達到的境地。若非有著深厚的研究底子，以及獨到的理解，很難跳出窠臼。在四部中的「集部」，朱先生逕自採用了辭賦、詩、文這樣的三分法，就常被人稱道。同時對於諸多名家的介紹，幾句話往往就切中神髓，對於一般人很難細讀的中國古籍，實在是難得一見的必備國學導讀。&lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>百年千书</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532526710</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <meta content="文化" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-18T10:46:01.882000+00:00" name="calibre:timestamp"/>
+        <meta content="經典常談" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
