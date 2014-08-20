@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48f76319-179e-4f95-885a-631b87b3a2b2</dc:identifier>
+        <dc:title>梵高传：对生活的渴求</dc:title>
+        <dc:creator opf:file-as="欧文•斯通" opf:role="aut">欧文•斯通</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-07T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="intro"&gt;
+    &lt;p&gt;荷兰画家温森特·梵高是19世纪人类最杰出的艺术家之一。他热爱生活，但在生活中屡遭挫折，艰辛备尝。他献身艺术，大胆创新，在广泛学习前
+辈画家伦勃朗等人的基础上，吸收印象派画家在色彩方面的经验，并受到东方艺术，特别是日本版画的影响，形成了自己独特的艺术风格，创作出许多洋溢着生活激
+情、富于人道主义精神的作品，表现了他心中的苦闷、哀伤、同情和希望，至今饮誉世界。&lt;/p&gt;    &lt;p&gt;被誉为传记小说之父的美国现代作家欧文·斯通，在梵高还默默无闻的时候便写出了这部文学传记，时年仅26岁。60余年来，梵高的身世打动了无数读者，其魅力至今犹在。这部作品也便成了作家的成名之作，并被译成80余种文字，发行数千万册。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注：该书是北京出版社于1995年二版的版本，而不是豆瓣上的2001年版，所以封面不同。该电子版是在一个算是精校的文字版的基础上参考原扫描版重新校对排版而成，不过可能还存在部分错别字被我漏过，有问题欢迎提出。&lt;/font&gt;)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">7200005843</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;欧文•斯通&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="45" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-08T11:18:29+00:00" name="calibre:timestamp"/>
+        <meta content="梵高传：对生活的渴求" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

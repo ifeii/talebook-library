@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e836a9c4-68df-4379-a1e0-2a409181779a</dc:identifier>
+        <dc:title>自深深处(狱中记)</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.25) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-02T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;我人生有两大转折点：一是父亲送我进牛津，一是社会送我进监狱。碰上你，对我是危险的，而在那个特定时候碰上你，对我则成了致命。命运将我们两个互不相干的生命丝丝缕缕编成了一个血红的图案，你的确真心爱过我。即使你拒绝收我的信，我也会照写不误，这样你就会知道，不管怎样，总是有信在等着你。&lt;/p&gt;&lt;p class="description"&gt; 《自深深处》是王尔德写给他的同性恋伙伴道格拉斯的一封长信，这封信是王尔德在牢狱生活的最后几个月内写成的，信中充满了以道格拉斯爱恨交织的情绪，同时还集中阐述了王尔德的艺术观、生活观。&lt;/p&gt;&lt;p class="description"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="description"&gt;(&lt;font class="Apple-style-span" color="#6666ff"&gt;子乌注：文中有数字标注，注释内容均为“系光盘朗诵段落,为保持连贯,段中有所删节。”，为阅读愉快，全部删除。&lt;/font&gt;)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544704816</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;Oscar Wilde&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="书信" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-04-03T05:21:59+00:00" name="calibre:timestamp"/>
+        <meta content="自深深处(狱中记)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
