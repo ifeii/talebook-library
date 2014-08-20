@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af661923-0799-418b-b0e4-16798beaf153</dc:identifier>
+        <dc:title>第三帝国的兴亡</dc:title>
+        <dc:creator opf:file-as="威廉.夏伊勒" opf:role="aut">威廉.夏伊勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-25T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;第三帝国的兴亡是全世界最畅销的反映纳粹德国历史的巨著，它精彩绝伦地记述了被希特勒称为“千秋帝国”而实际上只存在了12年零4个月的第三帝国从兴起到覆灭的全部过程。在短短的12年中，不可一世的第三帝国在人类历史上制造了惨绝人寰的灾难，留下了一段惊心动魄的历史。随着第三帝国的迅速崩溃，人们缴获了大量秘密文件，私人日记、发言记录以及纳粹党领导人的电话录音，德国外交部485吨档案当时就存放在美军的仓库里，于是，一个极端独裁政权的全部秘密和罪恶活动就在它覆灭的同时全部公之于世了。这就是本书大量的、真实的资料来源。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>历史军事</dc:subject>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T02:42:22.406000+00:00" name="calibre:timestamp"/>
+        <meta content="第三帝国的兴亡" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>
