@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ddf529e-a95c-4e6b-a758-6d0314658b5a</dc:identifier>
+        <dc:title>獵殺紅色十月</dc:title>
+        <dc:creator opf:file-as="湯姆‧克蘭西" opf:role="aut">湯姆‧克蘭西</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-03T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;本書是湯姆．克蘭西初試啼聲就一鳴驚人的軍事文學作品。此書因精采度及逼真度過強，不但受到美國當局的「關注」，後來還成了美國海軍參謀大學和戰爭學院同時指定的一本反潛戰教材。 &lt;br&gt;　　 &lt;br&gt;一艘滿載洲際飛彈的蘇聯最新式核子動力飛彈潛艦紅色十月號，正由一批艦上最優秀的官員帶著直奔而來。本書乃軍事小說家湯姆．克蘭西成名力作，譯著榮獲1991年中國文藝協會翻譯獎。 &lt;br&gt;　　 &lt;br&gt; 「獵殺紅色十月號」是現今美國最暢銷的科技小說作家湯姆˙克蘭西的第一部作品，也是到目前為止公認的他最好的作品。因為寫的太好，太逼真，湯姆˙克蘭西還因此被中央情報局CIA請去復訊，追問他是不是有國防部官員洩密給他。 &lt;br&gt;　　 &lt;br&gt;「獵殺紅色十月號」也是克蘭西作品中第一部被搬上銀幕的動作鉅作，由史恩康納來和亞歷鮑德溫兩大頭牌主演。這種陣容已成絕響，因為他是最好的，所以你一定要看。------影評人 王麗莎推薦&lt;/span&gt;</dc:description>
+        <dc:publisher>好读</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789579270632</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;湯姆‧克蘭西&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="军事小说" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-04T14:02:06+00:00" name="calibre:timestamp"/>
+        <meta content="獵殺紅色十月" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

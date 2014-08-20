@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0ce1842-acd5-4f8d-ba1c-87a3a1a0b108</dc:identifier>
+        <dc:title>思维导图</dc:title>
+        <dc:creator opf:file-as="Buzan, Tony" opf:role="aut">Tony Buzan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-12T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;思维导图思维导图,又叫心智图,是表达发射性思维的有效的图形思维工具 ,它简单却又极其有效,是一种革命性的思维工具。思维导图运用图文并重的技巧,把各级主题的关系用相互隶属与相关的层级图表现出来,把主题关键词与图像、颜色等建立记忆链接,思维导图充分运用左右脑的机能,利用记忆、阅读、思维的规律,协助人们在科学与艺术、逻辑与想象之间平衡发展,从而开启人类大脑的无限潜能。思维导图因此具有人类思维的强大功能。&lt;br&gt; 思维导图是一种将放射性思考具体化的方法。我们知道放射性思考是人类大脑的自然思考方式,每一种进入大脑的资料,不论是感觉、记忆或是想法——包括文字、数字、符码、食物、香气、线条、颜色、意象、节奏、音符等,都可以成为一个思考中心,并由此中心向外发散出成千上万的关节点,每一个关节点代表与中心主题的一个连结,而每一个连结又可以成为另一个中心主题,再向外发散出成千上万的关节点,而这些关节的连结可以视为您的记忆,也就是您的个人数据库。&lt;/p&gt;&lt;p class="description"&gt;(&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注：可能有缺失！有发现缺页请和我联系&lt;/font&gt;)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>shu.im</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508614458</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:JYXX</dc:subject>
+        <dc:subject>CNTY:UK</dc:subject>
+        <meta content="{&quot;Tony Buzan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-12-20T12:05:27+00:00" name="calibre:timestamp"/>
+        <meta content="思维导图" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

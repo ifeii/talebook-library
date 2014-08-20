@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a789c2c5-560e-48e8-84fc-458198d86665</dc:identifier>
+        <dc:title>牡蛎男孩忧郁之死</dc:title>
+        <dc:creator opf:file-as="Burton, Tim" opf:role="aut">Tim Burton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-15T16:00:00+00:00</dc:date>
+        <dc:description>中文版獨家！──全書中英對照，隨書再送精美書卡！&#13;
+　　你一生災難之總合，也比不上這本書的荒謬與悲慘。&#13;
+　　沒有讀過這本書，別說你懂世間殘酷！&#13;
+　　好萊塢鬼才導演Tim Burton獨一無二圖文經典！&#13;
+　　歷年電影原創構想，盡在此書！&#13;
+　　好萊塢知名鬼才導演提姆．波頓唯一一本圖文故事集！結合了童話、寓言和狂想……等材料，由22個古怪角色聯手演出，透過作者詩文般的短句娓娓道來，料理出一個個令人心碎、心酸、心疼與心折的悲慘故事。&#13;
+　　因為愛上「火柴女郎」而全身著火死亡的枯枝男孩、因為長相怪異而被父母唾棄的機器人男孩及牡蠣男孩、因為心上插了太多針而無法與他人靠近的巫毒女孩、想要成為超級英雄但總是弄得到處髒兮兮的污漬男孩……&#13;
+　　除了提姆．波頓，誰想得出這樣奇怪的故事和人物？！</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;Tim Burton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:59:18.950159+00:00" name="calibre:timestamp"/>
+        <meta content="牡蛎男孩忧郁之死" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

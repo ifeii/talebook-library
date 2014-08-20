@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45524849-a1b1-4972-af39-60ab731e768f</dc:identifier>
+        <dc:title>银河英雄传说VOL.10 落日篇</dc:title>
+        <dc:creator opf:file-as="田中芳树" opf:role="aut">田中芳树</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-30T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+宇宙历八〇一年，新帝国历三年，旧同盟领地在鲁宾斯基的策动下，出现了极度混乱的局面，尤里安为了响应各地的共和主义者，与瓦列展开大战，军务尚书奥贝斯坦奉命到海尼森整顿局势，展开了所谓的“奥贝斯坦大割草”。
+在来势汹汹的帝国军面前，尤里安孤注一掷，趁帝国军因皇帝病倒而陷入混乱，强行攻入旗舰“伯伦希尔”，浑身浴血、疲惫不堪的尤里安面对卧床不起的莱因哈特，银河英雄的历史将如何写完最后一笔？
+看点：
+银河英雄传说大结局!
+数百位人物悉数登场，孤独的银河将如何送别战神——莱因哈特？
+中国80后代表作家的写作范本
+东方版&lt;星球大战&gt;、太空版&lt;三国演义&gt;!
+郭敬明、韩寒、萧鼎、蔡骏都曾为之倾倒，并深受影响！
+日文版销量高达1512万册，每8个日本人就有一册！
+出版20余年来，中国内地首次正版引进，无数银英迷翘首企盼！</dc:description>
+        <dc:publisher>北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530208953</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>田中芳树</dc:subject>
+        <dc:subject>架空历史</dc:subject>
+        <meta content="银河英雄传说" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="银河英雄传说VOL.10 落日篇" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

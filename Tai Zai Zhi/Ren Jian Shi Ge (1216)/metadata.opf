@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feac1a63-8332-419f-b678-3e0ed49d2b86</dc:identifier>
+        <dc:title>人间失格</dc:title>
+        <dc:creator opf:file-as="太宰治" opf:role="aut">太宰治</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-09T16:48:38+00:00</dc:date>
+        <dc:description>&lt;div&gt;　　《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在
+日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的
+颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一
+生”。在发表这部作品的同年，太宰治就自杀身亡。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787546302393</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>CNTY:JAPAN</dc:subject>
+        <meta content="{&quot;太宰治&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="70" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-09-09T16:48:38+00:00" name="calibre:timestamp"/>
+        <meta content="人间失格" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

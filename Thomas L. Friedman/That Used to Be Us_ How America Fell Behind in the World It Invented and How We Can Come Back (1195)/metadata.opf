@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4667a04d-c37a-4bf3-9b6b-e353e3ab226c</dc:identifier>
+        <dc:title>That Used to Be Us: How America Fell Behind in the World It Invented and How We Can Come Back</dc:title>
+        <dc:creator opf:file-as="Friedman, Thomas L. &amp; Mandelbaum, Michael" opf:role="aut">Thomas L. Friedman</dc:creator>
+        <dc:creator opf:file-as="Friedman, Thomas L. &amp; Mandelbaum, Michael" opf:role="aut">Michael Mandelbaum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-04T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;America is in trouble. We face four major challenges on which our 
+future depends, and we are failing to meet them—and if we delay any 
+longer, soon it will be too late for us to pass along the American dream
+ to future generations. &lt;/div&gt;&lt;div&gt;       In &lt;i&gt;That Used to Be Us&lt;/i&gt;, 
+Thomas L. Friedman, one of our most influential columnists, and Michael 
+Mandelbaum, one of our leading foreign policy thinkers, offer both a 
+wake-up call and a call to collective action. They analyze the four 
+challenges we face—globalization, the revolution in information 
+technology, the nation’s chronic deficits, and our pattern of excessive 
+energy consumption—and spell out what we need to do &lt;i&gt;now &lt;/i&gt;to 
+sustain the American dream and preserve American power in the world. 
+They explain how the end of the Cold War blinded the nation to the need 
+to address these issues seriously, and how China’s educational 
+successes, industrial might, and technological prowess remind us of the 
+ways in which “that used to be us.” They explain how the paralysis of 
+our political system and the erosion of key American values have made it
+ impossible for us to carry out the policies the country urgently needs.
+ &lt;/div&gt;&lt;div&gt;       And yet Friedman and Mandelbaum believe that the 
+recovery of American greatness is within reach. They show how America’s 
+history, when properly understood, offers a five-part formula for 
+prosperity that will enable us to cope successfully with the challenges 
+we face. They offer vivid profiles of individuals who have not lost 
+sight of the American habits of bold thought and dramatic action. They 
+propose a clear way out of the trap into which the country has fallen, a
+ way that includes the rediscovery of some of our most vital traditions 
+and the creation of a new thirdparty movement to galvanize the country. &lt;/div&gt;&lt;div&gt;       &lt;i&gt;That Used to Be Us &lt;/i&gt;is both a searching exploration of the American condition today and a rousing manifesto for American renewal. &lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780374288907</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;Thomas L. Friedman&quot;: &quot;&quot;, &quot;Michael Mandelbaum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="社会" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-20T04:17:13+00:00" name="calibre:timestamp"/>
+        <meta content="That Used to Be Us: How America Fell Behind in the World It Invented and How We Can Come Back" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
