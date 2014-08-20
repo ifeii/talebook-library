@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83c32325-292f-4875-bd07-91695274078e</dc:identifier>
+        <dc:title>文明论概略</dc:title>
+        <dc:creator opf:file-as="福泽谕吉" opf:role="aut">福泽谕吉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="font-family: 宋体, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255); "&gt;个人之自由独立关系到国家之自由独立------福泽谕吉&lt;br&gt;&lt;/span&gt;&lt;span style="orphans: 2; text-align: -webkit-auto; text-indent: 0px; widows: 2; background-color: rgb(255, 255, 255); display: inline !important; float: none; -webkit-text-stroke-width: 0px; -webkit-text-size-adjust: auto; word-spacing: 0px; white-space: normal; text-transform: none; letter-spacing: normal; font-weight: normal; font-variant: normal; font-style: normal; color: rgb(0, 0, 0); "&gt;&lt;font class="Apple-style-span" face="verdana, arial, helvetica, sans-serif" size="2" style="font-family: 宋体, sans-serif; font-size: 13px; "&gt;&lt;br&gt;&lt;/font&gt;&lt;p&gt;&lt;font class="Apple-style-span" face="verdana, arial, helvetica, sans-serif" size="2"&gt;&lt;span class="Apple-style-span" style="line-height: 19px;"&gt;&lt;span style="color: rgb(0, 0, 0); font-family: verdana, arial, helvetica, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); font-size: small; display: inline !important; float: none; "&gt;《文明论概略》是探讨人类精神发展的理论。其目的不在于讨论个人的精神发展,而是讨论广大群众的总的精神发展。 “文明论概略”一书共十章,书中阐述了文明的涵义。福泽认为文明一词至大至广,无所不包,从工商企业、科学技术到政法制度、文学艺术和道德智慧等等,举凡人类社会的一切物质和精神财富,都被他包括在文明这一概念之中。其中他特别强调道德智慧的重要,他说一国文明程度的高低,可以人民的德智水准来衡量。因此他认为要促进文明,必须首先提高人民的道德和智慧,人民德智的提高是没有止境的,因而文明的进步也没有止境。&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="font-family: 宋体, sans-serif; font-size: 13px; "&gt;&lt;/p&gt;&lt;p style="font-family: 宋体, sans-serif; font-size: 13px; "&gt;愿在我们的国家，也能人人自由独立，成为自由独立之国家.-----Mobi creator&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">cfcb1503-6ff4-4f06-a946-20517d3b94a2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;福泽谕吉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:09:16.834731+00:00" name="calibre:timestamp"/>
+        <meta content="文明论概略" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">acefa2e4-b867-4ca8-8da6-18d5a7ac9efe</dc:identifier>
+        <dc:title>政治经济学的国民体系</dc:title>
+        <dc:creator opf:file-as="弗里德里希·李斯特" opf:role="aut">弗里德里希·李斯特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-18T16:00:00+00:00</dc:date>
+        <dc:description>《政治经济学的国民体系》由四部分组成：历史、理论、学派和国民经济政治学。它是在1844年前完成的，尤其是第四部分描述的大部分政治情形与商业政策现在已不复存在，记住这点至关重要。当时大不列颠《谷物法》、《航海法》以及普遍的保护主义关税制度仍未废除；德国的制造工业尚处于初始阶段，德国各邦相对适度的关税制度仍然允许英国为它们提供它们需要的绝大部分制成品。大约五年前，当弗里德里希·李斯特（Friedrich List）的一系列著作在德国发表并大量发行的时候，《泰晤士报》驻柏林记者对这些著作在拥护保护性商业政策的那个国家产生的有力影响进行了评论。&#13;
+&#13;
+正是李斯特经济学理论的实际影响得到了证实，首先吸引了我对李斯特著作的注意。我在认真阅读了这些著作之后，便产生了翻译这部论著的想法，目的是为英国读者提供一个机会，自行判断作者论断的正确性和论证的合理性。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>专业书籍</dc:subject>
+        <meta content="{&quot;弗里德里希·李斯特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:03:46.249263+00:00" name="calibre:timestamp"/>
+        <meta content="政治经济学的国民体系" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

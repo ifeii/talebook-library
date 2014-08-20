@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b68a0e9f-c11b-4866-b6b8-b6d33bd39ee1</dc:identifier>
+        <dc:title>邓小平时代 Deng Xiaoping and the Transformation of China</dc:title>
+        <dc:creator opf:file-as="傅高义 Vogel, Ezra F." opf:role="aut">傅高义 Vogel, Ezra F.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.25) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-24T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;傅高義（Ezra F. Vogel）教授的Deng Xiaoping and the Transformation of China是對鄧小平一生的完整回顧，也是對中國改革開放歷史的全景式描述。該書雖從鄧1904年出生寫起，但敍述重點為鄧1977年復出之後的政治生涯，縱貫鄧時代的起始、展開、挑戰和終曲，故香港中文版定名為《鄧小平時代》。 本書由馮克利先生翻譯，前後歷經兩稿。2010年秋作者完成英文初稿後，譯者進行第一輪翻譯，作者據該譯本延請多位中國學者專家閱讀，繼而根據反饋意見對英文原稿進一步修改。及至2011年秋本書英文版由美國哈佛大學出版社出版之前，譯者再度根據英文編輯定稿進行第二輪翻譯。鑒於工程浩繁，蒙作者和譯者認可，本社編輯部承擔了本書譯校工作。譯校力求秉承作者嚴謹的學術作風，同時尊重譯者的翻譯風格。&lt;/p&gt;&lt;p class="description"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="description"&gt;(&lt;font class="Apple-style-span" color="#800000"&gt;子乌注：&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#800000"&gt;关于书：个人觉得书确实不错，是站在比较中立的角度来描写这个比较有争议的人物。&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#800000"&gt;关于版本：港版，毋庸置疑，该有的都有，质量也很好，来源未知，怀疑是正版的转换来的。到我手里的时候是epub，我重新排版了一下，调整了注释的位置并改了2个小错误。&lt;/font&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#800000"&gt;关于azw3：这个格式出来一段时间了，但一直没去尝试，这次试试看效果如何……个人感觉还不错，相对mobi来说，针对排版做的一些美化效果还能保留下来，但在kindle上，有些效果和mobi有些差距，需要手动设定一下行高之类的。&lt;/font&gt;)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789629965389</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWZJ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;傅高义 Vogel, Ezra F.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="47" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-01-24T18:46:00+00:00" name="calibre:timestamp"/>
+        <meta content="邓小平时代 Deng Xiaoping and the Transformation of China" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: &quot;传记&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

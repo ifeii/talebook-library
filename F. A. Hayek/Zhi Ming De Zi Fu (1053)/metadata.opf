@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35909573-4654-43d6-ade9-01833a0bce4d</dc:identifier>
+        <dc:title>致命的自負</dc:title>
+        <dc:creator opf:file-as="Hayek, F. A." opf:role="aut">F. A. Hayek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;1978年，年屆80高齡，與形形色色的社會主義戰鬥了一生的哈耶克，希望讓這場論戰有個了斷。他設想舉行一次正式的大辯論，地點很可能是在巴黎，讓社會主義的主要理論家與知識界中贊成市場秩序的領軍人物對壘。他們所要討論的問題是：「社會主義是錯誤的嗎？」贊成市場秩序的人將會證明，不管是以科學、事實還是邏輯為根據，社會主義都是錯誤的，而且歷來如此；本世紀社會主義思想在許多實踐領域的應用屢屢遭受的失敗，從整體上說便是這些科學謬誤的直接後果。哈耶克把支持自由市場的主要論點寫在一份宣言裡，然後又壓縮成了這本小書。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上書苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500427933</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:UK</dc:subject>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <meta content="{&quot;F. A. Hayek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="29" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-04-14T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="致命的自負" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

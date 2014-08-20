@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90d7ea71-0e4d-4efc-8de7-93e35b74ec9c</dc:identifier>
+        <dc:title>傅雷家书</dc:title>
+        <dc:creator opf:file-as="傅雷" opf:role="aut">傅雷</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;傅雷(1908-1966),我国著名文学艺术翻译家,从三是年代起,即致力于法国文学的翻译介绍工作,毕生翻译作品三十余部,主要有罗曼·罗兰长篇巨著《约翰·克里斯朵夫》、传记《贝多芬传》、《托尔斯泰传》、《弥盖朗琪罗传》,巴尔扎克名著《高老头》、《欧也妮·葛朗台》、《贝姨》、《邦斯舅舅》、《亚尔培·萨伐龙》、《夏倍上校》、《搅水女人》、《都尔的本堂神甫》、《幻灭》、《赛查·皮罗多盛衰记》、《于恕尔·弥罗埃》,伏尔泰的《老实人》、《天真汉》、《查第格》,梅里美的《嘉尔曼》、《高龙巴》,丹纳名著《艺术哲学》等。写有《世界美术名作二十讲》专著,以及《贝多芬的作品及其精神》等论文。&lt;/p&gt;</dc:description>
+        <dc:publisher>书仓 shucang.com</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9db60011-51ff-496d-9e42-47c4b3b795fc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>傅雷 教育 文化 家庭</dc:subject>
+        <meta content="{&quot;傅雷&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:07:15.044756+00:00" name="calibre:timestamp"/>
+        <meta content="傅雷家书" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

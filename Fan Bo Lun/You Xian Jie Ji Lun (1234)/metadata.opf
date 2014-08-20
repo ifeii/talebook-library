@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">286b087a-7d62-4d19-8748-770389ae71a7</dc:identifier>
+        <dc:title>有闲阶级论</dc:title>
+        <dc:creator opf:file-as="凡勃伦" opf:role="aut">凡勃伦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-18T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="intro"&gt;
+    &lt;p&gt;《有闲阶级论》内容简介：《汉译世界学术名著丛书》出版的是西方学术著作，由商务印书馆出版发行，主要为马克思主义诞生以前世界各国的各种古典学术作品的中文译作，也有少量是现代或当代的外国学术作品。《有闲阶级论》为该系列丛书之一。&lt;/p&gt;    &lt;p&gt;《有闲阶级论》的主旨在于讨论作为现代生活中一个经济因素的有闲阶级的地位和价值，但是要把讨论严格地限制在这样标明的范围以内是办不到的。因此关于制度的起源和演进以及一般不列入经济学范围以内的一些社会生活特征，这里也不得不给以相当的注意。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100023627</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:JRGL</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;凡勃伦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="汉译世界学术名著" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-12-13T18:22:42+00:00" name="calibre:timestamp"/>
+        <meta content="有闲阶级论" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

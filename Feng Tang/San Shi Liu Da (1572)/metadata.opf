@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3e7c2e1-9806-4a1f-ba81-9d313e54eccd</dc:identifier>
+        <dc:title>三十六大</dc:title>
+        <dc:creator opf:file-as="冯唐" opf:role="aut">冯唐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-29T14:06:27+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;　　冯唐散文元气淋漓，飞流直下三千尺，顺手拈来汪洋恣肆，读来十分过瘾。&lt;/div&gt;&lt;div&gt;　　他与现代当中国散文路数很不同：几乎不谈「正经事」，正经都在不正经中；几乎不说「大道理」，道理都在日常中；乍看都是「碎片」，碎片中自有规矩；文字常喜「越轨」，越轨得来又让人拍案叫绝──他的路数便是陈言务去，挑战文字表达的极限。&lt;/div&gt;&lt;div&gt;　　不管写自己或写他人，都是一种俯瞰的姿态：蝼蚁一样的人生，荒诞不经的世相，理想是虚妄，伟大是无稽，日子是实在，终极是了悟，「我不是爱自己，我是爱人类；我不是厌恶我自己，我是厌恶人类。」说到底，做人便是如此矛盾。&lt;/div&gt;&lt;div&gt;　　这或是今日国人的写照：盛世也好，末世也好，都先过好当下。&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>天地图书</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3f6d3130-59a5-4fcd-ae2d-8f0276bf6650</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789882198203</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>冯唐</dc:subject>
+        <meta content="{&quot;冯唐&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:45.098527+00:00" name="calibre:timestamp"/>
+        <meta content="三十六大" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

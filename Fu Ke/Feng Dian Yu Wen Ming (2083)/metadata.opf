@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2083</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb42d99f-f31a-4559-8f9a-558c919c7e29</dc:identifier>
+        <dc:title>疯癫与文明</dc:title>
+        <dc:creator opf:file-as="福柯" opf:role="aut">福柯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-04T16:00:00+00:00</dc:date>
+        <dc:description>这部著作是对知识的清洗和质疑。 &#13;
+它把“自然”的一个片断交还给历史，改造了疯癫，即把我们当作医学现象的东西变成了一种文明现象。……实际上，福柯从未界定疯癫；疯癫并不是认识对象，其历史需要重新揭示；可以说，它不过是这种认识本身；疯癫不是一种疾病，而是一种随时间而变的异己感；福柯从未把疯癫当作一种功能现实，在他看来，它纯粹是理性与非理性，观看者与被观看者相结合所产生的效应。 &#13;
+疯癫不是一种自然对象，而是一种文明产物。没有把这种现象说成疯癫并加以迫害的各种文化的历史，就不会有疯癫的历史。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>学术</dc:subject>
+        <meta content="{&quot;福柯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:10:32.869699+00:00" name="calibre:timestamp"/>
+        <meta content="疯癫与文明" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">944e8ea8-695a-4354-b326-cfaf653c1519</dc:identifier>
+        <dc:title>路西法效应</dc:title>
+        <dc:creator opf:file-as="菲利普·津巴多" opf:role="aut">菲利普·津巴多</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-07T09:43:17+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;一批彼此并不相识的年轻人——身心健康、情绪稳定的大学生，走进了“斯坦福监狱”。他们并没有犯罪，只是受募到“监狱”——斯坦福大学的一个精心布置的地下室，接受一项试验。大学生们被随机地分为“狱卒”和“犯人”，然后开始了为期两周的试验。然而，试验仅仅进行了一周，原本单纯的大学生，已变成了残暴的狱卒和崩溃的犯人，试验不得不终止了。受试者强烈感受到角色规范的影响，使作者得以深度剖析复杂的人性，透析“情境力量”对个人行为的影响，并分析造成监狱虐囚和种族屠杀的情境影响。日常生活中的种种社会角色剧本的规范与约束，会不会使我们像上帝最钟爱的天使路西法那样不知不觉中对他人做出难以置信的事，从而堕落成为魔鬼？我们如何抗拒情境影响力？作为心理学教授的作者也对此进行了研究，并做出了极有说服力的分析。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108033109</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;菲利普·津巴多&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="心理" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-06-07T09:43:17+00:00" name="calibre:timestamp"/>
+        <meta content="路西法效应" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

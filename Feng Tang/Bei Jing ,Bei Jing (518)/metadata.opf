@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97d522e9-49f5-4660-90c5-1153112a7a6c</dc:identifier>
+        <dc:title>北京，北京</dc:title>
+        <dc:creator opf:file-as="冯唐" opf:role="aut">冯唐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.47) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;《北京北京》是万物生长三部曲的第三部，也将是我最后一部基于自己经历的长篇。&lt;/p&gt;
+&lt;p class="description"&gt;和之前的《万物生长》以及《十八岁给我一个姑娘》一起，三个断面，构成一个松散的成长过程，希望能对那段自己趟过的时间有个基本满意的交待。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787547008225</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;冯唐&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="万物生长三部曲" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-09T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="北京，北京" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

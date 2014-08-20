@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c52abbe2-2aa8-4d6d-86d8-77d1a417cacf</dc:identifier>
+        <dc:title>不二</dc:title>
+        <dc:creator opf:file-as="冯唐" opf:role="aut">冯唐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-15T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="font-family: 'Lucida Grande', sans-serif; "&gt;&lt;span class="Apple-style-span" style="font-family: monospace; white-space: pre; "&gt;『&lt;/span&gt;&lt;font class="Apple-style-span" color="#4c4c4c"&gt;我决定写在成长之外，我最着迷的事物。通过历史上的怪力乱神折射时间和空间范围内的谬误和真理。先写三部。第一部，《不二》，着重于“乱和神”，色情和宗
+教，背景是中晚唐。第二部，《天下卵》，着重于“力”，凶杀和色情，背景是辽金。第三部，《安阳》，着重于“怪”，医学、巫术和古器物制作，背景是夏商。&lt;/font&gt;&lt;/p&gt;&lt;p style="font-family: 'Lucida Grande', sans-serif; "&gt;&lt;font class="Apple-style-span" color="#4c4c4c"&gt;
+开始构思《不二》的时候，想分甲乙卷，甲卷写禅宗在中晚唐的西安，乙卷写禅宗在中晚唐的敦煌。甲卷纯色情，乙卷纯精神。甲卷色情到估计在网上也贴不了了，
+乙卷精神到或许只有北医六院（简称“神六”）的病友能有耐心从头读到尾了。但是写作过程中，越来越觉得这样太装逼，太“二”了。决定还是按现在这个样子，
+合在一起写，淋漓而下，意尽而止。&lt;/font&gt;&lt;/p&gt;&lt;p style="font-family: 'Lucida Grande', sans-serif; "&gt;&lt;font class="Apple-style-span" color="#4c4c4c"&gt;
+过程中发现，编故事，其实不难，难的还是杯子里的酒和药和风骨，是否丰腴、温暖、诡异、精细。&lt;/font&gt;&lt;span class="Apple-style-span" style="font-family: monospace; white-space: pre; "&gt;』&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;font class="Apple-style-span" face="monospace"&gt;&lt;span class="Apple-style-span" style="white-space: pre;"&gt;————摘自代跋&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;font class="Apple-style-span" face="monospace"&gt;&lt;span class="Apple-style-span"&gt;（子乌注：从&lt;a href="http://www.mlook.mobi/book/info/12"&gt;mLook上取得的epub版本&lt;/a&gt;，pdf则是最近感兴趣，所以顺手做了一个。）&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>网友</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789882194199</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;冯唐&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="子不语三部曲" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-01-16T15:49:24+00:00" name="calibre:timestamp"/>
+        <meta content="不二" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
