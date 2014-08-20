@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b6cdf6d-573a-417e-83f4-f94c4670ed02</dc:identifier>
+        <dc:title>为了N</dc:title>
+        <dc:creator opf:file-as="凑佳苗" opf:role="aut">凑佳苗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;关于本书:说出口的不一定是真话,做出来的不一定是真心,那么,到底什么是真?什么是假?&lt;br&gt;杉下希美。西崎真人。成濑慎司。安藤望。&lt;br&gt;这四个人都是同一起命案的目击者——十年前,野口贵弘与奈央子夫妻陈尸于大厦自宅内,丈夫被花瓶打破头,妻子则被刀刺死。&lt;br&gt;严格说来,目击证人应该只有杉下希美一人,因为成濑和安藤都是事发后才抵达,而唯一跟杉下同在命案现场的西崎,则是罪证确凿的凶手。&lt;br&gt;然而,事实真是如此吗?&lt;br&gt;这四个人看似只是偶然交会,其实,命运早已将他们跟野口夫妇紧紧捆绑——在与这栋高楼豪宅遥遥相望的破旧公寓“野原庄”里,在和这座丰饶之岛远远相隔的孤屿“青景岛”上。&lt;br&gt;来自同一座小岛的旧友、曾住在同一栋公寓的邻居、同一间公司的上司与下属、有着同样一段不堪过往的男女......十年前的目击证词是实话,却也是精心织就的谎言!而背后那一幕又—幕令人心碎的真相,十年后的今日,终将揭晓......&lt;br&gt;最极致的爱,是分担犯罪?是霸占一切?还是默默祝福?原本单纯地只是以爱为出发点,没想到在层层交错之下,最后竟导致阴错阳差的结果!凑佳苗以精准的笔力,描写了各种不同形式的“爱”,而在如俄罗斯娃娃般层层套叠的曲折情节中,濒临崩溃的情感,激荡出无比绚烂的火花!&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a9221522-c7e9-451a-a264-5936fb9d1274</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;凑佳苗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:09:35.641286+00:00" name="calibre:timestamp"/>
+        <meta content="为了N" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

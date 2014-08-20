@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d9c57f2-5051-45b7-b364-4ba5cc73c04f</dc:identifier>
+        <dc:title>额尔古纳河右岸</dc:title>
+        <dc:creator opf:file-as="迟子建" opf:role="aut">迟子建</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-04T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;作品简介：该部小说在《收获》杂志上登载以来，受到读者和评论家的热切关注，被媒体称为“最值得期待的书”之一，是我国第一部描述东北少数民族鄂温克人生存现状 及百年沧桑的长篇小说。女作家迟子建以一位年届九旬的鄂温克族最后一位酋长女人的自述口吻，向我们讲述了这个弱小民族顽强的抗争和优美的爱情。小说语言精 妙，以简约之美写活了一群鲜为人知、有血有肉的鄂温克人。小说以小见大，以一曲对弱小民族的挽歌，写出了人类历史进程中的悲哀，其文学主题具有史诗品格与 世界意义。&lt;/p&gt;
+&lt;p class="description"&gt;作者简介：迟子建，女，中国作家协会第六届全委会委员，黑龙江省作家协会副主席，一级作家。1964年元宵节出生于中国的北极村——漠河，童年在黑龙江畔度过。 1984年毕业于大兴安岭师范学校，1987年人北京师范大学与鲁迅文学院联办的研究生班学习。1990年毕业后到黑龙江省作家协会工作至今。&lt;br&gt;　　&lt;br&gt;1983年开始写作，至今已发表文学作品五百万字，出版单行本四十余部。主要作品有：长篇小说《树下》《晨钟响彻黄昏》《伪满洲国》《越过云层的晴朗》； 小说集《北极村童话》《白雪的墓园》《向着白夜旅行》《逝川》《白银那》《朋友们来看雪吧》《清水洗尘》《雾月牛栏》 《当代作家选集丛书——迟子建卷》《踏着月光的行板》，以及散文随笔集《伤怀之美》《听时光飞舞》《我的世界下雪了》《迟子建随笔自选集》等。出版有《迟 子建文集》四卷和《迟子建作品精华》三卷。&lt;br&gt;　　&lt;br&gt;曾获鲁迅文学奖、澳大利亚“悬念句子文学奖”等多种文学奖项。作品有英、法、目、意大利等文字在海外出版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530208366</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:MDWX</dc:subject>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;迟子建&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="57" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-08-24T15:35:12+00:00" name="calibre:timestamp"/>
+        <meta content="额尔古纳河右岸" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

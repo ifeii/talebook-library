@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f46998f-3893-41c8-aa0c-984d0a872682</dc:identifier>
+        <dc:title>世界尽头与冷酷仙境</dc:title>
+        <dc:creator opf:file-as="村上春树" opf:role="aut">村上春树</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-12T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《世界尽头与冷酷仙境》是村上春树最重要的小说之一,与《挪威的森林》、《舞舞舞》合称为村上春树三大杰作。小说共40章,单数20章“冷酷仙境”,双数20章为“世界尽头”,这种交叉平行地展开故事情节的手法是村上春树小说的特征,而这部作品是这种特征最典型的体现。“冷酷仙境”写两大黑社会组织在争夺一个老科学家发明的控制人脑的装置,老人躲到了地底。主人公“我”是老人的实验对象,他受到黑社会的恐吓,在老人的孙女帮助下,经过了惊心动魄的地底之旅,好容易找到老人,却被告知由于老人的计算错误,他24小时后离开人世,转往另一世界即“世界尽头”。“我”回到地面上, 与女友过了最后一夜告别,然后驱车到海边静候死的到来。“世界尽头”是另一番景象,这里与世隔绝,居民相安无事,但人们没有心,没有感情,没有目标。“我”一直想逃离这里,但在即将成功时选择了留下,因为“我”发现“世界尽头”其实是“我”自己造出的。书中想象力奇特,艺术水准高超,情节极其荒诞而主题极其严肃,用变形的手法写出人们对当代资本主义社会的混乱现状逃避无门的真实心态。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">91e893f8-61cd-48fc-9c13-09bc060503ef</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>外国小说</dc:subject>
+        <meta content="{&quot;村上春树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:05:47.894783+00:00" name="calibre:timestamp"/>
+        <meta content="世界尽头与冷酷仙境" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

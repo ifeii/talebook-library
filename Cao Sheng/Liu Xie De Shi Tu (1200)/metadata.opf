@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">591d0768-ab57-4110-a02a-956bdc8f9c2e</dc:identifier>
+        <dc:title>流血的仕途</dc:title>
+        <dc:creator opf:file-as="曹昇" opf:role="aut">曹昇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span style="display: inline;" class="all hidden"&gt;　　历史确切地记载了这件事：公元前254年的
+一天下午，阳光暖洋洋地照着。30岁的李斯在楚国小城上蔡，当一名仓库管理员。那天下午，他看着厕所里的老鼠，突然感到自己的卑微和生命的无常，一股改变
+命运的野心从他心底升起，他决定结束这碌碌无为的生活，去开创一番大事业……&lt;br&gt;　　33年后，秦始皇统一中国，李斯成为帝国历史上第一任宰相，权倾天下。&lt;br&gt;　
+　李斯是大秦统一中国的幕后策划者，是先秦政治智慧的集大成者，是后世官场文化的开创者，是从最卑微的起点到位极人臣的第一人，是开创小篆的大书法家；他
+的上司是史上最强悍的独裁者秦始皇，他的死对头是权倾朝野、老谋深算的吕不韦；数十年血雨腥风，半辈子叱咤风云，当李斯在公元前254年那天下午从上蔡出
+发，他的一生，就注定要成为从政之路上无数后来者的万世楷模。&lt;br&gt;　　如何在无权无势时异军突起；如何在险恶环境中默默前行；如何在大权在握时清醒隐忍以保自身安全；李斯的一言一行，直至今日，仍然给我们以启发和准确高效的示范。&lt;br&gt;　　本书第1版上市后，引发巨大轰动，风靡全国，并被“中国书业年度评选”评为“年度最受读者欢迎的历史小说”。&lt;/span&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787545205596</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:LSXS</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
+        <meta content="{&quot;曹昇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2012-04-25T23:39:56+00:00" name="calibre:timestamp"/>
+        <meta content="流血的仕途" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

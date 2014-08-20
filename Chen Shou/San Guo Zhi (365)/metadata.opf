@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0568437b-8c01-4cd9-a813-4aff0391fe7b</dc:identifier>
+        <dc:title>三国志</dc:title>
+        <dc:creator opf:file-as="陈寿" opf:role="aut">陈寿</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-08T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;《三国志》六十五卷，晋陈寿撰，宋裴松之注。寿事迹具晋书本传，松之事迹具宋书本传。凡魏志三十卷，蜀志十五卷，吴志二十卷。其书以魏为正统，至习凿齿作汉晋春秋始立异议。自硃子以来，无不是凿齿而非寿。然以理而论，寿之谬万万无辞；以势而论，则凿齿帝汉顺而易，寿欲帝汉逆而难。盖凿齿时晋已南渡，其事有类乎蜀，为偏安者争正统，此孚於当代之论者也。寿则身为晋武之臣，而晋武承魏之统，伪魏是伪晋矣。其能行於当代哉？此犹宋太祖篡立近於魏，而北汉、南唐迹近於蜀，故北宋诸儒皆有所避而不伪魏。高宗以后，偏安江左，近於蜀，而中原魏地全入於金，故南宋诸儒乃纷纷起而帝蜀。此皆当论其世，未可以一格绳也。惟其误沿史记周、秦本纪之例，不讬始於魏文，而讬始曹操，实不及魏书叙记之得体，是则诚可已不已耳。　　宋元嘉中，裴松之受诏为注，所注杂引诸书，亦时下己意。综其大致约有六端：一曰引诸家之论，以辨是非；一曰参诸书之说，以核讹异；一曰传所有之事，详其委曲；一曰传所无之事，补其阙佚；一曰传所有之人，详其生平；一曰传所无之人，附以同类。其中往往嗜奇爱博，颇伤芜杂。如袁绍传中之胡母班，本因为董卓使绍而见，乃注曰「班尝见太山府君及河伯，事在搜神记，语多不载」，斯已赘矣。锺繇传中乃引陆氏异林一条，载繇与鬼妇狎昵事；蒋济传中引列异传一条，载济子死为泰山伍伯，迎孙阿为泰山令事；此类凿空语怪，凡十馀处，悉与本事无关，而深於史法有碍，殊为瑕类。又其初意似亦欲如应劭之注汉书，考究训诂，引证故实。故於魏志武帝纪沮授字则注「沮音菹」，獷平字则引续汉书郡国志注「獷平县名属渔阳」，甬道字则引汉书「高祖二年与楚战筑甬道」，赘旒字则引公羊传，先正字则引文侯之命，释位字则引左传，致届字则引诗，绥爰字、率俾字、昬作字则皆引书，纠虔天刑字则引国语。至蜀志郤正传释诲一篇，句句引古事为注至连数简。又如彭羕传之革不训老，华佗传之旉本似专，秦宓传之棘革异文，少帝纪之叟更异字，亦间有所辨证，其他传文句则不尽然。然如蜀志廖立传首忽注其姓曰补救切，魏志凉茂传中忽引博物记注一繦字之类，亦间有之。盖欲为之而未竟，又惜所已成，不欲删弃，故或详或略，或有或无，亦颇为例不纯。然网罗繁富，凡六朝旧籍今所不传者，尚一一见其厓略。又多首尾完具，不似郦道元水经注、李善文选注皆翦裁割裂之文。故考证之家，取材不竭，转相引据者，反多於陈寿本书焉。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>每日一书计划</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>历史</dc:subject>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-21T02:42:26.593000+00:00" name="calibre:timestamp"/>
+        <meta content="三国志" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

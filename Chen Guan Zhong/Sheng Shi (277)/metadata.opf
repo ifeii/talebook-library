@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28596c3f-07b9-4f93-9076-b28cce7fb73c</dc:identifier>
+        <dc:title>盛世</dc:title>
+        <dc:creator opf:file-as="陳冠中" opf:role="aut">陳冠中</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+這是陳冠中繼他的《香港三部曲》後寫成的中長篇小說。小說題材虛構, 背景是當代大中國, 是未來的2013年的中國。可以說這是一部奇特的寓言小說。評論家李歐梵教授讀後說“小說題材發前人之所未發, 一開篇就精采無比, 欲罷不能, 緊張刺激而又令人心泛寒意, 實在不容錯過”。
+陳冠中這部題名為《盛世: 中國2013年》的小說, 寫世界經濟於金融海嘯後, 全球格局進入冰河時期, 中國卻安然避過劫難, 反而開始步入千年一遇的盛世。小說家的意圖是, 中國盛世真的來臨了嗎？會不會所有的一切只是人為製造出來的一種迷幻效應？小說情節奇構, 生鬼荒謬, 有些令人驚嚇有些讓人哭笑不是。</dc:description>
+        <dc:publisher>牛津大學出版社(中國)有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780193958463</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>反乌托邦</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>陈冠中</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-16T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="盛世" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="封面"/>
+    </guide>
+</package>

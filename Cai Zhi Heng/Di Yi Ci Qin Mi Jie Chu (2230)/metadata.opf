@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01a84861-7a7c-4304-ba57-b92b29b9d3ba</dc:identifier>
+        <dc:title>第一次亲密接触</dc:title>
+        <dc:creator opf:file-as="蔡智恒" opf:role="aut">蔡智恒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-04T16:00:00+00:00</dc:date>
+        <dc:description>当代都市的大学校园内，研究生痞子蔡一直渴望能拥有一份真诚的爱情，但事与愿违，他与女孩的交往却屡屡失败，颇不自信。而痞子蔡的同室好友阿泰却情场得意，挥洒自如地游戏在众多女孩当中。&#13;
+　　一次偶然的机会，痞子蔡在BBS上的留言引起了女孩轻舞飞扬的注意，她给痞子蔡发来的E-mail中称痞子蔡是个有趣的人。这让一向自认为是个枯燥乏味的痞子蔡大感意外，他开始好奇地关注起轻舞飞扬，并逐渐被她的聪颖所吸引。此时，阿泰却劝奉痞子蔡对网络恋情切勿沉溺过深，因为虚幻的网络不会让情感永恒而持久。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>生活·励志</dc:subject>
+        <meta content="{&quot;蔡智恒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:12:54.103941+00:00" name="calibre:timestamp"/>
+        <meta content="第一次亲密接触" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">973da21b-87a6-4541-bde1-d733db1ff901</dc:identifier>
+        <dc:title>茫茫黑夜漫游</dc:title>
+        <dc:creator opf:file-as="路易·费迪南·塞利纳（作者）, 沈志明（译者）" opf:role="aut">沈志明（译者） 路易·费迪南·塞利纳（作者）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-18T16:00:00+00:00</dc:date>
+        <dc:description>路易·费迪南·塞利纳（1894—1961），法国著名小说家，《茫茫黑夜漫游》1932年在法国一问世即震惊文坛，得到几乎所有权威人士的高度赞扬。
+　　瓦莱里惊叹为“描写罪恶的杰作”；富尔称誉“这是一个纯粹的人写出来的一本纯粹的书，普鲁斯特以来最好的作品，它比普鲁斯特更富有人性”，莫洛亚赞美作者是“新进的伟大天才”，德斯卡夫则将他比拟为法国的陀思妥耶夫斯基。
+　　《茫茫黑夜漫游》这部20世纪流浪汉小说的主人公，足迹踏遍大半个地球，他上过大学，打过零工，在战场上卖过命，当过逃兵，进过精神病院，开过诊所，跑过龙套，在男女关系中扮演过悲惨的角色。小说通过他几十年阴暗的人生旅程，暴露出整个世界处处是沉沉的黑夜，被认为是“本世纪中写得最为真切、最令人心碎的作品”。塞利纳对人对己毫不留情的解剖，幻觉史诗式的笔触，既抒情又俚俗、既雄辩又鄙陋乃至刻毒的语言表达，形成了独特而鲜明的塞利纳风格。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;沈志明（译者） 路易·费迪南·塞利纳（作者）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:09:01.353261+00:00" name="calibre:timestamp"/>
+        <meta content="茫茫黑夜漫游" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

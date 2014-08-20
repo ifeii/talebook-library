@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7892dda6-e022-48e7-9a7c-5d0abfdf2686</dc:identifier>
+        <dc:title>魔鬼出没的世界</dc:title>
+        <dc:creator opf:file-as="Sagan, Carl" opf:role="aut">Carl Sagan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-18T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　精神世界是丰富多彩的，但是精神世界的源泉是什么？萨根在书中写道：“当科学与大自然相遇时，科学就必然会使人产生对大自然的敬畏的感觉。对大自然的真正的理解的行为是与自然的结合和融合的欢庆，即使是在很小程度上的结合也能使人感受到宇宙的宏伟和壮观。随着时间的流逝而积累起来的世界范围内的知识体系使科学变成了跨国界、跨时代的超越所有界限的理智的东西。‘精神’一词是从拉丁文‘呼吸’变化而来的。我们呼吸的是空气，无论它多么稀薄，但毫无疑问它是物质.....” &lt;br&gt;　　卡尔·萨根博士是美国康奈尔大学的天文学教授。同时他又是世界著名的科普作家。他对科学的精辟见解使他成为“唯一能够用简单扼要的语言说明科学是什么”的科学家。他成为本世纪最有影响的人物。《魔鬼出没的世界——科学，照亮黑暗的蜡烛》是他临终前的最后一部作品。当年便创下最佳畅销书第一名的记录。 &lt;/span&gt;</dc:description>
+        <dc:publisher>网友</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787206030093</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:USA</dc:subject>
+        <dc:subject>ZDC:RWSK</dc:subject>
+        <meta content="{&quot;Carl Sagan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科学" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-19T10:49:22+00:00" name="calibre:timestamp"/>
+        <meta content="魔鬼出没的世界" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

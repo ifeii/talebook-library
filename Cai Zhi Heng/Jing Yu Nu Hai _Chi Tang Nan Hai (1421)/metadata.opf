@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1421</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d953246-a3b9-43f2-99c2-bfc7918dda26</dc:identifier>
+        <dc:title>鲸鱼女孩·池塘男孩</dc:title>
+        <dc:creator opf:file-as="蔡智恒" opf:role="aut">蔡智恒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-19T16:00:00+00:00</dc:date>
+        <dc:description>「这一刻她的眼神,对我而言就是永恒.
+将来我老了,回顾这一生时应该会在脑海里迅速掠过很多影像。
+但一定会在这里定格。」
+
+我们踩着一地秋叶,来到池塘边。
+  「其实我也像是池塘呢。」
+  妳俯下身子拨弄水花,背部的羽翼在阳光下闪亮,
+  像极了池塘的波光粼粼。
+  『我呢?』我问。
+  「像鲸鱼吧。」妳说。
+  『喔?』
+  「因为有时我会觉得你很巨大。」
+  『如果是这样,那么我是池塘,妳才是鲸鱼。』
+  「听过鲸鱼和池塘的故事吗?」妳说,「鲸鱼因水量不足而死,池塘则因被消耗太多而干枯。」
+  『或许我可以让自己变成大海。』
+  「你喜欢变成大海吗?」
+  『如果妳是鲸鱼,我一定得是大海。』我说。
+  「如果我是鲸鱼,我会待在池塘,而不是游向大海。」妳说。
+  『为什么?』
+  「游向大海会得到自由,离开池塘却会寂寞。」妳笑了笑,
+  「对我而言,自由虽好,但寂寞更糟。」
+  我们安静了下来,像鲸鱼和池塘。
+  鲸鱼很努力地待在池塘里而不游动;
+  池塘则用所有生命的能量供养鲸鱼。
+  一个是聪明大方、总是有莫名预感的大眼美女;一个是体贴诚实、偶尔讲冷笑话的腼腆男孩;二人在一次校园十大美女选拔赛中结识。
+  他们的约会,没有一般世俗的追求手段:留电话,夸大的恭维之词,轻挑的行事挑逗或激烈的情节发展;但有的是互相之间莫名的默契,不经意的会心一笑 ,还有暖暖的甜蜜在二人之间暧昧流动......
+  『妳在我苍白的青春中,留下最缤纷的色彩。』
+  女孩在男孩心中,像个天使!女孩温暖的笑容和清澈的眼神让男孩难忘;
+  而男孩太在意对方了,他只要和女孩相处的每一刻就很满足了,满足到他不想继续往前;于是虽然情愫在默默之中流动,但却一直停留在暧昧的状态,无法往前跨一步。
+  她的眼神闪亮如同星星.
+  往后的时间,我和她这两条线的轨迹将会是如何呢?</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fb2b03e2-0cbf-45f6-9346-59217a7ef665</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>青春校园</dc:subject>
+        <meta content="{&quot;蔡智恒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:59:33.874524+00:00" name="calibre:timestamp"/>
+        <meta content="鲸鱼女孩·池塘男孩" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

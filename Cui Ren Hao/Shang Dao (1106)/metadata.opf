@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f25754b-aa69-4a8b-b5bb-07d40d12457d</dc:identifier>
+        <dc:title>商道</dc:title>
+        <dc:creator opf:file-as="崔仁浩" opf:role="aut">崔仁浩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-27T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　《商道》作为亚洲史诗式的作品，一经问世，迅速突破了200万册，一手缔造了韩国发行史上最耀眼的奇迹。在韩国、日本、新加坡等亚洲国家迅速占踞畅销书的榜首，形成亚洲文化圈的《商道》热。作者巧妙地运用虚与实相结合的手法，深入浅出，所引用的寓意皆迸发着禅学的神光，将佛道博大精髓内涵借经商之道发挥得淋漓尽致。 &lt;br&gt;　　小说描绘了19世纪初朝鲜巨商林尚沃真实而神秘、传奇的一生，以及他的赚钱之道和花钱之道。整部小说高潮不断，如解连环谜语般生动有趣，娓娓道来经商之道以及经商之道所衍生出的做人之道，并对商道与商术做了独特无比的诠释，被许多著名企业人士誉为“参悟商业最高境界”的奇书。 &lt;br&gt;　　《商道》虽然是一本韩国小说，却引经据典了大量的中国典故。透视商道，可以窥见中、韩文化的渊源。毫不夸张地说，《商道》是写给中国人看的哲理小说。&lt;/span&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787501220779</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>CNTY:KOREA</dc:subject>
+        <dc:subject>ZDC:WGWX</dc:subject>
+        <meta content="{&quot;崔仁浩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="54" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-28T11:59:17+00:00" name="calibre:timestamp"/>
+        <meta content="商道" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

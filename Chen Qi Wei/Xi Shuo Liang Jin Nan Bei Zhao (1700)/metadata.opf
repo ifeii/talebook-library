@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afa4403f-e76f-407e-8dde-415c36901afb</dc:identifier>
+        <dc:title>细说两晋南北朝</dc:title>
+        <dc:creator opf:file-as="沈起炜" opf:role="aut">沈起炜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-15T16:00:00+00:00</dc:date>
+        <dc:description>细说中国历史丛书。 两晋南北朝。
+这是一个交织着光明和黑暗的历史时期。
+三百多年间,除西晋统一后的二十年外,分裂、割据、混战,迄无间断。数十万以至上百万人颠沛流离的惨状竟屡屡出现。长安、洛阳、邺、建康、江陵等名城都曾茂草丛生,有的还发生过多次。大片古代文明被毁灭,相当发达的地区竟变得与洪荒的原野不相上下。人口也大面积锐减,记录的数字还不到汉代盛世的三分之一......  但是,如果换一个角度看,这又是一个充满着希望的时期。无数仁人志士从来没有忘怀过“定于一”的教导(孟子答梁襄王问“天下恶乎定”语,见《孟子·梁惠王》上),他们艰苦奋斗,一批人失败了,另一批人继之而起,终于为隋唐的统一奠定了基础。各族之间,尽管有相互虐杀的悲惨事实,然而交流、融合毕竟是历史的主流。三百多年后,中国人数最多的民族——汉族在吸收了大量新鲜血液后,以崭新的面貌屹立于世,这可以说是世界史上的一大奇迹。
+两晋南北朝又是中国文化成就大量涌现的时期。哲学、文学、艺术、自然科学、工艺都有美不胜收的成就。在多灾多难的时期中,古人成就之丰富多彩,令人不能不赞叹中华民族百折不挠、自强不息的精神和惊人的创造能力。而印度文化的大量输入,又使中土文化更增华采,格外耀目。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">11b9a68b-0a0f-4fcb-ae7a-baba490fc991</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;沈起炜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:03:55.876958+00:00" name="calibre:timestamp"/>
+        <meta content="细说两晋南北朝" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

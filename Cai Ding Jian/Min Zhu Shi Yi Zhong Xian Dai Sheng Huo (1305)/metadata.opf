@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13ff51a2-f114-42f5-8f8e-e941a5ef5982</dc:identifier>
+        <dc:title>民主是一种现代生活</dc:title>
+        <dc:creator opf:file-as="蔡定剑" opf:role="aut">蔡定剑</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-05T16:00:00+00:00</dc:date>
+        <dc:description>民主本是常识，但是近年来有人通过歪曲民主来批判民主，有人以“国情论”来抵挡民主，理由是中国人富了不需要民主，凡此种种。《民主是一种现代生活》通过对民主理论的正本清源，阐述了民主的真正价值、民主对经济社会发展的作用、民主的发展形式，对反民主的观点作出了回应。它让你了解什么是真正的民主，我们如何实现民主。&#13;
+现行各国的民主已不仅是通过选举产生的议会讨论和决策，还包括利益集团的影响和街头行动，非政府组织的广泛参与，第四权力媒体无所不在的监督，这都已经超出了选举议会式的民主模式。民主已不仅是一种国家制度的形态，而且成了一种社会形态和广大公众的生活方式。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>专业书籍</dc:subject>
+        <meta content="{&quot;蔡定剑&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:57:35.200456+00:00" name="calibre:timestamp"/>
+        <meta content="民主是一种现代生活" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
