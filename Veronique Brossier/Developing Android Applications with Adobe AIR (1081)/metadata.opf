@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">162dff49-911e-4b5c-9b6f-cfed28e76db4</dc:identifier>
+        <dc:title>Developing Android Applications with Adobe AIR</dc:title>
+        <dc:creator opf:file-as="Brossier, Véronique" opf:role="aut">Véronique Brossier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-21T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;If you want to use your ActionScript skills to build mobile applications for the Android OS, this thorough guide will show you how to use the unique programming environment, architecture, and tools in the Adobe AIR for Android SDK. You'll get practical hands-on experience on a wide range of development topics, from device-specific features to optimization techniques and best practices -- including how expand your mobile development experience beyond Android to other platforms.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">1449394825</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>ZDC:DNWL</dc:subject>
+        <dc:subject>CNTY:UNKNOWN</dc:subject>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <meta content="{&quot;Véronique Brossier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="22" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-09T03:25:52+00:00" name="calibre:timestamp"/>
+        <meta content="Developing Android Applications with Adobe AIR" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
