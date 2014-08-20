@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3da5469d-204e-4aa8-87be-0792a8167adc</dc:identifier>
+        <dc:title>八戒说禅</dc:title>
+        <dc:creator opf:file-as="熊逸" opf:role="aut">熊逸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;font class="Apple-style-span" face="宋体, sans-serif" size="2"&gt;    本文从《坛经》入手，在梳理禅宗思想渊源的时候难免会由禅及佛，涉及印度佛教的学理纷争与中国佛教的传承演变——许多人认为禅宗是完全中国本土化的佛教，其实并不尽然，禅宗的许多思想都可以在印度佛教、乃至印度外道那里找到源头的。连带对一些许多人都知其然的东西——比如“风动幡动”、“空即是色”，也会尽量讲出个所以然来，毕竟这些说法既不是故弄玄虚的文字游戏，也不是不合逻辑的信口空谈，而是有着一些比较复杂的佛学背景的。&lt;/font&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">3764f599-37b9-4a07-b8e8-d6287bf546cc</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;熊逸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:08:01.153973+00:00" name="calibre:timestamp"/>
+        <meta content="八戒说禅" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

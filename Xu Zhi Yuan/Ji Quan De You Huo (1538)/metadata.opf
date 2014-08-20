@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0c63a42-352a-42cc-9999-1314a3597720</dc:identifier>
+        <dc:title>极权的诱惑</dc:title>
+        <dc:creator opf:file-as="许知远" opf:role="aut">许知远</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="short"&gt;    「中國的經驗並沒有想像的那麼獨特，它的內在困境很可能吞噬掉表面的繁盛。而且，在歷史中的很多時刻，我們都曾公開讚揚邪惡的力量，漠視個人的自由與尊嚴。中國正是最近的一個例證。」----許知遠&lt;/span&gt;&lt;div&gt;&lt;span class="short"&gt;    許知遠，2000年畢業於北京大學電腦系，隨後投入記者工作並開始他關於當代中國的反思與寫作。曾擔任《經濟觀察報》主筆，目前在《亞洲周刊》與英國《金
+融時報》中文網擁有專欄。他也是北京知名獨立人文書店「單向街」的創辦人之一和知名博客網站「思維的樂趣」的主要寫手。堅定的批判立場、深厚的文化蘊底、
+以及獨特的書寫風格讓他脫穎而出，成為今天中國最知名的新生代公共知識份子之一。從2009年到2010年在劍橋大學從事學術訪問一年。已出版十一本著
+作，包括《那些憂傷的年輕人》、《祖國的陌生人》、《未成熟的國家》等等。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>八旗文化</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5e58e530-4f4c-4483-8aea-1d88cc3afa42</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;许知远&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:01:08.686649+00:00" name="calibre:timestamp"/>
+        <meta content="极权的诱惑" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

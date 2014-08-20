@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e03f166-a294-458c-a14f-cfc0602d0e8e</dc:identifier>
+        <dc:title>太阳黑子</dc:title>
+        <dc:creator opf:file-as="须一瓜" opf:role="aut">须一瓜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-23T16:00:00+00:00</dc:date>
+        <dc:description>三个谜样的男人，一个美丽的女童。杨自道、辛小丰、陈比觉，不娶妻，不交友，回避闹市，拼命工作，全力抚养一名叫“尾巴”的弃婴：年轻姑娘伊谷夏为他们吸引，但她越接近三男就越疑惑丛生，她怀疑他们是同性恋，对三男更加怀疑的是她的警察哥哥伊谷春，他手下那名舍生忘死、沉默高效的协警辛小丰，总把红色的烟头在左手上捻磨熄灭还有一双偷窥的房东的眼睛，始终注视着他们……小说扑朔迷离，紧张跌宕。须一瓜以悲悯的情怀、丰富的小说元素，直面人心腐恶背景下的罪与罚、救赎与爱。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>现代·当代</dc:subject>
+        <meta content="{&quot;须一瓜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T13:58:09.891907+00:00" name="calibre:timestamp"/>
+        <meta content="太阳黑子" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

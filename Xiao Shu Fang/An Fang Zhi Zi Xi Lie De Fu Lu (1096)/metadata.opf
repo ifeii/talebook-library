@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1096</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3290ab09-b141-4899-8a84-b58053d981a9</dc:identifier>
+        <dc:title>安房直子系列的附录</dc:title>
+        <dc:creator opf:file-as="小书房" opf:role="aut">小书房</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-11T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;子乌曰：&lt;br&gt;说来惭愧，在整理这套文集（或者说从&lt;a href="http://www.dreamkidland.cn/sftj/anfzz/anf.htm"&gt;小书房&lt;/a&gt;搬这套文集）之前，我并不知道这位女作家，但我想这并不影响我在初步阅读她的小说之后迷恋上她以及她笔下的精灵。&lt;br&gt;这几篇附录我自小书房转载而来，原本应作为独立的文章附于系列之后，考虑了一下，还是独立成“书”，以示纪念。&lt;/p&gt;&lt;p class="description"&gt;内容很短，只是几篇安房直子的短文及相关作品目录和年谱，可在线阅读，无需下载。&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>ZDC:THSH</dc:subject>
+        <meta content="{&quot;小书房&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="安房直子系列" name="calibre:series"/>
+        <meta content="99" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-05-12T12:06:07+00:00" name="calibre:timestamp"/>
+        <meta content="安房直子系列的附录" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
