@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3028bb3-3b3f-40e3-b8f0-ddab0ce46803</dc:identifier>
+        <dc:title>Refactoring</dc:title>
+        <dc:creator opf:file-as="Martin Fowler" opf:role="aut">Martin Fowler</dc:creator>
+        <dc:creator opf:file-as="Martin Fowler" opf:role="aut">Kent Beck</dc:creator>
+        <dc:creator opf:file-as="Martin Fowler" opf:role="aut">John Brant</dc:creator>
+        <dc:creator opf:file-as="Martin Fowler" opf:role="aut">William Opdyke</dc:creator>
+        <dc:creator opf:file-as="Martin Fowler" opf:role="aut">Don Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-07-07T16:00:00+00:00</dc:date>
+        <dc:description>Refactoring is about improving the design of existing code. It is the process of changing a software system in such a way that it does not alter the external behavior of the code, yet improves its internal structure. With refactoring you can even take a bad design and rework it into a good one. This book offers a thorough discussion of the principles of refactoring, including where to spot opportunities for refactoring, and how to set up the required tests. There is also a catalog of more than 40 proven refactorings with details as to when and why to use the refactoring, step by step instructions for implementing it, and an example illustrating how it works The book is written using Java as its principle language, but the ideas are applicable to any OO language.</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780201485677</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>重构</dc:subject>
+        <dc:subject>refactoring</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>软件工程</dc:subject>
+        <dc:subject>编程</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>程序设计</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;John Brant&quot;: &quot;&quot;, &quot;William Opdyke&quot;: &quot;&quot;, &quot;Martin Fowler&quot;: &quot;&quot;, &quot;Kent Beck&quot;: &quot;&quot;, &quot;Don Roberts&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:50+00:00" name="calibre:timestamp"/>
+        <meta content="Refactoring" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

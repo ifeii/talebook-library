@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6987195-e794-4343-8cc6-c769916aa58b</dc:identifier>
+        <dc:title>追随她的旅程</dc:title>
+        <dc:creator opf:file-as="路内" opf:role="aut">路内</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-31T16:00:00+00:00</dc:date>
+        <dc:description>我是路小路，我在这里
+当时我十八岁，十八岁真是无处可去
+初中老师说我们是七八点钟的太阳，初中毕业就是八九点钟，老了以后是夕阳
+我认为要倒过来看，人生是黑夜，那么十八岁那年我正处于黄昏最美的时候
+然后是漫长的黑夜，某一天死了，在天堂看到红日升起
+我至今不知道什么样的痛苦可以使时间停止
+又是什么样的快乐可以让我们朝生暮死
+但我明白了我表姐所说的
+爱一个人，不爱一个人，都像一条很长的路，要走上很久才能明白
+当一切归于平淡和琐碎之后，关于过去，过去其实不值一提的时候
+我们的成熟，才刚刚开始，这件事，说来悲凉，却的确如此</dc:description>
+        <dc:publisher>北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530213544</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>路内</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>***新经典***</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>新经典</dc:subject>
+        <dc:subject>中國現當代文學</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;路内&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:19+00:00" name="calibre:timestamp"/>
+        <meta content="追随她的旅程" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -6,15 +6,28 @@
         <dc:title>双面胶</dc:title>
         <dc:creator opf:file-as="六六" opf:role="aut">六六</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-05-03T05:59:58+00:00</dc:date>
+        <dc:date>2005-09-30T16:00:00+00:00</dc:date>
+        <dc:description>上海姑娘丽鹃嫁给了一个大学毕业后留在上海工作的东北小伙子亚平。亚平在丈母娘家的帮助下，在上海买了房子成了家。
+亚平在父母来上海前是个上海标准的普通的丈夫，对老婆嘘寒问暖，端茶倒水，小夫妻亲密无间，恩爱无比。但婆婆到来后，温馨的小家生活开始发生质变。婆婆传统思想严重，希望以自己的生活方式去影响改造上海媳妇，这些思想与丽鹃现代的生活方式完全冲突，婆媳之间的矛盾与日俱增，摩擦不断升级，俩人变得水火不融……</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208058224</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">21749fee-9424-47e2-be1d-30de69dbd6cb</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>六六</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>婚姻</dc:subject>
+        <dc:subject>婆媳</dc:subject>
+        <dc:subject>家庭</dc:subject>
+        <dc:subject>双面胶</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;六六&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:10:12.632032+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:47+00:00" name="calibre:timestamp"/>
         <meta content="双面胶" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

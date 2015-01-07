@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">398a5239-95f9-405b-a03b-3e9b4c51644a</dc:identifier>
+        <dc:title>龍槍傳奇 1 時空之卷</dc:title>
+        <dc:creator opf:file-as="瑪格麗特‧魏絲（Margaret Weis）" opf:role="aut">瑪格麗特‧魏絲（Margaret Weis）</dc:creator>
+        <dc:creator opf:file-as="瑪格麗特‧魏絲（Margaret Weis）" opf:role="aut">崔西‧西克曼（Tracy Hickman）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-20T16:00:00+00:00</dc:date>
+        <dc:description>「只要有你的力量──只要你跟我，我們就可以統治整個安塞隆……征服全世界！」&#13;
+&#13;
+深夜，龍騎將奇蒂拉與她的弟弟雷斯林悄悄地達成協議。&#13;
+通過試煉，披上黑袍的雷斯林成為克萊恩大陸最令人聞之喪膽的邪惡巫師。但他仍不滿足，為了追求更至高無上的力量，他策劃了一個前所未聞的駭人計畫──回到大災變前、克萊恩最富庶繁華的年代，去實現他的野心。而他野心實現的關鍵，竟是一位帕拉丁的聖潔牧師──神眷之女克麗珊娜。這次可以阻止雷斯林的人，只剩下因親愛弟弟離去而灰心喪志的卡拉蒙．馬哲理，和默默幫助他們的老戰友泰索何夫．柏伏特。面對如此無敵的巫師，接受法師公會請求阻止雷斯林的卡拉蒙，他是否可以拯救神眷之女的生命，喚醒雷斯林的良心？&#13;
+在長槍戰役結束後的兩年後，坦尼斯、河風等人再次與卡拉蒙重聚。每個人都感受得到目前的和平或許僅是假象，克萊恩大陸的陰暗處正悄悄地騷動著。雷斯林的野心、龍騎將奇蒂拉和索思爵士的慾望，又要開始重燃戰火──&#13;
+&#13;
+龍槍（Dragonlance）的世界設定在一個被諸神所拋棄的世界 Krynn(克萊恩) 中，在這個世界裡，所有的牧師都無法召喚真神的眷顧，因此整個世界都陷入了混亂的狀況當中。而就在這個時候，邪惡的力量率領著大批的惡龍軍團趁虛而入，主角必須要設法找回牧師的力量，並且找到傳說中的屠龍槍(Dragonlance)，本系列之名也就由此而來。&#13;
+龍槍傳奇承接龍槍編年史的劇情，由最受龍槍讀者歡迎的角色為主要角色，更加深入龍槍世界，故事精采，比補足編年史的世界觀以及各個重要角色的背景，讓龍槍迷更愛不釋手。&#13;
+&#13;
+是龍槍百本系列中最受矚目、銷售驚人的系列套書！&#13;
+&#13;
+龍槍系列曾由第三波出版，可說是台灣以奇幻文學為類型出版的先鋒作品，在當年奇幻文學並不興盛時，曾創下單冊銷售量一萬五千冊以上的佳績。</dc:description>
+        <dc:publisher>奇幻基地出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789867131164</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>龙枪</dc:subject>
+        <dc:subject>龙与地下城</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>西方奇幻</dc:subject>
+        <dc:subject>雷斯林</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>龙枪传奇</dc:subject>
+        <meta content="{&quot;崔西‧西克曼（Tracy Hickman）&quot;: &quot;&quot;, &quot;瑪格麗特‧魏絲（Margaret Weis）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="龙枪" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:14:06+00:00" name="calibre:timestamp"/>
+        <meta content="龍槍傳奇 1 時空之卷" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

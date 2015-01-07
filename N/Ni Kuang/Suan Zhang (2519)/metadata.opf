@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef9c4b1f-70e4-48ea-9c84-4c3ac080483b</dc:identifier>
+        <dc:title>算帳</dc:title>
+        <dc:creator opf:file-as="倪匡" opf:role="aut">倪匡</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-09-30T16:00:00+00:00</dc:date>
+        <dc:description>卷入权力斗争而被软禁的铁天音,向卫斯理求救!卫斯理为营救这位故人之子,希望能将陷入昏迷的权力核心领导人——『老人』唤醒,让老人下令释放铁天音.但是人的一生中能说几句话,吃多少食物,心脏跳动几次,呼吸多少立方公升空气等等,都已是命中注定的.卫斯理如何改变『老人』的生命之数?还是他有其它的办法能救出铁天音呢……</dc:description>
+        <dc:publisher>勤+緣出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789624474725</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>中國文學</dc:subject>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>垃圾</dc:subject>
+        <dc:subject>科幻小說</dc:subject>
+        <dc:subject>脑残</dc:subject>
+        <meta content="{&quot;倪匡&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:29+00:00" name="calibre:timestamp"/>
+        <meta content="算帳" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

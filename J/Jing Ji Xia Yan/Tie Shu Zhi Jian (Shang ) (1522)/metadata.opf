@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a2c3901-99e7-4461-97ed-e93abf46e8a6</dc:identifier>
+        <dc:title>铁鼠之槛（上）</dc:title>
+        <dc:creator opf:file-as="京极夏彦" opf:role="aut">京极夏彦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-31T16:00:00+00:00</dc:date>
+        <dc:description>中禅寺敦子为采访古剎，偕同鸟口守彦进入箱根荒僻深山，不料他们下榻的旅馆却在雪地中凭空出现呈坐禅姿势的僧人尸体。
+京极堂受邀调查从土堆中挖掘出的书库，孰料其中不但满是禅学经典，更有「不可能存在的东西」，他所指为何？
+穿着盛装和服在荒凉雪地漫游的吟歌少女，十三年来不曾长大？十多年前的一场大火，如何将僧人禁锢寺内十三年？向盲眼按摩师坦承自己杀人的和尚，却又改口说杀的是牛，自己是老鼠！
+年代、派别来历及财源都不明的谜样古剎明慧寺，史书记载中遍觅无踪的明慧寺，寺内僧人接二连三死于非命，甚而巨鼠成群流窜、四处啃咬，向来气定神闲的京极堂遭逢前所未有的难关……</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208085558</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2dc09d75-0e22-44c7-9076-40b2885a8ee4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>京极夏彥</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>京极夏彦</dc:subject>
+        <dc:subject>妖怪推理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>京極夏彥</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <meta content="{&quot;京极夏彦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:02+00:00" name="calibre:timestamp"/>
+        <meta content="铁鼠之槛（上）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

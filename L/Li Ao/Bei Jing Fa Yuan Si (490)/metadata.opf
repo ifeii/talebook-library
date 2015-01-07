@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">691a5560-5cb4-4d8b-92a9-ecbe4fdd0acf</dc:identifier>
+        <dc:title>北京法源寺</dc:title>
+        <dc:creator opf:file-as="李敖" opf:role="aut">李敖</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《北京法源寺》是作者作为政治犯被关押期间所写的几部小说之一。
+
+本书以大人物为主角，举凡重要的主题：生死、鬼神、僧俗、出入、仕隐、朝野、家国、君臣、忠奸、夷夏、中外、强弱、人我、群已、公私、情理、常变、去留、因果经世济民等，都是论述之列。强烈地表达思想，内容丰富自是罕见。 
+
+《北京法源寺》在小说理论上，有些地方是有意“破格”的。有些地方，它不重视过去的小说理论，也不重视现代的，因这它根本就不要成为“清宫秘史”式的无聊小说，也不愿成为新潮派的技巧小说，所以详人所略，略人所详，该赶快“过桥”的，也就不多费笔墨，该大力发挥的，也不避萧伯纳一《一人演说》之谶。</dc:description>
+        <dc:publisher>中国友谊出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505720176</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>李敖</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>北京法源寺</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>法源寺</dc:subject>
+        <meta content="{&quot;李敖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:40+00:00" name="calibre:timestamp"/>
+        <meta content="北京法源寺" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04ac5b51-5173-4c32-9740-8788f3f03698</dc:identifier>
+        <dc:title>东藏记</dc:title>
+        <dc:creator opf:file-as="宗璞" opf:role="aut">宗璞</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《东藏记》是从已出版的长篇小说中遴选的优秀作品，在新中国六十年的历史上，几代作家在不同的时期创作了数以万计的长篇小说。在庆祝中华人民共和国成立六十周年之际，我们从业已出版的长篇小说中遴选出部分优秀作品，汇集成“人民文学出版社•新中国60年长篇小说典藏”一次性推出。这些书目的选择，兼顾历史评价、专家意见、读者喜好，以及题材和思想艺术风格的丰富性，它们集中展示了新中国长篇小说创作的伟大成就和发展变化，从文学的角度折射出中国特别是新中国各个历史时期的风貌。入选作品大都经过了时间淘洗，是可以流传的上乘之作。阅读或收藏，均富有价值。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020074594</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>宗璞</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>茅盾文学奖</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>野葫芦引</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>云南</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;宗璞&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="24" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:04+00:00" name="calibre:timestamp"/>
+        <meta content="东藏记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

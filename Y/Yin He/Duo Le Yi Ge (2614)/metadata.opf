@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5c49518-cd1f-4252-9bf7-437a54b42c92</dc:identifier>
+        <dc:title>多了一个</dc:title>
+        <dc:creator opf:file-as="姻合" opf:role="aut">姻合</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:10:06+00:00</dc:date>
+        <dc:description>六十多年前，某部队尖刀连六排的六个战士与大部队走散，却发现队伍中悄悄多了一个谁也不知道是什么的恐怖东西。在敌人的追击下，这六个身怀绝技、无所畏惧的战士将这个诡异事物带到了敌人中间，造成了某鬼子部队的炸营，该部队人员全部身亡。诡异事件至此并没有中止，战士们在保护百姓、看守战俘的过程中遭遇了一连串恐怖离奇的事件：阴兵借道、岩洞尸变、鬼娃复仇……
+一群热血军人在浴血奋战的同时，逐一揭开了这些秘密的终极谜底。</dc:description>
+        <dc:publisher>时代文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787538728163</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>恐怖</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>姻合</dc:subject>
+        <dc:subject>多了一个</dc:subject>
+        <dc:subject>恐怖悬疑</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;姻合&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:08+00:00" name="calibre:timestamp"/>
+        <meta content="多了一个" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

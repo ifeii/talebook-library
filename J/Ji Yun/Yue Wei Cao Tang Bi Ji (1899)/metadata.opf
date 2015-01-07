@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6d36204-62fe-4655-92db-ad1cd31bdf22</dc:identifier>
+        <dc:title>阅微草堂笔记</dc:title>
+        <dc:creator opf:file-as="纪昀" opf:role="aut">纪昀</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-07T16:00:00+00:00</dc:date>
+        <dc:description>《阅微草堂笔记》是清代著名学者纪昀晚年所作的笔记小说集，全书主要记述狐鬼神怪故事，意在劝善惩恶，虽然不乏因果报应的说教，但是通过种种描写，折射出封建社会末世的腐朽和黑暗。他有意模仿亚宋笔记小说质朴简淡的文风，"雍容淡雅，天趣盎然"，"隽思妙语，时足解頣"（鲁迅《中国小说史略》）。所以每脱稿一种，即被亲朋好友竞相传抄，展转刻印，一时享有同《红楼梦》、《聊斋志异》并行海内的盛誉。神怪小说，亦称神魔小说，是古代文化“志怪”传统在明清小说领域的酣满再现，鲁迅《中国小说史略》即将它作为明中叶后小说的两大主潮之一。神怪小说本质上是娱性文化的产物，而其所隶属于的中国文化整体却带有理性文化的特征，“互相容爱”，便建立了两者之间的契合点。在人世的生活空间中，加上一维神怪的空间；将超自然的神性，与社会化的人性巧妙地融合为一；驰骋无限制的想像，寄托理想和愿望，表达爱憎哀乐的思想与感情：这一切正是神怪小说特具的优势，也是其风靡城乡、深受读者喜爱的重要原因。
+明清长篇神怪小说的代表作品，除《西游记》（该书与《水浒传》、《三国演义》、《红楼梦》并称中国古典小说四大名著）外，首推《封神演义》和《镜花缘》，而《聊斋志异》和《阅微草堂笔记》则是短篇志怪小说的杰出代表。</dc:description>
+        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">51df3add-5b27-4d14-aff3-ec183de5c749</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532539291</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>纪昀</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>阅微草堂笔记</dc:subject>
+        <dc:subject>神鬼</dc:subject>
+        <dc:subject>笔记小说</dc:subject>
+        <dc:subject>中国古典文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <meta content="{&quot;纪昀&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:32+00:00" name="calibre:timestamp"/>
+        <meta content="阅微草堂笔记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

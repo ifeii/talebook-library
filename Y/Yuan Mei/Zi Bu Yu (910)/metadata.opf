@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44e726c2-617a-4a14-9289-82db561ccee4</dc:identifier>
+        <dc:title>子不语</dc:title>
+        <dc:creator opf:file-as="袁枚" opf:role="aut">袁枚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-30T16:00:00+00:00</dc:date>
+        <dc:description>版本：
+　　以随园三十八种本为底本，参照他本校点。廿四卷七百一十则。
+作者：
+　　袁枚，钱塘人，字子才，号简斋。少负才名，乾隆初试鸿博报罢，旋成进士，改庶吉士，出知溧水、江浦、沭阳、江宁等县。并着能声，年甫四十，即告归，作园于江宁小仓山下，曰随园，以吟咏著作为乐，世称随园先生。为诗主性灵，务从其才力所至；古文骈体，亦纵横跌宕，自成一格。姓通侻，颇放情于声色，尤好宾客，四方人士，投诗文无虚日。享盛名者五十年，卒年八十有二。着有《小仓山房集》、《随园诗话》、《随园随笔》等书。
+内容：
+　　记叙作者听闻之鬼神怪异之事，意在揶揄、嘲讽、批评人性中伪恶丑。文笔自然流畅，章法变化多端，读之令人回味无穷。
+（&lt;span style="color:red"&gt;子乌注：pdf是竖排版的，三个格式都是繁体。&lt;/span&gt;）</dc:description>
+        <dc:publisher>陕西人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787224042238</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>袁枚</dc:subject>
+        <dc:subject>子不语</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>笔记小品</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;袁枚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:30+00:00" name="calibre:timestamp"/>
+        <meta content="子不语" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

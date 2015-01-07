@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31ab934e-85a8-4d07-975e-8eca22fcba4b</dc:identifier>
+        <dc:title>飞鸟集(中英对照)/大家译丛</dc:title>
+        <dc:creator opf:file-as="罗宾德拉纳特·泰戈尔 (Rabindranath Tagore)" opf:role="aut">罗宾德拉纳特·泰戈尔 (Rabindranath Tagore)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-31T16:00:00+00:00</dc:date>
+        <dc:description>中英对照，最美丽的英语，最经典的译本。《飞鸟集》是泰戈尔的代表作之一，也是世界上最杰出的诗集之一，它包括300余首清丽的小诗。白昼和黑夜、溪流和海洋、自由和背叛，都在泰戈尔的笔下合二为一，短小的语句道出了深刻的人生哲理，引领世人探寻真理和智慧的源泉。初读这些小诗，如同在暴风雨过后的初夏清晨，推开卧室的窗户，看到一个淡泊清透的世界，一切都是那样的清新、亮丽，可是其中的韵味却很厚实，耐人寻味。</dc:description>
+        <dc:publisher>中国书籍出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506815697</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>泰戈尔</dc:subject>
+        <dc:subject>飞鸟集</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>中英</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>诗集</dc:subject>
+        <dc:subject>诗</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;罗宾德拉纳特·泰戈尔 (Rabindranath Tagore)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诺贝尔文学奖" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:05+00:00" name="calibre:timestamp"/>
+        <meta content="飞鸟集(中英对照)/大家译丛" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

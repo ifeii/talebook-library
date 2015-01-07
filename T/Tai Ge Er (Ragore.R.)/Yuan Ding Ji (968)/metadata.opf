@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">addaed43-144e-4f8e-a874-b90585061a1e</dc:identifier>
+        <dc:title>园丁集</dc:title>
+        <dc:creator opf:file-as="泰戈尔（Ragore.R.）" opf:role="aut">泰戈尔（Ragore.R.）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-04T16:00:00+00:00</dc:date>
+        <dc:description>《园丁集》是泰戈尔的另一部重要的代表作之一，是一部“生命之歌”，它更多地融入了诗人青春时代的体验，细腻地描叙了爱情的幸福、烦恼与忧伤，可以视为一部青春恋歌。诗人在回首往事时吟唱出这些恋歌，在回味青春心灵的悸动时，无疑又与自己的青春保有一定距离，并进行理性的审视与思考，使这部恋歌不时地闪烁出哲理的光彩。阅读这些诗篇，如同漫步在暴风雨过后的初夏里，一股挡不住的清新与芬芳，仿佛看到一个亮丽而清透的世界，一切都是那样的纯净、美好，使人与不知不觉中体味爱与青春的味道。</dc:description>
+        <dc:publisher>哈尔滨出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806993897</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>泰戈尔</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>园丁集</dc:subject>
+        <dc:subject>印度</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>诗意的栖居</dc:subject>
+        <meta content="{&quot;泰戈尔（Ragore.R.）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诗词" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:04+00:00" name="calibre:timestamp"/>
+        <meta content="园丁集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14126094-ca18-4e8e-9f98-bc42d7496653</dc:identifier>
+        <dc:title>活着的理由</dc:title>
+        <dc:creator opf:file-as="钱理群" opf:role="aut">钱理群</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《活着的理由》乃钱理群先生最新一本“退思录”。钱先生保持了其一贯的思考方式及思考力度，在某种程度上，这是其“搅动灵魂”主题的发展，既是对严峻现实的正视，又有超越现实的思考。因此，《活着的理由》的文章集中讨论了一系列的“问题”：“活着的问题”，“教育的问题”，“学术的问题”，而贯穿其中的却是两个关键词：“活着”与“承担”。“活着”讲现实的生命“存在”：存在的理由、根基、危机等等；“承担”，则是追寻存在的“意义”，从历史经验中提升出的既旧又新的生命存在方式，即所谓对自我、事业和社会的“三承担”。而在这背后，又有着关于以“价值重建”为核心的“文化重建（学术重建，教育重建，等等）”和“生活重建”的思考。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787549500123</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>钱理群</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>活着的理由</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>2010</dc:subject>
+        <dc:subject>散文/随笔/杂文</dc:subject>
+        <dc:subject>教育</dc:subject>
+        <meta content="{&quot;钱理群&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文化" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:02+00:00" name="calibre:timestamp"/>
+        <meta content="活着的理由" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

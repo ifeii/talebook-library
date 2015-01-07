@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a9e208a-5fb0-4c1f-8573-957890384557</dc:identifier>
+        <dc:title>改变中国</dc:title>
+        <dc:creator opf:file-as="乔纳森 斯潘塞 (史景迁)" opf:role="aut">乔纳森 斯潘塞 (史景迁)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-26T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="font-family: arial, 宋体, sans-serif; font-size: 14px; line-height: 24px; "&gt;「回顾一六二○年到一九六○年这段历史，可看到西方人以唯我独尊之姿来到中国，深信自己师出有名，急欲「开发」被他们视为落後的民族，这些西方顾问的境遇实可为借镜：傅兰雅和丁韪良坚忍不拔，汤若望、李泰国及托德精力充沛，胡美和鲍罗廷洞察敏锐，戈登和史迪威精明干练，赫德和魏德迈善於组织，南怀仁和伯驾匠心独运，华尔和陈纳德勇气卓绝，白求恩无私奉献。然而，这些人的故事是警世教训，而非鼓舞人心的宣传。二次世界大战之後，欧洲人对西方方法论及目标的绝对信心已摇摇欲坠，历经越战的美国人对此亦产生动摇。十年河东、十年河西，今天的中国似乎已有自信，西方人到中国，就得按中国人的规矩行事。如果，中西双方都对自己有新的了解的话，至少还有机会不让由来已久的误认再度发生。」&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="font-family: arial, 宋体, sans-serif; font-size: 14px; line-height: 24px; "&gt;&lt;/span&gt;(&lt;font class="Apple-style-span" color="#FF0000"&gt;子乌注：非温恰溢版，是三联书店1990年翻译的版本。另外，这个是&lt;/font&gt;&lt;b&gt;&lt;font class="Apple-style-span" color="#AA0000"&gt;扫描版&lt;/font&gt;&lt;/b&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;，在kindle3上测试了，横屏效果还行，竖屏如果自认视力不错的话可看……反正我自个儿觉得还可以&lt;/font&gt;）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108003928</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>史景迁</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>海外汉学</dc:subject>
+        <dc:subject>海外中国研究</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>洋顾问们</dc:subject>
+        <dc:subject>史景遷</dc:subject>
+        <meta content="{&quot;乔纳森 斯潘塞 (史景迁)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="42" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:50+00:00" name="calibre:timestamp"/>
+        <meta content="改变中国" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

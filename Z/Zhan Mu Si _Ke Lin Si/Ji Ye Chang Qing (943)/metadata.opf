@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef71bc94-a863-40da-80cc-d1a3b930222e</dc:identifier>
+        <dc:title>基业长青</dc:title>
+        <dc:creator opf:file-as="詹姆斯·柯林斯" opf:role="aut">詹姆斯·柯林斯</dc:creator>
+        <dc:creator opf:file-as="詹姆斯·柯林斯" opf:role="aut">[美] 杰里·波勒斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-31T16:00:00+00:00</dc:date>
+        <dc:description>如何建立一个伟大并长盛不衰的公司？有思想的人们早已经厌倦了“年度流行语”般稍纵即逝的管理概念，他们渴求获得能经受时间考验的管理思想。
+柯林斯和波勒斯在斯坦福大学为期6年的研究项目中，选取了18个卓越非凡、长盛不衰的公司作了深入的研究，这些公司包括通用电气、3M、默克、沃尔玛、惠普、迪士尼等，它们平均拥有近百年的历史。是什么使这些公司不同于它们的竞争对手呢？他们拥有什么别的公司所不具有的法宝呢？
+通过回答这些问题，柯林斯和波勒斯超越了连篇累牍的专业术语，拒绝追逐时尚，发现了使杰出公司出类拔萃的永恒品质。
+全书有数百个具体的例子，并被组织成了紧密的实用概念框架，能够适用于各个层次上的经理人与创业者。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787800734762</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>基业长青</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>企业管理</dc:subject>
+        <dc:subject>战略</dc:subject>
+        <dc:subject>柯林斯</dc:subject>
+        <dc:subject>管理学</dc:subject>
+        <dc:subject>企业</dc:subject>
+        <meta content="{&quot;詹姆斯·柯林斯&quot;: &quot;&quot;, &quot;[美] 杰里·波勒斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="管理/经营" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:49+00:00" name="calibre:timestamp"/>
+        <meta content="基业长青" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

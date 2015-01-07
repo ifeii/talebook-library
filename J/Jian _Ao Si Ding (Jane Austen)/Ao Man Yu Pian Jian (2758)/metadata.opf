@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e28645ae-c2a6-461b-a754-10cf1d5be677</dc:identifier>
+        <dc:title>傲慢与偏见</dc:title>
+        <dc:creator opf:file-as="简·奥斯丁(Jane Austen)" opf:role="aut">简·奥斯丁(Jane Austen)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:description>内容简介
+《傲慢与偏见(经典插图本)》内容简介：班纳特太太的毕生大志就是把五个闺女体面地嫁掉，故而总是把近旁有财产的单身汉看成某个女儿应得的一笔财产。于是有了几对青年男女跌宕起伏的分分合合：豪门子弟达西与聪慧机敏的二女伊丽莎白之间的谗言误会，富家公子彬格莱与贤淑善良的长女吉英之间的欲说还休，浪荡公子韦翰与轻佻无理的小女丽迪雅的私奔秽闻……最终男女主人公放下了各自的傲慢与偏见，做出合乎自己道德的选择。作品充分表达了作者本人的婚姻观，强调经济利益和门第观念对婚恋的影响。 57幅原版插图生动再现经典场景。
+编辑推荐
+《傲慢与偏见(经典插图本)》：婚姻生活是否能幸福，完全是个机会问题。一对爱人婚前脾气摸得非常透，或者脾气非常相同，这并不能保证他们俩就会幸福。他们总是弄到后来距离越来越远，彼此烦恼。你既然得和这个人过一辈子，你最好尽量少了解他的缺点。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532751211</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a7b65784-0323-493e-8385-314720e4cbf1</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>JaneAusten</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国文学</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>傲慢与偏见</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <meta content="{&quot;简·奥斯丁(Jane Austen)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:52:06+00:00" name="calibre:timestamp"/>
+        <meta content="傲慢与偏见" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

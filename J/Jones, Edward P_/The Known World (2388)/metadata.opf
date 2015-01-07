@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7674432-91fd-4c4e-aace-7b55b55ac3f8</dc:identifier>
+        <dc:title>The Known World</dc:title>
+        <dc:creator opf:file-as="Jones, Edward P." opf:role="aut">Jones, Edward P.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-30T16:00:00+00:00</dc:date>
+        <dc:description>Masterful, Pulitzer-prize winning literary epic about the painful and complex realities of slave life on a Southern plantation. An utterly original exploration of race, trust and the cruel truths of human nature, this is a landmark in modern American literature.  Henry Townsend, a black farmer, boot maker, and former slave, becomes proprietor of his own plantation -- as well as his own slaves. When he dies, his widow, Caldonia, succumbs to profound grief, and things begin to fall apart: slaves take to escaping under the cover of night, and families who had once found love beneath the weight of slavery begin to betray one another. Beyond the Townsend household, the known world also unravels: low-paid white patrollers stand watch as slave 'speculators' sell free black people into slavery, and rumours of slave rebellions set white families against slaves who have served them for years.  An ambitious, luminously written novel that ranges from the past to the present, The Known World seamlessly weaves together the lives of the freed and the enslaved -- and allows all of us a deeper understanding of the enduring multi-dimensional world created by the institution of slavery.</dc:description>
+        <dc:publisher>HarperPerennial</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007195305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>普利策奖获奖作品</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>美国内战</dc:subject>
+        <dc:subject>黑人文学</dc:subject>
+        <dc:subject>普利策</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>comm.</dc:subject>
+        <meta content="{&quot;Jones, Edward P.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:00+00:00" name="calibre:timestamp"/>
+        <meta content="Known World, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8f9f7a0-3c29-4c4b-b206-911780c47871</dc:identifier>
+        <dc:title>跳出盒子</dc:title>
+        <dc:creator opf:file-as="美国亚宾泽协会" opf:role="aut">美国亚宾泽协会</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-30T16:00:00+00:00</dc:date>
+        <dc:description>你可曾想过，在领导、团队协作、沟通、信任、忠诚、激励等等方面，企业之所以总是处理不佳，其实根源只有一个——领导者习惯性的自我欺骗。这正是《跳出盒子》一书所揭示的惊人观点。
+
+
+
+《跳出盒子》运用了心理学小说这种流行的讲述方式来控讨管理和领导这一话题，整部书深入浅出地把对“领导力”精髓的阐释，副入到了一个现代理人汤姆日常生工作的点滴中，很多人都曾经和正在欺骗自己，在内心努力为自己所做的每件事寻找理由，却没有意识到自己的欺骗行为。此书勇敢地打破了关于“领导力”的传统观念，将读者的视点由外部认识转向领导者的“内世界”，揭示了何谓“自欺行为”，通过“自我背叛”、“自我辨解”、“串通”一系列概念，分析了人们如何陷入自欺困境，而自欺心理又是如何制约个人成就和企业发展的。更重要的是，《跳出盒子》为我们提供了我解决问题的途径。
+
+
+
+用心阅读并身体力行，你的生活态度将受到潜移默化的影响，工作中的诸多问题也会得到相应的答案。</dc:description>
+        <dc:publisher>当代中国出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801703279</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>管理学</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <dc:subject>跳出盒子</dc:subject>
+        <dc:subject>企业管理</dc:subject>
+        <meta content="{&quot;美国亚宾泽协会&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="管理/经营" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:03+00:00" name="calibre:timestamp"/>
+        <meta content="跳出盒子" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

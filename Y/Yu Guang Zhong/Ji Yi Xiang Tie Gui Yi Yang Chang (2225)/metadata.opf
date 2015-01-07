@@ -7,14 +7,26 @@
         <dc:creator opf:file-as="余光中" opf:role="aut">余光中</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>雙管在握的作家要表現一種經驗時，怎能決定該用詩還是散文呢？詩的篇幅小，密度大，轉折快，不能太過旁鶩細節，散文則較多迴旋的空間。所以同一經驗，欲詳其事，可以用散文，欲傳其情，則宜寫詩。去年初夏，和沙田諸友爬山，從新娘潭一直攀上八仙嶺，終於登上純陽峰，北望沙田而同聲歡呼者共為六人：梁錫華伉儷、劉述先、朱立、黃國彬和我。當時登高望遠臨風長嘯的得意之情，加上回顧山下的來路，辛苦，曲折，一端已沒入人間，那一份得來不易的成就感，用詩來歌詠最能傳神。用散文也能，若是那作者筆下富於感性，在敘事、抒情之外尚能狀物寫景。可惜純散文家&amp;#65533;有一半不擅此道。另一方面，若要記述事情的始末，例如還有那些遊伴留在山下，為什麼不曾一起仰攀，有誰半途而回，是誰捷足先登，是誰掌管水壺，是誰在峰頂為眾人的狂態拍下照片，甚至誰說了一句什麼妙語，若要詳記這些旁枝細節，用散文，就方便得多了。詩一上了節奏的虎背，就不能隨便轉彎，隨便下來。詩要敘事，只有一個機會，散文就從容多了。</dc:description>
+        <dc:publisher>洪範書局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789579525404</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">62a2ea72-2227-4c93-9efc-b4bd30fa0e9b</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>余光中</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>記憶像鐵軌一樣長</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>文學</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>诗人写散文</dc:subject>
+        <dc:subject>台湾</dc:subject>
         <meta content="{&quot;余光中&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:12:52.179568+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:08+00:00" name="calibre:timestamp"/>
         <meta content="記憶像鐵軌一樣長" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

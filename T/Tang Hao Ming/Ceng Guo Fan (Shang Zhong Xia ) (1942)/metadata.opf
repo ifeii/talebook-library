@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ce8bfe2-cdcb-4ab6-b406-2ce551ae0f92</dc:identifier>
+        <dc:title>曾国藩（上中下）</dc:title>
+        <dc:creator opf:file-as="唐浩明" opf:role="aut">唐浩明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-30T16:00:00+00:00</dc:date>
+        <dc:description>长篇历史小说《曾国藩》既写曾国藩的文韬武略，也写他的待人处民与生活态度；既写他的困厄与成功，也写他的得宠与失宠。曾国藩制胜的兵法、治军行政的方针，他独特的人生观、处世哲学，他的文化素养和人格品位等等，都在作品中得以表现。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020037704</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>曾国藩</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>唐浩明</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <meta content="{&quot;唐浩明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:13+00:00" name="calibre:timestamp"/>
+        <meta content="曾国藩（上中下）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

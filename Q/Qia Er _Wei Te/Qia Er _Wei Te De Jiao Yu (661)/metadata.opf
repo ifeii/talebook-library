@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29781f1e-24ec-4dd8-8aa4-6a7996b28330</dc:identifier>
+        <dc:title>卡尔·威特的教育</dc:title>
+        <dc:creator opf:file-as="卡尔·威特" opf:role="aut">卡尔·威特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《卡尔·威特的教育(权威珍藏本)》内容简介：天才的诞生与快乐的童年并不矛盾，天才与天赋也没有必然的关联。这本出自19世纪一个睿智乡村牧师之手的教育史上的奇书，用事实告诉我们每一个孩子都具备成为天才的潜力。你也可以将你的孩子造就成一个健康快乐的天才。</dc:description>
+        <dc:publisher>京华出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806005903</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>儿童教育</dc:subject>
+        <dc:subject>卡尔·威特的教育</dc:subject>
+        <dc:subject>育儿</dc:subject>
+        <dc:subject>家庭教育</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>教育书籍</dc:subject>
+        <meta content="{&quot;卡尔·威特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="儿童·教育" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:59+00:00" name="calibre:timestamp"/>
+        <meta content="卡尔·威特的教育" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

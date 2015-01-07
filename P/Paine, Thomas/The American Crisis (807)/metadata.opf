@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61f2b6f1-9b78-41f5-9a94-875a5d257c1c</dc:identifier>
+        <dc:title>The American Crisis</dc:title>
+        <dc:creator opf:file-as="Paine, Thomas" opf:role="aut">Paine, Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-10T16:00:00+00:00</dc:date>
+        <dc:description>The American Crisis was a series of pamphlets published from 1776 to 1783 during the American Revolution by eighteenth century Enlightenment philosopher and author Thomas Paine. The first volume begins with the famous words "These are the times that try men's souls". There were sixteen pamphlets in total together often known as "The American Crisis" or simply "The Crisis". Thirteen numbered pamphlets were published between 1776-1777 with three additional pamphlets released between 1777-1783. The writings were contemporaneous with the early parts of the American Revolution, during the times that colonists needed inspiring.
+They were written in a language the common man could manage and are indicative of Paine's liberal philosophies. Paine signed them with one of his many pseudonyms "Common Sense". The writings bolstered the morale of the American colonists, appealed to the English people's consideration of the war with America, clarified the issues at stake in the war and denounced the advocates of a negotiated peace.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781161456363</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>ZDC:YWSJ</dc:subject>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;Paine, Thomas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:54:05+00:00" name="calibre:timestamp"/>
+        <meta content="American Crisis, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

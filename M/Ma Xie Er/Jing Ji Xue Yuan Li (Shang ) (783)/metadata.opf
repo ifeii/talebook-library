@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f08eca7c-85cc-4446-b70e-c9794bf71a19</dc:identifier>
+        <dc:title>经济学原理(上)</dc:title>
+        <dc:creator opf:file-as="马歇尔" opf:role="aut">马歇尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《经济学原理》(上)著者马歇尔（1842-1924）是著名的资产阶级庸俗经济学家，是资产阶级经济学英国“剑桥学派”的创始人。《经济学原理》是马歇尔的主要著作。在《经济学原理》(上)中，他把各种庸俗经济理论——供求论、生产费用论和边际效用论等等，凑合成一种折衷主义的理论体系，建立了“均衡价格论”和以这个理论为基础的分配论。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100011570</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>马歇尔</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济学原理(上卷)</dc:subject>
+        <dc:subject>经济学理论</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>经济学入门</dc:subject>
+        <meta content="{&quot;马歇尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="经济" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:54+00:00" name="calibre:timestamp"/>
+        <meta content="经济学原理(上)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

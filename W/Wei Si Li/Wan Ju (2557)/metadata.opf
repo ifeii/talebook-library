@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfc542c9-e134-4e52-a197-dc75d7b836a6</dc:identifier>
+        <dc:title>玩具</dc:title>
+        <dc:creator opf:file-as="衛斯理" opf:role="aut">衛斯理</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:45+00:00</dc:date>
+        <dc:description>每個人都擁有過玩具，很少有不喜歡玩具的人，然而在《玩具》中的陶格一家人，卻對玩具有著莫名的恐懼。因為在《玩具》中的玩具，已不在是供人遊戲的玩物，遇上這些「玩妳唯一能作的，是聽它們擺佈&#13;
+相關之故事【圈套】&#13;
+&#13;
+序----------------------------&#13;
+「玩具」這個故事，設想了地球由機器人統治。機器人的統治中心，是一座巨大無比的電腦。它把地球上的氧氣弄走了，於是所有生物一起死亡，剩下來的，就成了各種類型不同的玩具。 &#13;
+如果真有那種情形出現，那自然是人類的大悲劇，不過，更大的悲劇，在於故事的後半部：陶格的一家和衛斯理，開始時都認為自己逃出來了，可是終於知道，不斷地逃亡，也根本是作為玩具被機器人玩的方式。自始至終，都是遊戲中的一種道具，始終只是玩具。 &#13;
+玩具的關係，在人和人之間也存在著，一些人是一些人的玩具，怎麼也擺脫不了被玩的命運──倒不是富豪玩弄美女那麼簡單，有很多不同形式的表現，而且，在絕大多數情形下，作為玩具的，並不大有改變自己地位的想法。 &#13;
+像這個故事中的「玩具」，不是日子過得極好，生活一無憂慮，甚至比人類自己作主時還好得多嗎？ &#13;
+衛斯理（倪匡）一九八六、十二、二十三</dc:description>
+        <dc:publisher>明窗出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789575695088</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <meta content="{&quot;衛斯理&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:31:11+00:00" name="calibre:timestamp"/>
+        <meta content="玩具" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

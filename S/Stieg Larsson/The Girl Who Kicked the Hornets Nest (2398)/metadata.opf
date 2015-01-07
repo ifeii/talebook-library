@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb14dbbb-20a5-43fa-8a91-5d646780c84f</dc:identifier>
+        <dc:title>The Girl Who Kicked the Hornets Nest</dc:title>
+        <dc:creator opf:file-as="Stieg Larsson" opf:role="aut">Stieg Larsson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>Salander is plotting her revenge - against the man who tried to kill her, and against the government institutions that very nearly destroyed her life. But it is not going to be a straightforward campaign. After taking a bullet to the head, Salander is under close supervision in Intensive Care, and is set to face trial for three murders and one attempted murder on her eventual release. With the help of journalist Mikael Blomkvist and his researchers at Millennium magazine, Salander must not only prove her innocence, but identify and denounce the corrupt politicians that have allowed the vulnerable to become victims of abuse and violence. Once a victim herself, Salander is now ready to fight back .</dc:description>
+        <dc:publisher>Quercus Publishing Plc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781849162753</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <meta content="{&quot;Stieg Larsson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:11+00:00" name="calibre:timestamp"/>
+        <meta content="Girl Who Kicked the Hornets Nest, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

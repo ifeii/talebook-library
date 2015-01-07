@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebbc6214-78c4-417c-a902-d3538f3f5283</dc:identifier>
+        <dc:title>魍魉之匣（上）</dc:title>
+        <dc:creator opf:file-as="京极夏彦" opf:role="aut">京极夏彦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>两个美貌且彷佛不食人间烟火的少女，相偕在夜里去湖边欣赏月光，其中一名少女却意外落车而身受重伤。无意间搭同一班车下班的刑警木场修在强忍疲惫下接手处理案件，却意外发现身受重伤少女的亲人，是他暗恋了许多年的女演员。木场一面强自按捺内心情感浮动，一面却也深陷难缠案件。身受重伤的少女在送到一栋盒状的建筑物后，在众目睽睽之下居然凭空消失了……
+作家关口偶尔为之取材写作的三流杂志《月刊实录犯罪》，正在追查相模湖发生的分尸杀人案，编辑鸟口和关口联袂前往现场追查，却在路途中迷路而误入一栋奇怪的盒状建筑物……
+在病床上消失的少女、相模湖分尸杀人案、追查案件的木场和关口、盒子般奇怪的建筑物，到底是什么将他们联系在一起？魍魉，真的只存在人心吗？
+【魍魉】
+最早称作“罔两”，为影子之意。东汉的《说文解字》中，则成了“罔两，山川之精物也”，不过魍魉确切的形象，《淮南子》中始见真章，形容其为“状如三岁小儿，赤黑色、赤目、赤爪、长耳、美发”；《搜神记》中引“夏鼎志”云“‘罔象’如三岁儿，赤目，黑色，大耳，长臂，赤爪。索缚，则可得食。”《本草纲目》 则称其“喜食人尸肝”。
+【火车】
+西国云州萨摩边境或东国一带有异事。葬送之时，俄有大风雨，其烈足以吹倒往来行人，葬棺时被吹飞。若掷守护数珠则异事消。否则棺木飞走，失其尸。此即火车捉尸，乃甚为恐怖耻辱之事也。愚俗有言：生涯多为恶事，地狱火车来迎。火车携走死尸后撕裂其身，挂于山中树枝岩头。火车之名，乃佛者先言（中略）。捉火车事，和汉多有事例。曰此乃魍魉之兽所为，魍魉或作罔两、方良。酉阳杂俎引周礼曰：“方相氏殴罔像。好食亡者肝。而畏虎与栢。墓上树栢，路口致石虎为此也。”此兽常于送葬之时出来危害。故汉土圣人之世，方相氏披熊皮，作四目之形，大丧之时立于棺柩前，持戈入穴，击四隅，乃为殴此兽是也。此即险道神。或可见事物之源。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">dcc16775-05bf-4f57-8f1b-abcd7550d0f6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208080430</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>京極夏彥</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>京极夏彦</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>妖怪推理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>魍魉之匣（上）</dc:subject>
+        <meta content="{&quot;京极夏彦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:15+00:00" name="calibre:timestamp"/>
+        <meta content="魍魉之匣（上）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

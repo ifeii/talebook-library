@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">542be34d-5aa9-4913-b38d-99f4e702252a</dc:identifier>
+        <dc:title>拖延心理学</dc:title>
+        <dc:creator opf:file-as="简·博克(Jane B. Burka)" opf:role="aut">简·博克(Jane B. Burka)</dc:creator>
+        <dc:creator opf:file-as="简·博克(Jane B. Burka)" opf:role="aut">[美] 莱诺拉·袁(Lenora M. Yuen)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-30T16:00:00+00:00</dc:date>
+        <dc:description>从学生到科学家，从秘书到总裁，从家庭主妇到销售员，拖延的问题几乎会影响到每一个人。本书的两位作者基于他们倍受好评和极具开创性的拖延工作坊和从众多心理咨询领域中汲取的丰富理论和经验，对拖延作了一次仔细、详尽、有时也颇为幽默的探索。
+通过鉴别和检查那些我们将事情推掉的背后原因——对失败、成功、控制、疏远和依附的恐惧，加上我们的时间概念问题和大脑的神经学因素——为我们学会怎样理解拖延的冲动以及怎样以全新方式采取行动做了一件非常扎实的基础工作。
+作者为我们提供了达成目标、管理时间、谋求支持和处理压力等一系列方案来克服拖延问题，她们提供的方案极为实用并经受过实践的检验。本书还考虑到工作和生活节奏不断加快的当代文化诉求，以及诸如注意力缺失紊乱症、执行功能障碍症等神经认知问题对拖延的影响。本书甚至还为生活和工作在拖延者身边的人群提供了不少实用性建议。</dc:description>
+        <dc:publisher>中国人民大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">53d49e0e-b3b4-49be-b0e5-908e69381750</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787300113906</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>拖延症</dc:subject>
+        <dc:subject>时间管理</dc:subject>
+        <dc:subject>个人管理</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>拖延</dc:subject>
+        <dc:subject>注意力</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <meta content="{&quot;简·博克(Jane B. Burka)&quot;: &quot;&quot;, &quot;[美] 莱诺拉·袁(Lenora M. Yuen)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:00+00:00" name="calibre:timestamp"/>
+        <meta content="拖延心理学" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

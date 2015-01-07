@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73a06d0c-650e-49b3-91f6-4e1a01f4672f</dc:identifier>
+        <dc:title>烈火</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-05-31T16:00:00+00:00</dc:date>
+        <dc:description>言诺继承父业，成力烈家忠实的助手。言诺与烈家次子烈火是至好朋友。言诺先认识夏荷生小姐，然而美丽、倔强的夏荷生却喜吹烈火，并不知不免地卷入了烈家复杂的内部斗争中，一家之长烈战胜很少露面，传言他用卑劣的手段儿岳父手上夺取了其给女儿周琪的陪嫁庭园――琪因及其所有家产，并将周琪与儿子烈风扫地出门；随后与第二任妻子陈珊生下了烈火与女儿烈云，又与陈珊离异。然而夏荷生所了解的烈战胜却与传言大相径庭。烈火与烈风水火不相容，而烈云却痴爱着她同父异母并想利用她挫败烈火的哥哥烈风。善良的夏荷生一心想调解纷争，却成了一家人斗争的磨心……</dc:description>
+        <dc:publisher>海天出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1460e348-6ac5-478a-bc7e-9216500d04ae</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787806154335</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>烈火</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:09+00:00" name="calibre:timestamp"/>
+        <meta content="烈火" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

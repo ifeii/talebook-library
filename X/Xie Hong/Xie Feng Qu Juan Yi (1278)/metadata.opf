@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7de747bc-01c0-4fe3-a110-e263d566a686</dc:identifier>
+        <dc:title>邪风曲卷一</dc:title>
+        <dc:creator opf:file-as="血红" opf:role="aut">血红</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-31T16:00:00+00:00</dc:date>
+        <dc:description>当邪恶使人不寒而栗，当心狠手辣使人毛骨悚然，即使是熟识老练的恶棍，在他眼里也是那么渺小……但是他却在一次次内心里窥见软弱无助，仿佛一个孩子，在迷宫中找不到出来的地方……且看风子如何将这世界搅得天昏地暗……
+
+人要背时，喝水都塞牙缝。市井街头混混厉风，不小心偷了一个小小的钱袋，就被无数人追杀。幸而遇上了古怪的老道萧龙子，厉风一通胡话之后，被劫持到了修道门户一元宗，做了辈份最小的弟子。奈何一元宗的那群修道士，个个懒散得离谱，除了成天自己闭关修炼，根本就不理会厉风的日常功课，前途”无亮”啊！
+
+凭良心说，一元宗的门人弟子，是一群极品的人才。一群老道硬是被厉风一个人耍得滴溜溜乱转，不过是为了贪图一口酒喝，结果硬是被厉风带得去方圆几百里地里面偷酒，弄得人心惶惶。而厉风自己呢，在一通胡闹之余，也见识了不少东西，明白了很多事情，他正在一步步的朝着天道前进，奈何就是他前进的道路上，总是参杂着让其他人哭笑不得的古怪罢了。
+
+厉风掩掇了所有一元宗的门人去斩妖除魔。在看着二师伯一举摧毁了一座山峰后，厉风彻底的心服口服了，彻底的下定决心，哪怕是赖，他也要赖在一元宗不走了。不过，天不从人愿，总有一些变故，是没有人能够控制的……</dc:description>
+        <dc:publisher>东方出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506009430</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>血红</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>仙侠</dc:subject>
+        <dc:subject>修真</dc:subject>
+        <dc:subject>邪风曲</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <meta content="{&quot;血红&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:53+00:00" name="calibre:timestamp"/>
+        <meta content="邪风曲卷一" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

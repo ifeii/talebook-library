@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28ada700-6382-453c-a118-8f9f64571da2</dc:identifier>
+        <dc:title>2006全国一级注册结构工程师执业资格考试(第2版)基础考试考前30 (平装)</dc:title>
+        <dc:creator opf:file-as="郝莉" opf:role="aut">郝莉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>本书根据现行一级注册结构工程师基础考试大纲编写而成，能有效指导考生参加全国一级注册结构工程师基础考试。全书将一级注册结构工程师基础考试大纲要求的17门基础考试课程，严格按考试分值分配，在前28天进行独立训练，每天大约90道题；最后2天为模拟考试，使考生迅速进入考试状态。全书3195道单项选择题，不仅涵盖了一级注册结构工程师基础考试大纲所有的知识点，而且严格按照考试题型、时间、分值编写。30天之后，相信您的应试能力会有质的飞跃。
+    本书具有较强的指导性和实用性，是考生应试的得力助手，是参加注册结构工程师执业资格基础考试人员的必备参考书。</dc:description>
+        <dc:publisher>中国电力</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508343273</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;郝莉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:14:11+00:00" name="calibre:timestamp"/>
+        <meta content="2006全国一级注册结构工程师执业资格考试(第2版)基础考试考前30 (平装)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

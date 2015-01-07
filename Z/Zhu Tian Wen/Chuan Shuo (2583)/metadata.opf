@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa774086-7d13-4c75-9448-c19afe0c1961</dc:identifier>
+        <dc:title>传说</dc:title>
+        <dc:creator opf:file-as="朱天文" opf:role="aut">朱天文</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是台湾实力派作家朱天文的短篇小说集，收录其自1972到1981年间所写的20篇小说，分为“乔太守新记”“传说”上下两辑，每辑附两篇序。上辑内容以学生校园生活为主，收有朱天文的成名作《乔太守新记》，笔触敏感而清新，对人物的心理刻划有极为细腻的表现力，文字的古典气息浓郁；下辑则将视野扩展到青年人所接触的家庭与社会，表现了七八十年代台湾青年在社会变革的初期既兴奋又迷惘的思想和状态。有好几篇作品书写了对乡土生活的经验和感受，值得注意。作为作者早年的作品集，本书再现了一代人的青春经验，既有心态饱满，情怀百转的当事人语，又有冷静中不乏伤感的追忆和反思。从作品中也似可看到作者本人及圈中友人切身经历的影子。对于体会台湾青年心灵动态、追溯了解作者成长及创作背景，本书都是不可多得的佳作。作者文笔清新活泼，选取视角贴近生活，极具可读性。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532750023</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>朱天文</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>短篇小说</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>港台文学</dc:subject>
+        <meta content="{&quot;朱天文&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:31:36+00:00" name="calibre:timestamp"/>
+        <meta content="传说" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

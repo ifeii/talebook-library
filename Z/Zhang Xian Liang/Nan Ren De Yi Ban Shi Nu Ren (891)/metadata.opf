@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ae7ba2c-2163-42ee-a670-550bf1466715</dc:identifier>
+        <dc:title>男人的一半是女人</dc:title>
+        <dc:creator opf:file-as="张贤亮" opf:role="aut">张贤亮</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《男人的一半是女人》讲述了：中国巨轮，乘风破浪，高歌猛进，短短六十载，已屹立于世界强国之林，成为人类文明史的一个伟大奇迹。中国文学，风起云涌，蒸蒸日上，流派异彩纷呈，名家力作迭出，同样令世人瞩目。为庆祝人民共和国成立六十周年，我社启动“共和国作家文库”大型文学工程，力图囊括当代具有广泛影响力的重要作家的代表作品，以中国风格、中国气派和文学价值观上的人民立场，展示东方文明古国的和平崛起、历史进程、社会变迁与现实图画，表现中华民族的艰辛求索、勇敢实践、创新思想及生存智慧。这套文库，既是欣欣向荣的中国文学事业的一个缩影，也是生机勃勃的转型期中国出版界的一件盛事，其文学价值和社会意义，将随着时间的推移而日益显示出来。我们同时相信，中国的文学事业将伴着蒸蒸日上的伟大祖国更加繁荣、更加绚丽。衷心感谢中宣部有关部门、中国作家协会和全国广大作家、文学评论专家给予本文库的大力支持。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506346603</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>张贤亮</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>男人的一半是女人</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>大陆现当代文学</dc:subject>
+        <dc:subject>共和国文库</dc:subject>
+        <meta content="{&quot;张贤亮&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="92" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:17+00:00" name="calibre:timestamp"/>
+        <meta content="男人的一半是女人" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

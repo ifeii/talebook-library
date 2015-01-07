@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35fb8d10-1f60-4ef7-abe2-a75529141a53</dc:identifier>
+        <dc:title>暗号之二</dc:title>
+        <dc:creator opf:file-as="倪匡" opf:role="aut">倪匡</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:41+00:00</dc:date>
+        <dc:description>光憑一隻斷掌、一只銅鈴、一簇栩栩如生的鮮花，如何能證實轉世二活佛的身分？二活佛所指的『暗號之二』又是什麼？失蹤多年的七叔再度出現，這回他不但偷走了喇嘛教視為至寶的三樣法物，還令衛斯理蒙上不白之冤！眼看歷時多年的真假活佛之爭終於到了最後決戰的關頭，衛斯理是否能從這場輪迴的漩渦中脫困而出？………</dc:description>
+        <dc:publisher>皇冠文化出版有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573314936</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>Z2</dc:subject>
+        <meta content="{&quot;倪匡&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:06+00:00" name="calibre:timestamp"/>
+        <meta content="暗号之二" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

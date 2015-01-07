@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9989815-5805-4777-a349-0767c29c31ee</dc:identifier>
+        <dc:title>六十年代大练兵</dc:title>
+        <dc:creator opf:file-as="闫世奎" opf:role="aut">闫世奎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-09-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p style='color:red;'&gt;子乌注：本来想买这套书的实体书，不过询问过熟悉的书商，对方告诉我这书不好卖，于是自己上网查看香港的价格，知道为啥不好卖了：价格实在是无法接受（200多），既然有电子版，就先看看吧，与希望知道那段历史的同好们共飨。附一篇批驳《墓碑》的文章(无他，添点笑料)：&lt;a href="http://mzd.wyzxsx.com/Article/class20/201005/2776.html"&gt;揭穿《墓碑》谎言，杨继绳的父亲不是饿死的&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这本书原打算名为「天堂之路」，后来我改为「墓碑」。「墓碑」有四重意思，一是为在1959年饿死的父亲立墓碑；二是为3600万饿死的中国人立墓碑；第三，为造成大饥荒的制度立下一个墓碑；第四，在写这本书写到一半时，北京宣武医院在为我体检中发现有「病变」（甲胎蛋白呈阳性），于是我加快了写作的速度，下决心把这本书写成，也算是为自己立一个墓碑－－有幸复查时排除了病变，但写此书有很大的政治风险，如因此书而遭不测，也算是为理念而献身，自然也就成了自己的一个墓碑。当然，主要还是前三种意思。墓碑是凝固的记忆。人类的记忆是国家和民族赖以进步的阶梯，是人类航程前进的路标。我们不仅要记住美好，也要记住罪恶，不仅要记住光明，也要记住黑暗。极权制度下的当权者隐恶扬善，文过饰非，强制地抹去人们对人祸、对黑暗、对罪恶的记忆。因此，中国人常犯历史健忘症，这是权力强制造成的健忘症。我立的这块墓碑恰恰是让人们记住人祸、黑暗和罪恶，是为了今后远离人祸、黑暗和罪恶。&lt;/p&gt;</dc:description>
+        <dc:publisher>解放军出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506525268</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>我上传</dc:subject>
+        <meta content="{&quot;闫世奎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="24" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:50:56+00:00" name="calibre:timestamp"/>
+        <meta content="六十年代大练兵" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

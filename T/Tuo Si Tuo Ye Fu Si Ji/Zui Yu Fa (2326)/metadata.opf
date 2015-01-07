@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb1539ab-1dd7-496b-b04e-3c5c61c44aad</dc:identifier>
+        <dc:title>罪与罚</dc:title>
+        <dc:creator opf:file-as="陀思妥耶夫斯基" opf:role="aut">陀思妥耶夫斯基</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-09-30T16:00:00+00:00</dc:date>
+        <dc:description>本书是一部浸透着血和泪的社会悲剧，一部酣畅淋漓地剖析一个罪犯内心世界的心理小说，一部举世公认的、震撼灵魂的世界文学名著。　　小说是以刑事犯罪为题材的，写的是罪与罚。　　主人公——大学生拉斯柯尼科夫为贫困所迫，不得不中途辍学。他住在一间租来的、像个衣柜似的陋室里，整日像只猫似的躲着催租的女房东，靠母亲省下来的一点抚恤金和借债过日子。在走投无路的困境中，经过苦思冥想，他头脑中产生了一种“理论”。根据这一理论，世界上的人分为两类：一类是平凡的人，低等人，他们只是繁衍同类的材料，必须俯首帖耳地做奴隶；另一类是“非凡的人”，他们是统治者，不受法律和道德的约束，可以为所欲为，甚至可以随意杀人。为了从困厄中挣扎出来，为了不再连累母亲和妹妹，同时也是为了实践一下自己的“理论”，来检验自己到底是个和大家一样的“虱子”，还是一个“非凡的人”，他挺而走险，举起发抖的双手，用斧子砍死一个放高利贷的老太婆，抢走她的钱和首饰，继而为灭口又狠心杀死了她的妹妹。事情虽然干得不那么顺利，但由于种种巧合，他竟安全地逃离了现场。警方也始终没能找到确凿的证据，而且后来还出现了一个“替身”：嫌疑犯米柯尔卡向警方自首，“供认”是他杀死了老太婆。此时真正的凶手拉斯柯尼科夫几乎可以完全逃脱法律的惩罚了；然而，他却没能摆脱掉另一种更可怕的惩罚—道德与良心的惩罚，而且，这惩罚先于犯罪：自他萌生杀人念头的时刻起，他的内心便成了一个永不安宁的战场。人性与反人性、良知与他的“理论”几乎每时每刻都在进行着激烈的斗争。他为那“荒唐的”念头感到厌恶，不相信自己真会去做“那件事情”，直到行凶前的最后一刻他还在犹豫：“不如回去吧？”杀人后，他便陷人了痛苦的精神折磨之中。他得了热病，昏迷三天三夜，发高烧，做噩梦，动辄歇斯底里大发作；他开始厌烦世上的一切，甚至对自己的母多和妹妹也产生一种生理上的憎恶；他对什么都怀疑，却又神经质地一次次暴露自己，甚至下意识地再次去凶杀现场拉门铃，重温“当时那种又痛苦又可怕的丑恶感觉”。他的精神防线彻底崩溃了，他痛心地说：“难道我杀死了老太婆吗？我杀死了我自己，而不是老太婆！我一下子把自己毁了，永远地毁了！”在妓女索尼娅“爱”的感召下，他终于去自首了。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn|uuid|51037e82-03ff-11dd-9fbb-0018f369440e</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787020038879</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>陀思妥耶夫斯基</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>罪与罚</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>俄国</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;陀思妥耶夫斯基&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:26:37+00:00" name="calibre:timestamp"/>
+        <meta content="罪与罚" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

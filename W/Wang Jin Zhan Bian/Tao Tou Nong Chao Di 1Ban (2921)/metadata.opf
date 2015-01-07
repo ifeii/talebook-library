@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2921</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a64193a6-db36-4541-8df2-2699bd08f2e6</dc:identifier>
+        <dc:title>涛头弄潮第1班</dc:title>
+        <dc:creator opf:file-as="王金战编" opf:role="aut">王金战编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>这个班的学生是中学生中的佼佼者。他们志存高远，追求卓越；他们敢为人先，勇争第一；他们个性鲜明，特长突出；他们才华横溢，坚毅自信……毕业后有13人被保送到清华、北大，24人考入清华、北大，还有4人获得剑桥大学、牛津大学、耶鲁大学、杜克大学等世界名校的全额奖学金……
+　　不拘一格育英才
+　　——全国人大常委、原教育部部长助理、基础教育司司长 李连宁
+　　图其至远的成功尝试
+　　——中国人民大学党委书记 程天权
+　　对其他班来说，12班足具示范价值；对其他同学来说，12班的学生足具示范价值；对其他家长来说，12班的家长足具示范价值；对其他进行超常教育的学校来说，这个班及其老师、同学足具示范价值……
+　　——中国人民大学附属中学校长 刘彭芝</dc:description>
+        <dc:publisher>龙门书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801913456</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>buy</dc:subject>
+        <dc:subject>图书馆借书</dc:subject>
+        <dc:subject>王金战</dc:subject>
+        <meta content="{&quot;王金战编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:38:31+00:00" name="calibre:timestamp"/>
+        <meta content="涛头弄潮第1班" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

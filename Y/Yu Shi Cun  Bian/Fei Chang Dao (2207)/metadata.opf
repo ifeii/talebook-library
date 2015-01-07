@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce8c7f01-7441-48c8-8941-d0a805cc725a</dc:identifier>
+        <dc:title>非常道</dc:title>
+        <dc:creator opf:file-as="余世存 编" opf:role="aut">余世存 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>以类似《世说新语》的体裁，截取自晚清、民国而至解放后的历史片断，记录了以曾国藩、左宗棠、李鸿章为代表的同治重臣，以孙中山、袁世凯为代表的辛亥豪雄，以胡适、陈独秀为代表的新文化先锋，以毛泽东、蒋介石为代表的国共两党，以钱锺书、陈寅恪为代表的传统文人，以李敖、王小波为代表的文坛斗士，等等。分为：史景、政事、文林、武运、革命、问世、人论、英风、狂狷、等共三十二编。</dc:description>
+        <dc:publisher>社会科学文献出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801905758</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>余世存</dc:subject>
+        <dc:subject>语录</dc:subject>
+        <dc:subject>非常道</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>世说新语</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;余世存 编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:54+00:00" name="calibre:timestamp"/>
+        <meta content="非常道" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

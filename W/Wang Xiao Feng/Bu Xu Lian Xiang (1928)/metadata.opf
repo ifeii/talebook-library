@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1928</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce7bec44-9e8c-499a-aeaa-e9627a5c9f87</dc:identifier>
+        <dc:title>不许联想</dc:title>
+        <dc:creator opf:file-as="王小峰" opf:role="aut">王小峰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-30T16:00:00+00:00</dc:date>
+        <dc:description>这本书是作者近两年来在报刊杂志及其博客上发表的时评、娱评、随笔和段子的合集。时评、娱评调侃当下社会和娱乐圈各种奇闻怪事，幽默诙谐，泼辣尖锐；随笔书写生活小事，涂抹点滴情趣，勾画朋友面孔，同时不忘就身边诸事嬉笑怒骂，活脱脱一个“黑白无间”的王小峰；段子部分则模仿剧本编故事，是对时评部分集中而夸张的表现。
+作者对语言的运用颇有特点，常常通过“歪用”、“曲解”，使平常词句顿时趣味横生，具有了更多的意味。语言中的京味儿增添了阅读趣味，读者能从阅读中体会当下北京流行文化的特色。
+书中插图是“山羊胡”谢锋所画。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208061415</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>王小峰</dc:subject>
+        <dc:subject>不许联想</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>博客</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>三表</dc:subject>
+        <dc:subject>按摩乳</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;王小峰&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:00+00:00" name="calibre:timestamp"/>
+        <meta content="不许联想" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

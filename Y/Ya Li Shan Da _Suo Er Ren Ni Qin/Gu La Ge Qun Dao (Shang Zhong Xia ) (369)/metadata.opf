@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59bfd676-cde7-4bc3-94d5-76e9669d98d4</dc:identifier>
+        <dc:title>古拉格群岛（上中下）</dc:title>
+        <dc:creator opf:file-as="亚历山大·索尔仁尼琴" opf:role="aut">亚历山大·索尔仁尼琴</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-31T16:00:00+00:00</dc:date>
+        <dc:description>“献给没有生存下来的诸君，要叙述此事他们已无能为力。但愿他们原谅我，没有看到一切，没有想起一切，没有猜到一切。”
+1970年诺贝尔文学奖得主亚历山大・索尔仁尼琴的史诗般巨著《古拉格群岛》就是以这样沉痛的题辞开篇。1973年，索尔仁尼琴决定将这本书秘密送往西方发表，这成了苏联政治史研究的一个重要事件。可以说，苏联当局决定剥夺索尔仁尼琴的国籍，并将其强行驱逐到欧洲，与这本书的出版关系极大。
+这部长达140 万字的巨著，堪称苏联列宁和斯大林时期法制历史最精炼的描摹。所谓“古拉格”，即“劳动改造营管理总局”，原是苏联劳改制度的象征。作者将其比喻为“群岛”，意在指出这种制度已经渗透到苏联政治生活的每个领域，变成了苏联的“第二领土”。全书分监狱工业、永恒的运动、劳动消灭营、灵魂与铁丝网、苦役刑、流放、斯大林死后7部，既以“群岛居民”的经历为线索，又穿插了苏联劳改制度发展史中的大量资料，结构宏大，卷帙浩繁，充分显示了诺贝尔文学奖得主驾驭材料的能力。书中有激昂的控诉，愤怒的谴责，也有尖锐的嘲讽，深切的诉说，是深刻理解苏联政治体制重要的参考著作。</dc:description>
+        <dc:publisher>群众出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787501437870</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>索尔仁尼琴</dc:subject>
+        <dc:subject>苏联</dc:subject>
+        <dc:subject>古拉格群岛</dc:subject>
+        <dc:subject>红色恐怖</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>俄罗斯</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>社会主义</dc:subject>
+        <meta content="{&quot;亚历山大·索尔仁尼琴&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:14:14+00:00" name="calibre:timestamp"/>
+        <meta content="古拉格群岛（上中下）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d784e74-4e78-4cbb-a8b9-c392f558e4bc</dc:identifier>
+        <dc:title>未央歌</dc:title>
+        <dc:creator opf:file-as="鹿桥" opf:role="aut">鹿桥</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-30T16:00:00+00:00</dc:date>
+        <dc:description>小说以抗战时期的国立西南联合大学和昆明的风光民俗为小说背景，故事的主角是一群天真年轻的大学生，伍宝笙、余孟勤、蔺燕梅、童孝贤 ……在烽火连天的岁月里，在平静纯洁的象牙塔内，他们彼此引为至友、畏友，有爱有怨、有笑有泪，并交织发展出一段属于青春和校园的爱情故事。除这四大主角，作者还写了一群大学生和他们的老师。书中关于友谊的描述、爱情的铺陈以及对校园精神的探讨，表现了一代年轻学子对真善美的追求与积极乐观的生命态度。</dc:description>
+        <dc:publisher>黄山书社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807078173</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>未央歌</dc:subject>
+        <dc:subject>鹿桥</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>西南联大</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>颠沛流离时代的阅读</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;鹿桥&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="73" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:39+00:00" name="calibre:timestamp"/>
+        <meta content="未央歌" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

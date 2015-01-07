@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01a84861-7a7c-4304-ba57-b92b29b9d3ba</dc:identifier>
+        <dc:title>第一次亲密接触</dc:title>
+        <dc:creator opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T16:00:00+00:00</dc:date>
+        <dc:description>两个同室好友，阿泰风流倜傥，特招女孩喜爱，却马失前蹄；痞子蔡腼腆内向，没月女孩青睐，但一次无意的点击，枯萎的生命，因他而起舞；一次青春的交汇，年轻的心灵，因她而飞扬。那是一种触电的感觉，那是一份伤感的口味……</dc:description>
+        <dc:publisher>四川文艺音像出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787885811419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>蔡子痞</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>网络文学</dc:subject>
+        <dc:subject>第一次亲密接触</dc:subject>
+        <dc:subject>痞子蔡</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>蔡智恒</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:11+00:00" name="calibre:timestamp"/>
+        <meta content="第一次亲密接触" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

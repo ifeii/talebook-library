@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c465b7f-0214-4667-93e9-e8935e15dec2</dc:identifier>
+        <dc:title>莫言文集</dc:title>
+        <dc:creator opf:file-as="莫言" opf:role="aut">莫言</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《莫言文集》莫言文集包含二十部莫言经典著作。
+“2011年8月20日，莫言小说《蛙》获得第八届茅盾文学奖。小说由剧作家蝌蚪写给日本作家杉谷义人的四封长信和一部话剧构成，以新中国近60年波澜起伏的农村生育史为背景，通过讲述从事妇产科工作50多年的乡村女医生姑姑的人生经历，讲述了姑姑——一个乡村妇产科医生的人生经历，在用生动感人的细节展示乡土中国六十年波澜起伏的生育史的同时，毫不留情地剖析了当代知识分子卑微的灵魂。在形象描述国家为了控制人口剧烈增长、实施计划生育国策所走过的艰巨而复杂的历史过程的同时，成功塑造了一个生动鲜明、感人至深的农村妇科医生形象。
+《蛙》是莫言酝酿十余年、笔耕四载、三易其稿、潜心打造的一部触及国人灵魂最痛处的长篇力作。
+《四十一炮》以九十年代初农村改革为背景，通过一个孩子的视角折射出了农村改革初期两种势力、两种观念的激烈冲突，以人性的裂变，人们在是非标准、伦理道德上的混沌和迷惘。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">43458b0b-645e-4187-b23a-4c62dc8cf249</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787506366854</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>莫言</dc:subject>
+        <dc:subject>文集</dc:subject>
+        <dc:subject>#####全/文/选集（中）</dc:subject>
+        <dc:subject>gh</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>丰乳肥臀</dc:subject>
+        <dc:subject>大陆现当代文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;莫言&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:27:47+00:00" name="calibre:timestamp"/>
+        <meta content="莫言文集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

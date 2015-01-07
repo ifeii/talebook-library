@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">173a0623-6aed-41a7-ac20-1dc72a2f3dc3</dc:identifier>
+        <dc:title>欢迎大家收看</dc:title>
+        <dc:creator opf:file-as="王伟忠" opf:role="aut">王伟忠</dc:creator>
+        <dc:creator opf:file-as="王伟忠" opf:role="aut">王偉忠</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-23T01:20:30+00:00</dc:date>
+        <dc:description>一个从眷村出来的穷孩子，他的起跑点不比别人强，却不到三十岁就成了知名制作人，而在起起伏伏的电视圈，他一再为观众创造惊喜，创意源源不绝。从“连环泡”、“周末派”、“全民乱讲”、“我猜我猜我猜猜猜”、“全民大闷锅”、“康熙来了”、“超级星光大道”……王伟忠彷佛能透视大众的心，制作出脍炙人口的节目。
+但是，他也不是一开始就这麽厉害的。他曾经熬夜写剧本，曾经每个想法都被骂“烂点子”，曾经被开除过，曾经怀疑自己能做什麽……，甚至成名之後，他还“一直很担心有朝一日没有新点子，这个“我”就挂了！”
+人生中，低潮总难免，而王伟忠却能把低潮化为创意的养分。“眷村记忆”是他的创意起点。如今眷村逐渐消逝，而记忆犹似活化石，抚索着活化石的轨迹，在老把戏与新创意之间，王伟忠总有说不完的故事。
+在眷村里，什麽都有限，空间有限、物资有限……唯一无限的是温暖的人情与开放的心胸。眷村长大的王伟忠，学会不把限制当成“阻碍”，只简单的视为“人生”，拥抱这有限的一切。他平静看待老天爷给的剧本，透彻世事人情，随手拈来都是创意，用自由自在的心灵，演出绝妙好戏。
+不论你从事什麽样的工作，是创意也好，是行政也好；不论你拿到什麽样的人生剧本，喜欢也好，讨厌也好，千万不要把过程中的低潮“珍藏”起来喔，那可是会变成“宿便”的。如果你正为“宿便”所苦，不妨暂且放轻松，来看别人怎麽演出好戏。
+这是老天爷编剧，王伟忠制作演出的好戏，欢迎大家收看。</dc:description>
+        <dc:publisher>安徽人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787212032401</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>王伟忠</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>台湾综艺</dc:subject>
+        <dc:subject>综艺</dc:subject>
+        <dc:subject>电视</dc:subject>
+        <dc:subject>台湾电视</dc:subject>
+        <dc:subject>欢迎大家收看</dc:subject>
+        <meta content="{&quot;王伟忠&quot;: &quot;&quot;, &quot;王偉忠&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:02+00:00" name="calibre:timestamp"/>
+        <meta content="欢迎大家收看" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

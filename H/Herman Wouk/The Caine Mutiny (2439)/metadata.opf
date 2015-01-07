@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2268390-224e-475a-bfb6-c2a264f31874</dc:identifier>
+        <dc:title>The Caine Mutiny</dc:title>
+        <dc:creator opf:file-as="Herman Wouk" opf:role="aut">Herman Wouk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-03-31T16:00:00+00:00</dc:date>
+        <dc:description>The Novel that Inspired the Now-Classic Film The Caine Mutiny and the Hit Broadway Play The Caine Mutiny Court-Martial Herman Wouk's boldly dramatic, brilliantly entertaining novel of life-and mutiny-on a Navy warship in the Pacific theater was immediately embraced, upon its original publication in 1951, as one of the first serious works of American fiction to grapple with the moral complexities and the human consequences of World War II. In the intervening half century, The Caine Mutiny has become a perennial favorite of readers young and old, has sold millions of copies throughout the world, and has achieved the status of a modern classic.</dc:description>
+        <dc:publisher>Back Bay Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316955102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Herman_Wouk</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <meta content="{&quot;Herman Wouk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:29:02+00:00" name="calibre:timestamp"/>
+        <meta content="Caine Mutiny, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

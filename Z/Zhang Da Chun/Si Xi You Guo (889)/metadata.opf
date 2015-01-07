@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">134004a4-5fd0-4c5c-9916-b7b10d29c3e0</dc:identifier>
+        <dc:title>四喜憂國</dc:title>
+        <dc:creator opf:file-as="张大春" opf:role="aut">张大春</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-12T16:00:00+00:00</dc:date>
+        <dc:description>★本書榮獲亞洲週刊「二十世紀中文小說一百強」★
+《四喜憂國》榮獲亞洲週刊「二十世紀華文小說100強」。〈四喜憂國〉於一九八七年發表後，被譽為張大春「黑色幽默」的代表作。故事中的主人公朱四喜，他是一位極為愛國，但身份渺小、知識不多、且生活艱難的退伍軍人，他的心願只是寫一篇「告全國同胞書」，藉以喚醒國民謹記要提防共產黨、反攻大陸。而他這個憂國憂民的心，正好與文中那個「越來越糟的世界」形成強烈對照。
+目無餘子的寫作姿態、耍痞嘲弄的敘事風格，當八O年代台北開始跟上國際都會節奏之際，二十出頭的張大春憑著舊學根柢與對都會新氣息的敏銳，寫出一篇又一篇擒盡國內文學大獎、卻又時髦的小說。預示了張大春即將引領風騷的文壇角色。
+鮮明的敘事風格背後有著對寫實傳統的不斷思索、這使得張大春的作品與時代脈動強烈合拍，此外他既能學舌馬奎茲、又能戲仿司馬中原狂風沙，以戲弄的筆法演義人世荒謬、站在流行的端頭吟哦古文歷史，加以他創作量豐沛、雜學古今中西可以說是現當代最能寫的台灣作家。英美日及大陸等地的出版社這兩年也都即將(英美已經出版)出版這位台灣極具有代表性作家的作品。
+八O年代以來，評家、讀者們跟著張大春走過&lt;將軍碑&gt;、&lt;四喜憂國&gt;的早期驚艷，經歷過令成人少年都捧讀傳誦的大頭春風光、一路到他緊追新聞、以文字顛覆政治的新聞寫作系列、為武俠開創新局的五十七萬字鉅作《城邦暴力團》，甚至是令學界矚目的創作者文論《小說稗類》，張大春堅持專業寫作的姿態，對台灣文壇起著現今仍難以估量的影響力。
+「最初的張大春三本經典選集」，囊括了他初期成名代表作：時報文學獎五位評審一致高票推崇的&lt;將軍碑&gt;、憂國的外省榮民寫下「告全國軍民同胞書」的&lt;四喜憂國 &gt;、科幻小說首獎的&lt;傷逝者&gt;、令人不禁玩起解讀遊戲的&lt;公寓導遊&gt;……等等，一篇篇熱鬧又有門道的短篇作品。此外休息了近兩年的張大春，還為這套書寫了短篇小說&lt;最初&gt;代序，今年閱讀張大春當然要從「最初」三本經典選集系列開始。</dc:description>
+        <dc:publisher>時報文化出版企業股份有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789571336855</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>张大春</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>張大春</dc:subject>
+        <dc:subject>台灣文學</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>台灣</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;张大春&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="90" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:16+00:00" name="calibre:timestamp"/>
+        <meta content="四喜憂國" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

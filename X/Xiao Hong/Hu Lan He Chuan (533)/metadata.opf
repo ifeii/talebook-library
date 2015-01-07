@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5e19239-7f8f-4e3b-835a-3e9eba2a21fe</dc:identifier>
+        <dc:title>呼兰河传</dc:title>
+        <dc:creator opf:file-as="萧红" opf:role="aut">萧红</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>萧红，中国现代著名女作家。1911年6月2日生于黑龙江呼兰县，1942年1月22日病殁香港。原名张迺莹，笔名萧红、悄吟等。幼年丧母，父亲性格暴戾，她只有从年迈的祖父那里享受到些许人间温暖，寂寞的童年形成了萧红性格中孤独、敏感、矜持而又倔强的一面。
+1927年到哈尔滨读中学，接触了五四以来的进步思想和中外文学，对绘画和文学产生了浓厚兴趣。由于对封建家庭和包办婚姻不满，1930年秋离家出走，几经颠沛流离。1932年秋与萧军同居，结识了一些进步文化人，1933年开始文学创作，同年10月与萧军自费出版了第一本作品合集《跋涉》。萧红的早期创作多取材于城市失业者或贫苦农民生活，被认为带有鲜明的现实主义的进步倾向。1934年春“两萧”取道大连流亡至青岛，萧红在很短的时间内完成了中篇小说《生死场》。同年11月“两萧”到达上海。在鲁迅的支持和帮助下，1935年12月《生死场》被列为“奴隶丛书”之三出版，鲁迅为之作序，称赞其所描写的：“北方人民的对于生的坚强，对于死的挣扎，却往往已经力透纸背；女性作者的细致的观察和越轨的笔致，又增加了不少明丽和新鲜。”它以沦陷前后的东北农村为背景，真实地反映了农民尤其是农村底层妇女的艰难生存状况，描述了他们的觉醒与抗争。《生死场》使萧红在30年代文坛上崭露头角。这一时期萧红还写作了大量的短篇小说与散文，并结集出版了《商市街》、《桥》等作品集。
+1936年7月，为摆脱精神上的苦闷，萧红只身东渡日本，同年年末返回上海。抗战爆发后即辗转汉口、临汾、西安、重庆等地。1938年8月与萧军离异，与端木蕻良结合。此年被视为萧红创作前后两期的分界。1940年春与端木同抵香港。此时的中篇小说《马伯乐》以犀利的笔锋表现了幽默和讽刺才能；具有独特艺术风格的长篇小说《呼兰河传》则被茅盾称为是“一篇叙事诗，一幅多彩的风土画，一串凄婉的歌谣”。同时，它又表达了对国民团体盲目、愚昧、麻木、残忍等等劣根性的忧愤和悲悯，被越来越多的后人认为是继鲁迅之后对国民心态的开掘和批判的力作。这一时期萧红的创作在艺术上日趋成熟和辉煌，然而她的病体却日渐不支，太平洋战争爆发后在战火纷飞中被病魔夺去了生命，年仅31岁。
+在短短的8年创作生涯中，萧红留下了60万字的文学财富，她的作品乡土气息浓烈，叙事风格细腻深刻、委婉动人，尤其是在小说文体上作出了很大的创新。海内外许多文学批评家认为，萧红以自己的女性之躯跋涉过漫长的道路，以女性的目光一次次透视历史，终于站到了与鲁迅同一的高度，达到了同一种对历史、文明以及国民灵魂的了悟。</dc:description>
+        <dc:publisher>百花文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530640470</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>萧红</dc:subject>
+        <dc:subject>呼兰河传</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>现代文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>女性文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;萧红&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:03+00:00" name="calibre:timestamp"/>
+        <meta content="呼兰河传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

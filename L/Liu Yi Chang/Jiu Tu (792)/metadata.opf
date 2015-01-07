@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8d8346b-5cec-49b9-8306-d7b28dca4a12</dc:identifier>
+        <dc:title>酒徒</dc:title>
+        <dc:creator opf:file-as="劉以鬯" opf:role="aut">劉以鬯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-05T16:00:00+00:00</dc:date>
+        <dc:description>《酒徒》名列 世紀百強 第 72。作者劉以鬯，原名劉同繹，1918 年 12 月出生，浙江鎮海人。1941 年在上海聖約翰大學畢業，曾經在重慶、上海、新加坡、馬來西亞和香港等地任報章和雜誌編輯。1948 年來香港，一直從事報章雜誌編輯工作，1985 年 1 月至 2000 年 6 月任《香港文學》月刊總編輯。1994 年為香港臨時市政局「作家留駐計劃」第一任作家，編寫《香港文學作家傳略》。2001 年 7 月獲香港特區政府頒發榮譽勳章，表彰他在中文寫作的成就，以及對香港文學事業發展的貢獻。現為香港作家聯會會長及康樂文化事務署文學藝術顧問。劉以鬯於 1936 年開始發表作品，著作繁多，重要作品有《酒徒》、《寺內》、《一九九七》、《春雨》、《島與半島》、《劉以鬯中篇小說選》、《對倒》等，其中《劉以鬯中篇小說選》為第四屆香港中文文學雙年獎小說組獲獎作品。
+
+《酒徒》更被譽為中國第一部意識流小說。雖然是一部實驗性很強的小說，展卷細讀，在鮮明的現代感中，也散發著濃厚的香港本土氣息。作品寫於 1962 年，以六十年代香港的社會狀況為背景，特別關注文化人的際遇。這時期的香港，經濟仍未穩定，文化人的地位也很低微。整部作品貫串了香港這個無根、勢利、金錢掛帥的資本主義城市中，人與人之間種種矛盾，知識分子的內心衝突，以及由物質主義、道德敗壞等等交織而成的社會情態。</dc:description>
+        <dc:publisher>獲益出版</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789624494358</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>劉以鬯</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>意识流</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港文學</dc:subject>
+        <dc:subject>刘以鬯</dc:subject>
+        <dc:subject>香港文学</dc:subject>
+        <meta content="{&quot;劉以鬯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="72" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:58+00:00" name="calibre:timestamp"/>
+        <meta content="酒徒" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

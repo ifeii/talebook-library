@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4dc5b7c-f275-4d82-9db4-8aabb7e3b8f0</dc:identifier>
+        <dc:title>全球新舞台</dc:title>
+        <dc:creator opf:file-as="Kenichi Ohmae" opf:role="aut">Kenichi Ohmae</dc:creator>
+        <dc:creator opf:file-as="Kenichi Ohmae" opf:role="aut">大前研一</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-05T05:12:17+00:00</dc:date>
+        <dc:description>不愧是1980年代就预言全球化经济出现的高人，大前研一的《全球新舞台》并没有重复全球市场已经出现的老调调，而是在此基础上引领你深入理解新经济的模式。这本书今天下午刚过买来，所读的两章内容（“经济学的终结”和“挣脱锁链”）已经让我分外兴奋了，相信这本书的其余部分也会让我的兴奋延续。想找到理解今日世界经济的钥匙的读者，尤其是赶到传统经济学已经遇到解释力局限的读者，应该会非常喜欢这本书。这书甚至告诉你如何选择股票，具体的就不透露了，自己去看吧。</dc:description>
+        <dc:publisher>中国人民大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787300077673</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>大前研一</dc:subject>
+        <dc:subject>全球化</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>战略</dc:subject>
+        <dc:subject>知识经济</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>大前沿一</dc:subject>
+        <meta content="{&quot;大前研一&quot;: &quot;&quot;, &quot;Kenichi Ohmae&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:39:12+00:00" name="calibre:timestamp"/>
+        <meta content="全球新舞台" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

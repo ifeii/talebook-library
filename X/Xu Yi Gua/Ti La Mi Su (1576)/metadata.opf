@@ -6,17 +6,27 @@
         <dc:title>提拉米酥</dc:title>
         <dc:creator opf:file-as="须一瓜" opf:role="aut">须一瓜</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-02-01T16:00:00+00:00</dc:date>
-        <dc:description>中短篇小说~</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2007-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《提拉米酥:须一瓜中短篇小说》特别的语言美感，赋予这部作品集迷人的艺术感染力。好的小说一如好的小说家，是古怪的天使，是上帝的格外恩赐！27年前一次对生命的最高礼赞成为弱智名剪师阿丹遥远不变的记忆，《在水仙花心起舞》中，年年活在他枕边的五棵水仙花，是叠印在岁月流逝里五个妙曼身影永远的生命美丽。《穿过欲望的洒水车》以和欢的丈夫意外遭遇车祸的悲剧直叩精神通道的堵塞，完成对社会道德冷漠的批判。《提拉米酥》在意大利甜点的浪漫陶醉里，出其不意地洞悉了人性的曲折幽微、《淡绿色的月亮》由一场入室抢劫案，引发出深缠于红缎绳的女主人公芥于对道德和爱情耐人寻味的追问《老的人，黑的狗》将人性善恶的严酷拷问绘在夕阳红霞中，镌刻在高险的山崖上，憾人心魄。《第三棵树是和平》，女律师戴诺的杀夫案辩护失败，却因伸张正义所承担的精神使命，在暴力故事的悲凉中加入了祈盼和平的义愤强音。带有明显荒诞性的《城市亲人》是对现代。人类困境的绝妙刻画，充盈着独特的现代阅读魅力。《鸽子飞翔在眼睛深处》讲述了一个老革命与两个小偷的奇特故事，犹如两极的相遇，碰撞的结果不但超越了彼此的颠覆，更具有拯救的深刻寓意。
+故事的“好看”，对丰富人性细腻传神的描述。</dc:description>
+        <dc:publisher>北京航空航天大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787811240887</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>现代·当代</dc:subject>
+        <dc:subject>须一瓜</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>当代</dc:subject>
+        <dc:subject>小说集</dc:subject>
         <meta content="{&quot;须一瓜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:01:53.439578+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:56+00:00" name="calibre:timestamp"/>
         <meta content="提拉米酥" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

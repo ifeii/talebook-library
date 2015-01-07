@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">899422c9-8e34-4a7d-af9c-efdcfd7e9137</dc:identifier>
+        <dc:title>亞細亞的孤兒</dc:title>
+        <dc:creator opf:file-as="吳濁流" opf:role="aut">吳濁流</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-11T16:00:00+00:00</dc:date>
+        <dc:description>《亞細亞的孤兒》這本長篇小說，被公認為台灣文學的代表作。它使我們重新對這個島嶼上所發生的人類紀錄，再做了一次檢討。
+吳濁流運用純樸生動的筆法，以小說體裁描述台灣日據時期一段辛酸的史實，寫出他在「祖國」來臨之後，思想上和精神上的變化。村上知行曾評論這本書說：「《亞細亞的孤兒》是在日本據台時期，生於台灣、長於斯土的台灣人所描寫的紀錄性濃厚的創作。世界上沒有所謂台灣人，假如有的話，那是住在深山裏的番社的人吧。普通被稱為台灣人的，實在完完全全是中國人。……事實雖如此，可是當時，不但日本人，連中國方面也稱他們為台灣人，而加以歧視。這篇是在此時此地的台灣青年所述的自傳式小說……。」
+讀完這本書，使人對於統治者的猙獰面目，以及處於殖民地人民的痛苦情形，獲得更深切地了解。</dc:description>
+        <dc:publisher>遠景</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573901419</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>吴浊流</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>亚细亚的孤儿</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>现代文学</dc:subject>
+        <dc:subject>台灣</dc:subject>
+        <meta content="{&quot;吳濁流&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:18+00:00" name="calibre:timestamp"/>
+        <meta content="亞細亞的孤兒" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

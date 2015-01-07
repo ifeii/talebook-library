@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ae5c891-3f49-4546-a105-b64fc8cb9b0f</dc:identifier>
+        <dc:title>大众传播心理研究</dc:title>
+        <dc:creator opf:file-as="刘晓红" opf:role="aut">刘晓红</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《大众传播心理研究》系统分析介绍了国内外关于大众传播对人的影响的研究。内容包括：（1）社会真实是在何种因素和机制的作用下被描述为媒介中所描述的样子即媒真实，媒介真实和社会真实有什么主要的差别。（2）媒介信息处理过程、态度改变过程和行为改变过程的研究。（3）媒介内容对人的影响的结果，包括媒介内容对人的认知的影响，媒介暴力内容对人的影响，媒介中的刻板印象研究，媒介对青少年的影响等。 另外，本书还系统探讨了心理学和大众传播研究的关系。包括心理学在传播研究中地位的演变，心理学在传播研究中的作用，传播心理学这一类研究的特征、性质、问题的范围，以及与其他相关学科的关系等。</dc:description>
+        <dc:publisher>中国广播电视出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787504336521</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ba00862a-1e1b-4af9-bafc-452f9194dd6c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>大众传播</dc:subject>
+        <dc:subject>传播心理学</dc:subject>
+        <dc:subject>传播学</dc:subject>
+        <dc:subject>受众</dc:subject>
+        <dc:subject>社会心理学</dc:subject>
+        <dc:subject>社会学、文化学、美学</dc:subject>
+        <meta content="{&quot;刘晓红&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:24:54+00:00" name="calibre:timestamp"/>
+        <meta content="大众传播心理研究" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

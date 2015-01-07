@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83f89957-97fa-4314-acbe-576946b45162</dc:identifier>
+        <dc:title>德川家康（第二部）</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《德川家康2：崛起三河》讲述了从德川家康出生前夕，交代日本战国风云，浓笔淡抹，或轻或重，写家康成人，统兵，成军，崛起三河，统领关东，最终统一日本，建立真正意义上的国家，最终写到盖世英雄逝世，洋洋洒洒，或令人大喜大悲，或令人拍案叫绝，或令人唏嘘欲泪，或令人掩卷沉……巨著叙述家康铁血纵横一生，铁马金戈与运筹帷幄，战阵兵刀与闺闱秘闻，自然甚是详细，其中不免添加了诸多花絮，多为作者为了增加阅读趣味，些有发挥，但在书写桶狭间之役、三方原之战、长筱合战、本能寺之变、小牧?长久手之役等实际事实与大是大非者，却无丝毫歪曲历史，尤其是被日本称为“千年一役”的关原合战，更是将其来龙去脉娓娓道来，人物刻画入木三分，合战经过一清二楚，不失为一部优秀的演义型历史巨作。
+本书书写百年日本战国乱世：战场与后帏交错，正邪与善恶纵横；或缠绵悱恻于儿女情长，或慷慨悲歌以武士壮烈；用兵以诡道，驭人以心道，治世以王道，治乱以霸道；要紧处动人心魄，动情处肠断魂伤；前后勾连，彼此呼应，有伏笔，有隐语，有难言之隐，有纸背之力，有艰难曲折人世之艰，有浩浩荡荡天道之气……如柏杨先生言：中文图书，唯《三国演义》、《资治通鉴》可与之媲美。一言以蔽之：史家笔法，大家风范。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238168</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <meta content="{&quot;山冈庄八&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:00+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第二部）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

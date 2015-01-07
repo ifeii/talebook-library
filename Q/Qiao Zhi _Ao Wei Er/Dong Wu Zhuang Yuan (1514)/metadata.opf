@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86d7b93e-0ea9-45c7-af98-695aca9a6d27</dc:identifier>
+        <dc:title>动物庄园</dc:title>
+        <dc:creator opf:file-as="乔治·奥威尔" opf:role="aut">乔治·奥威尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-07-31T16:00:00+00:00</dc:date>
+        <dc:description>用动物对人类抗争后自建家园来再现前苏联的整个历史情形，奥威尔的《动物庄园》被公认为二十世纪最杰出的政治寓言。《动物庄园》被译成二十多种文字在全世界流传，其中的有些语言还变成了人们的口头禅，和《1984》并称为乔治・奥威尔最重要的代表作。此版本收有小说的英文原文。
+本书以隐喻的形式写革命的发生以及革命的背叛，自然还有革命的残酷：一个农庄的动物不堪主人的压迫，在猪的带领下起来反抗，赶走了农庄主；它们建立起一个自己管理自已的家园，奉行“所有动物一律平等”的原则；两只领头的猪为了权力而互相倾轧，胜利者一方宣布另一方是叛徒、内奸；猪们逐渐侵占了其他动物的劳动成果，成为新的特权阶级；动物们稍有不满，便招致血腥的清洗；统治者需要迫使猪与人结成同盟，建立起独裁专制；农庄的理想被修正为“有的动物较之其他动物更为平等”，动物们又回复到从前的悲惨状况。明眼的读者自可看出，此书不属于人们所熟悉的那种蕴含教训的传统寓言，而是对现代政治神话的一种寓言式解构。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208004252</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>乔治·奥威尔</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>反乌托邦</dc:subject>
+        <dc:subject>政治寓言</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>寓言</dc:subject>
+        <meta content="{&quot;乔治·奥威尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:55+00:00" name="calibre:timestamp"/>
+        <meta content="动物庄园" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

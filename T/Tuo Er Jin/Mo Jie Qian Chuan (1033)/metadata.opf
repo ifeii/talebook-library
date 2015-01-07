@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d2f3ae8-0595-436a-8711-fedb6fbca94a</dc:identifier>
+        <dc:title>魔戒前傳</dc:title>
+        <dc:creator opf:file-as="托爾金" opf:role="aut">托爾金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-19T16:00:00+00:00</dc:date>
+        <dc:description>作者托爾金以融合童話與傳奇小說的手法描述，呈現出豐富的想像力、華麗而詭譎的壯麗場景。主角比爾博被巫師甘道夫挑上，激發出他冒險的慾望，與十三個矮人組成探險隊，前往有一條惡龍守護的孤山，展開了尋寶之旅。途中雖然經歷了各種危險，但也結識了許多不同種族的友人，比爾博更因緣際會地得到了一枚魔戒。探險隊最後斬殺惡龍，矮人們佔據了寶山，並與人類為了寶藏開戰</dc:description>
+        <dc:publisher>聯經出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570823349</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>魔戒</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>托尔金</dc:subject>
+        <dc:subject>J.R.R.Tolkien</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>魔幻</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>朱学恒</dc:subject>
+        <meta content="{&quot;托爾金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="魔戒" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:36+00:00" name="calibre:timestamp"/>
+        <meta content="魔戒前傳" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6001f444-b36f-413d-97f1-9f709c7537f3</dc:identifier>
+        <dc:title>好妈妈胜过好老师</dc:title>
+        <dc:creator opf:file-as="尹建莉" opf:role="aut">尹建莉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是近年来难得一见的优秀的家庭教育原创作品，是教育专家尹建莉的教子手记，是一本还未上市就以“手抄本”流传的图书。
+相比许多家教图书，这本书有以下特点：
+第一，本书首次提出一些令人耳目一新的家庭教育原则，使父母在教育孩子的时候有章可循。
+第二，书中给出许多简单而又实用的操作办法，理论和实践完美结合。使父母们不仅立刻获得许多有效的经验，教育意识也随之改善。它是实事求是谈家教的典范，是家长们最实用的工具书。
+第三，本书不但告诉你怎么能提高孩子成绩，而且告诉你怎么教孩子做人，教你怎么培养一个自觉、自强、自立的孩子。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506345040</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>育儿</dc:subject>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>家庭教育</dc:subject>
+        <dc:subject>好妈妈胜过好老师</dc:subject>
+        <dc:subject>儿童教育</dc:subject>
+        <dc:subject>亲子</dc:subject>
+        <dc:subject>幼儿教育</dc:subject>
+        <dc:subject>家庭</dc:subject>
+        <meta content="{&quot;尹建莉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="儿童·教育" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:58+00:00" name="calibre:timestamp"/>
+        <meta content="好妈妈胜过好老师" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

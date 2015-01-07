@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aa84840-2f62-437e-b426-a1a140dfe1f8</dc:identifier>
+        <dc:title>尚书正义</dc:title>
+        <dc:creator opf:file-as="孔安国 传" opf:role="aut">孔安国 传</dc:creator>
+        <dc:creator opf:file-as="孔安国 传" opf:role="aut">[唐]孔颖达 正义</dc:creator>
+        <dc:creator opf:file-as="孔安国 传" opf:role="aut">黄怀信整理</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-04T16:00:00+00:00</dc:date>
+        <dc:description>《尚书》是中国有史以来最早的一部历史文献汇编，保存了尧、舜以来经夏、商至各代不少珍贵史料。由于经秦火之劫，它在传承过程中有缺佚，并出现了多种版本，有所谓今古文真伪之辨。
+校点前言
+尚书正义序
+卷第一
+尚书序
+卷第二
+虞书
+卷第三
+卷第四
+卷第五
+卷第六
+夏书
+卷第七
+卷第八
+商书
+卷第九
+卷第十
+周书
+卷第十一
+卷第十二
+卷第十三
+卷第十四
+卷第十五
+卷第十六
+卷第十七
+卷第十八
+卷第十九
+卷第二十
+附录
+上五经正义表
+请雕五经正义表
+六经疏义跋
+四库全书总目尚书正义提要
+尚书注疏校勘记序</dc:description>
+        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532544769</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>尚书</dc:subject>
+        <dc:subject>十三經註疏</dc:subject>
+        <dc:subject>经学</dc:subject>
+        <dc:subject>經學</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>经部</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>儒家</dc:subject>
+        <meta content="{&quot;黄怀信整理&quot;: &quot;&quot;, &quot;[唐]孔颖达 正义&quot;: &quot;&quot;, &quot;孔安国 传&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:39+00:00" name="calibre:timestamp"/>
+        <meta content="尚书正义" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

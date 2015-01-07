@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc4a63a0-4ad2-4e42-8324-75cbdf1ca36e</dc:identifier>
+        <dc:title>承欢记</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-12-31T16:00:00+00:00</dc:date>
+        <dc:description>下午七時，亞熱帶的夏季天空還未完全暗下來，這正是所有人歸隊回家的時候，麥承歡下了車一抬頭，只見整座屋燈光已亮起一半，那幢廉租屋看上去猶如掛滿珠寶纓絡的寶塔。
+她從來沒有第二個家，她在此出生、在此長大，一直沒有離開過。
+承歡與父母及一個弟弟同住，麥宅面積雖小，設備還算周全，最幸運之處是窗口面對南中國海，天氣好的時候，藍天碧海，一望無際。
+初搬進來，許多親友都訝異了，「廉租屋竟有此美景，真是政府的德政。」
+這政府的德政還不止如此，承歡自小學讀到大學，從來未付過一毛錢學費，全免，畢業後，名正言順考進政府機關做事，回饋社會。
+麥承歡的世界愉快、健康、樂觀，她沒有機會接觸到這個都會成長期的陰暗面，她只享受到它健全成熟的制度。
+她代表幸運的一代。
+今日與往日一樣，她從辦公室回家，剛好來得及吃母親煮的可口家庭菜。
+在電梯中她已碰到相熟的鄰居，像麥家一樣，他們也在此地住了好幾十年。</dc:description>
+        <dc:publisher>天地图书</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">82418ff0-bc6b-4a81-9ba2-045bf1dec63b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789622573697</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>承欢记</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:41+00:00" name="calibre:timestamp"/>
+        <meta content="承欢记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

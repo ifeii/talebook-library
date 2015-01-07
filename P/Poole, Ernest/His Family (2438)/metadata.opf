@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf87b32a-53d5-4df6-8f80-3f9945a565ce</dc:identifier>
+        <dc:title>His Family</dc:title>
+        <dc:creator opf:file-as="Poole, Ernest" opf:role="aut">Poole, Ernest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-12T13:00:00+00:00</dc:date>
+        <dc:description>1916. Poole worked as a journalist campaigning for social reforms including an end to child labor. On the outbreak of the First World War he worked as a war correspondent for The Saturday Evening Post. His Family won the first Pulitzer Prize for fiction in 1918. His Family, a portrait of a New York family, begins: He was thinking of the town he had known. Not of old New York-he had heard of that from old, old men when he himself had still been young and had smiled at their garrulity. He was thinking of a young New York, the mighty throbbing city to which he had come long ago as a lad from the New Hampshire mountains. A place of turbulent thoroughfares, of shouting drivers, hurrying crowds, the crack of whips and the clatter of wheels; an uproarious, thrilling town of enterprise, adventure, youth; a city of pulsing energies, the center of a boundless land; a port of commerce with all the world, of stately ships with snowy sails; a fascinating pleasure town, with throngs of eager travelers hurrying from the ferryboats and rolling off in hansom cabs to the huge hotels on Madison Square. See other titles by this author available from Kessinger Publishing.</dc:description>
+        <dc:publisher>Kessinger Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781417939114</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Poole, Ernest&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:29:01+00:00" name="calibre:timestamp"/>
+        <meta content="His Family" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

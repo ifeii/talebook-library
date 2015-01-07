@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f75b787e-b88d-4c77-a703-43fb9843a9ab</dc:identifier>
+        <dc:title>马未都说收藏·陶瓷篇（上）</dc:title>
+        <dc:creator opf:file-as="马未都" opf:role="aut">马未都</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>全书共12讲，12万字，200幅图左右，四色印刷。
+目    录
+第一讲  陶瓷文明  曙光初现——陶器诞生
+第二讲  变土为金  独步天下——早期瓷器
+第三讲  寥若晨星  珍如拱璧——汝窑
+第四讲  高山仰止  卓越千古——官窑 哥窑
+第五讲  云蒸霞蔚  如冰类雪——钧窑 定窑
+第六讲  和光同尘  分外妖娆——宋代北方民窑
+第七讲  仪态万方  分庭抗礼——宋代南方民窑
+第八讲  马背驰骋  独树一帜——辽、金、西夏、元瓷器
+第九讲  一统江山  君临天下——元青花
+第十讲  苏麻离青  深入胎骨——明早期青花
+第十一讲  各领风骚  谋求变化——明中期青花
+第十二讲  火光炸天  四时雷电——明晚期青花</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101061079</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>马未都</dc:subject>
+        <dc:subject>收藏</dc:subject>
+        <dc:subject>陶瓷</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>百家讲坛</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;马未都&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:28+00:00" name="calibre:timestamp"/>
+        <meta content="马未都说收藏·陶瓷篇（上）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55bf4b3e-8aec-4caf-ad93-5448222045ef</dc:identifier>
+        <dc:title>书读完了</dc:title>
+        <dc:creator opf:file-as="金克木" opf:role="aut">金克木</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
+        <dc:description>金克木先生一代大家，其读书与治学自有独到幽微之处。惜其著作出版广而且杂，况未经人整理，故今日学子，得片羽易，而欲窥其全面则难。本书编者爬梳剔抉，参互考寻，从金克木生前约30部已出版著作中精选出有关读书治学方法的文章50余篇，分“书读完了”——读什么书、“福尔摩斯与读书得间”——怎么读书、读书、读人、读物——读通书三辑，其文说理叙事，皆清秀流利，全无晦涩难懂之处，普通读者循序渐进，或可一窥大家通人治学读书之堂奥。</dc:description>
+        <dc:publisher>上海辞书出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532622634</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>金克木</dc:subject>
+        <dc:subject>读书</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>书读完了</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <meta content="{&quot;金克木&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文化" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:34+00:00" name="calibre:timestamp"/>
+        <meta content="书读完了" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

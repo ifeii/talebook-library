@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1a2fbb0-6c5d-49ab-8b4a-4680d8191b1c</dc:identifier>
+        <dc:title>The Brief Wondrous Life of Oscar Wao (Korean Edition)</dc:title>
+        <dc:creator opf:file-as="Junot Diaz" opf:role="aut">Junot Diaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Korean edition of The Brief Wondrous Life of Oscar Wao - a brilliant debut novel and Winner of the Pulitzer Prize by a Dominican-American writer Junot Diaz. Diaz satirizes the bloody history of violence, suppression under Trujillo's tyrannical power through the life of a immigrant family and the surviving struggles.</dc:description>
+        <dc:publisher>Munhak Dongnae</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788954607117</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction - General</dc:subject>
+        <meta content="{&quot;Junot Diaz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:04+00:00" name="calibre:timestamp"/>
+        <meta content="Brief Wondrous Life of Oscar Wao (Korean Edition), The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

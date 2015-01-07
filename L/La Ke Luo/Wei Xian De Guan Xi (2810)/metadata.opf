@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18894345-227e-4333-9284-6501b6b079bc</dc:identifier>
+        <dc:title>危险的关系</dc:title>
+        <dc:creator opf:file-as="拉克洛" opf:role="aut">拉克洛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《危险的关系》描述巴黎社交圈红人梅尔特伊侯爵夫人和瓦尔蒙子爵，这两位情场老手都发誓不再受爱情束缚，只愿游戏人间。美丽迷人又工于心计的梅尔特伊夫人，让瓦尔蒙去引诱自己前任情人杰科的未婚妻赛西尔以报复杰科的负心，而瓦尔蒙却正准备对善良忠贞的都尔薇夫人发起进攻。作者苦心经营了这本小说，祈望一鸣惊人、名垂青史。作为小说，此书书信体的形式和内容配合得天衣无缝，每一封信既是叙述手段，又体现、促进情节发展。
+《危险的关系》是法国文学史上一个最莫测高深的作家所著的头一本、也是他唯一的一本小说。此书讲述爱情的游戏，以及对异性的追逐与诱惑的故事，充满了征服与赢得爱情的各种技巧，它蕴涵的丰富寓意绝不亚于古罗马奥维德那本珍贵的典籍：《爱经》。拉克洛被司汤达视为先驱，在纪德开出的十本法国最伟大的小说中，《危险的关系》高居前列。
+《危险的关系》中的一百七十五封信，正像拉克洛手中的一副纸牌，他谋篇布局，缜密计算在与读者进行的这一局局游戏中的得与失，这里打出一张，那里收起一张，诱惑读者步步深入这场危险的游戏。这正是这部小说的伟大之处。拉克洛的文本自觉已到如此程度，他始终抱着这样一种意识，作家的“自我”与叙述者完全不是一回事，而叙述者的立场又与小说中人的立场决不能相提并论。他构想人物的心理，用他们的口气编造这些信件，设想信件的抵达方式和时间。在此过程中，他逐渐意识到，是所有人——每个人的动机，主要是代表他们内心里最坏或是最软弱的那一面的动机，在推着现实或虚构的世界向前走。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A4SBVUG</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532752126</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>法国文学</dc:subject>
+        <dc:subject>拉克洛</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>危险的关系</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;拉克洛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:34:55+00:00" name="calibre:timestamp"/>
+        <meta content="危险的关系" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

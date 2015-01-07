@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c64ec6e1-200c-4798-870b-c44bd8fdb145</dc:identifier>
+        <dc:title>世界因你不同</dc:title>
+        <dc:creator opf:file-as="李开复" opf:role="aut">李开复</dc:creator>
+        <dc:creator opf:file-as="李开复" opf:role="aut">范海涛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-12T16:00:00+00:00</dc:date>
+        <dc:description>这是李开复唯一的一本自传，字里行间，是岁月流逝中沉淀下来的宝贵的人生智慧和职场经验。捣蛋的“小皇帝”，11岁的“留学生”，奥巴马的大学同学，26岁的副教授，33岁的苹果副总裁，谷歌中国的创始人，他有着太多传奇的经历，为了他，两家最大的IT公司对簿公堂。而他的每一次人生选择，都是一次成功的自我超越。
+透过这本自传，李开复真诚讲述了他鲜为人知的成长史、风雨兼程的成功史和烛照人生的心灵史，也首次全面披露了他亲历的苹果、微软、谷歌等IT巨头风云变幻的内幕。娓娓道来，字字珠玑。
+抓住一切去探寻生命的意义，总有一天，世界将因你不同。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1230eb9f-2417-4153-9fb1-99e8f6961e7c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508616780</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>李开复</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>自传</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>IT</dc:subject>
+        <dc:subject>做最好的自己</dc:subject>
+        <dc:subject>互联网</dc:subject>
+        <meta content="{&quot;李开复&quot;: &quot;&quot;, &quot;范海涛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:21+00:00" name="calibre:timestamp"/>
+        <meta content="世界因你不同" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

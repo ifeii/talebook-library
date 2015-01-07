@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f1d063b-13bc-42fb-b839-50ed839067e6</dc:identifier>
+        <dc:title>晓寺</dc:title>
+        <dc:creator opf:file-as="三岛由纪夫" opf:role="aut">三岛由纪夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-23T16:00:00+00:00</dc:date>
+        <dc:description>  《丰饶之海》 &#13;
+   超长篇巨作《丰饶之海》（1965－1970）四部曲：《春雪》、《奔马》、《晓寺》、《天人五衰》等作为三岛由纪夫的绝笔之作，将他的浪漫、唯美与古典主义发挥到了尽美之境，为三岛的文学生涯画上了句号。&#13;
+   小说的第一部《春雪》描写了松枝清显的恋爱悲剧和他的死，是三岛文学艺术美的升华。川端康成把《春雪》誉为现代的《源氏物语》，是作者“绚丽才华的升华”。三岛本人也曾总结说：“《春雪》是王朝式的恋爱小说，即写所谓‘柔弱纤细’或‘和魂’”。&#13;
+   松枝清显本是武将门第出身家道中落，父亲将他寄养在绫他伯爵家。18岁上他与伯爵的女儿聪子相恋但他优柔寡断，没有勇气接受聪子的求婚。聪子被皇上敕许给洞院宫三王子治典王之后，她通过老仆蓼科仍与清显保持联系。清显却与她发生了肉体关系，并且让她怀了孕。而老仆蓼科又与主人绫他伯爵关系暧昧，她秉承伯爵之意，教唆聪子以不是处女的姿态对松枝侯爵进行幽雅的复仇。清显在东大的同学本多繁邦的帮助下，继续与聪子幽会。伯爵发现自己的聪子怀孕后，后怕事情败露，让女儿去奈良月修寺躲风。聪子在月修寺私自削发为尼，有犯皇上之嫌，所以侯爵、伯爵两家乱了方寸，让医生开具假诊断书，以欺瞒皇上。清显在本多的帮助下，亲赴月修寺要会见聪子，被聪子婉拒了。清显心力交瘁。在返回东京的车厢里，生平常做梦的他做了最后一个梦，醒来喃喃自语：“还会见面的。一定还会再见面的，在瀑布下……。”清显回到东京次日就离开了人世，年仅20岁。&#13;
+   第二部《奔马》描写了由松枝清显转世的饭沼勋的政治活动和他的自杀，第三部《晓寺》写的是曾目击松枝清显和饭沼勋自杀的本多同日本人转世的泰国公主的恋爱，后公主归国被眼镜蛇咬死。第四部《天人五衰》描写了被老本多收为养子的安永透知道了自己只是他人转世而已，并不是能自由选择命运的人，他服毒自杀未死而失明。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506308755</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>三岛由纪夫</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>丰饶之海</dc:subject>
+        <dc:subject>晓寺</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>日文小说</dc:subject>
+        <meta content="{&quot;三岛由纪夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="丰饶之海" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:57+00:00" name="calibre:timestamp"/>
+        <meta content="晓寺" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

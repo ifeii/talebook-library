@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9babe7e-44ca-4845-bfc6-24bc0163193e</dc:identifier>
+        <dc:title>平原烈火</dc:title>
+        <dc:creator opf:file-as="徐光耀" opf:role="aut">徐光耀</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《平原烈火》内容简介：一九四二年五月，冀中抗日根据地整个地翻了一个个过儿。冈村宁茨坐上飞机，在天上指挥着五万鬼子兵进行大“扫荡”，确残酷的战斗，到处是一片红火。日本鬼子的汽车把遍地黄金的麦子轧烂在地上，骑兵包围了村庄，村庄烧起来，熊熊的火苗儿把黑烟卷上天去。步兵们端着刺刀，到处追求，赶着，把抗日群众从东村追到西村，又从西村追到东村。遍地是“嘎嘎嘎咕咕咕”的枪响，遍地女人哭孩子叫，多少个英雄倒在血泊里了， 多少个战士牺牲在创弹下，多少个地方工作人员，投的投河，跳的投河有枪的把子弹灯光了，剩下最后一颗打碎了自己的头，多少个青壮年、村干部，被裹着走了，送了煤窑，载出关外，运去日本三岛……</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020049042</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>中国现当代文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>齐·中国当代长篇小说藏本（人民文学出版社）</dc:subject>
+        <meta content="{&quot;徐光耀&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:17:33+00:00" name="calibre:timestamp"/>
+        <meta content="平原烈火" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

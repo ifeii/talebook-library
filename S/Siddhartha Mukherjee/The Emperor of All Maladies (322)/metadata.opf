@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">259a91f8-e894-4e45-8fcb-414630c880e1</dc:identifier>
+        <dc:title>The Emperor of All Maladies</dc:title>
+        <dc:creator opf:file-as="Siddhartha Mukherjee" opf:role="aut">Siddhartha Mukherjee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-15T16:00:00+00:00</dc:date>
+        <dc:description>Starred Review. Mukherjee's debut book is a sweeping epic of obsession, brilliant researchers, dramatic new treatments, euphoric success and tragic failure, and the relentless battle by scientists and patients alike against an equally relentless, wily, and elusive enemy. From the first chemotherapy developed from textile dyes to the possibilities emerging from our understanding of cancer cells, Mukherjee shapes a massive amount of history into a coherent story with a roller-coaster trajectory: the discovery of a new treatment--surgery, radiation, chemotherapy--followed by the notion that if a little is good, more must be better, ending in disfiguring radical mastectomy and multidrug chemo so toxic the treatment ended up being almost worse than the disease. The first part of the book is driven by the obsession of Sidney Farber and philanthropist Mary Lasker to find a unitary cure for all cancers. (Farber developed the first successful chemotherapy for childhood leukemia.) The last and most exciting part is driven by the race of brilliant, maverick scientists to understand how cells become cancerous. Each new discovery was small, but as Mukherjee, a Columbia professor of medicine, writes, "Incremental advances can add up to transformative changes." Mukherjee's formidable intelligence and compassion produce a stunning account of the effort to disrobe the "emperor of maladies." (Nov.) (c)
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439107959</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>癌症</dc:subject>
+        <dc:subject>普利策奖</dc:subject>
+        <dc:subject>科学</dc:subject>
+        <dc:subject>science</dc:subject>
+        <dc:subject>生命</dc:subject>
+        <dc:subject>cancer</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;Siddhartha Mukherjee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:47+00:00" name="calibre:timestamp"/>
+        <meta content="Emperor of All Maladies, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

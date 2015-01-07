@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2075</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aef87a0d-b80c-40a7-96cd-86efe3e1147d</dc:identifier>
+        <dc:title>忏慧堂集</dc:title>
+        <dc:creator opf:file-as="徐晋如" opf:role="aut">徐晋如</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《忏慧堂集(繁体竖排版)》内容简介：少年哀乐，多竟成尘．偶然视之，如空如梦。心事渐归平淡，惟以经籍自娱。余昔负早慧之名，今则深忏之。夫易有之：“言，出乎身，加乎民；行，发乎迩，见乎远。言行，君子之枢机。枢机之发，荣辱之主也。言行，君子所以动天地也。可不慎乎。”裴行俭亦云：“士先器识而后文艺。”道为学本，斯之谓也。丁亥仲夏盐渎涂晋如漫记。</dc:description>
+        <dc:publisher>海南出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544331135</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>徐晋如</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>中国古典诗学</dc:subject>
+        <dc:subject>文言文</dc:subject>
+        <dc:subject>徐晉如</dc:subject>
+        <dc:subject>文言</dc:subject>
+        <dc:subject>詩詞</dc:subject>
+        <meta content="{&quot;徐晋如&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:59+00:00" name="calibre:timestamp"/>
+        <meta content="忏慧堂集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

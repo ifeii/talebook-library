@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07102afe-8aa1-4e27-9e09-2ea63c51e873</dc:identifier>
+        <dc:title>The Killer Angels</dc:title>
+        <dc:creator opf:file-as="Michael Shaara" opf:role="aut">Michael Shaara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-08-11T16:00:00+00:00</dc:date>
+        <dc:description>This novel reveals more about the Battle of Gettysburg than any piece of learned nonfiction on the same subject. Michael Shaara's account of the three most important days of the Civil War features deft characterizations of all of the main actors, including Lee, Longstreet, Pickett, Buford, and Hancock. The most inspiring figure in the book, however, is Col. Joshua Lawrence Chamberlain, whose 20th Maine regiment of volunteers held the Union's left flank on the second day of the battle. This unit's bravery at Little Round Top helped turned the tide of the war against the rebels. There are also plenty of maps, which convey a complete sense of what happened July 1-3, 1863.</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345348104</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>南北战争</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>小说/Novel</dc:subject>
+        <dc:subject>原版</dc:subject>
+        <dc:subject>CourseRequirments</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Michael Shaara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:58+00:00" name="calibre:timestamp"/>
+        <meta content="Killer Angels, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

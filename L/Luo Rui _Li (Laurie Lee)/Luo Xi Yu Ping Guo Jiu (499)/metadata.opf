@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b63a86d-8198-4e0c-bfec-4ea4798b868f</dc:identifier>
+        <dc:title>罗西与苹果酒</dc:title>
+        <dc:creator opf:file-as="洛瑞·李(Laurie Lee)" opf:role="aut">洛瑞·李(Laurie Lee)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-31T16:00:00+00:00</dc:date>
+        <dc:description>在《罗西与苹果酒》中，洛瑞•李以他在故乡山坡上的号叫开启记忆之门，带领读者穿越时空，重返那个死亡阴险缭绕的灰白村落，进入童年时期的各式幻想与梦魇之中。透过他诗样的笔法，那段已然远去的岁月，那个不复存在的时代与生活方式，在我们眼前栩栩重现，宛如一部朴实而美丽的怀旧电影……</dc:description>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539934280</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>罗西与苹果酒</dc:subject>
+        <dc:subject>洛瑞·李</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <meta content="{&quot;洛瑞·李(Laurie Lee)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:50:25+00:00" name="calibre:timestamp"/>
+        <meta content="罗西与苹果酒" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

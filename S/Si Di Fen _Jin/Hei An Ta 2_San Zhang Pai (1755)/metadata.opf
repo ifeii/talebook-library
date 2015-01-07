@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9dc95c75-583d-4eec-a302-48785ae4ede7</dc:identifier>
+        <dc:title>黑暗塔2：三张牌</dc:title>
+        <dc:creator opf:file-as="斯蒂芬·金" opf:role="aut">斯蒂芬·金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-31T16:00:00+00:00</dc:date>
+        <dc:description>“黑暗塔”系列是斯蒂芬•金最负盛名的小说，他耗时三十余年才完成这部史诗般的奇幻巨著。据斯蒂芬•金披露：他是受了托尔金《魔戒》的启示后才决定写这部历史上最长的通俗小说的。这个糅合了传奇、西部故事和奇幻等多种元素的系列多年来受到众多读者的追捧，在他漫长的创作过程中，许多读者一直在孜孜不倦地讨论书中令人琢磨不透的情节，还有狂热的“黑暗塔”迷写信恳求他揭晓谜底，甚至有人称自己将不久于人世，恐怕等不到这个系列的最后一本出版，试图以此说服斯蒂芬•金提前将故事的结局透露给他。
+如果说《枪侠》是一则寓言，“黑暗塔”的第二部《三张牌》更像是都市黑帮小说。在这本书中，罗兰与他的卡-泰特（即命运组）的两位成员埃蒂和苏珊娜会合。
+罗兰继续寻找“黑暗塔”的征程。途中他遭到各种神秘生物的袭击，并将一个纽约的瘾君子埃蒂•迪恩带回自己的世界，成了朋友。他们结伴同行，遇到了一个有自闭症的非洲裔女士奥黛塔，以及奥黛塔自我的邪恶一面黛塔。四人继续上路，而奥黛塔和黛塔也逐渐合二为一，成为一个新人苏珊娜，并同埃蒂共结连理。
+斯蒂芬．金的一流之作……充满悬疑的气氛。一部即将成形的史诗！
+──《柯克斯评论》
+创作始于金的大学阶段的前两本充满少年人的踌躇满志与自命不凡，虽然篇幅相对短小，却埋下了众多线索，第二本比首曲生动得多。
+——《出版家周刊》</dc:description>
+        <dc:publisher>上海文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">531044e2-aaf1-42f5-b5fa-191834e6057e</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532149407</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>斯蒂芬·金</dc:subject>
+        <dc:subject>黑暗塔</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>黑暗塔系列</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>西方奇幻</dc:subject>
+        <meta content="{&quot;斯蒂芬·金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:25+00:00" name="calibre:timestamp"/>
+        <meta content="黑暗塔2：三张牌" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

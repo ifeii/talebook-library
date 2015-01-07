@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b172e94b-2252-4272-b632-2005a8ac12f1</dc:identifier>
+        <dc:title>鐵漿</dc:title>
+        <dc:creator opf:file-as="朱西甯" opf:role="aut">朱西甯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《鐵漿》為朱西甯早年創作的懷鄉小說代表作，共收錄〈賊〉〈新墳〉〈劊子手〉〈捶帖〉〈餘燼〉〈紅燈籠〉〈出殃〉〈鎖殼門〉〈鐵漿〉等九個短篇。其中〈賊〉寫鄉野漢子魯大個兒義氣深重替人頂罪；〈新墳〉描述反對香灰符水治病執著於自修醫道的能爺，無能驅除病魔的困境；〈劊子手〉寫劊子手傅二畜邊啖人心邊替受刑者抱不平的口頭正義；〈捶帖〉描繪小兄弟倆到墳場拓碑與瞎乞丐鬥嘴的故事；〈餘燼〉寫合夥開店的瞎子與瘸子在大火中勾心鬥角；〈紅燈籠〉描述得了狂犬病的老舅雪夜求藥的故事；〈出殃〉寫頭七死人回魂報仇的神異事件；〈鎖殼門〉描繪北方漢子尋仇果報的情節；〈鐵漿〉描述為爭鹽槽經營，不惜生灌鐵漿致死的悲劇。在一則則鄉野傳奇的故事中，朱西甯寫活了鄉野人物的心理，也傳達了時代造就的悲劇氣氛。
+作者簡介
+朱西甯(1927-1998)本名朱青海，山東臨朐人。青少年時期適逢抗戰，於是棄學從軍，從上等兵至上校退役。曾任《新文藝》月刊主編、黎明文化公司總編輯，並曾在中國文化大學中文系文藝組兼任教職；其後便專事寫作。民國三十六年，在南京《中央日報》副刊正式發表第一篇短篇小說〈洋化〉，民國四十一年出版第一本小說《大火炬的愛》，後陸續出版長篇小說《貓》、《旱魃》、《畫夢紀》、《八二三注》、《華太平家傳》，短篇小說集《鐵漿》、《狼》、《破曉時分》、《冶金者》、《春城無處不飛花》，散文集《朱西甯隨筆》、《微言篇》等三十餘部作品，無論質量，皆極為可觀，允為當代台灣最重要小說家之一。民國八十七年因病辭世，遺作《華太平家傳》於民國九十一年出版，同時榮獲《中國時報》開卷及《聯合報》讀書人年度十大好書推薦。</dc:description>
+        <dc:publisher>印刻</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789867810380</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>朱西宁</dc:subject>
+        <dc:subject>臺灣文學</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>**台·Y印刻文學生活雜誌*</dc:subject>
+        <dc:subject>TW</dc:subject>
+        <dc:subject>台@Z朱西甯</dc:subject>
+        <meta content="{&quot;朱西甯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="53" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:54+00:00" name="calibre:timestamp"/>
+        <meta content="鐵漿" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

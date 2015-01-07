@@ -6,15 +6,33 @@
         <dc:title>蒋经国传</dc:title>
         <dc:creator opf:file-as="陶涵" opf:role="aut">陶涵</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-11-29T04:06:13+00:00</dc:date>
+        <dc:date>2010-09-30T16:00:00+00:00</dc:date>
+        <dc:description>一字未删全译本 广引苏美迄今未公开资料
+蒋经国研究专家陶涵教授       经典力作
+80幅国民党党史馆珍贵照片首次内地刊发
+蒋经国之后，台湾历经李登辉、陈水扁、马英九三代领导，然而每次民调显示，对台湾民主、经济、民生等各方面贡献最大的领导人，都是蒋经国。这位集中国宫廷、俄罗斯共产主义、美国民主价值、台湾本土经验四种文化于一身的谜样人物，究竟有着怎样的魅力和经历？
+蒋经国和邓小平是莫斯科的同学，隔着海峡，一个推行改革开放，一个力促“十大建设”，一个成为“亚洲四小龙”，一个建立现代化强国，是偶然还是巧合？为什么他自章亚若死后，终其一生不见儿子章孝严、章孝慈一眼？为什么两位私生子却成了蒋家第三代中最优秀的继承人？为什么蒋家第四代成了悬崖边的贵族，为什么他们天生逆反政治？
+本书大量引用莫斯科以及美国国家档案局迄未公开的资料，运用“资讯自由法案”(FOIA)，要求美国中情局、国防部门提供涉及蒋经国而尚未解密的文件，发掘不少以前鲜为人知的有关蒋经国的史料。
+作者以一个外国人的身份，从国际的视野和角度观察中国现代历史以及蒋经国个人的历史，描述了蒋经国一生的政治、经历、军事和社会活动，以及蒋经国所处的时代的中国社会背景以及国际大背景。</dc:description>
+        <dc:publisher>华文出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">3ca1f726-8d11-4eda-a56f-9660d6cbbbfb</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787507532890</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>蒋经国</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>陶涵</dc:subject>
         <meta content="{&quot;陶涵&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:12:19.354211+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:42+00:00" name="calibre:timestamp"/>
         <meta content="蒋经国传" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

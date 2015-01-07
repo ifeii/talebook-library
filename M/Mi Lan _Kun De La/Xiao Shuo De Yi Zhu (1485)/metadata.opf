@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6084e211-b009-41e4-91d1-76a34e96f515</dc:identifier>
+        <dc:title>小说的艺术</dc:title>
+        <dc:creator opf:file-as="米兰·昆德拉" opf:role="aut">米兰·昆德拉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-31T16:00:00+00:00</dc:date>
+        <dc:description>我并不擅长理论。以下思考是作为实践者而进行的。每位小说家的作品都隐含着作者对小说历史的理解，以及作者关于“小说究竟是什么”的想法。在此，我陈述了我小说中固有的、我自己关于小说的想法。
+小说家一旦扮演公众人物的角色，就使他的作品处于危险的境地，因为它可能被视为他的行为、他的宣言、他采取的立场的附庸。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532735167</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>米兰・昆德拉</dc:subject>
+        <dc:subject>文学理论</dc:subject>
+        <dc:subject>小说的艺术</dc:subject>
+        <dc:subject>米兰·昆德拉</dc:subject>
+        <dc:subject>捷克</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文艺评论</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <meta content="{&quot;米兰·昆德拉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:33+00:00" name="calibre:timestamp"/>
+        <meta content="小说的艺术" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

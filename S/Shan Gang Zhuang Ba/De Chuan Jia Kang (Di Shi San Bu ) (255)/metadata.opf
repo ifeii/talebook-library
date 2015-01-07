@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4971ea3-562f-4b1a-9498-276e25222e87</dc:identifier>
+        <dc:title>德川家康（第十三部）</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-31T16:00:00+00:00</dc:date>
+        <dc:description>庆长二十年，大坂夏役开战，东西军激战于道明寺、若江等地，西军诸将力竭，相继战亡，大坂一败涂地。已逾七十的德川家康虽有心挽救丰臣秀赖母子性命，然关东众人心怀宿怨，瞒天过海，致使秀赖母子于城破后自尽，秀赖子国松丸被处死，丰臣氏终走向末路。
+秀赖既去，德川家康痛定思痛，反省自身，竭力安排身后诸事。为防野心勃勃的伊达政宗生变，忍痛圈禁六子忠辉；颁武家法度十三条及公卿法令，为天下立规矩……元和二年（1616）正月，德川家康狩猎途中患病，因年老体弱不治，一代雄主终于四月寿终正寝，享年七十有五。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238953</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>日本战国</dc:subject>
+        <meta content="{&quot;山冈庄八&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:13+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第十三部）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

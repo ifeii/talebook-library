@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d35da308-b697-4ef4-8e4c-ee95452439b4</dc:identifier>
+        <dc:title>周易今注今译</dc:title>
+        <dc:creator opf:file-as="王云五  主编" opf:role="aut">王云五 主编</dc:creator>
+        <dc:creator opf:file-as="王云五  主编" opf:role="aut">南怀瑾 注 徐芹庭 译</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:15+00:00</dc:date>
+        <dc:description>此书为王云五先生主编“台湾商务印书馆国学经典文丛”第一批之一部，由南怀瑾、徐芹庭两位教授联袂通注通释。南、徐两位教授国学功底深厚，校订、释义准确详备，解决了许多《周易》研究的疑难，是一部不可多得的学术专著。</dc:description>
+        <dc:publisher>重庆出版集团重庆出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787229000691</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>南怀瑾</dc:subject>
+        <dc:subject>周易</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>徐芹庭</dc:subject>
+        <dc:subject>王云五</dc:subject>
+        <dc:subject>台湾商务印书馆</dc:subject>
+        <dc:subject>易</dc:subject>
+        <dc:subject>重庆出版社</dc:subject>
+        <meta content="{&quot;南怀瑾 注 徐芹庭 译&quot;: &quot;&quot;, &quot;王云五 主编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:26:28+00:00" name="calibre:timestamp"/>
+        <meta content="周易今注今译" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

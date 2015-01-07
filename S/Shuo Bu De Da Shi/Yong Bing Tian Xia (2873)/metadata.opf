@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3af50393-ed7d-4fc0-ac89-926fd97ab162</dc:identifier>
+        <dc:title>佣兵天下</dc:title>
+        <dc:creator opf:file-as="说不得大师" opf:role="aut">说不得大师</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-28T16:00:00+00:00</dc:date>
+        <dc:description>中国八大原创网站最具人气的玄幻巨著。起点中文、幻剑书盟等8大原创网站40周排行榜、推荐榜双料冠军。点击率超过3600万次，推荐人数超过800万。小说以三个小佣兵的角度，描述了一场跨越诸个大陆、十多个国家的旷世大战，最后，战火甚至蔓延到神界。十五个信仰、风俗完全不同的国家，跨越21000年的故事背景，三位绝对主人公，十四位主线人物，数百位人、龙、神、魔不同的角色。
+    为了找回自己的爱人，少年艾米闯入了被人类视为禁地的妖精森林。 与此同时，一个巨大的阴谋笼罩在妖精森林上空，这个阴谋的目的是一网打尽以精灵王为首的数十万森林精灵。主持阴谋的是被称为众神大战第一阴谋家的暗黑精灵首领水无痕。 阴谋一步步在顺利落实中，水无痕想不到的是，这个阴谋竟然无意中捞到了艾米和另外一条大鱼。 正是因为这两个人的出现，所有的一切都变得复杂了起来。因此，艾米不得不挑战上古祁愿塔，不得不面对来自神魔大战的异界神明，甚至再次面对死神的召唤。</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802280175</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e9e4f993-42f2-4196-bf52-686297bf17c0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>佣兵天下</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>说不得大师</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>网络文学</dc:subject>
+        <meta content="{&quot;说不得大师&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:43+00:00" name="calibre:timestamp"/>
+        <meta content="佣兵天下" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

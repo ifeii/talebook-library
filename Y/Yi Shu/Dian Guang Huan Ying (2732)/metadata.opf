@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfe9fb89-1f3d-493c-91d0-b193159625e4</dc:identifier>
+        <dc:title>电光幻影</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《电光幻影》是亦舒的经典作品。电光幻影，其实并不存在，不过利用人类的眼睛视网膜对影像有十分一秒的保留能力，于是，一连串的好戏上映了。这是本书的主人公荣三和经历过一番情感生活后的感概，感情生活中失望难免，时间冲淡一切，伤痕磨灭，又忙别的去了。
+一对年轻男女，本来各走各路，偶遇、邂逅、爱慕，总有一方认为这次总可以终身相守了吧，但不，发生了一些事，他们分手，又再次成为陌路人……本书棉鞋一段主人公的情感经历，就像那电光幻影，其实并不存在，不过利用人类的眼睛视网膜对影像有十分一秒的保留能力，于是，一连串的好戏上映了。</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b5a39dc1-674d-4677-93f3-be880c2bd686</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787802284104</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>电光幻影</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:59+00:00" name="calibre:timestamp"/>
+        <meta content="电光幻影" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5c6397f-61fc-4880-98c3-561787fbef34</dc:identifier>
+        <dc:title>捕捉儿童敏感期</dc:title>
+        <dc:creator opf:file-as="孙瑞雪" opf:role="aut">孙瑞雪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《捕捉儿童敏感期》是有介绍关孩子的健康发展，该书收录了200多个孩子（0岁到10岁）敏感期的真实案例，所有案例由家长或老师记录，孙瑞雪点评。关于《捕捉儿童敏感期》这本书案例部分，要说明两点：一、有些案例的记录对象是发展不够好的孩子，这部分孩子我们都用了化名。二、本书收录的案例跨越10年，由于时间跨度太大，某些案例的记录者已经不详，这部分案例均以“未名”具名。 
+
+《捕捉儿童敏感期》的主要内容：
+婴儿7个月左右出现走的敏感期．起先拒绝坐，然后开始走，上下楼梯都要自己来，哪里不平偏要往哪里瞳．这可能是父母最累的时候……走的敏感期中儿童是一个自由、活跃的个体，他拥有空间的能力从此开始越来越强。
+1岁半到2岁期间，儿童会有一个对细微事物感兴趣的敏感期。床上的一丝头发，地上的一根小草……但儿童并不总是这样。手的敏感期到来时，儿童有一个抓的过程。一把抓，二指抓，三指抓。很多成人用手很笨拙，不会拿筷子，不会用手指夹围棋子，不会点钞……这都和童年期手的发展有关。
+音乐的敏感期呈螺旋状发展。2岁的幼儿就能把握节奏；3－4岁时开始对简单而重复的旋律感兴趣；5－6岁后开始选择自己喜欢的音乐并自发用动作表达；6－8岁时已经能深深沉浸在音乐中……
+处在身份确定敏感期的儿童，会选定一个偶像并时时模仿。“我是忍者神龟！”“我是超人！”通过吸收偶像的人格特点，儿童建构自己的人格状态，最终形成自我。</dc:description>
+        <dc:publisher>新蕾出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">eca49d60-d882-42ac-8c99-7fd78a77dfe3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787530733738</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>育儿</dc:subject>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>儿童教育</dc:subject>
+        <dc:subject>蒙台梭利</dc:subject>
+        <dc:subject>幼儿教育</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>早教</dc:subject>
+        <dc:subject>儿童</dc:subject>
+        <meta content="{&quot;孙瑞雪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:01+00:00" name="calibre:timestamp"/>
+        <meta content="捕捉儿童敏感期" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c709be93-47ca-4a80-a337-27d0aaf70f20</dc:identifier>
+        <dc:title>The Tipping Point</dc:title>
+        <dc:creator opf:file-as="Malcolm Gladwell" opf:role="aut">Malcolm Gladwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-06T16:00:00+00:00</dc:date>
+        <dc:description>"The best way to understand the dramatic transformation of unknown books into bestsellers, or the rise of teenage smoking, or the phenomena of word of mouth or any number of the other mysterious changes that mark everyday life," writes Malcolm Gladwell, "is to think of them as epidemics. Ideas and products and messages and behaviors spread just like viruses do." Although anyone familiar with the theory of memetics will recognize this concept, Gladwell's The Tipping Point has quite a few interesting twists on the subject.
+For example, Paul Revere was able to galvanize the forces of resistance so effectively in part because he was what Gladwell calls a "Connector": he knew just about everybody, particularly the revolutionary leaders in each of the towns that he rode through. But Revere "wasn't just the man with the biggest Rolodex in colonial Boston," he was also a "Maven" who gathered extensive information about the British. He knew what was going on and he knew exactly whom to tell. The phenomenon continues to this day--think of how often you've received information in an e-mail message that had been forwarded at least half a dozen times before reaching you.
+Gladwell develops these and other concepts (such as the "stickiness" of ideas or the effect of population size on information dispersal) through simple, clear explanations and entertainingly illustrative anecdotes, such as comparing the pedagogical methods of Sesame Street and Blue's Clues, or explaining why it would be even easier to play Six Degrees of Kevin Bacon with the actor Rod Steiger. Although some readers may find the transitional passages between chapters hold their hands a little too tightly, and Gladwell's closing invocation of the possibilities of social engineering sketchy, even chilling, The Tipping Point is one of the most effective books on science for a general audience in ages. It seems inevitable that "tipping point," like "future shock" or "chaos theory," will soon become one of those ideas that everybody knows--or at least knows by name. --Ron Hogan, Amazon.com</dc:description>
+        <dc:publisher>Back Bay Book</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316346627</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>社会科学</dc:subject>
+        <dc:subject>传播</dc:subject>
+        <dc:subject>business</dc:subject>
+        <dc:subject>流行</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <meta content="{&quot;Malcolm Gladwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Gladwell Malcolm" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:40+00:00" name="calibre:timestamp"/>
+        <meta content="Tipping Point, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

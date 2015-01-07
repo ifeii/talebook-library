@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbd45c1b-976b-4256-a6a4-858fcd3fdb51</dc:identifier>
+        <dc:title>战争与回忆</dc:title>
+        <dc:creator opf:file-as="赫尔曼・沃克" opf:role="aut">赫尔曼・沃克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-31T16:00:00+00:00</dc:date>
+        <dc:description>《战争风云（1939-1941)》及姊妹篇《战争与回忆（1941-1945)》，是现代文学史上全景式展现第二次世界大战真实进程的规模最大的作品，正如作者所言，“是在尽很大的努力给一次大规模的世界战争描绘一幅真实的、宏伟的图景”。书中人物众多，上至各交战国最高领导人罗斯福、丘吉尔、希特勒等，下至一般士兵和普通百姓。所述故事从1939年德军入侵波兰，第二次世界大战爆发开始，到1945年日本投降，战争结束为止，涉及大多数主要战场和重要事件。作品中涉及的战史，都是真实的；所引的数字材料，都是可靠的；举凡...</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561330777</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>二战</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>纪实</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>战争与回忆</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;赫尔曼・沃克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:22+00:00" name="calibre:timestamp"/>
+        <meta content="战争与回忆" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

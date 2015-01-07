@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73fb99bb-bbbe-4163-a1d6-ba126b222765</dc:identifier>
+        <dc:title>张飞流水帐</dc:title>
+        <dc:creator opf:file-as="于卫江" opf:role="aut">于卫江</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-31T16:00:00+00:00</dc:date>
+        <dc:description>幽默、爆笑、发人深思的三国故事！超级无厘头搞笑张飞，诠释人生哲理，嬉笑怒骂间，含尽人间百态，说尽人生智慧。
+    很多人都说我长的黑，魏延说我掉进煤堆里绝对找不着，其实我觉得他长的跟只绿头蝇一样，有什么资格来说我。我最好的朋友是子龙（大哥和二哥是我的亲人），他说我长的很男人，这让我从此改变了小白脸没好心眼的观点。</dc:description>
+        <dc:publisher>当代世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787509000069</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>幽默</dc:subject>
+        <dc:subject>三国</dc:subject>
+        <dc:subject>哲理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>张飞流水账</dc:subject>
+        <dc:subject>玩笑戏谑之深意</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>网络</dc:subject>
+        <meta content="{&quot;于卫江&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:29:34+00:00" name="calibre:timestamp"/>
+        <meta content="张飞流水帐" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

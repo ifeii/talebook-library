@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a153a92-dd86-4401-ae6f-5c0cc3896a8c</dc:identifier>
+        <dc:title>对你大爷有意见</dc:title>
+        <dc:creator opf:file-as="叶广芩" opf:role="aut">叶广芩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《对你大爷有意见:叶广芩中篇小说选》作者是一个擅讲故事的高手，她于故事中自然流露的叹息与幽默是如此不同凡响……从语言到人物，一板一眼，无不散发着某种韵致。
+叙事写人如数家珍，起承转合不愠不躁，举手投足流露出闺秀遗风、文化底蕴。</dc:description>
+        <dc:publisher>西安出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807126287</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>叶广芩</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>西安出版社</dc:subject>
+        <dc:subject>女性文学</dc:subject>
+        <dc:subject>2010</dc:subject>
+        <meta content="{&quot;叶广芩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:14+00:00" name="calibre:timestamp"/>
+        <meta content="对你大爷有意见" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

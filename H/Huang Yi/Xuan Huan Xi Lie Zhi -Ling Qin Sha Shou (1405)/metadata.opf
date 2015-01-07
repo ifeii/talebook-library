@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0abed447-4dd2-46df-964b-fb498079aedb</dc:identifier>
+        <dc:title>玄幻系列之-灵琴杀手</dc:title>
+        <dc:creator opf:file-as="黄易" opf:role="aut">黄易</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-28T16:00:00+00:00</dc:date>
+        <dc:description>本书前言
+这是部如梦如幻，充满浪漫和诗意的杀手传奇。外号“隐身人”的超级杀手，因着训练和经历，变得心肠冷硬，但他却遇上了一张奇异的琴，勾起了他深心里的温柔和丰富的感情。这有灵性的琴引导着他去追求久已失去的爱情，燃起对生命的希望，但强求的敌人却不肯把他放过，为了所爱的人，隐身人作出最后一次的刺杀行动。
+特色及评论
+文章节选</dc:description>
+        <dc:publisher>华艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801421142</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>黄易</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>玄幻小说</dc:subject>
+        <dc:subject>人生大说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>黄易经典</dc:subject>
+        <dc:subject>高中时光</dc:subject>
+        <meta content="{&quot;黄易&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:07+00:00" name="calibre:timestamp"/>
+        <meta content="玄幻系列之-灵琴杀手" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

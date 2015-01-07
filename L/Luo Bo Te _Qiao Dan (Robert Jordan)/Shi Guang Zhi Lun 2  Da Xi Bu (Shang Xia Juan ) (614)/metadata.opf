@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2edf18dc-b56f-4bcb-ac0c-b83511e93c5b</dc:identifier>
+        <dc:title>时光之轮2  大猎捕（上下卷）</dc:title>
+        <dc:creator opf:file-as="罗伯特•乔丹（Robert  Jordan）" opf:role="aut">罗伯特•乔丹（Robert Jordan）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>几个世纪以来，走唱人一直在传诵关于失落的瓦力尔号角的传说，它可以让诸世代中死去的英雄重生。追寻圣号角的大猎捕召集令已发出，无论光明或暗影，都竭力想寻得这只号角。而被两仪师称为转生真龙的牧羊人兰德，拥有导引男性至上力的能力，让他痛苦不已，惟有挺身面对一切，才能避免这世界为邪恶所操纵……</dc:description>
+        <dc:publisher>东方出版中心</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787547300213</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>时光之轮</dc:subject>
+        <dc:subject>罗伯特•乔丹</dc:subject>
+        <dc:subject>奇幻小说</dc:subject>
+        <dc:subject>时光之轮，罗伯特乔丹，奇幻，小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>西方奇幻</dc:subject>
+        <dc:subject>时光之轮系列</dc:subject>
+        <meta content="{&quot;罗伯特•乔丹（Robert Jordan）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时光之轮" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:08+00:00" name="calibre:timestamp"/>
+        <meta content="时光之轮2  大猎捕（上下卷）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9395e15d-7343-44e2-a68d-dcba55bb1951</dc:identifier>
+        <dc:title>少有人走的路</dc:title>
+        <dc:creator opf:file-as="M·斯科特·派克" opf:role="aut">M·斯科特·派克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>这本书处处透露出沟通与理解的意味，它跨越时代限制，帮助我们探索爱的本质，引导我们过上崭新，宁静而丰富的生活；它帮助我们学习爱，也学习独立；它教诲我们成为更称职的、更有理解心的父母。归根到底，它告诉我们怎样找到真正的自我。
+正如开篇所言：人生苦难重重。M·斯科特·派克让我们更加清楚：人生是一场艰辛之旅，心智成熟的旅程相当漫长。但是，他没有让我们感到恐惧，相反，他带领我们去经历一系列艰难乃至痛苦的转变，最终达到自我认知的更高境界。</dc:description>
+        <dc:publisher>吉林文史出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807023777</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>少有人走的路</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>心智</dc:subject>
+        <dc:subject>人生</dc:subject>
+        <dc:subject>爱</dc:subject>
+        <meta content="{&quot;M·斯科特·派克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="心理" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:47+00:00" name="calibre:timestamp"/>
+        <meta content="少有人走的路" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

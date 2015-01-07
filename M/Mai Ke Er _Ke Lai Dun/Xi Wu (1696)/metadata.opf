@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">759c126a-0c92-4c70-928b-22ebb4600e28</dc:identifier>
+        <dc:title>猎物</dc:title>
+        <dc:creator opf:file-as="迈克尔·克莱顿" opf:role="aut">迈克尔·克莱顿</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>杰克曾在硅谷一家电子媒体公司担任程序设计部门的主管，他主要从事智能体程序的编写，并有小成就。杰克的妻子事业有成，她是艾克西莫斯技术公司的副总裁。这家公司正在研究一种运用于医疗实践的尖端纳米技术，如果这项技术成功，公司将会获得巨大的效益。朱丽亚负责这个项目，她野心勃勃，为此几乎付出了全部时间的精力，连家也顾不上了。渐渐地，杰克怀疑妻子有了外遇，而事实上问题在严重得多。
+    朱丽亚在一次车锅中受伤，艾克西莫斯技术公司邀请杰克去位于内华达州一个沙漠的秘密基地帮忙。原来朱丽亚负责的项目的试验出现了问题，一群纳米集群逃出了实验室，它们迅速进行智能进化，并按照杰克曾主持编写的“掠食猎物”程序成功运行。失去控制后，它们变成了现实世界中的可怕掠食者。纳米集群不仅在行动上像个掠食者，而且也不断地自复制，开始追求沙漠中的动物，当然它们对人也不放过。
+    当杰克发现纳米集群的强大能量时，他意识到它们的威胁远不限于沙漠中孤立的度验室。而且更可怕的是，杰克同时发现，这里的问题绝不仅仅是技术失控，事件的背后隐藏着更大的阴谋。危险随着时间的流逝正一步步逼近……</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806578582</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e0efdff8-6e9e-495d-b9c6-f36378757dba</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>迈克尔·克莱顿</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>纳米技术的夸张演绎</dc:subject>
+        <dc:subject>纳米</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>美国小说</dc:subject>
+        <meta content="{&quot;迈克尔·克莱顿&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:37+00:00" name="calibre:timestamp"/>
+        <meta content="猎物" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

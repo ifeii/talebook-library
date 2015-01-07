@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2872</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e99e86a-4578-46d3-97b6-9ac98058cea7</dc:identifier>
+        <dc:title>缔造苹果神话</dc:title>
+        <dc:creator opf:file-as="杰弗里•扬" opf:role="aut">杰弗里•扬</dc:creator>
+        <dc:creator opf:file-as="杰弗里•扬" opf:role="aut">威廉•西蒙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>美国著名作家斯科特•菲茨杰拉德曾经说过，在美国人的生活中，不会有第二次创业的经历。但他显然没有预料到史蒂夫•乔布斯会上演一次漂亮的“东山再起”。
+　　本书记录了在这个富有开创性的数字化商业时代，一位令世人称羡的风云人物的生活和工作经历。整部作品的材料多来源于硅谷和好莱坞，杰弗里•扬是第一位撰写史蒂夫•乔布斯传记的作家，他和这部作品的合著者威廉•西蒙从一个全新视角为读者展示了史蒂夫•乔布斯这个非凡的“电子神童”，并对他从一个默默无闻的中 学生成长为苹果公司的“重量级人物”和计算机革命的“弄潮儿”的传奇经历作了精彩绝伦的描绘。
+　　在数字商业社会风云变幻的年代，乔布斯也经历了人生的大起大落。他曾在盲目自大而众叛亲离，被自己创建的公司赶出去，甚至完全脱离了电脑世界。但正是在被赶出自己亲手创建的苹果公司10年之后，他又卷土重来，并在一次只有他才能成功发动的“公司政变”后，重新执掌了苹果公司的大权。毫无疑问，这是乔布斯在 数字化时代的尘器中所做出的最巨大、最让人佩服的成就。
+　　本书的出版并没有经过苹果公司授权，写作风格真实、大胆而泼辣，两位作者以锐利的眼光审视了苹果公司的兴衰成败与权力更迭，并对乔布斯本人做了全面的透析，既展示了他的过人智慧和商业成就，也没有回避他人格上的缺点和失当的行为。如果你想深入了解这位“数字之王”，了解他是如何纵横于电影、音乐和计算机 三个领域的，那么这本书你一定要读。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0bd3fda1-8335-440e-bf31-848e400212dd</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508608082</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>乔布斯</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>苹果</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>Apple</dc:subject>
+        <dc:subject>Jobs</dc:subject>
+        <dc:subject>互联网</dc:subject>
+        <dc:subject>mac</dc:subject>
+        <meta content="{&quot;杰弗里•扬&quot;: &quot;&quot;, &quot;威廉•西蒙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:42+00:00" name="calibre:timestamp"/>
+        <meta content="缔造苹果神话" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

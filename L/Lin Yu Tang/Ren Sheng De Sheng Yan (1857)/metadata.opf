@@ -6,19 +6,27 @@
         <dc:title>人生的盛宴</dc:title>
         <dc:creator opf:file-as="林语堂" opf:role="aut">林语堂</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-08-14T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;《人生的盛宴》主要分为无所不谈、谈古论今、闲情雅趣、人生滋味、文苑勺拾、山海游历、臧否人物这七辑,收录了他的论读书、古书有毒辩、从梁任公的腰说起、孟子说才志气欲、论性灵、我怎样买牙刷、论文艺如何复兴法子、老北京的精神、闲话说东坡等众多作品。林语堂先生的散文其实就是他自身生活的真实写照,在传统文人的一方面,他是个中规中矩的君子;而在现代文化的一方面,他又是一位不折不扣的绅士。他之倡导闲适幽默,其实正是在以“文”养“性”,又复依“性”为“文”,这种纯粹个人的修为,应当说跟一般文学史著述中的所谓背离时局或者帮忙帮闲之类实在没有太大的干系。 《人生的盛宴》是从林语堂大量的中文、英文中译本著作中有关人生、生活、文艺等方面的论著中选编而成的。从这些文章中我们可以较为集中地了解到林语对人生、生活、文艺的见解。&lt;/p&gt;</dc:description>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《人生的盛宴》主要分为无所不谈、谈古论今、闲情雅趣、人生滋味、文苑勺拾、山海游历、臧否人物这七辑，收录了他的论读书、古书有毒辩、从梁任公的腰说起、孟子说才志气欲、论性灵、我怎样买牙刷、论文艺如何复兴法子、老北京的精神、闲话说东坡等众多作品。林语堂先生的散文其实就是他自身生活的真实写照，在传统文人的一方面，他是个中规中矩的君子；而在现代文化的一方面，他又是一位不折不扣的绅士。他之倡导闲适幽默，其实正是在以“文”养“性”，又复依“性”为“文”，这种纯粹个人的修为，应当说跟一般文学史著述中的所谓背离时局或者帮忙帮闲之类实在没有太大的干系。 《人生的盛宴》是从林语堂大量的中文、英文中译本著作中有关人生、生活、文艺等方面的论著中选编而成的。从这些文章中我们可以较为集中地了解到林语对人生、生活、文艺的见解。</dc:description>
         <dc:publisher>江苏文艺</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">3d360e71-6ccc-4094-b416-c2fa3674e66c</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9787539925189</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3d360e71-6ccc-4094-b416-c2fa3674e66c</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>Literature</dc:subject>
+        <dc:subject>林语堂</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>文化学</dc:subject>
+        <dc:subject>睿智</dc:subject>
+        <dc:subject>随笔</dc:subject>
         <meta content="{&quot;林语堂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:06:30.142342+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:54+00:00" name="calibre:timestamp"/>
         <meta content="人生的盛宴" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

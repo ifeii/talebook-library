@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9434dbc9-12af-4509-a6a2-7e4a7491cfef</dc:identifier>
+        <dc:title>那些回不去的年少时光·终场</dc:title>
+        <dc:creator opf:file-as="桐华" opf:role="aut">桐华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-31T16:00:00+00:00</dc:date>
+        <dc:description>故事虽落幕，青春不终场！经过孤独的小学时光，混乱的初中生涯，罗琦琦来到了高中。和所有走过那段岁月的人一样，面对高考的折磨，罗琦琦虽然不情愿，却也无法做到不在乎，学习并不好的她，性格倔强不服输的她，究竟如何才能完成完美转身？
+爱情，也是挑战她的另一大命题。她和他又走到了一起，他对她似乎已经倾心，只是她们身后还有一个他。她该如何面对，又该如何选择？
+青春期的友情叫人唏嘘和心碎，青春期爱情叫人甜蜜又纠结，世纪末的社会如此复杂，叫人难以理清头绪。罗琦琦和她的同学们，就这样孤独而热闹地，混沌而逐渐清醒地成长起来了……
+这是最完美的结局，也有最辛酸的告别，还有最残忍的长大，以及最难忘的回忆！
+请相信，那些偷偷溜走的时光，催老了我们的容颜，却丰盈了我们的人生。
+请相信，我们历经世事后的沧桑容颜，不仅仅让我们学会了冷漠的自我保护，还让我们学会了仁慈的体谅他人。
+请相信，这世上有东西会比时间更永恒，那就是我们爱别人，爱自己的心。
+请相信，青春的可贵并不是因为那些年轻时光，而是那颗盈满了勇敢和热情的心，不怕受伤，不怕付出，不怕去爱，不怕去梦想。
+请相信，青春的逝去并不可怕，可怕的是失去了勇敢地热爱生活的心。
+在《那些回不去的年少时光:终场》中，你可以看到所有你曾热爱却正在遗忘的人和事，更可以看到属于自己的青春和成长。</dc:description>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539936680</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>桐华</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>那些回不去的年少时光终场</dc:subject>
+        <dc:subject>那些回不去的年少时光</dc:subject>
+        <dc:subject>回忆</dc:subject>
+        <dc:subject>青春文学</dc:subject>
+        <meta content="{&quot;桐华&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:18+00:00" name="calibre:timestamp"/>
+        <meta content="那些回不去的年少时光·终场" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

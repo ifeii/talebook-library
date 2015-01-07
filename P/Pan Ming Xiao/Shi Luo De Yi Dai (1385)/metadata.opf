@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">423a4918-9ef0-491b-a996-e6f8011c049e</dc:identifier>
+        <dc:title>失落的一代</dc:title>
+        <dc:creator opf:file-as="潘鸣啸" opf:role="aut">潘鸣啸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>对中国上山下乡运动的全方位研究
+当代中国史研究的重要一章
+本书从思想理论的角度，对上山下乡运动的兴衰进行了最系统深刻的剖析。
+本书是西方学者研究中国知青史的精审之作。
+1966年中国掀起“文化大革命”，学校停课，城镇中学生先“闹革命”，当红卫兵，后被遣送到农村去。据统计，1968至1980年间的下乡人数，大约有一千七百万。这场有组织的大规模人口迁移，是一场彻底的政治运动，名为“上山下乡运动”，在世界或在中国来看，都是史无前例的。这场运动对整整这一代城镇青年产生了深远的影响。不仅打乱了他们的生活秩序，使他们失去了受教育的机会，而且影响他们的家庭，以及整个城市社会，甚至农村社会。这整一代人可以被称作“失落的一代”。
+本书揭示了发起这场运动的领导人公开或隐蔽的动机，与他们为达到目的所使用的手法，同时分析了他们的这些决定在整个社会上所引致的后果。本书也探讨了下乡运动进行了二十多年（包括“文化大革命”前小规模的运动），为何会在1980年突然寿终正寝，并且研究了这场运动在中国社会、政治及经济上留下了什么印记，以及它在中国当代历史上应该占一个什么位置。
+本书对中国的上山下乡运动作了全方位研究，指出其动因不仅在经济人口方面，也在政治方面，论述之广泛，分析之深入，构成了当代中国史研究重要的一章。
+徐友渔，中国社会科学院研究员
+作者是第一位用中文在中国发表知青问题论文的西方学者，是第一位深入到知青中并且从事知青研究的西方学者，同时还是唯一一位几十年如一日始终以研究知青问题为己任的西方学者。
+刘小萌，知青史专家
+作者是法国汉学家，却对中国当代历史有极为准确的洞察。作为同龄人，他对于中国知青的命运既有深切的同情理解，又有立足国际视角的冷静分析。我也是当年的知青，对此书颇为认同和喜爱。
+丁东，书评人
+这本书以翔实的资料及充分的论据阐释了当年发生的令人心寒的历史事实。
+Andre Laliberte, China Quarterly
+中国知识青年上山下乡运动虽为一重要事件，但却远不如红卫兵造反那么广为人知。如今，潘鸣啸终于为我们完成了一本含有确凿证据的学术论着。
+Lucien Bianco, China Perspectives
+眼前这本巨作汇集了曾经经历过那悲惨时期的各路英雄的面谈记录，对纷繁杂陈的中国资料抽丝剥茧寻根究底，经过长期酝酿，最终给我们清晰地勾画出“文化大革命”的一个不可忽略的重要侧面。
+Marie-Claire Bergere, Vingtieme Siecle</dc:description>
+        <dc:publisher>中国大百科全书出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500082545</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>知青</dc:subject>
+        <dc:subject>文革</dc:subject>
+        <dc:subject>上山下乡</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>潘鸣啸</dc:subject>
+        <dc:subject>失落的一代</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <meta content="{&quot;潘鸣啸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:44+00:00" name="calibre:timestamp"/>
+        <meta content="失落的一代" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

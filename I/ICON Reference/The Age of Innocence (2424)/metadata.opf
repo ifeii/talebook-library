@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91e51b3e-2682-4a09-9ae3-6b3153f1f44f</dc:identifier>
+        <dc:title>The Age of Innocence</dc:title>
+        <dc:creator opf:file-as="ICON Reference" opf:role="aut">ICON Reference</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-28T16:00:00+00:00</dc:date>
+        <dc:description>If you are either learning German, or learning English as a second language (ESL) as a German speaker, this book is for you. There are many editions of The Age of Innocence. This one is worth the price if you would like to enrich your German-English vocabulary, whether for self-improvement or for preparation in advanced of college examinations. Each page is annotated with a mini-thesaurus of uncommon words highlighted in the text. Not only will you experience a great classic, but learn the richness of the English language with German synonyms at the bottom of each page. You will not see a full translation of the English text, but rather a running bilingual thesaurus to maximize the reader's exposure to the subtleties of both languages.</dc:description>
+        <dc:publisher>Icon Health</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780497257521</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>German</dc:subject>
+        <dc:subject>Foreign Language Study</dc:subject>
+        <meta content="{&quot;ICON Reference&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:38+00:00" name="calibre:timestamp"/>
+        <meta content="Age of Innocence, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

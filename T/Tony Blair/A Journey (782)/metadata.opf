@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a817159-e6cb-458d-bd60-02db558f4cdc</dc:identifier>
+        <dc:title>A Journey</dc:title>
+        <dc:creator opf:file-as="Tony Blair" opf:role="aut">Tony Blair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-31T16:00:00+00:00</dc:date>
+        <dc:description>In 1997, Tony Blair won the biggest Labour victory in history to sweep the party to power and end eighteen years of Conservative government. He has been one of the most dynamic leaders of modern times; few British prime ministers have shaped the nation's course as profoundly as Blair during his ten years in power, and his achievements and his legacy will be debated for years to come. Now his memoirs reveal in intimate detail this unique political and personal journey, providing an insight into the man, the politician and the statesman, and charting successes, controversies and disappointments with an extraordinary candour.  A Journey  will prove essential and compulsive reading for anyone who wants to understand the complexities of our global world. As an account of the nature and uses of power, it will also have a readership that extends well beyond politics, to all those who want to understand the challenges of leadership today.</dc:description>
+        <dc:publisher>Hutchinson</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780091925550</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>TonyBlair</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>Tony_Blair</dc:subject>
+        <dc:subject>傳記</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <meta content="{&quot;Tony Blair&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:54+00:00" name="calibre:timestamp"/>
+        <meta content="Journey, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58b5e1f0-68ac-4c85-b148-bffd02538061</dc:identifier>
+        <dc:title>美学散步</dc:title>
+        <dc:creator opf:file-as="宗白华" opf:role="aut">宗白华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-05-31T16:00:00+00:00</dc:date>
+        <dc:description>宗先生一生著述不多，而《美学散步》则几乎汇集了其一生最精要的美学篇章，也是先生生前唯一的一部美不著作。初版于1981年，此次重版，除新增若干照片、校正部分错字外，基本保持原貌。对于这样一位源生于传统文化、洋溢着艺术灵性和诗情、深得中国美学精魂的大师以及他散步时低低的脚步声，在日益强大的现代化的机器轰鸣声中，也许再也难以再现了。然而，如何在愈益紧张的异化世界里，保持住人间的诗意和生命的憧憬，不正是现代人所要关注的一个世界性问题吗？而《美学散步》正好能给我们以这方面的启迪。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fce34b8f-0809-4d52-b933-53e68b03629f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208025738</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>美学</dc:subject>
+        <dc:subject>宗白华</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>美学散步</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;宗白华&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:02+00:00" name="calibre:timestamp"/>
+        <meta content="美学散步" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

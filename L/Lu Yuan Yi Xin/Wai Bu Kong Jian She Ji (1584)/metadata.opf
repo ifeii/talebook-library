@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aa39cfd-33ca-4f13-9698-5668f64f3901</dc:identifier>
+        <dc:title>外部空间设计</dc:title>
+        <dc:creator opf:file-as="芦原义信" opf:role="aut">芦原义信</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《外部空间的设计》是日本著名建筑师芦原义信的作品，1975年由日本彰国社出版。芦原义信1942年毕业于东京大学，现任东京大学教授，并开设有芦原义信建筑研究所。他曾主持设计了1967年蒙特利尔国际博览会日本馆、驹泽公园奥林匹克体育馆等建筑。1960年起，他即开始研究外部空间问题，为此曾两度到意大利考察。作者在书中通过对比，分析意大利和日本的外部空间，提出了积极空间、消极空间、加法空间、减法空间等一系列饶有兴味的概念；并结合建筑实例，对庭园、广场等外部空间的设计提出了一些独到的见解。全书共四章。</dc:description>
+        <dc:publisher>中国建筑工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787112003549</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>建筑</dc:subject>
+        <dc:subject>芦原义信</dc:subject>
+        <dc:subject>外部空间设计</dc:subject>
+        <dc:subject>建筑理论</dc:subject>
+        <dc:subject>设计</dc:subject>
+        <dc:subject>城市设计</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>景观</dc:subject>
+        <meta content="{&quot;芦原义信&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:03+00:00" name="calibre:timestamp"/>
+        <meta content="外部空间设计" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

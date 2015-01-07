@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f86d3e1-5e3b-4b74-8b19-9143a52d32d7</dc:identifier>
+        <dc:title>厄运连锁</dc:title>
+        <dc:creator opf:file-as="李查德" opf:role="aut">李查德</dc:creator>
+        <dc:creator opf:file-as="李查德" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《厄运连锁》内容简介：李奇并非一直都是独行侠，他与军中的“特调小组”曾是默契绝佳、生死与共的好伙伴。但现在，其中一名成员法兰兹，居然被人活生生从三千英尺高空的直升机上丢下来！为了查出法兰兹为何而死，李奇再度召集当年所向披靡的“特调小组”成员，但又有两个人下落不明。“特调小组”的成员接连死亡和失踪，绝不可能只是巧合！李奇深入追查后发现，这一切似乎和一桩足以威胁国家安全的秘密交易有关！但时间已经不多了，究竟应该先保护国家，还是拯救老友？面对这艰难的抉择，李奇第一次犹豫了。</dc:description>
+        <dc:publisher>中国华侨出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787511318657</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>李查德</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>杰克·李奇</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>弘文馆</dc:subject>
+        <dc:subject>李·恰尔德</dc:subject>
+        <meta content="{&quot;李查德&quot;: &quot;&quot;, &quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:31:01+00:00" name="calibre:timestamp"/>
+        <meta content="厄运连锁" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

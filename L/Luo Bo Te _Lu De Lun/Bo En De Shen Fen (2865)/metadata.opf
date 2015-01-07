@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2f7636b-e136-454f-a9a0-0a24413cc784</dc:identifier>
+        <dc:title>伯恩的身份</dc:title>
+        <dc:creator opf:file-as="罗伯特·陆德伦" opf:role="aut">罗伯特·陆德伦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-08T05:00:00+00:00</dc:date>
+        <dc:description>他没有过去，也可能不再会有未来。他只知道自己被人从地中海捞起时，身上遍布了弹孔。他动过整容手术，臀部皮下还藏着微型胶片，其内容是一组数字……这些线索引领他来到了苏黎世银行，却发现一个陌生的身份，和一个四百万美金巨款的神秘账户！
+但他的出现引来了一连串追捕与谋杀。在这场致命的谜团中，他只能奋力挣扎求生，并试图找回他失去的记忆和真正的身份。他曾在黑暗的大海里被人救起；而此刻，他即将闯入另一个更险恶、更令人惊惧的黑暗中。
+他心思细腻，满怀恐惧，茫然迷惑。他的内心潜藏着无穷的暴力，然而，却又那么悲天悯人。同时，他还有一种可怕的能力，足以和一个不为人知的世界抗衡搏斗。他究竟是什么来历？他在哪里学到这一身本事？巴黎，马赛，苏黎世……甚至在那遥远的东方，他和那里到底有什么关联？
+他就是杰森·伯恩……
+试读：http://www.wenjingbook.com/wj/zt/zt213.asp</dc:description>
+        <dc:publisher>上海人民出版社 世纪文景</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208078178</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8d0b3fb5-1e58-4e7f-b283-7a3552cd3a18</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>罗伯特·陆德伦</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>伯恩的身份</dc:subject>
+        <dc:subject>间谍</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>伯恩</dc:subject>
+        <meta content="{&quot;罗伯特·陆德伦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:36+00:00" name="calibre:timestamp"/>
+        <meta content="伯恩的身份" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

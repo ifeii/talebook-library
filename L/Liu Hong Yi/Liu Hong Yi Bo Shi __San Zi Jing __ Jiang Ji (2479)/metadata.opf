@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">026313b9-c71f-477e-babb-fc33d9456046</dc:identifier>
+        <dc:title>刘宏毅博士《三字经》讲记</dc:title>
+        <dc:creator opf:file-as="刘宏毅" opf:role="aut">刘宏毅</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《刘宏毅博士"三字经"讲记》作者刘宏毅博士，古人说：“一日不读圣贤书，面目皆非。”我们一百多年不读圣贤书了，结果是十几亿中国人灵魂游荡，找不到自己的归属，找不到自己的归属，失掉了文化本位的根。如果我们这一代人，不努力接过尚健在的老一辈人手中，中国文化的接力棒，让中国文化断档在我辈手中，我们就真的愧对祖先了。
+　　我立志走传统的路线，不单纯为政治而改变我的意志，我也不要任何学术上的桂冠和职称，更不搞迷信崇拜那一套。我坚信任何优秀的民族文化，都首先教人做一个优秀的人，这是根本，其余都为枝末。</dc:description>
+        <dc:publisher>海南</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544320665</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>蒙学</dc:subject>
+        <dc:subject>儿童教育</dc:subject>
+        <dc:subject>中国文化</dc:subject>
+        <dc:subject>早教</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>故纸堆儿</dc:subject>
+        <meta content="{&quot;刘宏毅&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:29:41+00:00" name="calibre:timestamp"/>
+        <meta content="刘宏毅博士《三字经》讲记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

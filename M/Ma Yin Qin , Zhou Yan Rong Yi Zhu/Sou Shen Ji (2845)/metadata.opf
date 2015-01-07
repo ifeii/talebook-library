@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d7e58e4-54e6-4979-86b2-21f383530019</dc:identifier>
+        <dc:title>搜神记</dc:title>
+        <dc:creator opf:file-as="马银琴、周广荣译注" opf:role="aut">马银琴、周广荣译注</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-31T16:00:00+00:00</dc:date>
+        <dc:description>内容简介：
+我国最早的志怪小说集
+《搜神记》是东晋初年著名史学家干宝所撰，现存20卷，共有大小故事454个。以辑录鬼怪神仙故事为主，也包括一些琐闻杂记和不少民间传说，大多篇幅短小，情节简单，设想奇幻，极富浪漫主义色彩，是直承《穆天子传》及《山海经》影响而出现的。代表了中国志怪小说的最高成就。</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101070002</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">9ad498d1-a735-415b-af10-14e3fecda92d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>古代志怪</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国古典文学</dc:subject>
+        <dc:subject>中华书局</dc:subject>
+        <dc:subject>中华经典藏书</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>风俗</dc:subject>
+        <meta content="{&quot;马银琴、周广荣译注&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:17+00:00" name="calibre:timestamp"/>
+        <meta content="搜神记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

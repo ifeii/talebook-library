@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e27d98c8-1860-420d-879c-6e17d8c90825</dc:identifier>
+        <dc:title>制空权</dc:title>
+        <dc:creator opf:file-as="朱里奥·杜黑" opf:role="aut">朱里奥·杜黑</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>在《制空权》这本主要著作中，作者系统地论述了空中战争理论。其主要观点是：
+一、飞机在战争舞台上的出现，彻底改变了以往战争的面貌。未来战争将出现一个与陆上战场、海上战场并列的空中战场。空中战争的胜负将决定战争的结局，空军的作用将超过海军和陆军，因此有必要建立独立的空军。
+二、在未来战争中，夺取制空权是赢得战争胜利的必要条件，丧失制空权就意味着失败。夺取制空权只能依靠空军，而空军也应当将其作为自己的首要的作战任务。
+三、空军在未来战争中要作为一支进攻性力量来使用，要集中大量飞机对敌人的军事目标、后方城市、居民中心实施战略轰炸，从物质和精神上摧毁其抵抗，迫使其屈服。
+四、空军应当统一指挥，集中使用，而不应将其力量分散。为了抓好和平时期的空军建设，应当发展民用商业航空事业，作为空军的后备。建立强大先进的航空工业，使本国航空技术始终保持先进水平。
+杜黑在世时，世界各国空军发展还处于初级阶段，他的理论许多是带有预测性的。后来这本奠定制空权理论基础的著作风行于世界，引起各国对空军建设的关注。比他小十岁的美国航空兵军官米切尔更是与杜黑遥相呼应，接连在报刊上发表文章，介绍战略轰炸理论，主张美国应当建立独立的空军，并将文章和汇编成书，取名《空中战争论》。到第二次世界大战时，空军已发展成为一支独立的力量，在战争中起了决定性的作用。</dc:description>
+        <dc:publisher>解放军出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506516822</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>战略理论</dc:subject>
+        <dc:subject>制空权</dc:subject>
+        <dc:subject>空军</dc:subject>
+        <dc:subject>杜黑</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>空战理论</dc:subject>
+        <dc:subject>航空</dc:subject>
+        <meta content="{&quot;朱里奥·杜黑&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:21+00:00" name="calibre:timestamp"/>
+        <meta content="制空权" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

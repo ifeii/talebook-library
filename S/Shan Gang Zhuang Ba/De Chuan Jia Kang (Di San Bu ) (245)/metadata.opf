@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8aed592-0f2c-465b-b79d-3e1c35d4884a</dc:identifier>
+        <dc:title>德川家康（第三部）</dc:title>
+        <dc:creator opf:file-as="山冈庄八" opf:role="aut">山冈庄八</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《德川家康》洋洋五百五十万言，将日本战国中后期织田信长、武田信玄、德川家康、丰臣秀吉等群雄并起的历史苍劲地铺展开来。在这样一个英雄辈出的时代，德川家康最终脱颖而出，结束战国烽烟，开启三百年太平盛世。作品展现了德川家康作为乱世终结者和盛世开创者丰满、曲折、传奇的一生，书中每一行每一页都充满着智慧与杀伐、谋略与权术、天道与玄机！它不仅成为商战兵法、政略宝典、兵家必备，更是不朽的励志传奇。
+本书历时十八年始得完成，图书出版后，一时洛阳纸贵，掀起极大反响，日本前首相中曾根康弘要求日本内阁成员必读《德川家康》；经营之神、日本松下电器创建人松下幸之助要求松下员工必读《德川家康》；美国前驻日大使赖世和说：“要了解日本、超越日本，必须先了解德川家康。”著名史学家、作家柏杨先生则认为：“中国有两部书的影响力可以和《德川家康》相比，一是《资治通鉴》，一是《三国演义》。”</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544238175</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>山冈庄八</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>日本战国</dc:subject>
+        <meta content="{&quot;山冈庄八&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="德川家康" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:01+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康（第三部）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

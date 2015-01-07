@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2862</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa128789-ad42-4072-8af1-b1ebac853a8a</dc:identifier>
+        <dc:title>大江大海1949(插图版)</dc:title>
+        <dc:creator opf:file-as="龙应台" opf:role="aut">龙应台</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-09T05:00:00+00:00</dc:date>
+        <dc:description>《大江大海一九四九》是台湾作家龙应台在酝酿十年闭关写作一年于2009年9月推出的新书,该书以龙应台父母亲的1949年出发,看民族的流亡迁徙,看上一代的生死离散,倾听战后的幸存者、乡下的老人家。为此,龙应台一年间足迹遍布三大洋五大洲,寻访历史人物的声音。《大江大海一九四九》是龙应台跨民族、跨历史、跨省籍的一本书。
+用文学书写,对上一代致敬与告别写作过程中,龙应台为搜集史料跑遍了三大洋五大洲,更上山下海、求助各种单位,才一一发掘出这些“不知名的小人物”,将那个时代生死契阔的流离经历写成这部书,像是她好不容易从一串新几内亚拉包尔战俘营的名单中,联络到老兵利瓦伊恂,却听见他说:“我知道为什么我所有的同伴都死光了,只剩下我还活着。因为,我在等这一通电话。”
+《大江大海一九四九》这本书以女孩“美君”在兵荒马乱中离开淳安家乡为起头,“美君”就是龙应台的母亲;“龙应台”的名字,代表她是离乱中第一个出生在台湾的孩子。“远离了1949年的价值观,我们的上一代逐渐发展出温柔的、文明的价值观,所以我们应该对他们充满深情的致谢和无尽的感恩,起点就是,说一声深深的对不起。”
+
+感谢原制作者:Jshzy007
+
+【小T出品】</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f1bd4e0-a201-413e-96ab-1ca98c44439d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>台港澳文学</dc:subject>
+        <meta content="{&quot;龙应台&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T11:28:02.982787+00:00" name="calibre:timestamp"/>
+        <meta content="大江大海1949(插图版)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

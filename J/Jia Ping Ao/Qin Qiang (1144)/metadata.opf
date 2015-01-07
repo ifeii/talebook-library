@@ -1,25 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1144</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5aa14dea-c6c3-4565-8250-58f6f5f5d9fa</dc:identifier>
         <dc:title>秦腔</dc:title>
         <dc:creator opf:file-as="贾平凹" opf:role="aut">贾平凹</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-01-10T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;《秦腔》以一个陕南村镇为焦点，集中表现了改革开放中乡村的价值观念、人际关系和传统格局的巨大而深刻的变化，被称为“一卷中国当代乡村的史诗”。书中写到了中国农村生活20年来变化中的种种问题，比如为什么有大量农民离开农村，农民如何一步步从土地上消失等等，同时加入了作者对当今社会转型期农村各种新情况的思考和关注。&lt;br&gt;　　《秦腔》并非写戏台上唱的秦腔，而是以凝重的笔触，讲述了农民与土地的关系、新时期农民的生存状态，解读中国农村20年历史。&lt;br&gt;　　《秦腔》是一部“反史诗的乡土史诗”，有史诗般庞大的规模和厚重的质地。贾平凹用文字还原和营造了一个活生生的世界，是对将要成为绝唱的农村生活作的“挽歌”。是对传统乡土的一种“回归与告别的双重姿态”。&lt;br&gt;　　贾平凹说：“如果你慢慢去读，能理解我的迷茫和辛酸。”&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《秦腔》以一个陕南村镇为焦点，讲述了农民与士地的关系、农民的生存状态，通过一个叫引生的“疯子”的眼光，书写了对农民沉重的负担及农村文化的失落所寄予的深层忧虑与深切同情。作品以凝重的笔触，解读中国农村20年的历史，集中展示了乡村价值观念和传统格局巨大而深刻的变迁，是“一卷中国当代乡村的史诗”。
+以贾平凹生长于斯的故乡棣花街为原型，通过一个叫清风街的地方近二十年来的演变和街上芸芸众生的生老病死、悲欢离合生动地表现了中国社会的历史转型给农村带来的震荡和变化。小说采取疯子引生的视角来叙述。清风街有两家大户：白家和夏家，白家早已衰败，因此夏家家族的变迁演便成了清风街、陕西乃至中国农村的象征……</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787020068913</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:MDWX</dc:subject>
-        <dc:subject>ZDC:XDWX</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>贾平凹</dc:subject>
+        <dc:subject>茅盾文学奖</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>陕西</dc:subject>
+        <dc:subject>秦腔</dc:subject>
+        <dc:subject>中国当代文学</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;贾平凹&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="小说" name="calibre:series"/>
         <meta content="58" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-08-24T15:35:15+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:29+00:00" name="calibre:timestamp"/>
         <meta content="秦腔" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

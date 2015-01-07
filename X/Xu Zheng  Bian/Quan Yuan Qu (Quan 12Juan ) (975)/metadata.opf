@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd90c7f7-6ec7-4251-b0b6-bc4202e75a5a</dc:identifier>
+        <dc:title>全元曲（全12卷）</dc:title>
+        <dc:creator opf:file-as="徐征 编" opf:role="aut">徐征 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-07-31T16:00:00+00:00</dc:date>
+        <dc:description>12卷本《全元曲》将元代现存全部杂剧和散曲作品集录而成700余万字的煌煌巨著，收录元代287位存名曲作家和诸佚名曲作者现存的所有作品，包括完整杂剧162种、残剧46种，着录佚目429种，共637种；包括散曲4609支(套)，堪称有元一代杂剧和散曲作品的总汇。全书的注释，在尊重编著者个人学术见解的同时，尽可能多的吸收近年来海内外学人的最新研究成果，努力使《全元曲》成为20世纪这一领域研究精华的集成。在所书的每一作家名下，除刊印其作品外，均附有作家小传，介绍其籍贯、简要生平、主要创作活动、前人的重要评述等。每一处杂剧还附有汇集与剧情有关文献资料的〝本事〞，罗列剧目的历史文献和版本情况的着录、版本等内容。本书的问世，填补了中国元曲整理、研究及出版的一项空白。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787543432895</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>元曲</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>戏曲</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>I1</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>资料</dc:subject>
+        <dc:subject>集</dc:subject>
+        <meta content="{&quot;徐征 编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诗词" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:09+00:00" name="calibre:timestamp"/>
+        <meta content="全元曲（全12卷）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

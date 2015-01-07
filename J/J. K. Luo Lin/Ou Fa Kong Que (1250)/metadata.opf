@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd0f0d45-a3f3-4671-bc24-8a5a291f8bb0</dc:identifier>
+        <dc:title>偶发空缺</dc:title>
+        <dc:creator opf:file-as="J. K. 罗琳" opf:role="aut">J. K. 罗琳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-30T16:00:00+00:00</dc:date>
+        <dc:description>巴里•菲尔布拉泽在高尔夫俱乐部外的猝死掀起了帕格镇的轩然大波。以镇上第一家庭自居的莫里森家自然视空出来的议席为囊中物，可惜其他人并不这样想。整天在家里打老婆揍孩子的西蒙•普莱斯就认为他也有机会得到肥缺，还有衣冠楚楚、神经过敏的副校长“鸽笼子”•沃尔，俨然视自己为发扬死者精神的不二人选。这些男人身旁的女人也是个个出彩，都不是省油的灯，有的“卖着超大号胸罩”、对除老公之外的俊男春梦连连；也有的精神洁癖，计划干掉出轨的丈夫。
+这群家境殷实、热闹非凡的帕格镇民共同的敌人是一片名为“丛地”的贫民区，那里的肮脏和堕落以妓女兼瘾君子特莉的一家为代表。在帕格镇人眼里，“丛地”就像黏在人身上的吸血蚂蝗，浪费资源，污染环境，穷人们潦倒的生活无非是咎由自取，贝尔堂戒毒所更是没有存在的必要。巴里生前竭尽全力想要帮助“丛地”，他的死亡斩断了贫富之间的联系，帕格镇开始不遗余力地想要将挖去那根眼中钉，关于议席的竞争同样也围绕着戒毒所和“丛地”本身的去留而闹得沸沸扬扬。罗琳的笔如探照灯般深入了每户人家的门后，将平静表象下的暗流涌动暴露出来。夫妻、亲子、同事、朋友、恋人，种种矛盾撕扯着小小的帕格镇，描绘出众生百态、微缩现实。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020094929</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>J.K.罗琳</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国文学</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>2012</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;J. K. 罗琳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="76" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:29+00:00" name="calibre:timestamp"/>
+        <meta content="偶发空缺" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: &quot;小说&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

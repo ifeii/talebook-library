@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0eeb4f28-fc7c-4f05-8dd1-d39abf5cce71</dc:identifier>
+        <dc:title>怀斯曼生存手册Ⅲ-顶级驾驶</dc:title>
+        <dc:creator opf:file-as="约翰·怀斯曼" opf:role="aut">约翰·怀斯曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《怀斯曼生存手册Ⅲ顶级驾驶》是一部驾车者必备的防御性驾驶高级技巧手册。书中详细介绍了驾驶基本知识、安全驾驶规则、汽车维护保养、应付紧急情况的策略、恶劣天气条件下驾驶和野外驾驶的技巧和禁忌等内容，是所有驾车者——从菜鸟到最有经验的老手——解决所有的行车难题的生存教材。约翰·怀斯曼是英国皇家特种部队教官，在英国陆军特种部队服役26年。他驾车周游过全世界，经常是在恶劣到难以想象的条件下驾驶。根据自己多年的驾车经验，约翰•怀斯曼撰写了这本行车手册，将使每一位驾驶者信心十足且安全地驾游于任何地方。
+《怀斯曼生存手册Ⅲ顶级驾驶》的宗旨，也是英国皇家特种部队（SAS）的宗旨，是将你和你的车放到世界上的任何角落，然后，凭借本书中的技巧和你强大的求生意志，生存下来。</dc:description>
+        <dc:publisher>北方文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787531723127</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>驾驶</dc:subject>
+        <dc:subject>生存手册</dc:subject>
+        <dc:subject>怀斯曼</dc:subject>
+        <dc:subject>生存</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>旅行</dc:subject>
+        <dc:subject>怀斯曼生存手册Ⅲ-顶级驾驶</dc:subject>
+        <dc:subject>怀斯曼生存手册</dc:subject>
+        <meta content="{&quot;约翰·怀斯曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:49+00:00" name="calibre:timestamp"/>
+        <meta content="怀斯曼生存手册Ⅲ-顶级驾驶" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32b9fda0-1393-4709-8bb6-09fee2da8b2a</dc:identifier>
+        <dc:title>雪国中的水月――川端康成作品导读</dc:title>
+        <dc:creator opf:file-as="张国安" opf:role="aut">张国安</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-07-31T16:00:00+00:00</dc:date>
+        <dc:description>本书为《外国文学名著导读丛书》之一。在二十世纪即将走完后最后一个年头之际，奉献上一套与“世界文化名人传记丛书”配套的丛书——“世界文学名著导读丛书”。每一本传记配一本“作品导读”，这样，当读者在读完了某位作家的传记以后，假如对他的作品也发生兴趣的话，就可读一读与之配套的“名著导读”。</dc:description>
+        <dc:publisher>世界图书出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506239035</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>导读</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>川端康成</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>欧美</dc:subject>
+        <dc:subject>流行</dc:subject>
+        <meta content="{&quot;张国安&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:26:27+00:00" name="calibre:timestamp"/>
+        <meta content="雪国中的水月――川端康成作品导读" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

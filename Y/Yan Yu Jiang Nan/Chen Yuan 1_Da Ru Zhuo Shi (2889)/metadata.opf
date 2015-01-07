@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1b117ec-6eab-409a-b0a2-c58925818caf</dc:identifier>
+        <dc:title>塵緣1·打入濁世</dc:title>
+        <dc:creator opf:file-as="煙雨江南" opf:role="aut">煙雨江南</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-18T16:00:00+00:00</dc:date>
+        <dc:description>一塊青石，因為聽得一巡界仙人頌讀天書九卷之故，得以脫卻石體，修成仙胎，卻無意中縱走一隻天妖，被降罪打入濁世，而那位巡界仙人也因此被清退仙班，在墮入輪迴之前，兩人相約三生。
+這個謫仙，自然引起正魔兩道的搶人大戰，只是令人萬萬想不到的是，謫仙早被殺害，而他們爭奪的這個人，卻是一個客棧跑堂打雜的小廝，只是掛在他項上的那塊青石，卻又是實實在在的仙物，難道這回連仙物都錯認了主兒？</dc:description>
+        <dc:publisher>鮮鮮文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866940569</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">4280ab81-344e-4300-b202-60fba04ba973</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>仙侠</dc:subject>
+        <dc:subject>烟雨江南</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>青衣，纪若尘，烟雨江南，奇幻</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>青衣</dc:subject>
+        <meta content="{&quot;煙雨江南&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:58+00:00" name="calibre:timestamp"/>
+        <meta content="塵緣1·打入濁世" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

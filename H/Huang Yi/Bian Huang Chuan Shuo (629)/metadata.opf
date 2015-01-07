@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">872205cd-67a5-4928-9be1-4d317ca23b1c</dc:identifier>
+        <dc:title>边荒传说</dc:title>
+        <dc:creator opf:file-as="黄易" opf:role="aut">黄易</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《边荒传说(卷15)》讲述了：黄易乃新一代科幻和武侠小说作家，自创“玄幻系列”和“异侠系列”，以独特的笔触，深刻的思想，妙想天开的情节，动人的性格意境，深受读者思想，妙想天开的情节，动人的性格意境，深受读者欢迎，俨然带起了一股新品种小说的潮流。虽说其中真正的影响，现时言之仍是过早，但黄易小说却毫无疑问正走在时代的尖端上，以最奇异的笔下世界，以他那种震撼性的方式和风格，进行着对这时代的深省。无论在他超时空的国度里，又或在古老日子里对武道的追求中，他都在寻找人类超越自己的可能性。看他的书，便若跨越了现实和幻想的边防，踏足于一个接一个玄异的梦域里。
+慕容垂和纪千千并骑驰上高岗，遥望西边落日的壮丽美景，原野绿白斑驳交杂，正是大地春回开始雪融的奇景。
+在七八里的远处，出现一座城池。对纪千千来说……</dc:description>
+        <dc:publisher>华文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787507519341</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>黄易</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>边荒传说</dc:subject>
+        <dc:subject>武侠小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>燕飞</dc:subject>
+        <dc:subject>武侠&amp;玄幻</dc:subject>
+        <meta content="{&quot;黄易&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="武侠小说" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:46+00:00" name="calibre:timestamp"/>
+        <meta content="边荒传说" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

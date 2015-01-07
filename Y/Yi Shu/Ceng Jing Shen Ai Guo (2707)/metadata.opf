@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0852bbd2-632c-4603-904b-2861ac8e1360</dc:identifier>
+        <dc:title>曾经深爱过</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《曾经深爱过》内容简介：出差归来的周至美发现妻子突然不知所踪，多方打探未果，无奈之下找到侦探社的好友小郭替他寻找妻子的下落。小郭循例问周至美关于他妻子的一些情况。在小郭的追问下，周至美发现这些年只忙于工作，对妻子和家庭一无所知，他甚至搞不清妻子的年龄、兴趣、喜好……他认为男人应该把精力放在事业上，不必被这些琐事缠身。妻子的离家出走，周至无法释怀。他与妻子结婚八年不曾斗气，是众人眼中的模范夫妻。像他这样相貌英俊、成熟稳重、年轻有为、百里挑一的好男人，有多少女人对他大献殷勤，他却对妻子始终如一。而妻子却不辞而别，并卖了房子，不留后路。周至美反省自己的失职之处：这些年他把所有时间和精力用在了工作上，很少与妻子沟通交流，冷落的妻子，他从未体会过妻子的寂寞和孤独。他开始怀疑自己对妻子的感情，不明白是真心爱她还是爱上心目中那个美丽优雅高贵的白天鹅。即使妻子出走，周至美却仍然全身心投入到工作当中。由于工作需要，他与美国来的邓永超博士一起到内地出差，期间同吃同住，彼此渐渐熟络。他发觉永超独立、干练、坚强，不骄纵、不做作、能吃苦，不禁与出走的妻子作各方面比较。周至美恍悟：永超才是最适合他的伴侣。两人不但是工作伙伴，也是知己，他们都是工作狂，都有着为祖国科学事业牺牲一切的高尚情操。经历了这些，周至美恍悟：选伴侣不是选高贵易碎的艺术品，和自己志趣相投的人才能相伴一生。他毫不迟疑，准备让永超成为自己的第二春。</dc:description>
+        <dc:publisher>中国妇女出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">874a452b-5498-45e0-ae8b-e7cc1c11d48a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787512701700</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>曾经深爱过</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>现代</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:38+00:00" name="calibre:timestamp"/>
+        <meta content="曾经深爱过" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

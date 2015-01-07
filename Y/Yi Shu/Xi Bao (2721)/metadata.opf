@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">811dd97f-048b-42f2-bfc4-469963a44f8b</dc:identifier>
+        <dc:title>喜宝</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-31T16:00:00+00:00</dc:date>
+        <dc:description>读书就是这样好，无论心不在焉，板着长脸，只要考试及格，就是一个及格的人。你试着拉长脸到社会去试一试。这是一个卖笑的社会。除非能够找到高贵的职业，而高贵的职业需要高贵的学历支持，高贵的学历需要金钱，始终兜回来。
+富家女勖聪慧热情地邀请刚认识的剑桥高材生姜喜宝参加自己的家宴，有意制造机会以撮合她和哥哥勋聪恕。聪慧的父亲勋存姿，也向喜宝展开追求。喜宝在其父亲、儿子的双双夹击下，非常现实地选择了父亲，她得到了想得到的一切甚至更多。喜宝做了勖存姿的女人后，虽然得到了金钱与物质上的满足，但却耐不住感情与生理上的寂寞和空虚。勖存姿发现喜宝另有所爱，竟冷酷地当着喜宝的面，枪杀了她的男友。喜宝绝望了，但她怎么也逃不脱勖存姿的牢笼。几年后，勖存姿去世，喜宝变成最富有的女人，但是……</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">027d1b4f-df4f-4f2d-b000-987a99361e0f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787802282674</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>喜宝</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>金钱</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:50+00:00" name="calibre:timestamp"/>
+        <meta content="喜宝" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

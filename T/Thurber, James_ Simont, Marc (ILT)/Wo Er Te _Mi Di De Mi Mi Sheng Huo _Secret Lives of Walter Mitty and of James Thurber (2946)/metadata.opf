@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2946</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dfdf29d-da4d-4a0c-ab33-b02d5d858e15</dc:identifier>
+        <dc:title>沃尔特·米蒂的秘密生活/Secret Lives of Walter Mitty and of James Thurber</dc:title>
+        <dc:creator opf:file-as="Thurber, James/ Simont, Marc (ILT)" opf:role="aut">Thurber, James/ Simont, Marc (ILT)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-30T16:00:00+00:00</dc:date>
+        <dc:description>This is first in a new series from Collins Design focusing on Wonderfully Illustrated Short Pieces from today's foremost illustrators and writers of adult literature - previously only available in collected editions. It includes the beloved works of one of the New Yorker's most famous writers - and his best-loved character Walter Mitty in a fantastic new illustrated collector's edition by an award-winning illustrator. It is a hilarious keepsake for generations to come. Introducing the first in a new series from Collins Design WISPS - "Wonderfully Illustrated Short Pieces" bringing together the foremost illustrators and adult writers of today. Award-winning illustrator Mark Simont's interpretation imaginatively renders the fantastic adventures of the famed protagonist in Thurber's beloved story and his tongue-in-cheek autobiographical essay "The Secret Life of James Thurber" - which first appeared in the "New Yorker". Thurber, writer, journalist and cartoonist, is widely recognised as America's greatest humourist since Mark Twain. Mark Simont has illustrated nearly 100 books for children and has won several awards for his work.</dc:description>
+        <dc:publisher>Harper Design Intl</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060847883</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">41b2bace-fac0-4786-be55-07c4e9915c97</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Mitty</dc:subject>
+        <dc:subject>walter</dc:subject>
+        <dc:subject>短篇</dc:subject>
+        <meta content="{&quot;Thurber, James/ Simont, Marc (ILT)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:38:53+00:00" name="calibre:timestamp"/>
+        <meta content="沃尔特·米蒂的秘密生活/Secret Lives of Walter Mitty and of James Thurber" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

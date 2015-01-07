@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">134284f4-4652-45b0-a68a-ece78118d03f</dc:identifier>
+        <dc:title>关于莉莉周的一切</dc:title>
+        <dc:creator opf:file-as="岩井俊二" opf:role="aut">岩井俊二</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-30T16:00:00+00:00</dc:date>
+        <dc:description>故事发生在田园风景广袤幽静的彼端。默默忍受着同学欺负的莲见雄一，逐渐变得自闭孤僻。他只有在歌手“莉莉周”的歌声里寻求安慰，习惯于在“莉莉周”的网站BBS和别人交流。在这个虚拟世界里，他和一个叫“青猫”的ID相遇。随着倾诉的话语愈加痛楚，他们互相安慰，彼此温暖，约定在莉莉周演唱会上见面，那一晚，当莉莉周的音乐响起，在那个现实与虚幻的交叉点上，却爆发成一个残酷的青春物语……</dc:description>
+        <dc:publisher>天津人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787201053691</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>岩井俊二</dc:subject>
+        <dc:subject>关于莉莉周的一切</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>莉莉周</dc:subject>
+        <dc:subject>电影</dc:subject>
+        <meta content="{&quot;岩井俊二&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:43+00:00" name="calibre:timestamp"/>
+        <meta content="关于莉莉周的一切" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

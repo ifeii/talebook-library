@@ -6,15 +6,29 @@
         <dc:title>无家</dc:title>
         <dc:creator opf:file-as="雪夜冰河" opf:role="aut">雪夜冰河</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:publisher>雪夜冰河</dc:publisher>
+        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《无家》向中国曾经无比苦难的农民兄弟致敬！
+
+无论出于什么目的，在这部长达数十万字的小说中，老旦最终被塑造成了一个历史的见证人。他用自己卑微的生命见证了中国上个世纪30年代至60年代所经历的苦难。
+老旦是个农民，他的理想是守着老婆孩子过日子。但日本人打来了，他被国民党军队抓去当兵，第一天就上了前线。日本人的炮弹使他认识了战争的残酷性，也使他迅速成长为一个无畏的战士。他经历了徐州会战、武汉会战、长沙会战、常德会战，打了许多大仗、恶仗，多少兄弟、战友在他身边死去，他也无数次徘徊在生与死的边缘。终于看到了日本人投降，他在梦中思念着老婆孩子，以为可以回家过安生……</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561339275</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>军旅</dc:subject>
+        <dc:subject>苦难</dc:subject>
+        <dc:subject>峥嵘岁月</dc:subject>
+        <dc:subject>农民</dc:subject>
+        <dc:subject>沉重如铁</dc:subject>
         <meta content="{&quot;雪夜冰河&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:57:25.004990+00:00" name="calibre:timestamp"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:02+00:00" name="calibre:timestamp"/>
         <meta content="无家" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

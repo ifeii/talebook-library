@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e905e078-1157-423d-a9d5-bf671a950b82</dc:identifier>
+        <dc:title>臨終者的孤寂</dc:title>
+        <dc:creator opf:file-as="諾伯特．愛里亞斯 Elias, Norbert" opf:role="aut">諾伯特．愛里亞斯 Elias, Norbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-31T16:00:00+00:00</dc:date>
+        <dc:description>愛里亞斯在《臨終者的孤寂》一書中討論生死，回顧過去與當代的人們對待臨終者的差異，生者與死者（或「生與死」、或「生者的生活空間與死者的墓地」）的距離由近而遠。愛里亞斯認為，臨終者之所以孤單，非但是一種心理狀態，也有不同的歷史文化作為背景。
+社會的隔離機構，例如養老院，將老人與他原本熟悉的生活環境隔離開來，於是更加深孤寂的感覺。書末，作者提醒我們，生理治療在今日或許已是一個重要環節－－主要在於挽救臨終者的性命，但臨終者所需的心理上的關愛，或許能使瀕死的過程更溫暖一些。</dc:description>
+        <dc:publisher>群學出版有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789868405486</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">308a5a45-a00b-430f-bc5c-fe1dcce21f8d</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>死亡</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>爱里亚斯</dc:subject>
+        <dc:subject>开卷八分钟</dc:subject>
+        <dc:subject>当代死亡者的孤寂感</dc:subject>
+        <dc:subject>NorbertElias</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;諾伯特．愛里亞斯 Elias, Norbert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:35+00:00" name="calibre:timestamp"/>
+        <meta content="臨終者的孤寂" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

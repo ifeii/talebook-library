@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5764117-d85a-4630-b99f-3e3a2b6a0003</dc:identifier>
+        <dc:title>花解语</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《花解语》是亦舒的经典作品之一，故事讲述了三代人之间不同的生活状态及面对感情时的态度。解语与外婆和姐姐一起生活。姐姐不语是明星，负担家里的生活。情人方玉堂与不语分手时，告诉解语其实她是不语的女儿。不语投拍新片，影片成功，续拍第二部。第二部尚未拍完，底片被扣，可能失去全部家当。解语求教于方玉堂，得知杏子斡能帮助她们。解语向他求救，他的一句话就救了不语的命。见面后，解语才发现杏子斡全身只余头部可以活动，为报恩照顾他三天后便离去。不语新片失败，全家可能流落街头，解语只好再次求助于杏子斡。杏子斡遵照她的要求，给予保障，她搬去杏宅居住。不语悔悟，到温哥华后找到伴侣，解语帮她筹办了体面的婚礼。杏子斡对解语万般宠爱，她也情不自禁爱上了他。可他身体每况愈下，解语在手术室外静静等候，杏子斡会有转机吗？一定有希望。所有人都期待着好消息。</dc:description>
+        <dc:publisher>东方出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8f8ea605-9292-424e-ad15-fae257c61ff1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787506062343</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:31+00:00" name="calibre:timestamp"/>
+        <meta content="花解语" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

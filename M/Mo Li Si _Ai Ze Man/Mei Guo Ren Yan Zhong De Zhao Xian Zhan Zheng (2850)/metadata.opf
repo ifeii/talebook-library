@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94c1d553-f777-42eb-abae-eedfb2b66444</dc:identifier>
+        <dc:title>美国人眼中的朝鲜战争</dc:title>
+        <dc:creator opf:file-as="莫里斯·艾泽曼" opf:role="aut">莫里斯·艾泽曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《美国人眼中的朝鲜战争》是《战争中的美国》丛书中的一册，《战争中的美国》丛书图文并茂地向读者展示了几场直接影响美国历史进程的大规模战争。本丛书中的每部著作都以对战争进程起关键性作用的关键事件的讨论开始，而后详细介绍战争的重要目标和战略，包括在武器装备和战术战法方面的发明创新。同时，本丛书既展示了参战主要将领的生活细节，又详细描述了参战基层士兵和平民百姓的生活情况。</dc:description>
+        <dc:publisher>当代中国出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">37afea8a-69b1-48b9-ad7e-b1cefe26e10b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787801704375</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>朝鲜战争</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>美国人眼中的朝鲜战争</dc:subject>
+        <dc:subject>通俗读物</dc:subject>
+        <dc:subject>朝鲜</dc:subject>
+        <meta content="{&quot;莫里斯·艾泽曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:23+00:00" name="calibre:timestamp"/>
+        <meta content="美国人眼中的朝鲜战争" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

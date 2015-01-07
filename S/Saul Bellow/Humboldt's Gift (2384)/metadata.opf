@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7695e431-ecdc-47bf-9b79-142c0e7ba210</dc:identifier>
+        <dc:title>Humboldt's Gift</dc:title>
+        <dc:creator opf:file-as="Saul Bellow" opf:role="aut">Saul Bellow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-27T16:00:00+00:00</dc:date>
+        <dc:description>Two twentieth-century literary masterpieces from the Nobel Prize winner Saul Bellowas Pulitzer Prizeawinning novel explores the long friendship between Charlie Citrine, a young man with an intense passion for literature, and the great poet Von Humboldt Fleisher. At the time of his death, however, Humboldt is a failure, and Charlieas life is falling apart: his career is at a standstill, and heas enmeshed in an acrimonious divorce, infatuated with a highly unsuitable young woman, and involved with a neurotic mafioso. And then Humboldt acts from beyond the grave, bestowing upon Charlie an unexpected legacy that may just help him turn his life around.</dc:description>
+        <dc:publisher>Penguin Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780143105473</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>SaulBellow</dc:subject>
+        <dc:subject>英语文学</dc:subject>
+        <meta content="{&quot;Saul Bellow&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:27:56+00:00" name="calibre:timestamp"/>
+        <meta content="Humboldt's Gift" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

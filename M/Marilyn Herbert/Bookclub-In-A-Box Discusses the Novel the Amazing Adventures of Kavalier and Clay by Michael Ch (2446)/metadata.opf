@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11e39afe-e83a-4936-9261-5c51be7372e5</dc:identifier>
+        <dc:title>Bookclub-In-A-Box Discusses the Novel the Amazing Adventures of Kavalier and Clay by Michael Chabon</dc:title>
+        <dc:creator opf:file-as="Herbert, Marilyn" opf:role="aut">Marilyn Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-15T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: This brilliant epic novel set in New York and Prague introduces us to two misfit young men who make it big by creating comic-book superheroes. Joe Kavalier, a young artist who has also been trained in the art of Houdiniesque escape, has just smuggled himself out of Nazi-invaded Prague and landed in New York City. His Brooklyn cousin Sammy Clay is looking for a partner to create heroes, stories, and art for the latest novelty to hit America the comic book. Inspired by their own fears and dreams, Kavalier and Clay create the Escapists, The Monitor, and Luna Moth, inspired by the beautiful Rosa Saks, who will become linked by powerful ties to both men.</dc:description>
+        <dc:publisher>RB Large Print</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781419339592</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Heroes in mass media</dc:subject>
+        <dc:subject>Cartoonists</dc:subject>
+        <dc:subject>Jewish youth</dc:subject>
+        <dc:subject>New York (N.Y.)</dc:subject>
+        <dc:subject>strips</dc:subject>
+        <dc:subject>etc</dc:subject>
+        <dc:subject>Czech Americans</dc:subject>
+        <dc:subject>Young men</dc:subject>
+        <dc:subject>Large type books</dc:subject>
+        <dc:subject>Comic books</dc:subject>
+        <meta content="{&quot;Marilyn Herbert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-08-29T12:29:08+00:00" name="calibre:timestamp"/>
+        <meta content="Bookclub-In-A-Box Discusses the Novel the Amazing Adventures of Kavalier and Clay by Michael Chabon" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1d76575-2d05-49c3-9983-4c1cb5a18d68</dc:identifier>
+        <dc:title>中国人应知的国学常识</dc:title>
+        <dc:creator opf:file-as="中华书局编辑部编" opf:role="aut">中华书局编辑部编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>不知您是否意识到，也许您说的每一句话里都包含着“文化”——
+“五谷杂粮”有哪五谷？“六亲不认”是哪六亲？“株连九族”都包括谁？
+为什么买“东西”不说买“南北”？为什么“败北”不说“败南”？为什么说话算数叫“一言九鼎”，换成“六鼎”“七鼎”行不行？……
+这些问题，都可以在这本《中国人应知的国学常识》里找到答案。
+这里所说的“国学”，与“中国传统文化”同义，它不仅写在典籍里，更活在我们的生活里、流淌在我们的血液中。除了经典常识、制度法律、教育科技，传统的民生礼俗、戏曲曲艺、体育娱乐……也是本书要介绍的内容。
+无论您是什么学历，无论您是什么年龄，无论您从事的是什么专业，只要您是中国传统文化的爱好者，您都可以从本书中获得您想要的——
+假如您是学生，您可以把它当做课业之余的休息和消闲读物。
+假如您身在职场、工作繁忙，它“压缩饼干式”的编排方式，或许能成为您了解传统文化的捷径。
+假如您退休在家，您会发现这样的阅读健康有益，滋养心灵……</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2157133a-739a-445a-b9e1-1fd844b823b5</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787101071023</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>常识</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>中华书局</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>國學</dc:subject>
+        <dc:subject>.〇</dc:subject>
+        <dc:subject>0.国学</dc:subject>
+        <meta content="{&quot;中华书局编辑部编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:50+00:00" name="calibre:timestamp"/>
+        <meta content="中国人应知的国学常识" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

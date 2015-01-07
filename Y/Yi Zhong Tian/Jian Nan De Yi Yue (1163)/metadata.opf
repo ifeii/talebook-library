@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">231a9416-2f6a-473d-a4e8-947576f65e12</dc:identifier>
+        <dc:title>艰难的一跃</dc:title>
+        <dc:creator opf:file-as="易中天" opf:role="aut">易中天</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-31T16:00:00+00:00</dc:date>
+        <dc:description>法律人士或者关心中国法治进程的人，无不对美国宪法心怀敬意。美国宪法的出现究竟是人性与自由的胜利，还是利益力量左右的结果？这是一个需要回答、却又不必认真计较答案的问题。因为在很多人看来，美国宪法也许是政治家充满智慧而体面的“合谋”，也许是人性中自私自利的彻底释放，也许是以上诸种情况的结合。但是无论我们———这些后来人怎样想象，想要了解美国宪法以及由宪法支撑的美国的制度伦理和价值体系，都必须从美国宪法诞生的时刻说起。必须追根溯源，才能稍微触摸到事情的本质。
+　　《艰难的一跃——美国宪法的诞生和我们的反思》为我们提供了一个了解、参透美国宪法诞生过程的平台。这不仅是一部法律的书，也是一部历史的书，更是一部文化的书。书中精彩刺激的场景使我的想象游走到了那个充满期冀与困惑的时代，那个热情洋溢、奔放跳脱的时代。 
+　　美国宪法可以说产生于一场精心策划的“阴谋”。独立战争之后的“美利坚合众国”不过是一个各自为政的殖民地的松散联盟。1787年5月，为解决联盟面临的诸多问题，各邦决定召开临时会议，修改邦联条例。在各邦议会代表陆续到达之后，麦迪逊、华盛顿、汉密尔顿等制宪积极分子临时提出动议（其实早有预谋），提议制定联邦宪法。这使为修改邦联条例而来的各邦代表措手不及，也使他们大为恼火。但大多数代表“不愿一事无成”的想法和务实的态度帮助了制宪分子，也使代表们能够坐到谈判桌前，以政治家的姿态进行一场艰难的看起来前景渺茫的谈判。这是制宪分子的胜利，也是美国的胜利。谈判意味着平等，意味着言论自由，意味着各方利益能够得到充分的保障。制宪会议的整个过程洋溢着政治家谈判的精神，无论是制宪分子，还是反对派，以及旁观者，都可以自由辩论，充分表达他们的观点。
+　　由于代表们成份复杂，观点分歧，利益不同，导致他们对任何一个议题都很难达成一致意见。经常是一个代表提出方案，另一个代表就马上强烈反对，或者另起炉灶，提出新的方案，或者滔滔不绝，讨价还价。幸亏有德高望重而富有智慧的本杰明•富兰克林多次居中调停，也幸亏大多数代表不是那么“坚守理想”和政治主张，认识到“能做到最不坏，就是最好”。很多人包括积极制宪分子麦迪逊、威尔逊意识到必须从原来的阵地让步，才能产生看法较为一致的宪法，否则，只能是分裂或战争。但是让步又不能是无原则的让步，妥协是为了实现最高目的和坚持最高原则。只有这样，美国宪法才能在一次次讨论和修改中不断完善，不断接近“政治真理”。美国宪法经过了569次投票表决才最终制定出来，可谓一波三折，好事多磨。可以说，民主决策机制是制宪会议能继续进行而没有中途夭折的基础，也是美国宪法得以永葆生命力和活力的重要因素。正如丘吉尔所说，民主可能不是最优的制度，却是迄今为止我们发现的最不坏的制度。
+　　美国宪法自1787年制定，历二百多年几乎没有什么改动，只是根据社会的发展增加了27条宪法修正案，不能说这不是一个奇迹。</dc:description>
+        <dc:publisher>山东画报出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806039526</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>易中天</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>宪法</dc:subject>
+        <dc:subject>法律</dc:subject>
+        <dc:subject>宪政</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>宪政;智慧</dc:subject>
+        <meta content="{&quot;易中天&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="44" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:44+00:00" name="calibre:timestamp"/>
+        <meta content="艰难的一跃" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

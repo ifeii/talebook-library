@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2077</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">883759e0-a5c0-490d-8c8a-fb89cd758ac6</dc:identifier>
+        <dc:title>狱门岛</dc:title>
+        <dc:creator opf:file-as="横沟正史" opf:role="aut">横沟正史</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-04-30T16:00:00+00:00</dc:date>
+        <dc:description>狱门岛是一个不祥的名字，在江户时代的三百年里，一直是流放罪犯和海盗出没在地方。
+金田一耕助受鬼头千万太临终遗托，到岛上报告死讯，并看望他的三个妹妹。
+鬼头家美貌动人的三姊妹单纯快乐，然而一连三个晚上均于非命，花子被倒吊在千光寺的古梅树上；雪枝被扣入巨大的吊钟里；月代则被勒死在家中的佛堂，死得妖邪、凄艳。
+海盗神出鬼没，分家幸灾乐祸，恐怖笼罩着狱门岛。
+金田一耕助通过对松尾芭蕉翁如谜诗句的破解，终于发现……</dc:description>
+        <dc:publisher>珠海出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806075456</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>横沟正史</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>金田一耕助</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>金田一</dc:subject>
+        <dc:subject>侦探</dc:subject>
+        <meta content="{&quot;横沟正史&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:01+00:00" name="calibre:timestamp"/>
+        <meta content="狱门岛" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

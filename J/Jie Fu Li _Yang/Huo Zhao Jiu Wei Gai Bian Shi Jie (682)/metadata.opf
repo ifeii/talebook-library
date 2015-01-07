@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48077fff-4873-426c-ac31-55aa3993952a</dc:identifier>
+        <dc:title>活着就为改变世界</dc:title>
+        <dc:creator opf:file-as="杰弗里·扬" opf:role="aut">杰弗里·扬</dc:creator>
+        <dc:creator opf:file-as="杰弗里·扬" opf:role="aut">威廉·西蒙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>内容简介
+苹果公司CEO史蒂夫•乔布斯这个一直活在自己想象的世界里的创业奇才，经历过各种挫折与失落，但他那无所畏惧、敢于承担的个性让他一直努力实践着自己的价值观，总能为他的离奇想法找到解决问题的办法。
+本书两位作者通过深入访谈和资料调查，揭秘了许多乔布斯个人的创业经历和家庭变故，为大家塑造了一个活生生的“乔布斯式”的鲜活人物，描述了一个个充满传奇色彩的商业奇迹，真实地再现了乔布斯几十年的人生价值观和世界观。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508620824</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>乔布斯</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>苹果</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>活着就为改变世界</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>Jobs</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;威廉·西蒙&quot;: &quot;&quot;, &quot;杰弗里·扬&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:10+00:00" name="calibre:timestamp"/>
+        <meta content="活着就为改变世界" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1055</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c767362-aeb1-44d2-874e-eb4135f1eac5</dc:identifier>
+        <dc:title>诗经</dc:title>
+        <dc:creator opf:file-as="孔丘 编订" opf:role="aut">孔丘 编订</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-30T16:00:00+00:00</dc:date>
+        <dc:description>这本《诗经》收录全部305篇，每篇诗歌都配有相应的解释及译文，使读者更容易理解。</dc:description>
+        <dc:publisher>北京出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787200065039</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>诗经</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>古典诗词</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>古籍</dc:subject>
+        <meta content="{&quot;孔丘 编订&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:44+00:00" name="calibre:timestamp"/>
+        <meta content="诗经" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

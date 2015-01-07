@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d3e58ca-80ba-4a83-8f7b-b82c6a2a8416</dc:identifier>
+        <dc:title>哈維爾選集</dc:title>
+        <dc:creator opf:file-as="哈維爾（Vaclav Havel）" opf:role="aut">哈維爾（Vaclav Havel）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-13T16:00:00+00:00</dc:date>
+        <dc:description>瓦茨拉夫·哈维尔（Václav Havel，出生于1936年10月5日—），捷克的剧作家与异议人士，于1993年到2002年间担任捷克共和国的总统。</dc:description>
+        <dc:publisher>基進出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789578900318</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>哈维尔</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>捷克</dc:subject>
+        <dc:subject>民主</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>自由</dc:subject>
+        <dc:subject>政治学</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <meta content="{&quot;哈維爾（Vaclav Havel）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:29+00:00" name="calibre:timestamp"/>
+        <meta content="哈維爾選集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

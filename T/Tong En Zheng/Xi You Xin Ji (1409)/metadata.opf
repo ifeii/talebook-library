@@ -7,14 +7,26 @@
         <dc:creator opf:file-as="童恩正" opf:role="aut">童恩正</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>这部妙趣横生的长篇幽默小说，写出了东方人眼中的西方世界，既介绍了西方的物质文明，又鞭挞了资本主义制度下的种种社会弊端．&#13;
+小说借《西游记》中孙悟空、猪八戒、沙僧三个神话人物，虚构出他们留学美国时的种种际遇．孙悟空神通广大，多谋善断，扶弱锄强，受到社会赞誉；猪八戒为花花世界所诱，赶学时髦，大吃苦头；沙僧老成持重，苦攻哲学，功成名就．作品以严肃的主题，配以逗笑的情节，诙谐而不荒唐．</dc:description>
+        <dc:publisher>新蕾出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">05361410-e0d8-457b-93d6-f417d94182ed</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>童恩正</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>幽默小说</dc:subject>
+        <dc:subject>童年的记忆</dc:subject>
+        <dc:subject>西游新记</dc:subject>
+        <dc:subject>西游</dc:subject>
         <meta content="{&quot;童恩正&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:59:20.410083+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:11+00:00" name="calibre:timestamp"/>
         <meta content="西游新记" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

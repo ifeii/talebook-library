@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f43411f-d2af-4c20-9843-0ec74af5691a</dc:identifier>
+        <dc:title>惟我独赢</dc:title>
+        <dc:creator opf:file-as="卡伦·索思威克" opf:role="aut">卡伦·索思威克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>卡伦·索思威克的这本著作全面记述了拉里·埃利森光彩而又富有争议的事业。埃利森凭借自己的决心和野心一手创建了甲骨文公司，并使之跻身美国最大的科技公司之列，但他难以促摸的管理风格使公司不断徘徊于成功与灾难的边缘。对仁科公司的恶意收购就是极好的例子。拉里·埃利森以其高明的战略招数，挑起了企业软件领域一场新的竞争。
+    埃利森经常说众人皆败，惟我独赢，人们也经常将这句话与他联系在一起，所以多数人以为这是他的名言。然而这句话实际出自成吉思汗之口，不过它用在埃利森身上很贴切，不但能说明他对竞争对手的态度，而且能展现他经营甲骨文的方式。
+    在甲骨文内部，埃利森一次又一次地对功高震主的关键的运营人员、销售人员、营销人员进行系统清洗。埃利森痴迷于绝对控制，无法与曾在关键时刻稳定军心的副手共事，这种作风曾将甲骨文推向崩溃的边缘，而且很可能还会重蹈覆辙。
+    在21世纪的大公司中，拉里·埃利森是最引人注目、最具影响力的领导者之一。《惟我独赢》提出了一个问题：既然甲骨文的产品如此重要，有这么多人依赖它们，那么为什么要将它们置于一个人的掌控之下？本书在对埃利森的才华和贡献表示信任的同时，也发</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2524edb6-ae16-4016-9755-5de97e618fbf</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508604305</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>甲骨文</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>埃利森</dc:subject>
+        <dc:subject>甲骨文帝国</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>战略</dc:subject>
+        <dc:subject>新经济</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <meta content="{&quot;卡伦·索思威克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:06+00:00" name="calibre:timestamp"/>
+        <meta content="惟我独赢" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

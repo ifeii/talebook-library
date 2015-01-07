@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53b2397b-7436-48e8-a2fb-5292638d181e</dc:identifier>
+        <dc:title>时光之轮1 世界之眼（上下卷）</dc:title>
+        <dc:creator opf:file-as="罗伯特•乔丹（Robert  Jordan）" opf:role="aut">罗伯特•乔丹（Robert Jordan）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>这是光与暗对立的世界 善与恶进行着永无止尽的争战
+这是时光之轮编织的世界 一部最伟大的奇幻史诗巨作
+——向托尔金致敬之作
+************************
+近代最具影响力的奇幻作家罗伯特·乔丹
+最值得典藏的经典奇幻作品之一
+************************
+“时光之轮转动如常，岁月来去如风，残留的记忆变为传说，传说又慢慢成为神话，而当其诞生的纪元再度循环降临时，连神话也早已被遗忘。在某个被叫作第三纪元的时代，新的纪元尚未到来，而旧的纪元早已逝去。一阵风在末日山脉刮起。这阵风并非开始，时光之轮的旋转既无开始，也无结束。但这确实也是一个开始……”
+几乎每一个奇幻爱好者都知道《时光之轮(The Wheel of Time)》这套奇幻小说。上面这段话就是这套小说最著名的开篇语。
+在时光之轮的世界里，时间是一个有着七根轮辐的轮子(一条大蛇首尾相衔环绕着一个七根轮辐的轮子)。每根轮辐是一个纪元。随着轮辐的转动，纪元也就随之更替。注意每一个纪元是很长的，所以虽然这个轮子只有七根轮辐，但当它转一周时，上一次的纪元往往早已被人遗忘。
+太古，在阴影之战后，那些发疯的男性两仪师在临死之前彻底地改变了地球的面貌：山脉夷为平地，平地产生高山，旱地代替了海洋，海洋覆盖着旱地……过去的一切没有一丁点残留下来，幸存的人类挣扎着四处搜寻食物，只为多苟存一天。在数个纪元之后，不是学者，根本不可能知道关于阴影之战和裂世之战的点滴资料，而即使是学者，他们也只知道某些片断。
+然而，尽管国家兴衰不定，几个世纪以来，走唱人却一直在传诵一个预言，那就是不会随时间而有一点变化的龙之预言。预言里说，龙将会重生，暗黑之主将会脱困而获得自由，龙将会在末日之战中直面暗黑之主而拯救全人类——同时，他也将会再次摧毁这个世界。
+被两仪师称为转生真龙的牧羊人兰德，在命运的中心徘徊，为了保护家乡与想保护的人，他与同为时轴的好友，一起踏上漫漫征途……</dc:description>
+        <dc:publisher>东方出版中心</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787547300206</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>时光之轮</dc:subject>
+        <dc:subject>罗伯特•乔丹</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>奇幻小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>时光之轮，罗伯特乔丹，奇幻，小说</dc:subject>
+        <dc:subject>西方奇幻</dc:subject>
+        <meta content="{&quot;罗伯特•乔丹（Robert Jordan）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="时光之轮" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:07+00:00" name="calibre:timestamp"/>
+        <meta content="时光之轮1 世界之眼（上下卷）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

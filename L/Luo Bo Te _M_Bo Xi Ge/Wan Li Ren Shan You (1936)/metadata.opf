@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0de266bd-cb50-4a9c-8605-3d53c95f0a56</dc:identifier>
+        <dc:title>万里任禅游</dc:title>
+        <dc:creator opf:file-as="罗伯特·M·波西格" opf:role="aut">罗伯特·M·波西格</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T16:00:00+00:00</dc:date>
+        <dc:description>一段横跨美国大陆的摩托车之旅，一场拥有两个主讲的哲学肖陶扩！追寻自我，追寻真理，追寻生命的深层价值！本书在被120家出版社拒绝后终于出版，立即成为超级畅销书，第一年即销售达百余万册，而且在之后十余年一直居于畅销书排行榜之列，并被美国读书界选为70年代最有影响力的十本书之一。本书讲述了作者在70年代的一个夏季，单独骑摩托车从明尼苏达州到加州，走遍穷乡僻壤，将所见所闻所感所思，行文优美、简洁而动人。
+这是一本内容奇特而有趣的书，作者在70年代的一个夏季，单独骑摩托车从明尼苏达州到加州，走遍穷乡僻壤，将所见所闻所感所思向他十一岁的儿子倾吐，中间透露了他对生命真相、生存本质的看法，行文优美、简洁而动人。文中，作者诊断了种种社会病态，试图为心灵空虚的现代人提供治疗的方法：他认为现代人已经为事业、为赚钱远离了自己，变成机器，忘记自己是人。西方世界的二分法或二元论，如人文与科技、精神与物质、神秘主义与机械论、艺术与工业、心灵与机械、东方与西方等都是此书中所批评的基本问题。本书在美国及世界十余个国家已被看作当代的经典，并曾被《时代》周刊评为70年代十本最有影响力的书之一。</dc:description>
+        <dc:publisher>重庆出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">78f0f42a-16c3-4035-99ef-67e38871ebc7</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787536679160</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>禅</dc:subject>
+        <dc:subject>旅行</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>万里任禅游</dc:subject>
+        <dc:subject>公路小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>生存状态</dc:subject>
+        <meta content="{&quot;罗伯特·M·波西格&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:07+00:00" name="calibre:timestamp"/>
+        <meta content="万里任禅游" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

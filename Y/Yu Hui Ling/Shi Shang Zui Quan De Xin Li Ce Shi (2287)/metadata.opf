@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">790cad51-5632-4361-97a4-5cae0d218b9e</dc:identifier>
+        <dc:title>史上最全的心理测试</dc:title>
+        <dc:creator opf:file-as="于慧玲" opf:role="aut">于慧玲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《史上最全的心理测试》讲述了：有人问希腊哲学家、“科学之祖”泰勒斯：“你认为人活在世上，最困难的事情是什么？”泰勒斯答道：“认识你自己。”你玲珑剔透还是心直口快？活泼浪漫还是朝气蓬勃？别太早下结论哦，《史上最全的心理测试》或许会有另一个答案。
+想知道你和未来的婆婆情投意合吗？你会与谁厮守终身？那就快点翻开书，解读心灵密码中！
+生如夏花固然完美，把握每一道软肋，更能成就非凡一生！</dc:description>
+        <dc:publisher>武汉</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787543043626</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>史上最全的心理测试</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>psychology</dc:subject>
+        <dc:subject>于慧玲</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <meta content="{&quot;于慧玲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:25:13+00:00" name="calibre:timestamp"/>
+        <meta content="史上最全的心理测试" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

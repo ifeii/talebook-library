@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81d0d86f-30c8-405a-a42a-3ffb4a5f2632</dc:identifier>
+        <dc:title>饥饿游戏</dc:title>
+        <dc:creator opf:file-as="苏珊·柯林斯(Suzanne Collins)" opf:role="aut">苏珊·柯林斯(Suzanne Collins)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>第七十四届饥饿游戏即将开始。
+在荒蛮的野外环境中，每个人都想置你于死地，
+你能靠自己的力量生存下来吗？
+24人参加竞赛。只有一人能够存活。
+抽签日那天，凯特尼斯的人生彻底改变了。
+在未来的北美洲，帕纳姆国建立在一片废墟之上，它的中心凯匹特位于十二个区的中央。每年，十二个区都被迫向凯匹特送去年龄在12岁至18岁的少男少女“贡品”各一名，去参加饥饿游戏，这是一项残酷而可怕的生与死的竞赛，所有的贡品必须战斗到死，最后的幸存者就是胜者。
+竞技场是经过人工布置的森林、荒原。竞赛中，猎杀、追踪、饥饿、伪装、智斗等生死存亡的时刻，都被电视现场直播到全国，每个人都必须观看，而且要当成节日一样庆祝。对于凯匹特，这是年度盛会，是一场游戏。对于其他十二区，是羞辱和折磨。
+生存是16岁的凯特尼斯的本能，她依靠在十二区围栏外偷猎、采集野果勉强养活妈妈、妹妹和自己。当凯特尼斯代替被抽中的妹妹参加饥饿游戏时，她明白这对她可能意味着死亡。如果她想生存，她必须在人性与生存、生活与爱情之间做出选择。
+在竞技场上，凯特尼斯机缘巧合被塑造成燃烧的女孩，又与本区的另一个贡品皮塔组成明星恋人备受瞩目。她很困惑，自己与皮塔的关系？她企图拯救其他竞赛者的生命，机智地应对游戏中出现的谜题，使她成了电视观众关注的中心。生死关头，她才发现爱情竟然也可以成为赢的策略。
+凯特尼斯只有继续做她自己。那个倔强的女孩，她拒绝向游戏规则屈服，拒绝向死亡屈服，也拒绝向爱情屈服。她的拒绝会带来什么，未来又会怎样呢？</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506351539</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>饥饿游戏</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>苏珊·柯林斯</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <meta content="{&quot;苏珊·柯林斯(Suzanne Collins)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:26:22+00:00" name="calibre:timestamp"/>
+        <meta content="饥饿游戏" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a84928e8-6db0-4843-8f05-209855f62488</dc:identifier>
+        <dc:title>人间失格</dc:title>
+        <dc:creator opf:file-as="太宰治" opf:role="aut">太宰治</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-22T05:00:00+00:00</dc:date>
+        <dc:description>《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。</dc:description>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4da3c52b-7b9f-4ce0-801f-ab4258108364</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787546302393</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>太宰治</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>人间失格</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <meta content="{&quot;太宰治&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:30+00:00" name="calibre:timestamp"/>
+        <meta content="人间失格" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0273662a-9763-48de-ae5f-dacbe4082bc9</dc:identifier>
+        <dc:title>洞穴奇案</dc:title>
+        <dc:creator opf:file-as="萨伯" opf:role="aut">萨伯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-31T16:00:00+00:00</dc:date>
+        <dc:description>五名洞穴探险人受困山洞，水尽粮绝，无法在短期内获救。为了维生以待救援，大家约定抽签吃掉其中一人，牺牲他以救活其余四人。威特摩尔是这～方案的最初提议人，但在抽签前又收回了意见。其他四人仍执意抽签，并恰好选中了威特摩尔做牺牲者。获救后，这四人以杀人罪被起诉并被初审法庭判处绞刑。这是美国20世纪法理学大家富勒1949年在《哈佛法学评论》上发表的假想公案。富勒还进一步虚构了最高法院上诉法庭五位大法官对此案的判决书。这一著名的公案成了以后西方法学院学生必读的文本，并在此基础上演绎出了更多的公案。1998年，法学家萨伯延续了富勒的游戏，假设五十年后这个案子有机会翻案，另外九位大法官又针对这个案子各自发表了判决意见。他们真的有罪吗？请看十四位法官的判决书。这些判决书，实际上反映了20世纪各个流派的法哲学思想，有如一桌法哲学盛宴，让读者得以品味精彩动人的深邃思辨，培养适应法治社会的法学素质。本书既是法哲学专业领域寓言式的经典文献，又是大学跨学科通识教育的理想读本。本书适合的读者是那些不热衷于给观点贴标签或猎寻虚幻、对严肃而有意义的论证充满兴趣的人。</dc:description>
+        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108031518</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>法律</dc:subject>
+        <dc:subject>法学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>法理</dc:subject>
+        <dc:subject>法哲学</dc:subject>
+        <dc:subject>洞穴奇案</dc:subject>
+        <dc:subject>萨伯</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;萨伯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:54+00:00" name="calibre:timestamp"/>
+        <meta content="洞穴奇案" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

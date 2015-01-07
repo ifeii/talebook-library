@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9105d23d-88f2-4d88-a522-ddf43dd3937f</dc:identifier>
+        <dc:title>全世界人民都知道</dc:title>
+        <dc:creator opf:file-as="李承鵬" opf:role="aut">李承鵬</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-13T16:00:00+00:00</dc:date>
+        <dc:description>新浪2010網絡盛典年度博客、《新周刊》「大時代銳士」、2012百度新聞人物
+公共意見表達者李承鵬首部雜文集
+收錄最完整版──無法面世的四萬餘字在台尊嚴推出
+他的文字穿透新時代中國層層偽裝與亂象，為著那些身受不公不義的同胞……縱然有再多不明不白的壓迫擁來；因為他愛這個國家，所以他無法停歇的批評與反省充滿譏諷無奈，時時內含溫熱關懷。
+為著最基本的普世價值、人權根柢──尊嚴，他四處探訪，苦口婆心，甚至嘻笑怒罵，誇張搞笑，以比喻以歷史以反話以外國例子……可說無所不用其極，只希望同胞能了解自身應有的權利義務，能關心其他受苦難的同胞，能擁有「尊嚴」。
+在〈父親是世上最不堪的一個鬥士〉文中，作者娓娓道來做父親的心聲，從回想自己「不堪」的父親，為生活所困、像「愚蠢而勇敢的工蟻」的父親，道盡之所以要這樣努力，以纖毫之筆，力抗整個中國社會的狂大沉疴，是為了不讓孩子「看出我的不堪」。無盡柔情滿溢紙頁……
+我的寫作不是為了真理，真理離我太遠，我只不過為了尊嚴。
+這些事，不是什麼大事，這些道理，卻不該被埋沒。尊嚴如此奇怪，它並不值錢，可是我們僅有。尊嚴本身不是作品，卻能讓你通體放光，兩眼澄明，自己是自己最好的作品。
+這些道理，全世界人民都知道。</dc:description>
+        <dc:publisher>印刻</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789865823054</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>李承鹏</dc:subject>
+        <dc:subject>纪实中国</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <meta content="{&quot;李承鵬&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:20:23+00:00" name="calibre:timestamp"/>
+        <meta content="全世界人民都知道" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

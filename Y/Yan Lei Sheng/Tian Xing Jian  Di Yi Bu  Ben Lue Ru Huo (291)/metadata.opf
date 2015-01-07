@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">605517a8-72ec-421a-be63-0d4322a24c92</dc:identifier>
+        <dc:title>天行健 第一部 奔掠如火</dc:title>
+        <dc:creator opf:file-as="燕垒生" opf:role="aut">燕垒生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《天行健1》是一部波澜壮阔的虚构史书，作者架构了一个战争时代。战争的惨烈、勇士的无畏、情节的万变都牵动人心。武侯率领的帝国军攻下了共和军的最后一座城池——高鹫城。作为前锋营百夫长的我（楚休红），因为第一个劈开了城门，而被武侯器重，赐予一把名为“百辟”的宝刀。
+但灾难随之降临，还沉浸在胜利狂欢中的帝国军，突然遭到了一群蛇人的袭击。这些蛇人怎么会突然出现？他们来自哪里？在蛇人的营地里，有伏羲和女娲的形象，这一切能否解开蛇人的谜团？重重封锁之下，我和另外七人乘坐飞行机逃离了高鹫城，其中一位就是我心仪的人，但迎接我们的命运却露出了狰狞的面目……</dc:description>
+        <dc:publisher>北方妇儿</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787538537611</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>燕垒生</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>天行健</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>热血</dc:subject>
+        <dc:subject>奇幻小说</dc:subject>
+        <meta content="{&quot;燕垒生&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="天行健" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:31+00:00" name="calibre:timestamp"/>
+        <meta content="天行健 第一部 奔掠如火" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

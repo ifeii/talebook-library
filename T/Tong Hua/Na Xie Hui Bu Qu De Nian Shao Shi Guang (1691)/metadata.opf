@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f75c9e73-48f2-4b50-aa80-823f030e5451</dc:identifier>
+        <dc:title>那些回不去的年少时光</dc:title>
+        <dc:creator opf:file-as="桐华" opf:role="aut">桐华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>最值得珍藏的怀旧读物，写给年少自己的书，纪念我们共同的青春和成长
+您还记得上世纪最后十年的青春是怎样吗？那可是我们独一无二的成长！
+那些回不去的年少时光》以真挚的感情，真实的细节，讲述了一段发生在那个年代精彩扣人的青春和爱——少女罗琦琦天性桀骜，从不妥协。青春期的她游走在两种截然不同的世界里：作业、考试、小团体的校园；游戏机房、歌舞厅、小混混斗殴泡妞的社会。她看着中国第一代歌舞厅开起来，第一批港台娱乐来到身边……
+每个人的生活和思想都发生着剧变。她和伙伴们分享着甜蜜、忧伤、彷徨、迷惑……在本书中，你可以看到所有你曾热爱却正在遗忘的人和事，更可以看到属于自己的青春和成长。</dc:description>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539931494</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>桐华</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>那些回不去的年少时光</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>回忆</dc:subject>
+        <dc:subject>青春文学</dc:subject>
+        <dc:subject>人生如戏，戏如人生（纪实/小说）</dc:subject>
+        <meta content="{&quot;桐华&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:33+00:00" name="calibre:timestamp"/>
+        <meta content="那些回不去的年少时光" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

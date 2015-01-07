@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">370fc226-a7cf-418a-b39d-de815c56b529</dc:identifier>
+        <dc:title>日本史话（上下册）</dc:title>
+        <dc:creator opf:file-as="汪公纪" opf:role="aut">汪公纪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T16:00:00+00:00</dc:date>
+        <dc:description>神武天皇就是秦朝东渡日本的徐福吗？古代日本皇室何以多近亲婚恋？日本古史为何多女皇专政？唐朝风俗如何风靡日本？《源氏物语》的幕后有怎样的故事？武士如何产生，日本崇信暴力的原因？织田信长、丰臣秀吉、德川家康是什么样的人？丰臣秀吉为何突然要侵略朝鲜和明朝？天皇与幕府究竟是何关系？日本为何严禁基督教而大崇儒佛？蕞尔小邦如何一跃而为世界列强？ 诸多鲜为人知的逸事，多不为正史所述，但跃然纸上的，是日本历史的真面目。&#13;
+上古篇 本卷从日本传说的开国君主神武天皇谈到源氏家族势力在关东崛起。时序上从公元前660年到公元11世纪的末期。  从种种迹象看来，神武天皇与徐福的年代相当，甚至就是徐福。在这段期间最重要的一位天皇是女帝推古天皇，约当中国的隋朝时期，在圣德太子的摄政下，确定了“天皇”的称号及“日本”的国名，制订了历法，同时开始修史。  中古篇 本卷在年代上横跨了公元12世纪到16世纪，从镰仓幕府到战国时代的四百余年，日本史的中古时代。  在平氏与源氏的争霸战之后，源氏的镰仓幕府取代天皇成为日本大政的中心。幕府大将军的权力随后又落到了外戚执权北条氏手中；后醍醐天皇力图振作，发动讨幕战争，结果却使日本进入南北朝对抗的局面。  近古篇 本卷所涵盖的时期，由16世纪后期到17世纪初期，时间只有五六十年。这是日本由战国时代重紧一统的时期，主角是织田信长、丰臣秀吉、德川家康。  近代篇 本卷自德川幕府的衰败，叙述到第二次世界大战后日本向盟军投降为止。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563361427</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本史</dc:subject>
+        <dc:subject>汪公纪</dc:subject>
+        <dc:subject>日本文化</dc:subject>
+        <dc:subject>日本史话</dc:subject>
+        <dc:subject>日本通史</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <meta content="{&quot;汪公纪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:39+00:00" name="calibre:timestamp"/>
+        <meta content="日本史话（上下册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

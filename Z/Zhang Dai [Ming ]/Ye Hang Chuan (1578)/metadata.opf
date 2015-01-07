@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b342576f-52ef-4fbb-b78d-930328a0bd20</dc:identifier>
+        <dc:title>夜航船</dc:title>
+        <dc:creator opf:file-as="张岱[明]" opf:role="aut">张岱[明]</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-23T16:00:00+00:00</dc:date>
+        <dc:description>《夜航船》不是高深莫测的古书，而是用浅白的文言讲说的四千多个文化段子，绝大多数是作为一个正常人，或者往雅处说，作为一个有文化的人，必须知道的社科知识。极少量虽然可以说有荒诞不经的意味，但作为古人的情趣笑谈也尝不可以看看。
+　　天下学问，惟夜航船中最难对付。盖村夫俗子，其学问皆预先备办，如瀛洲十八学士、云台二十八将之类，稍差其姓名，辄掩口笑之。彼盖不知十八学士、二十八将，虽失记其姓名，实无害寺学问文理，而反谓错落一人，则可耻孰甚。故道听途说，只办口头数十个名氏，便为博学才子矣。余因想吾八越，惟余姚风俗，后生小子无不读书，及至二十无成，然后习为手艺。故凡百工贱业，其《性理》、《纲鉴》，皆全部烂熟。偶问及一事，则人名、官爵、年号、地方枚举之，未尝少错。学问之富，真是两脚书厨，而其无益于文理考校，与彼目不识丁之人无以异也。或曰：信如此言，则古人姓名总不必记忆矣。余曰：不然，姓名有不关于文理，不记不妨，如八元、八恺、厨、俊、顾、及之类是也；有关于文理者，不可不记，如四岳、三老、臧彀、徐夫人之类是也。昔有一僧人，与一士子同宿夜航船。士子高谈阔论，僧畏慑，拳足而睡。僧人听其语有破绽，乃曰：请问相公，澹台灭明是一个人、两个人？士子曰：是两个人。僧曰：这等尧舜是一个人、两个人？士子曰：自然是一个人。僧乃笑曰：这等说起来，且待小僧人伸伸脚。余所记载，皆眼前极肤浅这事，吾辈聊且记取，但勿使僧人伸脚则可已矣。故即命期名曰《夜航船》。古剑陶庵老人张岱书。</dc:description>
+        <dc:publisher>四川文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787541114748</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>张岱</dc:subject>
+        <dc:subject>夜航船</dc:subject>
+        <dc:subject>笔记</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>闲情雅趣</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <meta content="{&quot;张岱[明]&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:58+00:00" name="calibre:timestamp"/>
+        <meta content="夜航船" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

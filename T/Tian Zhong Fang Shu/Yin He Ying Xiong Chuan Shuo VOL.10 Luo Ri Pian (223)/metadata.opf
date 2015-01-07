@@ -1,14 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">223</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">45524849-a1b1-4972-af39-60ab731e768f</dc:identifier>
         <dc:title>银河英雄传说VOL.10 落日篇</dc:title>
         <dc:creator opf:file-as="田中芳树" opf:role="aut">田中芳树</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-11-30T16:00:00+00:00</dc:date>
-        <dc:description>SUMMARY:
-宇宙历八〇一年，新帝国历三年，旧同盟领地在鲁宾斯基的策动下，出现了极度混乱的局面，尤里安为了响应各地的共和主义者，与瓦列展开大战，军务尚书奥贝斯坦奉命到海尼森整顿局势，展开了所谓的“奥贝斯坦大割草”。
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
+        <dc:description>宇宙历八〇一年，新帝国历三年，旧同盟领地在鲁宾斯基的策动下，出现了极度混乱的局面，尤里安为了响应各地的共和主义者，与瓦列展开大战，军务尚书奥贝斯坦奉命到海尼森整顿局势，展开了所谓的“奥贝斯坦大割草”。
 在来势汹汹的帝国军面前，尤里安孤注一掷，趁帝国军因皇帝病倒而陷入混乱，强行攻入旗舰“伯伦希尔”，浑身浴血、疲惫不堪的尤里安面对卧床不起的莱因哈特，银河英雄的历史将如何写完最后一笔？
 看点：
 银河英雄传说大结局!
@@ -20,19 +19,24 @@
 出版20余年来，中国内地首次正版引进，无数银英迷翘首企盼！</dc:description>
         <dc:publisher>北京十月文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787530208953</dc:identifier>
-        <dc:language>zh-CN</dc:language>
+        <dc:language>en</dc:language>
+        <dc:subject>田中芳树</dc:subject>
+        <dc:subject>银河英雄传说</dc:subject>
         <dc:subject>科幻</dc:subject>
         <dc:subject>小说</dc:subject>
         <dc:subject>日本</dc:subject>
-        <dc:subject>田中芳树</dc:subject>
         <dc:subject>架空历史</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>银英</dc:subject>
+        <meta content="{&quot;田中芳树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="银河英雄传说" name="calibre:series"/>
         <meta content="10" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:42+00:00" name="calibre:timestamp"/>
         <meta content="银河英雄传说VOL.10 落日篇" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

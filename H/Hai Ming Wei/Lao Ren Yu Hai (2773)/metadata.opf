@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe690792-5f05-48b4-8b1e-dd0b13d5a4db</dc:identifier>
+        <dc:title>老人与海</dc:title>
+        <dc:creator opf:file-as="海明威" opf:role="aut">海明威</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《老人与海》内容简介：欧内斯特·海明威（1899-1961），美国最杰出的作家之一，1954年诺贝尔文学奖获得者。《老人与海》是海明威最具代表性的励志小说。作品描写古巴老渔夫在连续八十四天没捕到鱼的情况下，终于独自钓上了一条大鱼，他在海上与大鱼搏斗了三天，终于将它杀死，在归程中又一再遭到鲨鱼的袭击，最后回港时只剩下鱼头鱼尾和一条脊骨。这是一个篇幅短小但含义丰富的故事。已成为广大青少年必读的励志作品。
+《老人与海》还收入了海明威最具代表性的中短篇小说若干，从中读者可以了解到海明威小说创作的风格。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0099MT9RU</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532751167</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>海明威</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <dc:subject>诺贝尔</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;海明威&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:34:35+00:00" name="calibre:timestamp"/>
+        <meta content="老人与海" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

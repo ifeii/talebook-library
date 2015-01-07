@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18f50af1-17a0-4307-a4a2-cfce30b7ffbb</dc:identifier>
+        <dc:title>漫长的革命</dc:title>
+        <dc:creator opf:file-as="雷蒙德·威廉斯" opf:role="aut">雷蒙德·威廉斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-31T16:00:00+00:00</dc:date>
+        <dc:description>雷蒙德·威廉斯在本书中考察了近代英国的教育、识字（图书、新闻报刊）、“标准英语”的发展，英语作家、戏剧的社会历史进程，20世纪英国小说的形成。在这些考察的基础上，他发现一种文化的变革正在发生，并且与之前英国曾经经历过的民主革命与工业革命一样重要。正是以他的英国文化史研究为依据，雷蒙德·威廉斯提出了在长时段内存在着一种文化革命的理论。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208110595</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>文化研究</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>雷蒙德-威廉斯</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>雷蒙德·威廉斯</dc:subject>
+        <dc:subject>西方马克思主义</dc:subject>
+        <meta content="{&quot;雷蒙德·威廉斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:32+00:00" name="calibre:timestamp"/>
+        <meta content="漫长的革命" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

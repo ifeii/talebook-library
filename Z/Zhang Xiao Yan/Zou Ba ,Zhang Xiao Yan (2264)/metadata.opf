@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a7960f5-30d2-4c92-b26c-d69a158b0029</dc:identifier>
+        <dc:title>走吧，张小砚</dc:title>
+        <dc:creator opf:file-as="张小砚" opf:role="aut">张小砚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《走吧 张小砚》简介：话说，2009年的某一天，那天很热，我就穿了双人字拖鞋就踢踢踏踏上路了。原计划是去汶川看看孩子们，去年512在那里做志愿者。成都过去不过几个小时的车程，预计待三天就回转。谁知一到汶川方过4个小时，彻底关大桥就被飞石砸断，断了返程的路，当即往茂县走。越走越远，三天短途探访计划变成了一场长达两个多月的流浪。去汶川的时候三个人，慢慢都在路上走散去。后来只剩下我一个人。
+往北走了几天，天气冷了起来，扔掉拖鞋，买双鞋继续上路。愈走愈冷，买了外套和长裤。越走海拔越高，晒得像黑炭，在路边买了顶草帽继续走。嫌搭车不自由，又买了辆摩托车往西藏骑，无驾照无行驶证，一路被警察追，扣过车子，进过局子。路过波密，听说墨脱很神奇，二话不说骑着摩托进墨脱，一路摔了几十跤，魂飞魄散，肝胆俱裂，嘎龙山上还遭劫。所幸命还在，于是拖起车子继续上路。一路翻山越岭，时而暴雨倾盆，时而骄阳似火。终于在8月骑到了拉萨，弹尽粮绝卖摩托车，继续闲逛，前藏、后藏，逛到身无分文。在大昭寺前乞讨得114元8角，开始往回混。
+回去路上，该干的，不该干的统统干了。沿途和藏民赌台球赢吃赢喝，还赢了一匹马，也差点输了终身。帮喇嘛背柴火换大饼，朗玛厅喝酒闹事被藏民拔刀追砍。住不起客栈，和磕长头的人混过帐篷……走一段路，搭一段顺风车，摩托车、大货车、拖拉机、越野车、农用三轮车、马匹……路上跑的除了人没有搭过，搭遍所有能遇见的交通工具。还狭路相逢一康巴汉子，顺便谈了场恋爱。</dc:description>
+        <dc:publisher>文化艺术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787503946554</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>旅行</dc:subject>
+        <dc:subject>走吧，张小砚</dc:subject>
+        <dc:subject>游记</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>彪悍的女人</dc:subject>
+        <dc:subject>张小砚</dc:subject>
+        <dc:subject>无比可爱的姑娘。</dc:subject>
+        <dc:subject>心路</dc:subject>
+        <meta content="{&quot;张小砚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:45+00:00" name="calibre:timestamp"/>
+        <meta content="走吧，张小砚" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

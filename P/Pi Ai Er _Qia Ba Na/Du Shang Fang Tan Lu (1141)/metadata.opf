@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d883b38-8f94-418d-80ff-5cd4aa200bff</dc:identifier>
+        <dc:title>杜尚访谈录</dc:title>
+        <dc:creator opf:file-as="皮埃尔·卡巴纳" opf:role="aut">皮埃尔·卡巴纳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-08-31T16:00:00+00:00</dc:date>
+        <dc:description>杜尚（Marcel Duchamp，1887－1968），出生于法国，1954年入美国籍。他的出现改变了西方现代艺术的进程。可以说，西方现代艺术，尤其是第二次世界大战之后的西方艺术，主要是沿着杜尚的思想轨迹行进的。因此，了解杜尚是了解西方现代艺术的关键。
+这本书是法国艺术评论家卡巴纳在1966年对杜尚惟一一次访谈的归总。杜尚一生除了写过一本棋书外从未著书立说，但在这本书中，他在卡巴纳提问的循循善诱下愉快地讲述着围绕自己生活的方方面面，他的言谈如偈语般简洁而充满智慧。杜尚从未想以自己对艺术观念的撼动来竖立自身在艺术史上的显要地位，而恰恰是他的举重若轻成就了他人生的精彩与宽阔。他呈现给我们的是人之为人的自由之可贵，生命的质感在字里行间闪光。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563333110</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>杜尚</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>杜尚访谈录</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>谈话录</dc:subject>
+        <dc:subject>生活态度</dc:subject>
+        <dc:subject>人物</dc:subject>
+        <meta content="{&quot;皮埃尔·卡巴纳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="42" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:27+00:00" name="calibre:timestamp"/>
+        <meta content="杜尚访谈录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

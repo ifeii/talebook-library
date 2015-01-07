@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dded4968-d6a0-44b8-9a71-b28dba92a53a</dc:identifier>
+        <dc:title>弗洛伊德与梦的解析</dc:title>
+        <dc:creator opf:file-as="文聘元" opf:role="aut">文聘元</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《弗洛伊德与梦的解析》介绍了:此刻，弗洛伊德的生活画卷、精神分析、《梦的解析》之神髓在您面前一一呈现。梦，是我们每一个人都会做的，是最普通而普遍的人类精神现象之一，然而又是一种极神秘的精神现象，古往今来的人们尝穷己之力释读之。在人类所有解梦的努力中，有一种被公认为具有相当的科学性——弗洛伊德认为，梦最主要的意义在于梦是梦者愿望的表达，这经过或许是曲折的，间或有许多动人的故事，梦中的情景仿佛一幕现代派风格的荒诞剧或者一个最难解的斯芬克斯之谜一样。且听，谜一样的梦就如此解开。</dc:description>
+        <dc:publisher>吉林出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787546301914</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>弗洛伊德</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>梦的解析</dc:subject>
+        <dc:subject>梦</dc:subject>
+        <dc:subject>性理论</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>Freud</dc:subject>
+        <meta content="{&quot;文聘元&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:32+00:00" name="calibre:timestamp"/>
+        <meta content="弗洛伊德与梦的解析" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20661c88-0b11-450a-934a-403360aa24bc</dc:identifier>
+        <dc:title>灯火阑珊处</dc:title>
+        <dc:creator opf:file-as="青衫落拓" opf:role="aut">青衫落拓</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-30T16:00:00+00:00</dc:date>
+        <dc:description>少女任苒没有接受青梅竹马的祁家骏的感情，却爱上他同父异母的哥哥祁家骢。
+祁家骢作为—个私生子独立长大，性格冷漠，却渐渐被任苒的单纯勇敢打动。两人度过远离人群相依的一段日子后，任苒最终还是随祁家骏去澳洲留学。
+祁家骢发现自己放不下任苒，两年后便去澳洲看望她，却因误会，失意而归。
+再次重逢，任苒已经不是昔日那个单纯少女。
+从前简单而明确的感情变得复杂，往日深爱的人变得陌生，蓦然回首，灯火已阑珊，谁是你愿意永远等待的那个人？
+青衫落拓，2010年携最动情之作，再掀文坛知性言情风。昔日并非马青梅的怀恋，如今也蜕变得简单而陌生，蓦然回首，灯火已阑珊，谁是你始终愿意永远等待的那个人？
+爱情仿佛就是这样一个飞蛾扑火的过程，如果注定要在火种受伤，如何带着折损的翅膀离开？</dc:description>
+        <dc:publisher>沈阳出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">41c98fdb-403f-4338-b114-d44270432e85</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544141833</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>青衫落拓</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>灯火阑珊处</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>现代都市</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>都市</dc:subject>
+        <dc:subject>晋江</dc:subject>
+        <meta content="{&quot;青衫落拓&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:46+00:00" name="calibre:timestamp"/>
+        <meta content="灯火阑珊处" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

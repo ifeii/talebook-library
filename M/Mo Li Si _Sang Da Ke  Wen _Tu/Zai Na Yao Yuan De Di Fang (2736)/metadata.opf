@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07ecdd5b-5a72-40c2-b0eb-18c82051e531</dc:identifier>
+        <dc:title>在那遥远的地方</dc:title>
+        <dc:creator opf:file-as="莫里斯·桑达克 文/图" opf:role="aut">莫里斯·桑达克 文/图</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+        <dc:description>爸爸出门不在家，小女孩爱达要帮妈妈照顾妹妹。有一天，几个小妖怪把爱达的妹妹偷走了。爱达穿上神奇的黄雨衣，带着号角，出发去找妹妹……故事跌宕起伏，内涵丰富而深刻，直面书写孩子的复杂情感：恐惧、嫉妒、愤怒……并让孩子通过幻想中的历险，运用自己的力量获得成功，从而实现心灵的成长。莫里斯·桑达克对孩子有独特的认识和理解，对“童年是什么”有特别深刻的把握，加之独树一帜的艺术表现，让全世界的孩子们深深沉迷</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">86a75549-ea52-4120-99ab-8844ac8c53c7</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544252850</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>绘本</dc:subject>
+        <dc:subject>莫里斯·桑达克</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>图画书</dc:subject>
+        <dc:subject>童书</dc:subject>
+        <dc:subject>恐惧</dc:subject>
+        <dc:subject>繪本</dc:subject>
+        <dc:subject>2.绘本</dc:subject>
+        <meta content="{&quot;莫里斯·桑达克 文/图&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:34:04+00:00" name="calibre:timestamp"/>
+        <meta content="在那遥远的地方" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

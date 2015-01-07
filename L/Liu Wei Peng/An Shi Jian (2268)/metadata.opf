@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7367e208-f3e3-4f95-a39c-e1d6c1c0aa7a</dc:identifier>
+        <dc:title>暗时间</dc:title>
+        <dc:creator opf:file-as="刘未鹏" opf:role="aut">刘未鹏</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-30T16:00:00+00:00</dc:date>
+        <dc:description>2003年，刘未鹏在杂志上发表了自己的第一篇文章，并开始写博客。最初的博客较短，也较琐碎，并夹杂着一些翻译的文章。后来渐渐开始有了一些自己的心得和看法。总体上在这8年里，作者平均每个月写1篇博客或更少，但从未停止。
+刘未鹏说——
+写博客这件事情给我最大的体会就是，一件事情如果你能够坚持做8年，那么不管效率和频率多低，最终总能取得一些很可观的收益。而另一个体会就是，一件事情只要你坚持得足够久，“坚持”就会慢慢变成“习惯”。原本需要费力去驱动的事情便成了家常便饭，云淡风轻。
+这本书便是从刘未鹏8年的博客文章中精选出来的，主要关于心智模式、学习方法和时间利用，《暗时间》的书名便来自于此。</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787121140068</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>时间管理</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>刘未鹏</dc:subject>
+        <dc:subject>方法论</dc:subject>
+        <dc:subject>暗时间</dc:subject>
+        <dc:subject>个人成长</dc:subject>
+        <dc:subject>心智</dc:subject>
+        <meta content="{&quot;刘未鹏&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:51+00:00" name="calibre:timestamp"/>
+        <meta content="暗时间" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

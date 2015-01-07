@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c69890d1-7f11-47e9-bb52-58cfb9d77c9f</dc:identifier>
+        <dc:title>天机</dc:title>
+        <dc:creator opf:file-as="张明昌" opf:role="aut">张明昌</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《天机:星座与命运的科学解码》讲述在科学技术不发达的古代，由于在大自然面前，人们总是显得软弱无力，所以，古人就把许多事情都归结为“天意”，认为在冥冥之中，总有一只“万能的手”，在操纵着世事的变化。为了探寻“天意”，人们自然要想法去寻找这种变化的原因，而最容易想到的就是天上那闪烁不停的星星，于是，星占术（也称占星术）应运而生。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">7e864a52-ceaa-431c-866f-7c1b5cc0cb16</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787806468128</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>占星学</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <dc:subject>天机：星座与命运的科学解码</dc:subject>
+        <dc:subject>20072</dc:subject>
+        <dc:subject>占星</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>社科</dc:subject>
+        <dc:subject>驳占星学</dc:subject>
+        <meta content="{&quot;张明昌&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:14+00:00" name="calibre:timestamp"/>
+        <meta content="天机" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

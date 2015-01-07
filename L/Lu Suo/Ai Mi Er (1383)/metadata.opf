@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfc78656-3432-436c-bd1e-a42fa89d03df</dc:identifier>
+        <dc:title>爱弥儿</dc:title>
+        <dc:creator opf:file-as="卢梭" opf:role="aut">卢梭</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《爱弥儿，或论教育》，系法国资产阶级民主主义者、杰出的启蒙思想家卢梭(1712—1778)的重要著作。此书写于1757年，1762年第一次在荷兰的阿姆斯特丹出版。此书出版时，轰动了整个法国和西欧一些资产阶级国家，影响巨大。这部书不仅是卢梭论述资产阶级教育的专著，而且是他阐发资产阶级社会政治思想的名著。
+继十六、十七世纪荷兰和英国相继发生的资产阶级革命之后，十八世纪的西欧正处于资本主义经济日益发展壮大，封建社会行将崩溃，更为深刻的资产阶级革命即将到来的时期。这种情况在法国表现得尤为明显。当时，法国是一个落后的封建专制国家，路易十四的“朕即国家”这句骄横的名言，就反映了这种专权状况。封建贵族和僧侣们凭借封建王权和神权对第三等级施加沉重的压迫，使整个第三等级其中包括资产阶级完全处于政治上无权的地位。在经济上，封建贵族和僧侣们拥有大量的土地，控制着财政税收大权，残酷剥削和掠夺第三等级，特别是广大工农劳苦大众。但是，随着资本主义生产的发展，资产阶级的经济实力日益扩大，使它再也不能容忍那种无权状况了。反对封建压迫，推翻君主专制制度，扫除资本主义发展的障碍，成了第三等级的共同要求。卢梭和其他资产阶级启蒙思想家的著作正是反映了这一要求。《爱弥儿》一书则是卢梭通过对他所假设的教育对象爱弥儿的教育，来反对封建教育制度，阐述他的资产阶级教育思想。
+本书共分五卷。卢梭根据儿童的年龄提出了对不同年龄阶段的儿童进行教育的原则、内容和方法。在第一卷中，着重论述对两岁以前的婴儿如何进行体育教育，使儿童能自然发展。在第二卷中，他认为两岁至十二岁的儿童在智力方面还处于睡眠时期，缺乏思维能力，因此主张对这一时期的儿童进行感官教育。在第三卷中，他认为十二至十五岁的少年由于通过感官的感受，已经具有一些经验，所以主要论述对他们的智育教育。在第四卷中，他认为十五至二十岁的青年开始进入社会，所以主要论述对他们的德育教育。在第五卷中，他认为男女青年由于自然发展的需要，所以主要论述对女子的教育以及男女青年的爱情教育。卢梭提出的按年龄特征分阶段进行教育的思想，在教育史上无疑是个重大的进步，它对后来资产阶级教育学的发展，特别是对教育心理学的发展，提供了极可贵的启示。但是应该指出，这种分期以及把体育、智育和德育截然分开施教的方法，是不科学的。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100011129</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>卢梭</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>爱弥儿</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>商务印书馆</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <meta content="{&quot;卢梭&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:42+00:00" name="calibre:timestamp"/>
+        <meta content="爱弥儿" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

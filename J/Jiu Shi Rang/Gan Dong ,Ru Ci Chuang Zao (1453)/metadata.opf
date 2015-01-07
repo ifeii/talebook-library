@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f231587-613e-43ab-b70f-1e7ee52c1e4d</dc:identifier>
+        <dc:title>感动，如此创造</dc:title>
+        <dc:creator opf:file-as="久石让" opf:role="aut">久石让</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-29T16:00:00+00:00</dc:date>
+        <dc:description>《感动,如此创造》内容简介：日本首席电影配乐大师久石让首次以文字的方式记录他对于音乐创作的想法，是一部日本音乐大师久石让的纸上音乐札记！《感动,如此创造》以第一人称的口吻撰写而成，可谓日本电影配乐大师久石让的音乐自传！
+为什么音乐大师久石让能够创作出一首首打动人心的乐曲？他是如何保持自己有源源不绝的创意？《感动,如此创造》是久石让首次现身说法，畅谈他身为作曲家与音乐创作的关系。久石让从音乐家的角度阐释了什么是创造力？什么是感性？久石让是如何从生活细节里捕捉创意的？</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508632162</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>久石让</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>音乐</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>音乐人物传记</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <meta content="{&quot;久石让&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:52+00:00" name="calibre:timestamp"/>
+        <meta content="感动，如此创造" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

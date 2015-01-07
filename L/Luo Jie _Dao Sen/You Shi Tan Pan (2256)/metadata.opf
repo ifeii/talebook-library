@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">934a8748-54d0-47d0-b933-57535ef31529</dc:identifier>
+        <dc:title>优势谈判</dc:title>
+        <dc:creator opf:file-as="罗杰·道森" opf:role="aut">罗杰·道森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-29T16:00:00+00:00</dc:date>
+        <dc:description>内容简介
+王牌谈判大师罗杰·道森通过独创的优势谈判技巧，教会你如何在谈判桌前取胜，更教会你如何在谈判结束后让对手感觉到是他赢得了这场谈判，而不是他吃亏了。
+无论你的谈判对手是房地产经纪人、汽车销售商、保险经纪人，还是家人、朋友、生意伙伴、上司，你都能通过优势谈判技巧成功地赢得谈判，并且赢得他们的好感。
+你手上的这本书是由国际首席商业谈判大师罗杰·道森集30年的成功谈判经验著述而成，书中有详细的指导、生动而真实的案例、权威的大师手记和实用的建议，为你提供走上富足人生的优势指南。</dc:description>
+        <dc:publisher>重庆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536693906</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>谈判</dc:subject>
+        <dc:subject>沟通</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>商业技能</dc:subject>
+        <dc:subject>技巧</dc:subject>
+        <dc:subject>营销</dc:subject>
+        <dc:subject>职场</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <meta content="{&quot;罗杰·道森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:37+00:00" name="calibre:timestamp"/>
+        <meta content="优势谈判" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

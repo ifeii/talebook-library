@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46917a37-cb1e-472a-8b87-b6f8f860ab94</dc:identifier>
+        <dc:title>The Story of Charlotte's Web</dc:title>
+        <dc:creator opf:file-as="Sims, Michael" opf:role="aut">Sims, Michael</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-31T16:00:00+00:00</dc:date>
+        <dc:description>While composing what would become his most enduring and popular book, Charlotte's Web, E. B. White was obeying that oft-repeated maxim: 'Write what you know.' Helpless pigs, silly geese,clever spiders, greedy rats - White knew all of these characters in the barns and stables where he spent his favourite hours as child and adult. Painfully shy, White once wrote of himself 'this boy felt for animals a kinship he never felt for people'. Nonetheless, that tens of millions have been so moved by Charlotte's Web, and by White's other classics, testifies to his deep understanding of the human condition. Bringing readers into intimate contact with E. B. White's world, Michael Sims chronicles his animal-rich youth and dreams of being a writer; the vibrant early years of the New Yorker,where urban nature was White's ever-present theme; the discovery of the farm in Maine where he and his wife would live; his fascinating scientific research into how spiders spin webs, lay eggs, and live in the world; his friendship with his legendary editor, Ursula Nordstrom; and the luminous creative process that led to publication of his masterpiece. By refining the raw ore of his childhood in Mount Vernon, New York, in the first decade of the twentieth century, White translated his own passions and contradictions, delights and fears, into a book that would be read the world over. The Story of Charlotte's Web illuminates the life of a literary icon, and will add richness and appreciation for anyone who has loved, or has yet to read, a cherished classic.</dc:description>
+        <dc:publisher>Walker &amp; Company; First Edition edition (June 7, 2011)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802777546</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">24b22e51-bc28-4d69-8ecc-db56aed67d76</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>儿童文学</dc:subject>
+        <meta content="{&quot;Sims, Michael&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:38:18+00:00" name="calibre:timestamp"/>
+        <meta content="Story of Charlotte's Web, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d50966a-200f-4d59-be56-629fee281956</dc:identifier>
+        <dc:title>狼图腾</dc:title>
+        <dc:creator opf:file-as="姜戎" opf:role="aut">姜戎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《狼图腾》由几十个有机连贯的“狼故事”组成，情节紧张激烈而又新奇神秘。读者可从书中每一篇章、每个细节中攫取强烈的阅读快感，令人欲罢不能。那些精灵一般的蒙古草原狼随时从书中呼啸而出：狼的每一次侦察、布阵、伏击、奇袭的高超战术;狼对气象、地形的巧妙利用；狼的视死如归和不屈不挠；狼族中的友爱亲情；狼与草原万物的关系；倔强可爱的小狼在失去自由后艰难的成长过程——无不使我们联想到人类，进而思考人类历史中那些迄今县置未解的一个个疑问：当年区区十几万蒙古骑兵为什么能够横扫欧亚大陆？中华民族今日辽阔疆土由来的深层原因？历史上究竟是华夏文明征服了游牧民族，还是游牧民族一次次为汉民族输血才使中华文明得以延续？为什么中国马背上的民族，从古至今不崇拜马图腾而信奉狼图腾？中华文明从未中断的原因，是否在于中国还存在着一个从未中断的狼图腾文化？于是，我们不能不追思遥想，不能不面对我们曾经辉煌也曾经破碎的山河和历史发出叩问：我们口口声声自诩是炎黄子孙，可知“龙图腾”极有可能是从游牧民族的“狼图腾”演变而来？华厦民族的“龙图腾崇拜”，是否将从此揭秘？我们究竟是龙的传人还是狼的传人？</dc:description>
+        <dc:publisher>长江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787535427304</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>狼图腾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>狼</dc:subject>
+        <dc:subject>姜戎</dc:subject>
+        <dc:subject>草原</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>图腾</dc:subject>
+        <meta content="{&quot;姜戎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:15+00:00" name="calibre:timestamp"/>
+        <meta content="狼图腾" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

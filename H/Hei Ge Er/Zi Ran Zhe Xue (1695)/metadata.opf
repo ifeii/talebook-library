@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6929778-3e58-4440-91f8-6ab8b34b94ae</dc:identifier>
+        <dc:title>自然哲学</dc:title>
+        <dc:creator opf:file-as="黑格尔" opf:role="aut">黑格尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《自然哲学》介于《小逻辑》和《精神哲学》之间，是黑格尔《哲学全书》的一个组成部分，也是他的客观唯心主义体系的一个重要方面。在这部著作里，黑格尔站在辩证唯心主义立场上，把整个自然界的发展看作是绝对精神自我异化和自身复归的过程。全书分为力学、物理学和有机物理学三篇，它们分别代表了绝对精神由于自身内部矛盾而从低级向高级发展的三个阶段。《自然哲学》第一次以唯心主义的形式揭示了自然界内部的联系和转化。黑格尔在他的《自然哲学》“导论”里讲了三个问题，那就是如何看待自然、如何考察自然和如何划分自然。他对这三个问题的回答，构成了他的整个自然观的纲要。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100023825</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>黑格尔</dc:subject>
+        <dc:subject>自然哲学</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>德国古典哲学</dc:subject>
+        <dc:subject>商务印书馆</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <meta content="{&quot;黑格尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:37+00:00" name="calibre:timestamp"/>
+        <meta content="自然哲学" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

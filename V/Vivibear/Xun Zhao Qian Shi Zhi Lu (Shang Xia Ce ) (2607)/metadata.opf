@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc9c80b1-12c5-4c95-b8ea-c1cf1b75c9f0</dc:identifier>
+        <dc:title>寻找前世之旅（上下册）</dc:title>
+        <dc:creator opf:file-as="Vivibear" opf:role="aut">Vivibear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>佛说今生的劫难往往都是前世种下的因，有因必有果，这是不能改变的。但世上偏偏就有这么一种交易，能穿越时空寻找你的宿世根源，化解你今生之劫，而你所要付出的仅仅是——一滴眼泪。
+叶隐，自小被神秘师父收养的她，精通通灵术，面对形形色色的委托人，一次次穿越不同国度的不同时空，在帮助他人化解前世劫难之后，她能否化解自己的劫难？她是否已在某个时空失落了自己的爱情？</dc:description>
+        <dc:publisher>河南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806237243</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>穿越</dc:subject>
+        <dc:subject>vivibear</dc:subject>
+        <dc:subject>寻找前世之旅</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>前世</dc:subject>
+        <meta content="{&quot;Vivibear&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:01+00:00" name="calibre:timestamp"/>
+        <meta content="寻找前世之旅（上下册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

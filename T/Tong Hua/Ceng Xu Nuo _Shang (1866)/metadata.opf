@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">454733e6-8e81-4e75-b841-a0ce4cfdb4d6</dc:identifier>
+        <dc:title>曾许诺·殇</dc:title>
+        <dc:creator opf:file-as="桐华" opf:role="aut">桐华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-30T16:00:00+00:00</dc:date>
+        <dc:description>曾许诺系列终结篇  爱，为谁而殇
+承接上册热销狂潮，“山经海纪”书系第一部《曾许诺》系列终结篇——《曾许诺·殇》倾情面世。信任与误解，数千年恩怨的缘起，将一一揭晓，爱恨纠缠，战场征伐，极致上演。
+两百年，许多人、事已被遗忘，曾经的爱恨情仇也成了传说，却也有人坚守着回忆不肯忘记。
+在阿珩死了两百年后，日出之地汤谷出现了一颗魔珠，这颗魔珠，竟是阿珩的化身。青阳将魔珠带回轩辕，试图唤醒它，却发现魔珠拥有吞噬血脉至亲灵力的力量，黄帝大怒之下布下灭魔阵，要毁掉魔珠。
+蚩尤不顾性命，闯入灭魔阵救出了阿珩，然而复生的阿珩，却不再记得过往。在试图唤醒阿珩记忆的过程中，阿珩却对他再没有信任，而少昊也对当初与阿珩定下的假夫妻盟约感到后悔……
+在诺奈与云桑之间，出现了一个叫泣女的侍女，在诺奈身边默默守候……
+与此同时，三大神族之间的纷争愈演愈烈，一直没有停歇。神农在蚩尤的铁腕改革下日渐强盛，引发了其他两族的不安，神农贵族对蚩尤却十分愤恨。轩辕、高辛一方面对神农虎视眈眈，两国内部的权力倾轧也一刻没有停止，少昊被贬守汤谷，青阳面临黄帝的猜忌，两国利益面前，少昊与青阳的友情也面临着考验……
+桃花树下，不见不散，本是恋人之间最单纯的承诺。然而深处权力漩涡中的人，却要面临各种抉择与取舍，亲情、友情、爱情、理想之间，错综纠缠，赤裸裸地展现在众人面前，让他们无法任性而为。高辛与轩辕王室中的隐秘也渐渐显露出来，原来，一切都不是那么简单。这是一曲上古时代最震撼人心的悲歌。爱，究竟为谁而殇。</dc:description>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540448905</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>桐华</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>山海经</dc:subject>
+        <dc:subject>曾许诺</dc:subject>
+        <dc:subject>上古言情</dc:subject>
+        <dc:subject>曾许诺·殇</dc:subject>
+        <dc:subject>蚩尤</dc:subject>
+        <meta content="{&quot;桐华&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:00+00:00" name="calibre:timestamp"/>
+        <meta content="曾许诺·殇" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

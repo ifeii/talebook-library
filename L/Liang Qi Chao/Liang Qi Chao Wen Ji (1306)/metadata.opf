@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">582eb3f7-49c1-49b6-911a-18833fcd05bd</dc:identifier>
+        <dc:title>梁启超文集</dc:title>
+        <dc:creator opf:file-as="梁启超" opf:role="aut">梁启超</dc:creator>
+        <dc:creator opf:file-as="梁启超" opf:role="aut">陈书良</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《梁启超文集》作者是中国近代第一次思想解放潮流的斗士，大政治家，大文豪，大学者，本世纪最大的悲剧人物。他一生著述一千四百万字，融汇中西，出入经史，显示了“百科全书”的气派。他的文章，挟雷生电，恣肆汪洋，当时“一纸负行，海内观听为之一耸”，慈禧太后读后愤而痛哭，孙中山、毛泽东、蒋介石击节赞赏。梁启超生于一个半耕半读的家庭，自幼聪颖，四岁开始学习四书五经，九岁即能写出上千言的八股文章，十二岁中秀才，十六风中举人。1890年，他十七风时拜康有为为师，从刃学习四年，受康有为的影响，开始探索挽救祖国危亡的变法维新之术。1894年6月，他随康有为入京参加会试。7月，中日甲午战争爆发，炊年中国战败，签订了丧失权辱国的马关条约。康有为、梁启超联合在京参加会试的1300多名举人，上书皇帝，要求拒签和约、迁都抗战、变法图中。这就是著名的“公车之书”。在社会各界引起了强烈反响。这年七月，宣传变法维新的第一个刊物《中外纪闻》在京创刊，梁启超是主要撰稿人。八月，维新团体“强学会”成立，梁任书记，成为康有为进行维新活动的得力助手。</dc:description>
+        <dc:publisher>北京燕山出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540202491</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>梁启超</dc:subject>
+        <dc:subject>梁启超文集</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>政治学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;梁启超&quot;: &quot;&quot;, &quot;陈书良&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:23+00:00" name="calibre:timestamp"/>
+        <meta content="梁启超文集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

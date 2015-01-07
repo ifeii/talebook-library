@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5974cec5-c17c-4e3c-b789-6b8d5f8b8745</dc:identifier>
+        <dc:title>长篇纪实文学--大宅院(上下)</dc:title>
+        <dc:creator opf:file-as="姚家余" opf:role="aut">姚家余</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-31T16:00:00+00:00</dc:date>
+        <dc:description>新中国成立后，姚峰因为是地主，曾受到过批斗，但他却对共产党和新社会怀有一种特殊的情感——经常叨咕一句话：“新社会好啊，国泰民安，老百姓可以安居乐业！”这句话绝不是他在挨批斗时被逼迫所说的，而是在家里对孙子姚宁发出的感慨。
+姚峰是个经历过兵荒马乱岁月的人，他在旧社会虽说经过奋斗手里有许多钱，置办了许多土地，却没能过上一天安生的日子，真正体会到了“宁做治世犬，不为乱世人”的道理。
+    原来</dc:description>
+        <dc:publisher>甘肃文化出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806088760</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e22e3f3a-5084-41d0-a898-7cdd5095608e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>姚家余</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <meta content="{&quot;姚家余&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:14:50+00:00" name="calibre:timestamp"/>
+        <meta content="长篇纪实文学--大宅院(上下)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

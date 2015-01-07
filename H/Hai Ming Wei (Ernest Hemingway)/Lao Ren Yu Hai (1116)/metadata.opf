@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6f18a5d-0f31-4217-911f-251f414a8047</dc:identifier>
+        <dc:title>老人與海</dc:title>
+        <dc:creator opf:file-as="海明威(Ernest Hemingway)" opf:role="aut">海明威(Ernest Hemingway)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-03T16:00:00+00:00</dc:date>
+        <dc:description>人能夠忍受痛苦，可以被毀，但意志不能被打敗。
+「海面很大，船很小」。
+渺小的個體(老人)對抗外在環境，有歷盡滄桑的搏鬥過程。
+儘管勝利者所獲無多，
+或者說沒有誰是最後的勝利者，且充滿茫然的悲劇，
+故事卻在單調的情境、簡鍊的情節中延伸，
+蘊藏令人回味無窮的動人描述。
+這部精彩的中篇小說可以做為海明威作品和其硬漢一生的完美句點。</dc:description>
+        <dc:publisher>桂冠</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789577302496</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>海明威</dc:subject>
+        <dc:subject>老人與海</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>美國</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>Hamingway</dc:subject>
+        <meta content="{&quot;海明威(Ernest Hemingway)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诺贝尔文学奖" name="calibre:series"/>
+        <meta content="54" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:26+00:00" name="calibre:timestamp"/>
+        <meta content="老人與海" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

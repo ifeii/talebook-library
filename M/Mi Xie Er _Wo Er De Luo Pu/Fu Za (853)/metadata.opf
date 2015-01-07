@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed69f121-6cbe-467d-8732-90ca92f7b674</dc:identifier>
+        <dc:title>复杂</dc:title>
+        <dc:creator opf:file-as="米歇尔·沃尔德罗普" opf:role="aut">米歇尔·沃尔德罗普</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-03-31T16:00:00+00:00</dc:date>
+        <dc:description>这是一本关于复杂性科学的书——这门学科还如此之新，其范围又如此之广，以至于还无人完全知晓如何确切地定义它，甚至还不知道它的边界何在。然而，这正是它的全部意义之所在。如果说，复杂性科学的研究领域目前尚显得模糊不清，那便是因为这项研究正在试图解答的是一切常规学科范畴无法解答的问题。比如：
+为什么苏联对东欧四十年的统治会在1989年的几个月之内轰然坍塌？为什么苏联自身也在其后不到两年的时间内分崩离析？这些当然与名叫戈尔巴乔夫和叶利钦的两个人有一定的关系。但即使是这两个人自己，也像是被他们完全无法控制的事件席卷裹挟而不能自已。这是否是因为有某种全球性的、超越个人能量的原因在起作用？</dc:description>
+        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108010056</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>复杂</dc:subject>
+        <dc:subject>混沌</dc:subject>
+        <dc:subject>系统科学</dc:subject>
+        <dc:subject>科学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>科学人文</dc:subject>
+        <meta content="{&quot;米歇尔·沃尔德罗普&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科学" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:57:56+00:00" name="calibre:timestamp"/>
+        <meta content="复杂" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

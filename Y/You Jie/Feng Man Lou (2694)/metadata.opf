@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bddb691-6aca-4e19-bae7-ad4380a6b68a</dc:identifier>
+        <dc:title>风满楼</dc:title>
+        <dc:creator opf:file-as="由捷" opf:role="aut">由捷</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-31T16:00:00+00:00</dc:date>
+        <dc:description>作品讲述的是清未民初发生在江南某地四大藏书楼与江湖帮派落花宫之间的恩怨情仇。故事以饶有戏剧冲突的“偷”与“藏”为引线，展开了儒文化与侠文化、封闭与开放、偏狭与达观、博爱与复仇等错综复杂的戏剧纠葛。小说说情节姿彩斑澜，矛盾悬念环环相扣，透过四大书楼的风风雨雨，展现了几代人物的悲欢命运，而传奇人物传奇命运演绎的传奇故事，构成了一部承载巨大文化蕴涵的东方传奇。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0869e46e-a0bd-4815-a8b9-8385473d1e15</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787506333580</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>风满楼</dc:subject>
+        <dc:subject>藏书楼</dc:subject>
+        <dc:subject>由捷</dc:subject>
+        <dc:subject>江南</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>侠</dc:subject>
+        <dc:subject>亦舒</dc:subject>
+        <meta content="{&quot;由捷&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:26+00:00" name="calibre:timestamp"/>
+        <meta content="风满楼" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

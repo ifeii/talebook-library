@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7a77490-7965-4f14-8873-abae7082c349</dc:identifier>
+        <dc:title>大秘密</dc:title>
+        <dc:creator opf:file-as="威廉·庞德斯通" opf:role="aut">威廉·庞德斯通</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-31T16:00:00+00:00</dc:date>
+        <dc:description>“科学咖啡馆系列”是上海科技教育出版社新近推出的又一套“Easy”科普读物，已出版的品种有：《《谁想成为科学家》、《听基因讲祖先的故事》、《生命的要素》、《轮回》、《重返天文咖啡馆》等。
+可口可乐是怎样调配出来的？烹制肯德基炸鸡用了哪些香料？怎样对付测谎器？罗尔沙赫测试的墨迹图竟能倾听你的心声？钞票怎样防伪？电锯活人的魔术是怎么回事？沃尔特·迪斯尼真被冷冻起来了吗？摇滚乐唱片还会反向录上一些别的声音？……本书作者是美国有名的揭秘大师，在本书中，他以一种追根究底的精神，揭示了平常人在生活中都会同到的一些谜团的真相。</dc:description>
+        <dc:publisher>上海世纪出版股份有限公司科技教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542841001</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>有趣的书</dc:subject>
+        <dc:subject>科学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>休闲</dc:subject>
+        <dc:subject>科学咖啡馆</dc:subject>
+        <dc:subject>威廉·庞德斯通</dc:subject>
+        <dc:subject>秘密</dc:subject>
+        <meta content="{&quot;威廉·庞德斯通&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:31:59+00:00" name="calibre:timestamp"/>
+        <meta content="大秘密" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0706b21-b5ab-497d-9804-143b7990a933</dc:identifier>
+        <dc:title>2012春尖子班课时卷·7年级数学下</dc:title>
+        <dc:creator opf:file-as="王明亮 编" opf:role="aut">王明亮 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《2012春尖子班课时卷•7年级数学下(江苏科技教材适用)》内容简介：运用新课标改革理念，降低难度，突出新意，注重基础题、能力题、拓展题相结合，强调知识的完整性和实用性，题目难易安排合理，可以满足不同层次学生的需求。完全与教材同步，并使教材内容问题化，通过一个个精心设计的试题加强学生对教材的学习和理解。每时卷附有教材课时知识要点网络图，供学生在期中和期末复习时使用。</dc:description>
+        <dc:identifier opf:scheme="ISBN">9787546353203</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>abcdefg</dc:subject>
+        <dc:subject>g</dc:subject>
+        <dc:subject>好</dc:subject>
+        <meta content="{&quot;王明亮 编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="政见合辑" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2014-08-22T16:02:12+00:00" name="calibre:timestamp"/>
+        <meta content="2012春尖子班课时卷·7年级数学下" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

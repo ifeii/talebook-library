@@ -6,15 +6,27 @@
         <dc:title>儿子韩寒</dc:title>
         <dc:creator opf:file-as="韩仁均" opf:role="aut">韩仁均</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-02-01T09:51:47+00:00</dc:date>
+        <dc:date>2000-11-30T16:00:00+00:00</dc:date>
+        <dc:description>高中休学，成为知名作家，赛车手。八年时间，在他的同龄人上完高中和大学刚踏上社会的时候，韩寒已经完成了他的许多同龄人也许一辈子都完不成的事情。韩寒现在的一举一动、一言一行都被许多媒体关注着，但外面所有关于韩寒的事情几乎都是由记者或者写文章的人们写的。本书从父亲的角度解读韩寒，关于韩寒的成长，关于韩寒现象，关于真实的韩寒以及从“新概念作文”脱颖而出，一直在人们的争议中走到今天的韩寒……你都能从最“权威”的父亲这里找到答案。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208036420</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">43daccd5-426e-4006-8080-bb47d41c0674</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>韩寒</dc:subject>
+        <dc:subject>韩仁均</dc:subject>
+        <dc:subject>儿子韩寒</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>80后</dc:subject>
+        <dc:subject>大俗人看傻大书</dc:subject>
         <meta content="{&quot;韩仁均&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:59:35.430272+00:00" name="calibre:timestamp"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:25+00:00" name="calibre:timestamp"/>
         <meta content="儿子韩寒" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

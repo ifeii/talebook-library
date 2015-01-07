@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a6e5b45-0c13-46be-8b39-6749c37b0aef</dc:identifier>
+        <dc:title>都市妖奇談-卷三</dc:title>
+        <dc:creator opf:file-as="可蕊" opf:role="aut">可蕊</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-02T16:00:00+00:00</dc:date>
+        <dc:description>「都市妖奇談」系列描寫妖怪們在都市中的生活百態，是既溫馨又奇異的現代奇談。
+開創中國大陸當代妖怪小說風潮，可蕊成名作重修愛藏版
+暢銷作家 九把刀 / 挑戰者總編輯 林依俐 / 暢銷作家 星子 / 麥兜動畫導演 袁建滔 / 知名漫畫家 游素蘭 一致推薦
+人類也許永遠都不會發現，
+古代神話傳說中的各種妖獸，正和他們分享著這座城市……
+夜晚，林睿的表哥邀了一群朋友，舉辦一場講鬼故事的聚會──因為母親出差，九尾狐林睿也跑過參一腳。一個又一個鬼故事接連出籠，越講越恐怖，越講越離奇。然而他們不知道的是，當他們講得正熱烈時，鬼故事才真正要開始……
+城市大了，什麼樣的生物都可能存在，什麼樣的怪事都可能發生。神話傳說裡的妖怪們，原來也生活在我們的都市中。他們化成了人類的外表，在這裡生存、捕食、進化、玩樂……
+本書共收錄「都市妖奇談」——【萬獸貓最高】、【夜話】、【荒山夜語】、【漫卷詩書】、【不良少年的資格】、【男朋友】，帶領您進入全新的都市魔幻體驗中。</dc:description>
+        <dc:publisher>蓋亞</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866815072</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>都市妖奇谈</dc:subject>
+        <dc:subject>灵异</dc:subject>
+        <dc:subject>可蕊</dc:subject>
+        <dc:subject>都市妖</dc:subject>
+        <dc:subject>奇幻小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;可蕊&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="都市妖奇談" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:50:27+00:00" name="calibre:timestamp"/>
+        <meta content="都市妖奇談-卷三" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7e6ee03-79a9-47db-a263-ea6965c83e48</dc:identifier>
+        <dc:title>树上的男爵</dc:title>
+        <dc:creator opf:file-as="卡尔维诺" opf:role="aut">卡尔维诺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-31T16:00:00+00:00</dc:date>
+        <dc:description>在大陆，王小波、苏童、阿城、止庵是他的忠实粉丝
+在台湾，朱天文，唐诺是卡尔维诺不余遗力的传播者
+在香港，梁文道说他一直在准备谈卡尔维诺，可是一直没准备好
+权威版本，全面修订2006年单行本译本，并增补卡尔维诺各作品自序、后记、注释等重要资料
+知名设计师全新装帧，精装双封设计，书脊烫金，封面采用原创线条图，赋予每部作品文学个性
+卡尔维诺 “我们的祖先”三部曲之一。“我们的祖先”三部曲包括：《不存在的骑士》《分成两半的子爵》《树上的男爵》，这三个故事代表通向自由的三个阶段，关于人如何实现自我的经验：在《不存在的骑士》中争取生存，在《分成两半的子爵》中追求不受社会摧残的完整人生，在《树上的男爵》中有一条通向完整的道路——这是通过对个人的自我抉择矢志不移的努力而达到的非个人主义的完整。
+一次倔强的反抗，让科希莫从十二岁起就决定永不下树。从此，他一生都生活在树上，却将生命更紧密地与大地相连。是不是真的只有先与人疏离，才能最终与他们在一起？</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544722803</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">745d0126-1531-429a-b3a0-8cfec6ec184d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卡尔维诺</dc:subject>
+        <dc:subject>树上的男爵</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>伊塔洛·卡尔维诺</dc:subject>
+        <dc:subject>意大利文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;卡尔维诺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:39+00:00" name="calibre:timestamp"/>
+        <meta content="树上的男爵" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

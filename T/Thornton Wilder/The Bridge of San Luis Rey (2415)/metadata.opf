@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d50dce6-aad3-41d0-bc63-5a5629568224</dc:identifier>
+        <dc:title>The Bridge of San Luis Rey</dc:title>
+        <dc:creator opf:file-as="Thornton Wilder" opf:role="aut">Thornton Wilder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>This beautiful new edition features unpublished notes for the novel and other illuminating documentary material, all of which is included in a new Afterword by Tappan Wilder. &lt;/p&gt; 
+
+ "On Friday noon, July the twentieth, 1714, the finest bridge in all Peru broke and precipitated five travelers into the gulf below." With this celebrated sentence Thornton Wilder begins The Bridge of San Luis Rey, one of the towering achievements in American fiction and a novel read throughout the world. &lt;/p&gt; 
+
+ By chance, a monk witnesses the tragedy. Brother Juniper then embarks on a quest to prove that it was divine intervention rather than chance that led to the deaths of those who perished in the tragedy. His search leads to his own death -- and to the author's timeless investigation into the nature of love and the meaning of the human condition. &lt;/p&gt; This new edition of Wilder&amp;#146;s 1928 Pulitzer Prize winning novel contains a new foreword by Russell Banks.</dc:description>
+        <dc:publisher>Harper Perennial Modern Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060088873</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>Thornton-Wilder</dc:subject>
+        <dc:subject>ThorntonWilder</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>英文待购</dc:subject>
+        <meta content="{&quot;Thornton Wilder&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:29+00:00" name="calibre:timestamp"/>
+        <meta content="Bridge of San Luis Rey, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

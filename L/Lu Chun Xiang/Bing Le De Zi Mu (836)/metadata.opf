@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f7b1f67-bac8-4d39-a38e-0bedec8f242b</dc:identifier>
+        <dc:title>病了的字母</dc:title>
+        <dc:creator opf:file-as="陆春祥" opf:role="aut">陆春祥</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-31T16:00:00+00:00</dc:date>
+        <dc:description>“杂文不一定要横眉冷对，也可以表现得很温柔，且不失锋芒。”陆春祥表示，本书并非传统意义上“火药味”浓厚的杂文集，而是为探索杂文出路而出版的“实验 ”之作。《病了的字母》按杂文标题的汉语拼音首字母排序，将文章分门别类，有机串联，并以中草药名称作为各篇题头的“注解”，寓意“良药苦口”的杂文风格。</dc:description>
+        <dc:publisher>上海文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532136360</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>陆春洋</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>杂文集</dc:subject>
+        <dc:subject>病了的字母</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <meta content="{&quot;陆春祥&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T15:57:49+00:00" name="calibre:timestamp"/>
+        <meta content="病了的字母" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

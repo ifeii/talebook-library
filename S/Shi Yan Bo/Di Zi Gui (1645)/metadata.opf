@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1f11fa6-af90-4346-a5cf-e970a5759abd</dc:identifier>
+        <dc:title>弟子规</dc:title>
+        <dc:creator opf:file-as="石延博" opf:role="aut">石延博</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《弟子规》原名训蒙文，是一部以学规形式对年幼学子进行学习指导和品行修养教育的启蒙读物，以儒家的忠孝思想为纲，依次讲解了如何对待父母、兄弟、长辈，如何为人处世，如何读书求学的道理。本书对每句话增加了讲解和能充分反映主体思想的故事，并配以活泼有趣的插图，让青少年朋友更加了解辉煌灿烂的古代文明，并继承和发扬我国优良的传统美德。</dc:description>
+        <dc:publisher>内蒙古少年儿童出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787531219941</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>弟子规</dc:subject>
+        <dc:subject>传统文化</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>规训</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;石延博&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:53+00:00" name="calibre:timestamp"/>
+        <meta content="弟子规" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

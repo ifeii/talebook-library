@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a60db078-e45f-476e-b5a1-46127c1dd131</dc:identifier>
+        <dc:title>历史的先声</dc:title>
+        <dc:creator opf:file-as="笑蜀 编" opf:role="aut">笑蜀 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-07T16:00:00+00:00</dc:date>
+        <dc:description>《历史的先声--半个世纪前的庄严承诺》，这是五十多年前他们自己的言论，本书大多选自40年代周恩来在国统区领导的《新华日报》，部分取自延安中共中央机关报《解放日报》。当时发表时多为两报社论和评论，有些直接出自毛泽东、周恩来、刘少奇、董必武等共党领袖人物笔下，有些则是郭沫若、茅盾、陶行知、夏衍、周谷城、吴晗等著名学者的论文和谈话。</dc:description>
+        <dc:publisher>汕头大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787810363457</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>笑蜀</dc:subject>
+        <dc:subject>民主</dc:subject>
+        <dc:subject>当代政治</dc:subject>
+        <dc:subject>谣言</dc:subject>
+        <dc:subject>新闻评论</dc:subject>
+        <meta content="{&quot;笑蜀 编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="34" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:54:15+00:00" name="calibre:timestamp"/>
+        <meta content="历史的先声" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

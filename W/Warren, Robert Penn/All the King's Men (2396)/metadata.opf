@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e6c1023-3fc1-4c0d-a053-0409d568873c</dc:identifier>
+        <dc:title>All the King's Men</dc:title>
+        <dc:creator opf:file-as="Warren, Robert Penn" opf:role="aut">Warren, Robert Penn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-09T13:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;One of the great classics of American fiction reissued as it was originally written.Winner of the 1947 Pulitzer Prize, All the King's Men is one of the most famous and widely read works in American fiction. Its original publication by Harcourt catapulted author Robert Penn Warren to fame and made the novel a bestseller for many seasons. Set in the 1930s, it traces the rise and fall of demagogue Willie Talos, a fictional Southern politician who resembles the real-life Huey "Kingfish" Long of Louisiana. Talos begins his career as an idealistic man of the people, but he soon becomes corrupted by success, caught between dreams of service and a lust for power. All the King's Men is as relevant today as it was fifty years ago.In a momentous publishing event, Robert Penn Warren's masterpiece has been restored and reintroduced by literary scholar Noel Polk, whose work on the texts of William Faulkner has proved so important to American literature. Polk presents the novel as it was originally written, and without the deletions required by its original editors. The result restores Warren's complexity and subtlety to an already near-perfect work, charging the characters with an energy and a more tangled web of relationships than previously was available. All the King's Men is a landmark in letters. This new edition brings it fully to life."The publication of a new, corrected edition of All the King's Men is welcome news for all who care about American literature. Robert Penn Warren's prize-winning novel has remained a classic since its publication more than half a century ago. Editor Noel Polk has studied the manuscript and all other available versions of Warren's finest novels, eliminating errors and retrieving deleted material. The result has been to enrich the character of narrator Jack Burden and his protagonist, Willie Talos, in this story of tumultuous Louisiana politics which also has implications for morals and manners in the modern world." -Joseph Blotner, author of Robert Penn Warren: A Biography&lt;/p&gt;</dc:description>
+        <dc:publisher>Dramatist's Play Service</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780822200185</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Warren, Robert Penn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:09+00:00" name="calibre:timestamp"/>
+        <meta content="All the King's Men" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

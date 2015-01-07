@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88b1312c-cebb-41b5-bb81-5593fc68574c</dc:identifier>
+        <dc:title>张晓风精选集</dc:title>
+        <dc:creator opf:file-as="张晓风" opf:role="aut">张晓风</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《张晓风精选集》分散文、小说戏剧两篇，收录文章70余篇。散文占了主要篇幅。晓风散文意蕴丰厚，世事洞明人情练达，市井琐事中自有骨气奇高，不使感性沦为软性；她的散文叙述自然，冲淡宁静，文辞如水，一笔如舟，引领我们一步步走入一条条美丽水域。晓风散文中，人物林林总总，职业、地位、年龄都迥然不通，既有可以相与出尘的名士大儒，也有只有居家过日子的柴米夫妻。晓风在他们的身上捕捉的是我们民族文化撒播的灵光与风采，传递的是民族文化再生的信念。在现居台湾的 中国经典作家中，晓风只能算是中生代，以她的潜能，我们相信还会有新的杰作新的境界，两岸的中国人在期待，全球的华人在期待，历史在期待！《张晓风精选集》收入作者的重要作品包括散文62篇（《我喜欢》、《地毯的那一端》等），小说、戏剧8篇，作者的作品在台湾多次获奖。
+目录
+现代中文经典徐学
+散文编
+我喜欢
+种种可爱
+关于拥抱
+别人的同学会
+一碟辣酱
+包子
+那人在看画
+一只玉羊
+仗美执言
+一句好话目录目录
+平视，也有美景
+我在
+生命，以什么单位计量
+摇动过，但依然是我的土地
+肉体有千万种受难的形态
+陈年老茶
+闻歌
+情怀
+炎凉
+我仿佛看见
+我会念咒
+我的药呢？
+生活赋
+地毯的那一端
+母亲的羽衣
+爱情篇
+一个女人的爱情观
+许士林的独白
+矛盾篇(之—)
+矛盾篇(之二)
+矛盾篇（之三）
+步下红毯之后
+有些人
+不识
+再跟我们讲个笑话吧
+未绝
+溯洄
+天门
+半局
+地篇
+诗课
+卓文君和她的一文铜钱
+替古人担忧
+初心(节选)
+色识
+六桥
+玉想
+错误
+人日
+请问，你是洞庭红的后代吗？
+只被允许的二夜情
+“风”比“德”好
+开卷和掩卷
+三个人里面聪明的那一个
+只因为年轻啊
+不朽的失眠
+高处何所有
+我恨我不能如此抱怨
+都是竹子害的
+咱们小人物要多多说话
+关于爸爸这种行业的考核制度
+可叵语录
+小说戏剧编
+潘渡娜
+最后的麒麟
+人环
+和氏璧
+一块玉的故事
+《西厢记》改写
+王宝钏
+晓风素描</dc:description>
+        <dc:publisher>北京燕山出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540221904</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>张晓风</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <dc:subject>细腻</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <meta content="{&quot;张晓风&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:24+00:00" name="calibre:timestamp"/>
+        <meta content="张晓风精选集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

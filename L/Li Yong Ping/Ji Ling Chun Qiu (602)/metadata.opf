@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3db7a54e-1d1e-49cc-9305-7c4b3393019d</dc:identifier>
+        <dc:title>吉陵春秋</dc:title>
+        <dc:creator opf:file-as="李永平" opf:role="aut">李永平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-13T16:00:00+00:00</dc:date>
+        <dc:description>罪惡之城 吉陵鎮是一個罪惡之城。中國底層文化的道德傳統置淫於萬惡之首，萬福巷的妓院正是萬惡之淵。劉老實的棺材店偏偏開在妓院的中間，像是死亡對生命之大慾的嘲弄。劉老實跨在棺材板上刨木的姿勢，與嫖客的姿勢互為蒙太奇。他的年輕妻子長笙，白嫩的身軀裹著白衣，在這萬惡之巷裡成為污泥中的白蓮，卻逃不過被染的命運。
+強姦，正是暴力施之於性的罪惡，吉陵鎮的罪惡以此為焦點。這件事竟然發生在觀音生辰的慶典，實在是神人不容，尤其因為長笙的形象與觀音暗暗疊合。
+郁老道士的自戕，眾妓女的自甘被轎夫踐踏，都是贖罪的儀式。劉邵銘說「吉陵春秋」的故事是表現「男人的受性與純良之脆弱無助」。純良的長笙在生前確實是無助，但借了死亡之力她卻為自己的貞操復仇，成為強者。 觀音假她之手來懲戒孫四房，並警告鎮民：孫四房竟然敢打棺材店老闆的主意，真是跟死亡開玩笑了。「吉陵春秋」實在是一本意象豐富對比無窮的小說，相信未來的評論家當會在這方面繼續探討。</dc:description>
+        <dc:publisher>洪範</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789576740930</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>李永平</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>马华文学</dc:subject>
+        <dc:subject>中国现当代文学</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;李永平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="40" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:55+00:00" name="calibre:timestamp"/>
+        <meta content="吉陵春秋" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

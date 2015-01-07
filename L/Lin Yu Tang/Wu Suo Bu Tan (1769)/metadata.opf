@@ -6,21 +6,26 @@
         <dc:title>无所不谈</dc:title>
         <dc:creator opf:file-as="林语堂" opf:role="aut">林语堂</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-02-14T16:00:00+00:00</dc:date>
-        <dc:description>本篇并不是讲浪漫文学，而只借此讲讲人品及文笔之潇洒。因为人品与文学同是一种道理。讲潇洒，就是讲骨气，讲性灵，讲才华。谨愿者以工，才高者以逸，在做人，在行文，在画画，同一道理。 本书分为四篇：第一篇：碎语闲言第二篇：文思雅韵第三篇：驰隙流年第四篇：字斟句酌。&#13;
-　　没有幽默滋润的国民，其文化必日趋虚伪，生活必日趋欺诈，思想必日趋迂腐，文学必日趋干枯，而人的心灵必日趋顽固。&#13;
-　　作家的笔正如鞋匠的锥，越用越锐利，到后来竟可以尖如缝衣之针。但他的观念的范围则必日渐广博，犹如一个人的登山观景，爬得越高，所望见者越远。&#13;
-　　一位现代中国大学教授说过一句诙谐语：“老婆别人的好，文章自己的好。”在这种意义上说来，世间没有一个人会感到绝对的满足的。大家都想做另一个人，只要这另一个人不是他现在的现在。&#13;
-　　凡是谈到真理的人，都反而损害了它；凡是企图证明它的人，都反而伤残歪曲了它；凡是替它加上一个标以和定出一个思想派别的人，都反而杀害了它；而凡是自称为信仰它的人，都埋葬了它。所以一个真理，等到被竖立成为个系统时，它死了二次，并被埋葬了三次了。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2008-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《无所不谈》并不是讲浪漫文学，而只借此讲讲人品及文笔之潇洒。因为人品与文学同是一种道理。讲潇洒，就是讲骨气，讲性灵，讲才华。谨愿者以工，才高者以逸，在做人，在行文，在画画，同一道理。若苏东坡之冠代才华，自然独往独来，无窒无碍，以意役法，不以法役意。但是我所要讲的是，无论何人总可表示一点逸气。把真性灵吐露一点出来，不可昏昏冥冥战战兢兢板起面孔以终世，这样的人生就无味了，充满这种人的社会也成了无味的社会。但若只求多寿多福多子混过一世，也不要什么性灵。这也未始不可，至于艺术创作却以此一点性灵风骨为生命。</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561343739</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>现代·当代</dc:subject>
+        <dc:subject>林语堂</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;林语堂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:04:52.307396+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:38+00:00" name="calibre:timestamp"/>
         <meta content="无所不谈" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

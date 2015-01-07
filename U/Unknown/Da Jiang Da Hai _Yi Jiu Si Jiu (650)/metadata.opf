@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb96cc14-5737-4b81-b69a-6d9a68d76b80</dc:identifier>
+        <dc:title>大江大海：一九四九</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-15T16:00:00+00:00</dc:date>
+        <dc:description>所有的颠沛流离，最后都由大江走向大海，所有的生离死别，都发生在某一个码头——上了船，就是一生。&lt;br /&gt;从1949年开始，带着不同伤痛的一群人，在这个小岛上共同生活了六十年。&lt;br /&gt;六十年来，我们从来没有机会停下脚步，问问对方，你痛在什么地方？&lt;br /&gt;是时候了，在历史的这一页即将永远地翻过之前，我们还来得及为他们做些什么？&lt;br /&gt;龙应台，华人最犀利的一枝笔，继思考家族情感的畅销书《亲爱的安德烈》、《目送》之后，龙应台再度推出15万字新书《大江大海一九四九》。&lt;br /&gt;酝酿十年、走过三大洋五大洲，耗时三百八十天，行脚香港、长春、南京、沈阳、马祖、台东、屏东…..从父母亲的1949年出发，看民族的流亡迁徙，看上一代的生死离散，倾听战后的幸存者、乡下的老人家。&lt;br /&gt;龙应台说，“我再怎么写，都不能给他们万分之一的温情与正义”。藉由文学的温热，龙应台希望引领读者一同诚实地、认真地重新梳理六十年前的这段历史，看见一整代人“隐忍不言的伤”，重新凝视关于人的尊严以及生命价值，用最谦卑的心，写出跨民族、跨历史、跨省籍的一本书。</dc:description>
+        <dc:publisher>天下杂志</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789862410493</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>反思</dc:subject>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪对话系列" name="calibre:series"/>
+        <meta content="28" name="calibre:series_index"/>
+        <meta content="2011-02-18T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="大江大海：一九四九" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

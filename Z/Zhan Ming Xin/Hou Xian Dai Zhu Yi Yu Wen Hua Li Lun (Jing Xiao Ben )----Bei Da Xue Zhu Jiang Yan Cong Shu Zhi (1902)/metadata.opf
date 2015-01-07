@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cb8c09a-0951-437f-b34f-cfa6d4a233ab</dc:identifier>
+        <dc:title>后现代主义与文化理论（精校本）——北大学术讲演丛书之四</dc:title>
+        <dc:creator opf:file-as="詹明信" opf:role="aut">詹明信</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-31T16:00:00+00:00</dc:date>
+        <dc:description>1985年来，杰姆逊教授在北大开设了西方文化理论专题课，本书是这次讲课的翻译记录。
+杰姆逊教授这次专题课着重讲了晚期资本主义的文化特征。他认为，在继国家资本主义、垄断资本主义（帝国主义）而后的晚期资本主义，是一个过错全商品化了的、技术高度发达的信息社会。在这样的社会中，个人对时间和空间的感受产生了新的变化，历史的深度消失了。多民族、无中心、反权威、叙述化、零散化、无深度等概念是这个社会的主要文化特征，“后现代主义”是对这些特征的概括。本书的“引论”和第一至第四章是作者研究工作的理论框架，他在讨论文化与生产方式、文化与宗教、文化与意识形态、文化与叙事分析等问题时，对当代西方思想界的代表人物的思想理论做了评述，将马克思主义的一些基本原理运用到新的理论阐述中。第五章“后现代主义文化”是本书最精彩的部分，他结合对建筑、文学、绘画、摄影、广告等文化工业的精彩分析，对后现代主义和文化理论做了理论的总结。
+本书是杰姆逊教授学术著作中唯一没有英文版的作品。直到1991年，杰姆逊教授的关于后现代主义的理论集大成的著作《后现代主义，或日晚期资本主义的文化逻辑》出版，名著中的理论分析和论断，其实在《后现代主义与文化理论》中早已有所披露。</dc:description>
+        <dc:publisher>北京大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787730103263</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>后现代主义</dc:subject>
+        <dc:subject>文化研究</dc:subject>
+        <dc:subject>文学理论</dc:subject>
+        <dc:subject>詹姆逊</dc:subject>
+        <dc:subject>文化理论</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>Jameson</dc:subject>
+        <dc:subject>后现代</dc:subject>
+        <meta content="{&quot;詹明信&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:35+00:00" name="calibre:timestamp"/>
+        <meta content="后现代主义与文化理论（精校本）——北大学术讲演丛书之四" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

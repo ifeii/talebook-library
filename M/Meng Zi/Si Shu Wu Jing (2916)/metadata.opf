@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90ddde69-5223-4801-82dd-007b9c958840</dc:identifier>
+        <dc:title>四书五经</dc:title>
+        <dc:creator opf:file-as="孟子" opf:role="aut">孟子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>四书五经，是四书与五经的合称，是儒家的九部经典著作。“四书”指《论语》、《大学》、《中庸》、《孟子》，“五经”指《诗经》、《尚书》、《礼记》、《周易》、《左传》。它们取得“经”的地位，经过了一个相当长的时期。 这次出版的《四书五经》，是《中华经典普及文库》之一种，白文点校本。为确保其文字的准确可靠，《四书》以中华书局版朱熹的《四书章句集注》（《大学章句》、《中庸章句》、《论语集注》、《盈子集注》）为底本；《诗经》以中华书局版的《诗经注析》为底本，参校周振甫先生的《诗经译注》；《尚书》以中华版《十五经注疏》为底本，参校其他排印本；《礼记》以中华书局版的《礼记译解》为底本；《周易》以中华书局版《十三经注疏》为底本，参校其他排印本；《左传》以中华书局版杨伯峻《春秋左传注》为底本。</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">182191ef-b1ca-4783-96ef-c0719af78aac</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787101064223</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>四書五經</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>四书五经</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国古典文学</dc:subject>
+        <meta content="{&quot;孟子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:26+00:00" name="calibre:timestamp"/>
+        <meta content="四书五经" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

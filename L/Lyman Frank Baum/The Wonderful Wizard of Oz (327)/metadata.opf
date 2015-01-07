@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a618f96-b8ea-4ca0-b81c-70d69aefa9e0</dc:identifier>
+        <dc:title>The Wonderful Wizard of Oz</dc:title>
+        <dc:creator opf:file-as="Lyman Frank Baum" opf:role="aut">Lyman Frank Baum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1900-01-18T16:00:00+00:00</dc:date>
+        <dc:description>Welcome to a magical world of marvellous
+beauty, where Dorothy, Toto, the
+Scarecrow, the Tin Woodman and the
+Cowardly Lion confront challenges and
+overcome their own character flaws as
+they make their way down the Yellow
+Brick Road to the Enchanted City. Watch
+out for flying monkeys and the Wicked
+Witch, and discover the secret of Oz, the
+Great and Terrible.
+At a time when all the best fairy tales
+were European, L. Frank Baum wrote
+this classic American example, set in the
+cyclone belt of Kansas. It was to become
+more famous than he could ever have
+imagined after Judy Garland played
+Dorothy in the 1939 film version.</dc:description>
+        <dc:publisher>Vancouver Sun</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788497898614</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>绿野仙踪</dc:subject>
+        <dc:subject>童书</dc:subject>
+        <dc:subject>英文原著</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>english</dc:subject>
+        <dc:subject>英语</dc:subject>
+        <dc:subject>英文書</dc:subject>
+        <dc:subject>精装</dc:subject>
+        <meta content="{&quot;Lyman Frank Baum&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:49+00:00" name="calibre:timestamp"/>
+        <meta content="Wonderful Wizard of Oz, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

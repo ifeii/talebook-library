@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0487f57d-5235-4e10-b877-2f979dc2b48e</dc:identifier>
+        <dc:title>伊索寓言</dc:title>
+        <dc:creator opf:file-as="伊索" opf:role="aut">伊索</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
+        <dc:description>伊索，公元前六世纪出生在爱琴海的萨摩斯岛，身为奴隶，后因出众的智慧和渊博的知识而被赐为自由民，继而成为吕底亚国王的特使。出使德尔斐时被诬陷偷窃圣物，惨遭杀害。
+伊索被誉为“希腊寓言之父”，“西方寓言的开山鼻祖”。伊索寓言是世界上最古老、影响最大的寓言，由于形象生动、寓意深刻、富于哲理，在全世界流传两千五百余年而经久不衰。阅读伊索寓言使人趋向聪明、理智、沉稳。
+本书精选伊索寓言429篇，另选古希腊重要寓言家费德鲁斯和巴布里乌斯的精彩寓言100篇。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532742530</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>寓言</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>伊索寓言</dc:subject>
+        <dc:subject>希腊</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;伊索&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:12+00:00" name="calibre:timestamp"/>
+        <meta content="伊索寓言" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

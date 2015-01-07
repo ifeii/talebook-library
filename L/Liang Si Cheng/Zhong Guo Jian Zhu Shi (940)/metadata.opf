@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">940</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87825f73-1786-440c-83fc-d06ef657d3b1</dc:identifier>
+        <dc:title>中国建筑史</dc:title>
+        <dc:creator opf:file-as="梁思成" opf:role="aut">梁思成</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《中国建筑史》一书就是在这种时代背景下完成的，它无疑也是当时争取民族独立与解放运动的历史产物。自1939年起担任中央博物院建筑史料编纂委员会主任的梁思成，从42年开始着手编写中国建筑史，两年后完成。这是我国第一部由中国人自己编写的比较完善、系统的中国建筑史，它的完成也实现了梁先生从20年代留美学习时就立下的夙愿———“《中国建筑史》要由中国人来写”。当时就读于宾大建筑系的梁思成，看到“欧洲各国对本国的古建筑已有系统的整理和研究，并写出本国的建筑史。唯独中国，我们这个东方古国，却没有自己的建筑史”。而日本学术界的许多知名学者也已着手研究中国建筑史，并取得了一定的成果。民族的自大与自卑，皆源自对本民族历史文化的无知。无知必然导致盲目，而盲目反过来又闭塞了人们了解本国历史的视听，从而进一步滋生无知。因此，只有对本民族的过去有了深刻的了解，才能站在比较客观的立场上，产生深沉的民族自尊和自强。而建筑作为历史文化的记录和见证，忠实地反映了社会的政治、经济、思想与文化。研究建筑的发展史，无疑可以明白无误地触摸到民族历史的脉搏。《中国建筑史》正是通过客观深刻的分析和阐述，使国人得以了解自己民族的过去，从而避免盲目的自卑或无端的自大，并塑造出坚实深厚的民族自尊。　　客观的分析和阐述，源自科学的研究方法和指导思想。梁思成不愧是“第一个用现代科学方法研究中国古代建筑的学者”，他对中国建筑有着十分独到的理解和认识。梁先生生动地将构件、装饰和建筑单体称作建筑上的“词汇”，对应地将构件之间、构件和它们的加工处理、以及建筑单体之间的处理方法和相互关系称为建筑上的“文法”。为了钻研这种“词汇”、“文法”体系，梁思成以曾在清宫营造过的老工匠为师，以清工部《工程做法则例》为课本，以北京故宫为研究标本，同时对照大量现存实物，先将清代建筑营造方法及其则例弄通；在此基础上，将宋《营造法式》与清工部《工程做法则例》这两部“文法课本”互相比较，再通过实测宋、辽、金实物，互相印证。并以此为基础，由近及远，研究宋以前的古代建筑。</dc:description>
+        <dc:publisher>百花文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530641682</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>建筑</dc:subject>
+        <dc:subject>梁思成</dc:subject>
+        <dc:subject>中国建筑史</dc:subject>
+        <dc:subject>建筑史</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>林徽因</dc:subject>
+        <meta content="{&quot;梁思成&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="37" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:47+00:00" name="calibre:timestamp"/>
+        <meta content="中国建筑史" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

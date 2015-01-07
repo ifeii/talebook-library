@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b36fe7a8-c3b2-4993-86d9-0524574b60c3</dc:identifier>
+        <dc:title>魔山</dc:title>
+        <dc:creator opf:file-as="托马斯·曼" opf:role="aut">托马斯·曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《魔山》里我们要叙述的，是汉斯·卡斯托尔普的故事。写这个故事的目的并不是为了他个人（因为读者将会了解到，他是一个心地单纯甚至是惹人喜爱的青年），而是为了故事本身，在我们看来，它是值得大大描写一番的。不过为了汉斯·卡斯托尔普着想，我们可得记住这是他的故事，而并非发生在任何人身上的任何故事。这个故事发生在好久以前，也可以说已完全是历史的陈迹，因此叙述时无疑须用事隔多年的过去时态。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532741786</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e0d73154-360b-4ed9-8f0b-797401f74077</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>托马斯·曼</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>德国文学</dc:subject>
+        <dc:subject>诺贝尔文学奖</dc:subject>
+        <dc:subject>魔山</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;托马斯·曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:28+00:00" name="calibre:timestamp"/>
+        <meta content="魔山" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

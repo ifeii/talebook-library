@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69715f97-ae00-4853-a599-308b943dab45</dc:identifier>
+        <dc:title>悲剧的诞生</dc:title>
+        <dc:creator opf:file-as="尼采(Nietzsche,F.)" opf:role="aut">尼采(Nietzsche,F.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《悲剧的诞生》的主旨，尼采后来一再点明，是在于为人生创造一种纯粹审美的评价，审美价值是该书承认的唯一价值，“全然非思辩、非道德的艺术家之神”是该书承认的唯一的“神”，他还明确指出，人生的审美评价是与人生的宗教、道德评价以及科学评价根本对立的。《悲剧的诞生》尼采后来提出的“重估一切价值”，其实，“重估”的思想早已蕴含在他早期的美学理论中了。当时他就宣告：“我们今日称作文化、教育、文明的一切，终有一天要带到公正的法官酒神面前。”后来又指出：“我们的宗教、道德和哲学是人的颓废形式。相反的运动：艺术。”可见，“重估”的标准是广义艺术，其实质是以审美的人生态度反对伦理的人生态度和功利的人生态度。</dc:description>
+        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>尼采</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>悲剧的诞生</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>美学</dc:subject>
+        <dc:subject>周国平</dc:subject>
+        <dc:subject>文艺评论</dc:subject>
+        <meta content="{&quot;尼采(Nietzsche,F.)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:03+00:00" name="calibre:timestamp"/>
+        <meta content="悲剧的诞生" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

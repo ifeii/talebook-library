@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7892dda6-e022-48e7-9a7c-5d0abfdf2686</dc:identifier>
+        <dc:title>魔鬼出没的世界</dc:title>
+        <dc:creator opf:file-as="卡尔·萨根" opf:role="aut">卡尔·萨根</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-09-30T16:00:00+00:00</dc:date>
+        <dc:description>精神世界是丰富多彩的，但是精神世界的源泉是什么？萨根在书中写道：“当科学与大自然相遇时，科学就必然会使人产生对大自然的敬畏的感觉。对大自然的真正的理解的行为是与自然的结合和融合的欢庆，即使是在很小程度上的结合也能使人感受到宇宙的宏伟和壮观。随着时间的流逝而积累起来的世界 范围内的知识体系使科学变成了跨国界、跨时代的超越所有界限的理智的东西。‘精神’一词是从拉丁文‘呼吸’变化而来的。我们呼吸的是空气，无论它多么稀薄，但毫无疑问它是物质.....”
+卡尔·萨根博士是美国康奈尔大学的天文学教授。同时他又是世界著名的科普作家。他对科学的精辟见解使他成为“唯一能够用简单扼要的语言说明科学是什么”的科学家。他成为本世纪最有影响的人物。《魔鬼出没的世界——科学，照亮黑暗的蜡烛》是他临终前的最后一部作品。当年便创下最佳畅销书第一名的记录。</dc:description>
+        <dc:publisher>吉林人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787206030093</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>卡尔·萨根</dc:subject>
+        <dc:subject>科学</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>魔鬼出没的地方</dc:subject>
+        <dc:subject>自然科学</dc:subject>
+        <dc:subject>伪科学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;卡尔·萨根&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科学" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:48+00:00" name="calibre:timestamp"/>
+        <meta content="魔鬼出没的世界" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

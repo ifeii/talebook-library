@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6960a489-6bc3-4934-abcb-e94fd186e7d9</dc:identifier>
+        <dc:title>头发</dc:title>
+        <dc:creator opf:file-as="卫斯理" opf:role="aut">卫斯理</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-31T16:00:00+00:00</dc:date>
+        <dc:description>“头发的功用是用来保护头部？但人的头骨将近一寸，而且极硬而结实。足以担任保护脑袋的责任。那么要那么柔软的头发来干什么？”
+三件“古物”，三个怪梦、一间充满奥秘的七层石室、一个只剩下一个族人的“尼格底拉”之族，让卫斯理在尼泊尔展开了一连串追查，最终卫斯理不但发现了“头发”对于人类的真正功用，更发现人类的家乡并不是地球！
+“头发”写于一九七八年，这部作品有相当特殊的意义，在卫斯理故事中，地位独特——它是在休息了六年之后又开始续写的第一个故事。故事讲述了：在一颗遥远的星球，居住着人类的祖先（严格的说，人类是被他们制造出来的）。他们在不断进步发展的过程中，已经抛弃了所有邪恶的念头和意识，而且科技的发展已经可以使他们利用头发控制思想光束随意离开肉体，来达到永生……</dc:description>
+        <dc:publisher>上海书店出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806788868</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>卫斯理系列</dc:subject>
+        <meta content="{&quot;卫斯理&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:12+00:00" name="calibre:timestamp"/>
+        <meta content="头发" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

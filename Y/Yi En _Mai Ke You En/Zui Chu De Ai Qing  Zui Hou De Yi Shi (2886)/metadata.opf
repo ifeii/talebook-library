@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13924e92-d6ee-4ffd-9002-f359f65d3612</dc:identifier>
+        <dc:title>最初的爱情 最后的仪式</dc:title>
+        <dc:creator opf:file-as="伊恩·麦克尤恩" opf:role="aut">伊恩·麦克尤恩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T16:00:00+00:00</dc:date>
+        <dc:description>全书由八个短篇组成，分别从八个位于童年、青春期和青年等不同阶段的男性视角出发，以意识和潜意识交接地带的经验为揭示对象，有时荒唐，有时伤感，有时温柔，有时骇人，有时魔幻，却都无限接近真实，接近每个人的内心。
+麦克尤恩素来擅长以冷静细腻的笔触打磨幽暗题材，赋予其精妙无双的质感。八个故事各如黑晶棱镜之一面，折射出日常生活中平凡人性所可能误陷的种种魔怔与梦魇。平地与深渊，生与死，真实与玄幻，伦常与变态之间的界限恍若蛛丝般轻薄，看后令人或怅然或倒吸凉气，同时又觉得其魔力不可抗拒。
+以如此短薄篇幅，麦克尤恩却惊才遽现，征服了文坛。所录每一篇都可谓杰作，令人过目难忘。此书是阅读和了解这位天才作家的最佳切入点。
+《最初的爱情，最后的仪式》是麦克尤恩的处女作与成名作。</dc:description>
+        <dc:publisher>南京大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b4593c16-442d-4af9-a357-42c95ffe5399</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787305063749</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>伊恩·麦克尤恩</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>最初的爱情，最后的仪式</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>英国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>IanMcewan</dc:subject>
+        <meta content="{&quot;伊恩·麦克尤恩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:55+00:00" name="calibre:timestamp"/>
+        <meta content="最初的爱情 最后的仪式" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

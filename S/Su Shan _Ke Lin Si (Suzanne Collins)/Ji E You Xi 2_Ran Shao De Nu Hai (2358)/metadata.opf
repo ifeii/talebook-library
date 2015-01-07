@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43e7a44f-8f23-4434-a911-f0e4f12302ab</dc:identifier>
+        <dc:title>饥饿游戏2：燃烧的女孩</dc:title>
+        <dc:creator opf:file-as="苏珊·柯林斯(Suzanne Collins)" opf:role="aut">苏珊·柯林斯(Suzanne Collins)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:description>饥饿游戏无休无止，燃烧的女孩飞箭点燃，星火必将燎原
+第七十四届饥饿游戏已经结束，凯特尼斯出人意料地活了下来，她和“恋人”皮塔将会过上安定闲适的生活。然而，噩梦刚刚开始。此时，十二个区也暗波涌动，凯特尼斯竟然成了反叛的象征。
+情窦初开的凯特尼斯陷入爱情的纠结中不能自拔，狩猎伙伴盖尔和竞技场“恋人”皮塔让她难以取舍。盖尔和皮塔都深爱着凯特尼斯，为了不让凯特尼斯痛苦，他们不约而同地冷落疏远她。
+第七十五届饥饿游戏“世纪极限赛”的赛制是，选手是历届获胜者，他们中只有一人能存活。凯特尼斯又将重返赛场。凯特尼斯没有未来，她只有一死，才能挽救皮塔，这是对皮塔深情的最后报答。爱情与友谊，真诚与猜忌，血腥与牺牲，越来越扑朔迷离……</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506355667</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>饥饿游戏</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>苏珊·柯林斯</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <meta content="{&quot;苏珊·柯林斯(Suzanne Collins)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:24+00:00" name="calibre:timestamp"/>
+        <meta content="饥饿游戏2：燃烧的女孩" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

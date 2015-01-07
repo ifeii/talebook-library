@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b34656eb-036b-418c-b27b-76c512f1fe41</dc:identifier>
+        <dc:title>中國近代史（上冊）</dc:title>
+        <dc:creator opf:file-as="徐中約" opf:role="aut">徐中約</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-06T16:00:00+00:00</dc:date>
+        <dc:description>《中国近代史》（The Rise of Modern China）自1970年面世后五次修订，销售数十万册，为欧美及东南亚等地中国近代史研究的权威著作及最畅销的学术教科书，是一本极具深远影响的经典作品。
+这部近代史自清朝立国起，下迄21世纪，缕述四百年来中国近代社会之巨变。然作者明确指出，这段艰难的历程并非如大多西方汉学家所言，是一段西方因素不断输入而中国仅仅被动回应的历史。作者拈出“政府的政策和制度”、“反对外来因素的民族或种族抗争”以及“在新的天地里寻求一条求生之道”三条线索，作为推动近代中国发展的三股最重要动力，并通过对近代中国内部社会动荡的描摹，向世界讲述了“一个古老的儒家帝国经无比艰难，蜕变为一个近代民族国家”的历史。
+作者徐中约虽身处欧美学界，在书中想表达的却是“以中国人的身份对近代中国发展进程的看法”，但这种表达不囿于任何一家学说、一种主义，开出一种折衷调和的历史观。作者以超越意识形态、阶级、党派、种族和文化的眼光，怀抱对各色历史人物的宽容、同情、善意之心，能够公平公正、客观冷静地看待历史事件的发生。并且参考了巨量不同语种的档案文献及研究著述，以跨学科的方法写就这部描述近四百年中华民族之挣扎历程的史学巨著。</dc:description>
+        <dc:publisher>香港中文大學出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789622019874</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国近代史</dc:subject>
+        <dc:subject>徐中约</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>近代史</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>中國近代史</dc:subject>
+        <dc:subject>中國歷史</dc:subject>
+        <meta content="{&quot;徐中約&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="32" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:54:09+00:00" name="calibre:timestamp"/>
+        <meta content="中國近代史（上冊）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

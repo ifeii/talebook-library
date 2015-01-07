@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dcccbf0-9106-4f44-b407-bfe59d3ef4a0</dc:identifier>
+        <dc:title>官场现形记</dc:title>
+        <dc:creator opf:file-as="李伯元" opf:role="aut">李伯元</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>该书以暴露清朝官场黑暗腐朽为主题，涉及政治、经济、军事、外交等方面，展示了清廷官员上自中堂、巡抚、总督，下至道台、知县、统领、典吏等一幅百丑图。这群吸血虫对内作威作福，巧取豪夺，草菅人命，残害百姓；对外奴额婢膝，投降卖国。他们视钱如命，以“千里做官只为财”为信条，公开卖官鬻爵，假公济私，贪污受贿，克扣军饷，贩卖人口，到了不择手段、无以复加的地步。他们争名夺利，为了追求升官发财，对上阿谀奉承，投其所好，而相互之间，或狼狈为奸，相荣相卫，为我所用；或尔虞我诈，设陷倾轧，排除异己。他们穷奢极欲，纸醉金迷，吸毒狂赌，纳妾嫖娼，丧尽天良。全书客观地反映了当时社会的黑暗面貌。看了此书，使人感到清朝的灭亡，势在必然。虽然作者在书中自称，专门指摘为官者的坏处，以使他们知过改过，“戒其为非”，“引之为善”。但是作者这种良好的愿望在当时是不能实现的。另外，作者对农民起义持否定态度，诬蔑太平天国革命和义和团运动。面，都体现了作者的时代局限性和改良主义思想。
+本书是一部专门揭露官场黑暗的小说。它从地方到中央，从州县衙门的令尹衙役到军机处的军机大臣作了全方位的总体剖析和透视，对各级大小官吏作了普遍的绘声绘色的描述，它不但写出了大批形形色色道德败坏的贪官污吏，而且写出了清末卖官鬻爵、招权纳贿的官场运动机制。</dc:description>
+        <dc:publisher>岳麓书社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806652435</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>官场现形记</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>官场小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国古典文学</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>李宝嘉</dc:subject>
+        <meta content="{&quot;李伯元&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:02+00:00" name="calibre:timestamp"/>
+        <meta content="官场现形记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

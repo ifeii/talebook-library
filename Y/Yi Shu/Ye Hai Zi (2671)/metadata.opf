@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">026cb12c-111a-427b-860e-34ac28e037d1</dc:identifier>
+        <dc:title>野孩子</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-03T16:00:00+00:00</dc:date>
+        <dc:description>我叫裘哈拿。我有個孿生妹妹，叫裘馬大。我比馬大長五分鐘。
+我們的媽媽是個非常精采的人物，年青的時候，她是個經極一時的花旦，唱戲唱累了，嫁人，父親很早去世，留下一筆遺產給她，我們日子過得不壞。
+三十多歲那年，她的伶人朋友中有一位改信基督教，把她也帶成一位最佳教徒，她把一本聖經背得滾瓜爛熟，連女兒的名字都不放過，取了聖經裏的名字。　　母親的藝名，叫粉艷秋，本名叫三妹。
+她的朋友，叫她「小秋」，她的胡琴師傅，叫她「三妹姐」。
+母親已經五十多了，每當戲行裏人叫她小秋，我頭一個先忍不住笑起來，馬大很乖，馬大不笑，她通常瞪我一眼，暗示我收歛一點。
+馬大與我都廿四歲了。
+她在港大唸最後一年，讀經濟；我呢，不是唸書的材料，早已經在做事。
+馬大一向覺得萬般皆下品，唯有讀書高，認為我沒出息，我呢，看死馬大唸完偉大的經濟學，也不過是嫁人，更加沒用。
+於是我老氣她，「我才不需要花三年光陰換來一紙文憑裝飾我的氣質。」</dc:description>
+        <dc:publisher>天地图书</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ba131017-614e-4525-b8f1-fe8157352862</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789622570252</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>野孩子</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:04+00:00" name="calibre:timestamp"/>
+        <meta content="野孩子" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

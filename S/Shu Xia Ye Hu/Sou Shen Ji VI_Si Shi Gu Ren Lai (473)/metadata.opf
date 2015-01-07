@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0033cd7-1d9d-4da5-833d-01dc5ba83751</dc:identifier>
+        <dc:title>搜神记Ⅵ·似是故人来</dc:title>
+        <dc:creator opf:file-as="树下野狐" opf:role="aut">树下野狐</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-30T16:00:00+00:00</dc:date>
+        <dc:description>“蛮荒三部曲”讲述自神农帝驾崩，直至尧帝一统华夏，大荒数百年问风云变幻的神话传说，可歌可泣的蛮荒英雄。另有外传若干，未定。
+*　　　*　　　*
+正传三部曲第一部《搜神记》：远古蛮荒时代，神农去世，惊涛音涌，凶兽频出，狼烟四起，一场旷古未有的巨大战乱正席卷大荒。少年拓拔野横空出世，因缘际会，成为了世人瞩目的龙神太子，与蜃楼城少城主蚩尤一起，在乱世中成长，矢志打败水妖，恢复天下和平。
+*　　　*　　　*
+第二部《蛮荒记》：昆仑蟠桃会后，五族分裂，天下离心，大战再小可避免。短短几年，铸就了华夏历史最为壮烈绚丽的不朽篇章。九州四海，究竟谁主沉浮？洪荒往事，隐藏了多少玄秘!蚩尤、刑天、水族大神烛龙、土族黄帝姬远玄、火族炎帝烈炎、金族西王母……中华神话中的传说人物一一粉墨登场。群雄逐鹿。风雷激吼，谱写出一曲波澜壮阔、气壮山河的洪荒史诗。
+*　　　*　　　*
+第三部，未定名。
+— — — — — — — — — — — — — — — — — — —
+似是故人来：
+瑶池大战，惊心动魄。
+久违不见的故人纷纷登场，蚩尤、赤松子、夸父、流沙仙子……爱恨难消，恩怨何解，阴谋、血战……只有拓拔野才能力挽狂澜！他必须以一己之力扭转局势，击败天下第一的汁光纪……
+瑶池再度卷起腥风血雨，一桩桩旧日恩仇、惊天秘密，都将在昆仑山顶了断。然而，大荒最瑰丽的历史，此时才刚刚拉开序幕。</dc:description>
+        <dc:publisher>辽宁教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787538275001</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>树下野狐</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>搜神记</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <meta content="{&quot;树下野狐&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="搜神记" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:21+00:00" name="calibre:timestamp"/>
+        <meta content="搜神记Ⅵ·似是故人来" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

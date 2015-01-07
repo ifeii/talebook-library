@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94b4eed5-7ce5-481e-afef-0380fbde887a</dc:identifier>
+        <dc:title>殺禪 （第一卷）：暴力集團</dc:title>
+        <dc:creator opf:file-as="喬靖夫" opf:role="aut">喬靖夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>◎暢銷作家 九把刀／奇幻文化藝術基金會執行長 朱學恆／金馬獎導演 陳嘉上 一致推薦
+◎香港名作詞人喬靖夫歷時十年的禁斷超大作
+◎故事充滿以殺悟禪的黑色美學，今年最MEN的黑幫故事
+一個胸懷十萬人意志的男人、一個以慾望射箭的男人、
+一個在刀刃上追求快感的男人、一個把世界當成棋盤的男人、
+一個擁有鋼鐵肉體的男人、一個越受傷害越強的男人……
+當他們到來，黑道迎接的不是一場風暴，而是一次革命！
+一切從大地上一場最慘酷的戰爭開始：
+六個被軍隊遺棄的男人，因為一次荒誕的刺殺任務而相遇，以鮮血結為託付生死的兄弟，矢誓向世界討回他們應得的一切……
+戰爭隨著震撼歷史的「關中大會戰」而落幕；然而在回歸和平的人類世界後，這六個男人才踏進真正的戰場……
+身處空前偉大的繁華都市「漂城」，眼前充滿一切的可能性。野心一旦燃燒起來，再也無法回頭。他們根本不必選擇。宿命己經為他們指示了邁向成功最直接的道路——「暴力」！
+從蠻荒森林到關中大戰場，從市井黑道到帝都核心 一首跨越三十四年黑闇時代的狂野史詩</dc:description>
+        <dc:publisher>蓋亞</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789867450791</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>乔靖夫</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>杀禅</dc:subject>
+        <dc:subject>暴力</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>黑道，铁血</dc:subject>
+        <dc:subject>武侠小說</dc:subject>
+        <meta content="{&quot;喬靖夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:46+00:00" name="calibre:timestamp"/>
+        <meta content="殺禪 （第一卷）：暴力集團" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2594b38b-5777-4a19-8077-522820849ec4</dc:identifier>
+        <dc:title>The Magnificent Ambersons</dc:title>
+        <dc:creator opf:file-as="Tarkington, Booth" opf:role="aut">Tarkington, Booth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-30T16:00:00+00:00</dc:date>
+        <dc:description>The Magnificent Ambersons , by  Booth Tarkington , is part of the   Barnes &amp; Noble Classics  series, which offers quality editions at affordable prices to the student and the general reader, including new scholarship, thoughtful design, and pages of carefully crafted extras. Here are some of the remarkable features of  Barnes &amp; Noble Classics :     All editions are beautifully designed and are printed to superior specifications; some include illustrations of historical interest.  Barnes &amp; Noble Classics  pulls together a constellation of influencesbiographical, historical, and literaryto enrich each reader's understanding of these enduring works.      Largely overshadowed by Orson Welles’s famous 1941 screen version,  Booth Tarkington ’s novel  The Magnificent Ambersons  was not only a best-seller when it first appeared in 1918it also won the Pulitzer Prize.
+
+Set in the Midwest in the early twentieth centurythe dawn of the automobile agethe novel begins by introducing the richest family in town, the Ambersons. Exemplifying aristocratic excess, the Ambersons have everything money can buyand more. But George Amberson Minaferthe spoiled grandson of the family patriarchis unable to see that great societal changes are taking place, and that business tycoons, industrialists, and real estate developers will soon surpass him in wealth and prestige. Rather than join the new mechanical age, George prefers to remain a gentleman, believing that being things” is superior to doing things.” But as his town becomes a city, and the family palace is enveloped in a cloud of soot, George’s protectors disappear one by one, and the elegant, cloistered lifestyle of the Ambersons fades from view, and finally vanishes altogether.
+
+A brilliant portrayal of the changing landscape of the American dream,  The Magnificent Ambersons  is a timeless classic that deserves a wider modern audience.      Nahma Sandrow  has written extensively about theater and cultural history, including the books  Vagabond Stars: A World History of Yiddish Theater  and  Surrealism: Theater, Arts, Ideas . For many years a professor at Bronx Community College of the City University of New York, she has lectured at Oxford University, Harvard University, the Smithsonian, and elsewhere.</dc:description>
+        <dc:publisher>Sterling Pub Co Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593082635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tarkington, Booth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:06+00:00" name="calibre:timestamp"/>
+        <meta content="Magnificent Ambersons, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

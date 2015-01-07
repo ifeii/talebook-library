@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">872</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40cd9c19-9063-45a4-a181-60ae5504f72f</dc:identifier>
+        <dc:title>生活在别处</dc:title>
+        <dc:creator opf:file-as="米兰·昆德拉" opf:role="aut">米兰·昆德拉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《生活在别处》是捷克著名作家米兰·昆德拉的作品，塑造了青年诗人雅罗米尔，通过他的出生、成长、死亡，将人类普遍的抒情特性，集中在他身上。又让他在一个不可挣脱的空间里，以最天真最浪漫也最冷酷的方式逃离。直到死亡！这部作品是一个年轻艺术家的肖像画。昆德拉以其独到的笔触塑造出雅罗米尔这样一个形象，描绘了这个年轻诗人充满激情而又短暂的一生，具有“发展小说”的许多特点，这部作品使他于1973年首次获得一项重要的外国文学奖——法国梅迪西斯奖。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506301985</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>米兰·昆德拉</dc:subject>
+        <dc:subject>生活在别处</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>捷克</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>米兰・昆德拉</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <meta content="{&quot;米兰·昆德拉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:06+00:00" name="calibre:timestamp"/>
+        <meta content="生活在别处" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

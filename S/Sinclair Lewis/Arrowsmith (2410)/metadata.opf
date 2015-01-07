@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aabc0d81-7c65-480b-8939-15d66d67685b</dc:identifier>
+        <dc:title>Arrowsmith</dc:title>
+        <dc:creator opf:file-as="Sinclair Lewis" opf:role="aut">Sinclair Lewis</dc:creator>
+        <dc:creator opf:file-as="Sinclair Lewis" opf:role="aut">E. L. Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-05-31T16:00:00+00:00</dc:date>
+        <dc:description>在线阅读本书
+
+  Written at the height of his powers in the 1920s, the three novels in this volume continue the vigorous unmasking of American middle-class life begun by Sinclair Lewis in Main Street and Babbitt. In  Arrowsmith  (1925) Lewis portrays the medical career of Martin Arrowsmith, a physician who finds his commitment to the ideals of his profession tested by the cynicism and opportunism he encounters in private practice, public health work, and scientific research. The novel reaches its climax as its hero faces his greatest challenges amid a deadly outbreak of plague on a Caribbean island. 
+
+  Elmer Gantry  (1927) aroused intense controversy with its brutal depiction of a hypocritical preacher in relentless pursuit of worldly pleasure and power. Through his satiric exposé of American religion, Lewis captured the growing cultural and political tension in the 1920s between the forces of secularism and fundamentalism. 
+
+  Dodsworth  (1929) follows Sam Dodsworth, a wealthy, retired Midwestern automobile manufacturer, as he travels through Europe with his increasingly restless wife, Fran. The novel intimately explores the unraveling of their marriage, while pitting the proud heritage of European culture against the rude vigor of American commercialism.</dc:description>
+        <dc:publisher>Signet Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451526915</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>医生</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <meta content="{&quot;E. L. Doctorow&quot;: &quot;&quot;, &quot;Sinclair Lewis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:24+00:00" name="calibre:timestamp"/>
+        <meta content="Arrowsmith" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

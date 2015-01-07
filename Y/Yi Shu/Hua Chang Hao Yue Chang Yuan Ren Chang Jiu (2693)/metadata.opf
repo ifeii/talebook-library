@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09019114-14f4-41c9-aaaf-16a98b00f0c3</dc:identifier>
+        <dc:title>花常好月常圆人长久</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>爱是不是真的可以长久？婚姻辅导员吴乃娟在为求助者解答婚姻生活出现的疑难问题时，自己也不禁陷入了深深的困惑中。她独自徘徊，是外型俊朗的利家亮，还是温厚朴实的李至中？ 而更为重要的是自己需要的到底是一份持久的婚姻，还仅仅只是一个婚礼？一场意外改变了吴乃娟的生活，她受袭住进了医院，面对利家亮和李至中的殷勤关怀，吴乃娟相信了爱可以长久，只要你能够选对你渴望的的那一个人，她缓缓向李至中伸出了手……</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4f182fc3-4124-494b-813f-1182e11a952b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787801876362</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>花常好月常圆人长久</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:25+00:00" name="calibre:timestamp"/>
+        <meta content="花常好月常圆人长久" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

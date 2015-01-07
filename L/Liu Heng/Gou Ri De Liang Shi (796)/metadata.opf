@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63753c71-4544-4cd6-a5ec-da407d71a2ba</dc:identifier>
+        <dc:title>狗日的粮食</dc:title>
+        <dc:creator opf:file-as="刘恒" opf:role="aut">刘恒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-12-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是一本小说作品集，书中主要讲述的故事内容是狗日的粮食、白涡、虚证、伏羲伏羲、教育诗、贫嘴张大民的幸福生活、三X与一个作家  王干、作者主要著作目录。书中第一部分介绍的是本书的书名《狗日的粮食》，故事是日后人们记起杨天宽那天早晨离开洪水峪的样子，总找不到别的说法儿。他们只记住了一件事，不知道是不是顶重要的一件事。“他背了二百斤谷子”这没滋没味儿的话说了足有三十年。它显不出味道是因为那天早晨以后的日子味道太浓的缘故。杨天宽是趟着雾走的，步子很飘。他背着花篓，篓里竖着粮袋，鼓的。这些都陷入白国，人们疑心他背着空篓。但他前几日的确跟各家借过粮食，谷子的用处也吞吐着挑明了。他走得健就是因了这个……</dc:description>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787539918228</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>刘恒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>狗日的粮食</dc:subject>
+        <dc:subject>中国当代文学</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>当代</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;刘恒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="78" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:54:01+00:00" name="calibre:timestamp"/>
+        <meta content="狗日的粮食" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

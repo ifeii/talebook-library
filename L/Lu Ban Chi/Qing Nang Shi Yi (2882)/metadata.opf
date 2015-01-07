@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01043e60-d558-4caf-8e45-59183daef905</dc:identifier>
+        <dc:title>青囊尸衣</dc:title>
+        <dc:creator opf:file-as="鲁班尺" opf:role="aut">鲁班尺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T16:00:00+00:00</dc:date>
+        <dc:description>建安十三年（208年），飘忽不定的油灯光下，白须老者将一个布包交给牢头，轻声道：“此可以活人。”
+洪武八年（1375年），朱元璋赐死前三日，刘伯温诈死，“死后”隐此卧龙谷，积平生所学，始成《尸衣经》。
+1975年，前后不过一个月，婺源县南山镇南山村村民、赤脚医生世家之后朱寒生先得《青囊》，又获《尸衣》。
+2008年，你，手捧《青囊尸衣》。
+世传得华佗《青囊经》可救人活命，得刘伯温《尸衣经》可辟邪避天……
+建安十三年（公元208年），是夜，倾盆大雨，许昌城北死牢。飘忽不定的油灯光下，一个清癯白须的老者将一个布包交给牢头，轻声道：“此可以活人！”那牢头悄悄将布包揣入怀中。
+1700年后，有游人至江苏沛县华佗庙，庙门前一副对联曰：
+医者刳腹，实别开岐圣门庭，谁知狱吏庸才，致使遗书归一炬；
+士贵洁身，岂屑侍奸雄左右，独憾史臣曲笔，反将厌事谤千秋。
+说的是，当年三国神医华佗将其毕生心血凝著《青囊经》，临终前夜传于牢头，那人竟不敢接，华佗无奈将其付之一炬，致使该医经失传至今，令人扼腕叹息。
+悠悠岁月，沧海桑田，此事早已湮没在漫漫尘世之中了。
+时值1975年暮秋，江西婺源南山脚下，一株高大的老槐树下，围着一群村民，大家都仰着脸瞧着粘贴在树干上的一张布告。
+布告上写道：
+根据县革命委员会指示，凡位于通往灵古洞的坟墓须于十五日内自行搬迁，届时仍未搬迁的坟墓将视为无主坟，由镇革委会组织基干民兵统一铲平，希革命群众踊跃配合。
+落款是婺源县南山镇革命委员会，下面盖有鲜红的大印……</dc:description>
+        <dc:publisher>河南文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806238998</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">12516946-1555-4e0c-a033-a5b7e3976fd4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>青囊尸衣</dc:subject>
+        <dc:subject>鲁班尺</dc:subject>
+        <dc:subject>灵异</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>盗墓</dc:subject>
+        <dc:subject>刘伯温</dc:subject>
+        <meta content="{&quot;鲁班尺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:51+00:00" name="calibre:timestamp"/>
+        <meta content="青囊尸衣" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

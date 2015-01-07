@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de413401-f9f0-4fda-9c4f-19d8d7746413</dc:identifier>
+        <dc:title>罗德斯岛战记1：灰色的魔女</dc:title>
+        <dc:creator opf:file-as="水野良" opf:role="aut">水野良</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-27T16:00:00+00:00</dc:date>
+        <dc:description>被诅咒之岛的传说。&#13;
+&#13;
+共七卷。这是第一卷。&#13;
+&#13;
+另有前传《罗德斯岛传说》，讲述魔神战争的始末。&#13;
+还有几本外传，《妖精之森》、《黑衣骑士》等。&#13;
+&#13;
+&#13;
+好不容易撫平了三十年前魔神戰爭所受的創傷之後，在和平的羅德斯島上，卻又出現了新的戰亂之火！&#13;
+黑暗之島馬莫的皇帝貝魯特揮軍進攻卡諾王國；然而他的身後，卻是一位神祕的美麗魔女掌握著一切?!&#13;
+而在這時，一個出身邊境小村莊的年輕人——帕恩，為了實踐自己心中的正義，而和神官埃特、矮人族的戰士吉姆、魔術師史列因一起展開了旅程。&#13;
+在他們面前出現的，將會是什麼樣的命運呢？</dc:description>
+        <dc:publisher>盖亚文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789867929563</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>罗德斯岛战记</dc:subject>
+        <dc:subject>水野良</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>漫画</dc:subject>
+        <dc:subject>魔幻</dc:subject>
+        <dc:subject>Lodoss</dc:subject>
+        <meta content="{&quot;水野良&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="羅德斯島戰記" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:31+00:00" name="calibre:timestamp"/>
+        <meta content="罗德斯岛战记1：灰色的魔女" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

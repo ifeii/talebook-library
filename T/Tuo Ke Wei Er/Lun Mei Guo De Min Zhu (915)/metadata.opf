@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">915</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c8e23b0-44d7-4ac5-bca9-263b9b24b31c</dc:identifier>
+        <dc:title>论美国的民主</dc:title>
+        <dc:creator opf:file-as="托克维尔" opf:role="aut">托克维尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-12-31T16:00:00+00:00</dc:date>
+        <dc:description>托克维尔(Tocqueville)是法国著名的政论思想家，其代表作《论美国的民主》出版后 ，立即受到普遍好评，使他名扬海外。这部著作的上卷和下卷，不是写于同一时期，其间相隔5年，因而在笔调、结构、叙述上有所不同。上卷的第一部分讲述美国的政治制度，第二部分对美国的民主进行社会学的分析。下卷分四个部分，以美国为背景发挥其政治哲学和政治社会学思想。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100011105</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>托克维尔</dc:subject>
+        <dc:subject>民主</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>政治学</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>政治哲学</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;托克维尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:33+00:00" name="calibre:timestamp"/>
+        <meta content="论美国的民主" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

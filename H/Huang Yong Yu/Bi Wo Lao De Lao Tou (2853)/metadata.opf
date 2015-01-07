@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80b9cb96-1a9b-4803-83ae-5c4a28bf19d7</dc:identifier>
+        <dc:title>比我老的老头</dc:title>
+        <dc:creator opf:file-as="黄永玉" opf:role="aut">黄永玉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-30T16:00:00+00:00</dc:date>
+        <dc:description>“文革”过了，我们下了三年乡又回到北京城了，在周恩来总理指示下，我和一些人被调到北京饭店去参加十八层新楼的美术工作。我没有画画的任务，只做了一些计划书的书面构想，比如哪一层会议室画些什么，摆什么，什么格式，请谁搞谁画最合适之类设想。也不一定按时上班。做具体工作的都是海内高手，我分内的工作也不怎么操心。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506326308</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>黄永玉</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>比我老的老头</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>人物</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;黄永玉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:26+00:00" name="calibre:timestamp"/>
+        <meta content="比我老的老头" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

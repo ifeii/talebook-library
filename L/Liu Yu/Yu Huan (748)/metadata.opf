@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">364b372f-5d31-44e0-b39f-096d8b22ae05</dc:identifier>
+        <dc:title>余欢</dc:title>
+        <dc:creator opf:file-as="刘瑜" opf:role="aut">刘瑜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《孤独地像一颗星球》：陈朗、杨如意、郭小蕾三个女孩围着一盘清清爽爽的土豆丝，陶醉地吃着，她们分别已经27岁，28岁和25岁。分别穿着红色、黑色和白色的裙子。她是最喜欢的食物分别是西瓜、西瓜和西瓜，而她们最讨厌的动物分别是蟑螂、蟑螂和蟑螂。她们有过的男朋友分别是3个、2个和0个。她们平均每哭一场的间隔分别是3天、5天和4天，但平均一天微笑的次数是29次、15次和138次。她们的政治立场分别是“自由主义”、“什么他妈的政治观”和“我希望熊猫永远不灭绝”。她们理想分别是“一个悄悄在夜总会唱歌的著名学者”、“Max Studio总裁的情妇”和“12个孩子的奶奶——这12个孩子的头发要有各种颜色。”她们对生活充满了斗志，虽然她们也不知道这斗志来自于信心还是恐惧。窗外是一个叫做妞约约的沸腾的城市，而这座城市和它的沸腾，说到底，和她们没有什么关系。
+《那么，爱呢》：客观地说，王徽对网恋这一套失去耐心，不是没有理由，任何东西，吃多了就会腻味，网恋当然也是一样。看准一个漂亮女孩，死皮赖脸地给人发信，约她出来，找一个餐馆请她吃饭，故作幽默或者故作深沉，百般地讨好，仔细揣摩对方一颦一笑的含义，第一次面试之后，还要及时跟进……这一切繁琐的搔首弄姿，来个一次两次还行，时间长了，次数多了，只是让人觉得麻木。这一切都让王徽怀念人类还是猴子的时代，那个时候找老婆，哪有那么复杂，对着竞争对手脖子一咬，然后直接把母猴子给强奸了，多么简洁明了。而现在，程序何其繁琐，更重要的是，所有这些程序，都必须注入饱满的热情。而热情这个东西，又不是精液，今天休息一晚上，明天它又涨了上来。热情这个东西，甚至都不可能是水稻，一年两季，年年如此。说到底，它就是一种石油，在地底下蕴藏千百万年，才能产生那么一点能量，并且用完了就用完了，是不可再生资源。</dc:description>
+        <dc:publisher>上海文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532131136</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>刘瑜</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>余欢</dc:subject>
+        <dc:subject>DrunkPiano</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>感情</dc:subject>
+        <meta content="{&quot;刘瑜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="35" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:42+00:00" name="calibre:timestamp"/>
+        <meta content="余欢" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

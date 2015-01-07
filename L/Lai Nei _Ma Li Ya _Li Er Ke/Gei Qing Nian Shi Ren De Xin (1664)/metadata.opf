@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6532e99-85ab-40cf-a130-e1f480d28dda</dc:identifier>
+        <dc:title>给青年诗人的信</dc:title>
+        <dc:creator opf:file-as="莱内·马利亚·里尔克" opf:role="aut">莱内·马利亚·里尔克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-30T16:00:00+00:00</dc:date>
+        <dc:description>里尔格是20世纪一个世界性的诗人，作为一个“行吟”诗人，里尔格的一生充满了某种传奇色彩，他的诗歌之所以被传诵，因为经他歌唱的万事万物都被放进了美的空间，进入了永恒的存在。里尔格的主要作品意义是将人类的思想世界从有形转入了无形，这个无形不是个体人内心的情感，而是整个人类与宇宙广阔的空间，构成一个种植着极美诗意的田园。伟大的诗人里尔格不仅仅是象征主义大师和一个现代主义先驱，更重要的他是一个人类家园的重建者和言说者，他把自己的灵魂与人类的自然家园紧密联系，里尔格的诗歌为你打开冲向生命自由空间的道路，他不仅仅是才华卓绝超凡的诗人，更重要的他是一个时代的歌手。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">87e258c8-d7be-44b9-959d-f5d04a60e460</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532734849</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>里尔克</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>书信</dc:subject>
+        <dc:subject>给青年诗人的信</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>冯至</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <meta content="{&quot;莱内·马利亚·里尔克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:09+00:00" name="calibre:timestamp"/>
+        <meta content="给青年诗人的信" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

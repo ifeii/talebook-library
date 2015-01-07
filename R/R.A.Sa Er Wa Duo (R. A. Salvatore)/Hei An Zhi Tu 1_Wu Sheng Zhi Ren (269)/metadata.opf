@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43cc3cf5-f450-43e9-80cf-8bed36ac4be6</dc:identifier>
+        <dc:title>黑暗之途1·無聲之刃</dc:title>
+        <dc:creator opf:file-as="R．A．薩爾瓦多（R. A. Salvatore）" opf:role="aut">R．A．薩爾瓦多（R. A. Salvatore）</dc:creator>
+        <dc:creator opf:file-as="R．A．薩爾瓦多（R. A. Salvatore）" opf:role="aut">Todd Lockwood（繪）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-29T16:00:00+00:00</dc:date>
+        <dc:description>「被遺忘的國度」系列最受歡迎的傳奇人物──崔斯特，經典再現！
+作品全美銷售超過四百萬，紐約時報暢銷作家R．A．薩爾瓦多最新中文版小說！
+批踢踢實業坊TRPG版主微光（Lueur）專文撰寫「冰風谷」、「血脈」情節提要
+失去感同身受的能力，是最難癒合、最為深刻的傷，是無形敵人手中的無聲之刃，撕裂心扉以後奪去的不只
+是我們的力氣，還有我們的意志。畢竟，失去同理心以後，我們還剩下什麼呢？不能理解他人的喜怒哀樂，
+無法融入人群之中，我們怎麼能夠真正開懷？
+──崔斯特．杜堊登
+為了毀滅碎魔晶，祕銀五友再度踏上冒險之旅。然而自無底深淵歸來的沃夫加，卻無法擺脫被囚禁六年來的
+夢魘，毆傷了凱蒂布莉兒後羞愧離去，獨自一人深入危險的世界之脊尋找失落的自我。
+黑暗精靈的宿敵──刺客恩崔立返回卡林港後企圖重組勢力，結果受到傭兵頭子賈拉索所用，並安排他與
+崔斯特決一死戰。兩人在禁止所有魔力的魔晶塔裡以戰技相搏，在失去種族的天賦優勢，武器沒有附加魔法
+的情況下究竟誰能獲得勝利？</dc:description>
+        <dc:publisher>奇幻基地</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866275142</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>被遗忘的国度</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>崔斯特</dc:subject>
+        <dc:subject>D&amp;D</dc:subject>
+        <dc:subject>R.A.Salvatore</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>恩崔立</dc:subject>
+        <dc:subject>黑暗之途</dc:subject>
+        <meta content="{&quot;Todd Lockwood（繪）&quot;: &quot;&quot;, &quot;R．A．薩爾瓦多（R. A. Salvatore）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="黑暗精灵" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:22+00:00" name="calibre:timestamp"/>
+        <meta content="黑暗之途1·無聲之刃" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

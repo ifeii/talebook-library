@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5401685e-3ead-43f7-bb2a-c6fba10875a4</dc:identifier>
+        <dc:title>蜀山剑侠传</dc:title>
+        <dc:creator opf:file-as="还珠楼主" opf:role="aut">还珠楼主</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-10T05:00:00+00:00</dc:date>
+        <dc:description>《蜀山剑侠传》是还珠楼主惊天巨著，洋洋500万言，给后来的梁羽生、金庸、古龙等武侠小说,中国后现代神怪,仙侠等类型的小说,游戏(如仙剑奇侠传等)以及诸多作品都产生了巨大的影响。在《亚洲周刊》评出的《二十世纪中文小说一百强》位列55，尤在古龙的《楚留香传奇》（84）及梁羽生《白发魔女传》（87）之上！
+《蜀山剑侠传》是还珠楼主最有名的代表作，也是篇幅最长的一部，达五百万言，绝对可称为鸿篇巨著了，他最大的特点就是将神魔和武侠完美的结合起来，在中国的文学发展中，真正的武侠小说是从唐代的传奇小说开始的，产生了著名的虬髯客，聂隐娘、昆仑奴等侠客，后来经过宋元两代的过渡，到明代出现了著名的《水浒传》，将侠文化推向一个高峰，清代的武侠出现了新的发展，渐渐分离出奇幻和技击两派，前者以《七剑十三侠》等为代表，他发扬了唐代的武侠风格，主角是神秘的仙佛式的人物，他们的技巧也是各种法术和能够杀人千里之外的飞剑法宝。后者则有《七侠五义》，《永庆升平全传》等著作，在这里人物都是尘世间的侠客，他们的本领也只是客观的十八般武艺而已。晚清到民国的时候，出现了王度庐，他的作品一般归为海派，开始了武侠的改造，将历史结合进来，描写也更为细腻。而民国时期真正的武侠高潮的到来，则是因为还珠楼主和他的蜀山剑侠传。本作也是后世修真类小说的鼻祖。</dc:description>
+        <dc:publisher>山西人民出版社，北岳文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787203036968</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ca07ac5a-57d7-4ef8-8d46-ce19fa6183c3</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>还珠楼主</dc:subject>
+        <dc:subject>蜀山剑侠传</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>蜀山</dc:subject>
+        <dc:subject>奇幻武侠</dc:subject>
+        <meta content="{&quot;还珠楼主&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:49+00:00" name="calibre:timestamp"/>
+        <meta content="蜀山剑侠传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">052b755c-7211-45ca-b366-48f7ba75d3b6</dc:identifier>
+        <dc:title>新东方四级词汇词根+联想记忆法</dc:title>
+        <dc:creator opf:file-as="俞敏洪" opf:role="aut">俞敏洪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-31T16:00:00+00:00</dc:date>
+        <dc:description>学习英语，词汇是基础，词汇量的不足会严重影响一个人在听、说、读、写各方面的能力。同时，在应对考试地，如果词汇量不过关，任何应试技巧都犹如隔靴搔痒，收效甚微！
+学单词有很多方法，可以通过日常积累，可以通过大量阅读，也可以通过词汇书短期突破，而对于应试而言，第三种方法无疑最真接、最有效。本书旨在介绍系统的词根+联想速记法，让你在短时间内轻松记住四级单词，同时从四级考点出发，全方位解读核心词汇，使你真正掌握重点单词的用法。本书特点如下：
+一、打破传统编排，四级单词合理重组，更符合记忆习惯；
+二、词根+联想，词汇障碍一扫光；
+三、真题出击，直通考点；
+四、适应新题型，透彻解析近义词（组）。</dc:description>
+        <dc:publisher>北京新东方大愚文化传播有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506273350</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>英语</dc:subject>
+        <dc:subject>四级</dc:subject>
+        <dc:subject>新东方</dc:subject>
+        <dc:subject>词汇</dc:subject>
+        <dc:subject>工具书</dc:subject>
+        <dc:subject>english</dc:subject>
+        <dc:subject>教材</dc:subject>
+        <dc:subject>外语学习</dc:subject>
+        <meta content="{&quot;俞敏洪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:43+00:00" name="calibre:timestamp"/>
+        <meta content="新东方四级词汇词根+联想记忆法" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c3465c0-13f5-4862-8b7e-a0b30be8e7bf</dc:identifier>
+        <dc:title>东京梦华录</dc:title>
+        <dc:creator opf:file-as="孟元老" opf:role="aut">孟元老</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《东京梦华录》多记崇宁以后所见，时方以逸豫临下，故若彩山灯火，水殿争标，宝津男女诸戏，走马角射，及天宁节女队归骑，年少争迎，虽事隔前载，犹令人想见其盛。至如都人探春，游娱池苑，京瓦奏技，茶酒坊肆，晓贩夜市，交易琐细，率皆依准方俗，尢强藻润，自能详不尽杂，质不坠俚，可谓善记风土者。</dc:description>
+        <dc:publisher>中州古籍出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787534833533</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>东京梦华录</dc:subject>
+        <dc:subject>民俗文化</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>宋史</dc:subject>
+        <dc:subject>汴京</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <meta content="{&quot;孟元老&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:11+00:00" name="calibre:timestamp"/>
+        <meta content="东京梦华录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

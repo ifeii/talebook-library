@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">829301d0-b924-40a0-ab97-d51eed163782</dc:identifier>
+        <dc:title>三体Ⅱ</dc:title>
+        <dc:creator opf:file-as="刘慈欣" opf:role="aut">刘慈欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-30T16:00:00+00:00</dc:date>
+        <dc:description>三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。
+面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。
+三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……
+“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的
+“黑暗森林”究竟意味着什么？</dc:description>
+        <dc:publisher>重庆出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536693968</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>刘慈欣</dc:subject>
+        <dc:subject>三体</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>黑暗森林</dc:subject>
+        <dc:subject>中国科幻</dc:subject>
+        <meta content="{&quot;刘慈欣&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="地球往事" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:22+00:00" name="calibre:timestamp"/>
+        <meta content="三体Ⅱ" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

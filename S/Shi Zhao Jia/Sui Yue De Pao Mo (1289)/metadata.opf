@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">140d1117-1342-4264-82ca-e7c57101a7a8</dc:identifier>
+        <dc:title>岁月的泡沫</dc:title>
+        <dc:creator opf:file-as="石兆佳" opf:role="aut">石兆佳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《岁月的泡沫》是石兆佳的文学集，兆佳的小说多用白描手法，以简洁、明了的几句话，将人物形象勾勒出来，活灵活现地活动在读者眼前。她在写淡春出场时，用了“她才25岁，头发却已花白了”几个字，就把淡春饱经风霜的经历交待清楚。有人说兆佳的小说太直白、太简约，没什么味道，也缺乏张力，等等，其实不然，味道需要读者品读、咀嚼；简洁的文字初看没什么，深入一想，就能想出文字背后的意思来。</dc:description>
+        <dc:publisher>厦门大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561539835</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ead6825f-6658-4840-9ffc-b57376f40e72</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>法国</dc:subject>
+        <meta content="{&quot;石兆佳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:03:05+00:00" name="calibre:timestamp"/>
+        <meta content="岁月的泡沫" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

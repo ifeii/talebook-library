@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f779664c-ee4c-48e5-ba89-2d13673f4524</dc:identifier>
+        <dc:title>英雄志（全三册）</dc:title>
+        <dc:creator opf:file-as="孙晓" opf:role="aut">孙晓</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-30T16:00:00+00:00</dc:date>
+        <dc:description>本书一度不被归类为武侠小说，尽管武功打斗、两军对战的传统情节仍可时时窥见，但整部书的视野离开了武侠小说的标准传统，作者道出了一个既真实、又现实的江湖。门户之争、小男小田的恋情并非是作者关注的主题，人与大时代的冲突、感情的真挚与背叛、道德的反思与辩证才是《英雄志》的主旨。</dc:description>
+        <dc:publisher>京华出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806007679</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>英雄志</dc:subject>
+        <dc:subject>孙晓</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>武侠小说</dc:subject>
+        <dc:subject>新武侠</dc:subject>
+        <dc:subject>架空历史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;孙晓&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:20+00:00" name="calibre:timestamp"/>
+        <meta content="英雄志（全三册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

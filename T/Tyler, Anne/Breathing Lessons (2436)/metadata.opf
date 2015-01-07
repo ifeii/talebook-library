@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62eef704-03cb-4a8e-8c3d-0547508754c1</dc:identifier>
+        <dc:title>Breathing Lessons</dc:title>
+        <dc:creator opf:file-as="Tyler, Anne" opf:role="aut">Tyler, Anne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-03-14T13:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Maggie Moran's mission is to connect and unite people, whether they want to be united or not. Maggie is a meddler and as she and her husband, Ira, drive 90 miles to the funeral of an old friend, Ira contemplates his wasted life and the traffic, while Maggie hatches a plant to reunite her son Jesse with his long-estranged wife and baby. As Ira explains, "She thinks the people she loves are better than they really are, and so then she starts changing things around to suit her view of them." Though everyone criticizes her for being "ordinary," Maggie's ability to see the beauty and potential in others ultimately proves that she is the only one fighting the resignation they all fear. The book captured the Pulitzer Prize for literature in 1989.&lt;/p&gt;</dc:description>
+        <dc:publisher>Rebound by Sagebrush</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780785799528</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tyler, Anne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-08-29T12:28:50+00:00" name="calibre:timestamp"/>
+        <meta content="Breathing Lessons" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

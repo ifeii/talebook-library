@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb18d3b0-cf55-4e7c-8221-973ec71a7bab</dc:identifier>
+        <dc:title>冰风谷（全三册）</dc:title>
+        <dc:creator opf:file-as="R.A. 萨尔瓦多" opf:role="aut">R.A. 萨尔瓦多</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-30T16:00:00+00:00</dc:date>
+        <dc:description>沉睡千年的邪恶神器碎魔晶，在一连串的阴谋下，再次被唤醒。无名的巫师学徒阿卡尔·凯梭成为了碎魔晶的新主人。在他那扭曲的心灵之中，只有碎魔晶不断传送给他的意念：“征服”。一只北地有史以来最强大的怪物军团形成了。凯梭带领着地精、半兽人，甚至巨人们组成的军团，准备对冰风谷的十镇发动最凌厉的攻势。甚至连深渊魔域中的恶魔也加入了这一军团。能够挽救这个局面的只有四个英雄：布鲁诺——冰风谷矮人族之王。他和他的族人会对十镇伸出援手吗？瑞吉斯——独林镇的半身人英雄。他能说服十镇团结起来对抗侵略吗？沃夫加——年轻的野蛮人战士。他能够阻止他的族人加入凯梭的怪物联军吗？崔斯特——旅居地面的黑暗精灵游侠。他与关海法能够打倒邪恶的凯俊跟碎魔晶吗？十镇的亡，就在他们的手上。
+秘银之厅，是战锤一族传说中失落的家乡。布鲁诺得到了崔斯特的帮助，决定要出发寻找这个只在模糊记忆中出现的童年家园。连沃夫加与瑞吉斯都自愿加入这趟探险旅程。一切似乎很顺利。但南方来的顶尖杀手，却盯上了他们。他的目标是瑞吉斯许多年前所偷取的红宝石魔坠。阿提密斯·恩崔立，没有目标逃得过他的猎杀。经过了许多波折，布鲁诺一行人终于来到了秘银之厅。但是那里等着他们的，除了那哪溪水般飞泻的秘银矿脉之外，还有占据此地多年的可怕邪恶势力。而崔斯特与恩崔立，他们宿命性的对决，也即将开始……
+绑架了半身人的恩崔立，准备带着他的猎物回卡林港。但他不只是为了盗贼协会的奖赏而已。他真正的目标只有一个，黑暗精灵崔斯特，他那宿命的对手。为了救出瑞吉斯，崔斯特与沃夫加并没有其他的选择，即使明知道这是个陷阱。被世界排斥的黑暗精灵与不懂世事的蛮族战士，能否安全顺利地到达卡林港，救出他们的伙伴？卡林港，整个宝剑海岸最大的城市，是个充斥着各式罪恶的渊薮。在那边统治着地下秩序的盗贼协会，正张开着它的双臂，欢迎着杀手以及游侠的到来。</dc:description>
+        <dc:publisher>光明日报出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801455260</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>被遗忘的国度</dc:subject>
+        <dc:subject>龙与地下城</dc:subject>
+        <dc:subject>崔斯特</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>R.A.Salvatore</dc:subject>
+        <dc:subject>D&amp;D</dc:subject>
+        <dc:subject>西方奇幻</dc:subject>
+        <meta content="{&quot;R.A. 萨尔瓦多&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="黑暗精灵" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:56+00:00" name="calibre:timestamp"/>
+        <meta content="冰风谷（全三册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

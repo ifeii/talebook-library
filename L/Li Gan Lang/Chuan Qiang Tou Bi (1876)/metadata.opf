@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3be9ff90-949a-424c-8dd0-9f1c08f22e1e</dc:identifier>
+        <dc:title>穿墙透壁</dc:title>
+        <dc:creator opf:file-as="李乾朗" opf:role="aut">李乾朗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《穿墙透壁:剖视中国经典古建筑》为作者二十年来中国古建筑考察的心得总结。涵盖神灵殿堂、帝王国度、众生居所三个主要面向、十六大类建筑，深入探索五十一座经典个案。时间由秦汉以迄明清，空间遍布中华大地。无论是尺度宏大的宫殿寺院、因地制宜的民居，或是亭台水榭著名园林，还有体现藏传佛教精神的喇嘛寺、具有伊斯兰风格的清真寺唤拜塔等，作者皆以最能彰显各个古建筑特色的剖视彩图，加上实景摄影图像与特色导览，引领读者进入时光隧道，甚至穿墙破壁，领略古代匠师高超的工艺技术，体验每一座古建筑令人惊艳的空间美感。在经典个案之后，另有同类型其他实例的介绍与比较；而“延伸议题”则以简练的文字、精细的手绘线图与大量的摄影图片，归纳整理中国古建筑之基本欣赏知识。最后并附中国古建筑常见术语词解。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563390939</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>建筑</dc:subject>
+        <dc:subject>中國古建築</dc:subject>
+        <dc:subject>李乾朗</dc:subject>
+        <dc:subject>古建筑</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>建筑史</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <meta content="{&quot;李乾朗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:14+00:00" name="calibre:timestamp"/>
+        <meta content="穿墙透壁" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

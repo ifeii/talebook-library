@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf420342-fb35-4c21-8c1a-80ec4af8efcf</dc:identifier>
+        <dc:title>二十四史</dc:title>
+        <dc:creator opf:file-as="中华书局编辑部编著" opf:role="aut">中华书局编辑部编著</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T16:00:00+00:00</dc:date>
+        <dc:description>“二十四史”用统一的纪传体裁，系统、完整地记录清以前各个朝代的历史，共计3249卷，约4200万字。清代钦定为“正史”，堪称为清代以前中华文明史的全记录。为方便广大读者阅读及充分利用“二十四史”中蕴含的丰富资料，中华书局在繁体竖排本的基础上，约请国内专家学者，按照国务院公布的《汉字简化方案》和国家语委公布的《简化字总表》的有关规定，结合古籍整理的具体要求，对“二十四史”繁体本进行修订，推出简体横排本“二十四史”。</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101020991</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>二十四史</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>古籍</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>应该再读的书</dc:subject>
+        <dc:subject>中华书局</dc:subject>
+        <meta content="{&quot;中华书局编辑部编著&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="45" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:48+00:00" name="calibre:timestamp"/>
+        <meta content="二十四史" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

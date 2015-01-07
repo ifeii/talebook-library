@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4cb91e5-da84-461b-a5f6-8bb0f2986648</dc:identifier>
+        <dc:title>THE ELEMENTS OF STYLE (UPDATED 2011 EDITION) The All-Time Bestselling Book on Writing English Newly Edited (Special 2011 Edition) The Elements of Style OVER 10 MILLION COPIES SOLD! [Revised]</dc:title>
+        <dc:creator opf:file-as="Hong, Chris" opf:role="aut">Strunk, William</dc:creator>
+        <dc:creator opf:file-as="Hong, Chris" opf:role="aut">Strunk Junior, William</dc:creator>
+        <dc:creator opf:file-as="Hong, Chris" opf:role="aut">William Strunk, The Elements of Style by</dc:creator>
+        <dc:creator opf:file-as="Hong, Chris" opf:role="aut">Press, The Elements of Style</dc:creator>
+        <dc:creator opf:file-as="Hong, Chris" opf:role="aut">Hong, Chris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-26T16:00:00+00:00</dc:date>
+        <dc:publisher>The Elements of Style Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William Strunk, The Elements of Style by&quot;: &quot;&quot;, &quot;Strunk Junior, William&quot;: &quot;&quot;, &quot;Hong, Chris&quot;: &quot;&quot;, &quot;Strunk, William&quot;: &quot;&quot;, &quot;Press, The Elements of Style&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-08-29T13:06:27+00:00" name="calibre:timestamp"/>
+        <meta content="ELEMENTS OF STYLE (UPDATED 2011 EDITION) The All-Time Bestselling Book on Writing English Newly Edited (Special 2011 Edition) The Elements of Style OVER 10 MILLION COPIES SOLD! [Revised], THE" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

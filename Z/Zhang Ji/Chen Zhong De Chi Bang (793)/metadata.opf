@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11c2cd82-39a8-4a90-b52f-3bbf6e687719</dc:identifier>
+        <dc:title>沉重的翅膀</dc:title>
+        <dc:creator opf:file-as="张洁" opf:role="aut">张洁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《沉重的翅膀》基于对生活现实、改革进程的感受和认识，作者重彩浓墨地描绘郑子云、陈咏明等人为整顿、改革而进行的悲壮斗争，着力表现他们的进攻与招架、迈越与受挫、欢欣与忧愤，揭示他们不仅不向直接的对立面妥协，而且还敢于在旧习惯、旧观念的包围中高高举起标新立异的旗帜，义无返顾、一往无前的精神。尤其是郑子云，这是新时期文学中较早出现的具有丰满性格的改革家、政治家形象，当代中国脊梁式的人物。作为优秀的高层领导干部，郑子云既有高度的马克思主义理论修养，又有丰富的社会实践经验，虽然年老多病，但强烈的社会责任心和忧患意识又驱使他勇敢地投入改革的洪流，力图从政治思想工作的改革入手，为企业管理探索新路。小说将他放在与对立面人物——田守诚的激烈较量中，放在新旧意识猛烈的碰撞中，揭示他“不安分”的性格和时感疲惫、寂寞的内心，叙说他那悲壮的斗争历程。
+田守诚和郑子云的对立，具有强烈的政治斗争色彩。他长期混迹官场，老谋深算，善弄权术，惯于见风使舵。对郑子云顺应时代潮流的改革努力，不仅冷眼旁观，而且处心积虑地找岔子、钻孔子，无孔而不入；他悉心保养身体而静候多病的郑子云不战自垮；他不择手段地要将郑子云十二大代表资格“弄下来”，因为凭他的政治嗅觉，郑子云会成为“改革派”中的“亡命徒”。这场发生在党的十二大之前的两个政府部长间的“鏖战”，实际上，是我国当时阻遏改革与力主改革两种社会势力较量的缩影。
+与此同时，小说还着力表现郑子云、陈咏明们始终须面对的传统意识、“左”倾思想、庸人哲学、惰性心理，世俗观念等“惯性势力”的严重挑战，在一张“无形的网”中左冲右突的情状。副部长孔祥、局长宋克、郑子云秘书纪恒全等人跟郑子云、陈咏明的矛盾对立，典型地显示了这类新旧观念的冲突。孔祥头脑中根深蒂固的“左”的观念，宋克的偏狭和嫉护，纪恒全的世俗眼光和奴态心理，势必要驱使他们走向改革者的对立面。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020048861</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>茅盾文学奖</dc:subject>
+        <dc:subject>张洁</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>沉重的翅膀</dc:subject>
+        <dc:subject>改革小说</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;张洁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="74" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:59+00:00" name="calibre:timestamp"/>
+        <meta content="沉重的翅膀" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

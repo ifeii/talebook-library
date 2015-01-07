@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2956</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d225c60-6478-4d06-bf17-05d95a80114d</dc:identifier>
+        <dc:title>心是孤独的猎手</dc:title>
+        <dc:creator opf:file-as="卡森·麦卡勒斯" opf:role="aut">卡森·麦卡勒斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《心是孤独的猎手》作者麦卡勒斯的第一部长篇小说，也是她一举成名的作品和最具震撼力的代表作，居“现代文库20世纪百佳英文小说”第17位，曾被评为百部最佳同性恋小说之一。
+故事的背景类似于《伤心咖啡馆之歌》中炎热的南方小镇。小说中两个聋哑男子的同性之爱令人感动，而同性之恋又是若有若无的，时而激烈，时而沉默。主旨凸显的是麦卡勒斯式的主题：孤独是绝对的，最深切的爱也无法改变人类最终极的孤独。绝望的孤独与其说是原罪，不如说是原罪的原罪。</dc:description>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542621344</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3013da5d-22e1-443e-be5a-483c4f362d60</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卡森·麦卡勒斯</dc:subject>
+        <dc:subject>心是孤独的猎手</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>孤独</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;卡森·麦卡勒斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:39:04+00:00" name="calibre:timestamp"/>
+        <meta content="心是孤独的猎手" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

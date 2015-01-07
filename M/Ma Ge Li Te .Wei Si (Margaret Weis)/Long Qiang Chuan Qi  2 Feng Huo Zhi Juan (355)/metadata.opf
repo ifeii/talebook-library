@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcf044fc-f8f7-4bef-ae89-5a4b1fadbc81</dc:identifier>
+        <dc:title>龍槍傳奇 2 烽火之卷</dc:title>
+        <dc:creator opf:file-as="瑪格麗特‧魏絲（Margaret Weis）" opf:role="aut">瑪格麗特‧魏絲（Margaret Weis）</dc:creator>
+        <dc:creator opf:file-as="瑪格麗特‧魏絲（Margaret Weis）" opf:role="aut">崔西‧西克曼（Tracy Hickman）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-20T16:00:00+00:00</dc:date>
+        <dc:description>「當我和你聯手走進時空大門時，這個景象將會出現在我眼前。以我的信仰為武器，結合超乎常人的信心──我將和你一起，把黑暗永遠從這個世界上驅離！」&#13;
+&#13;
+回應雷斯林的要求，神眷之女克麗珊娜如此回答了。&#13;
+回到大災變即將發生的年代，卡拉蒙、克麗珊娜以及泰索何夫，與雷斯林會合在伊斯塔國。由衷相信雷斯林、總是無怨無悔地追隨在側的克麗珊娜，透過對帕拉丁虔誠的信仰，她篤信自己一切行為將可以帶來光明世界。而無法說服雷斯林停止他恐怖的計畫、也無法痛下決心殺了親弟弟的卡拉蒙，眼見克麗珊娜對雷斯林近乎盲目的跟從態度，他陷入孤軍奮戰的局面。但危機仍不留情地湧來，大災變緊接著發生了。面對屍橫遍野、戰局四起的慘烈景狀，卡拉蒙們除了原本的目標，還有更大的生存危機──矮人戰役。然而，這一切卻都像是雷斯林已經佈置好的精密陷阱。&#13;
+被巨大的命運齒輪推動著，逐步驅向未知戰場的雷斯林、卡拉蒙以及克麗珊娜等人，等待他們的未來會是雷斯林所期望的強大力量、還是卡拉蒙早已預見的黑暗深淵！&#13;
+&#13;
+是龍槍百本系列中最受矚目、銷售驚人的系列套書！&#13;
+&#13;
+龍槍系列曾由第三波出版，可說是台灣以奇幻文學為類型出版的先鋒作品，在當年奇幻文學並不興盛時，曾創下單冊銷售量一萬五千冊以上的佳績。</dc:description>
+        <dc:publisher>奇幻基地出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789867131171</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>龙枪</dc:subject>
+        <dc:subject>D&amp;D</dc:subject>
+        <dc:subject>龙与地下城</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>西方奇幻</dc:subject>
+        <dc:subject>魔幻</dc:subject>
+        <dc:subject>龙枪传奇</dc:subject>
+        <meta content="{&quot;崔西‧西克曼（Tracy Hickman）&quot;: &quot;&quot;, &quot;瑪格麗特‧魏絲（Margaret Weis）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="龙枪" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:14:05+00:00" name="calibre:timestamp"/>
+        <meta content="龍槍傳奇 2 烽火之卷" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

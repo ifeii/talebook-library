@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a7bb0dd-ae55-4799-924a-5f5b1ecd7728</dc:identifier>
+        <dc:title>现代学林点将录</dc:title>
+        <dc:creator opf:file-as="胡文辉" opf:role="aut">胡文辉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《现代学林点将录》内容简介：“正襟”的“正”在中国是一个分量很重的词，尤其当它和文章联系在一起。中国古代的文化人，一辈子奋斗的最高目标，就是死后获得“文正”两字，因为这两个字“极美，无以复加”（司马光语）。获得这个称号的，在三千年历史上，历历可数，远有“文起八代之衰”的韩愈韩文正，近有被毛泽东“独服”的清朝“中兴第一名臣”曾国藩曾文正。</dc:description>
+        <dc:publisher>广东人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787218068077</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>学术史</dc:subject>
+        <dc:subject>胡文辉</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>知识分子</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>现代学林点将录</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;胡文辉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:03+00:00" name="calibre:timestamp"/>
+        <meta content="现代学林点将录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,28 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1076</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b864db44-bcf4-41ab-a8ad-1841665665c9</dc:identifier>
         <dc:title>人树</dc:title>
         <dc:creator opf:file-as="帕特里克·怀特" opf:role="aut">帕特里克·怀特</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-04-26T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p class="description"&gt;1973年诺贝尔文学奖。&lt;/p&gt;
-&lt;p class="description"&gt;获奖理由：“由于他史诗与心理叙述艺术，并将一个崭新的大陆带进文学中”&lt;/p&gt;
-&lt;p class="description"&gt;《人树》是怀特的成名作。小说叙述了斯坦·帕克一家从拓荒创业，生儿育女到最后斯坦去世的故事。斯坦早先到达的是被森林覆盖的一片荒地，但是，随着迁居来的人不断增加，垦荒的发展，荒芜之地变成了悉尼的效区。斯坦和他的妻子艾米经过了水、火、旱灾的侵袭，度过他们的蜜月，也尝过貌合神离、同床异梦的滋味。他们的儿子雷自幼乖戾，成年后堕落为罪犯，最终死于枪战之中。女儿塞儿玛顺着社会的阶梯爬了上去，做了律师的妻子，成为上流社会的一员。&lt;/p&gt;
-&lt;p class="description"&gt;《人树》在澳大利亚文学史上的重要意义主要在于它第一次体现了澳洲题材成功地与现代派的表现手法相结合。帕特里克·怀特突破了在他之前的作家以现实主义手段描写丛林人、拓荒、火灾、森林大火等澳洲文学传统材的单一格局，使澳洲文学呈现出多色调、多流派的新局面，出现了生机勃勃的活跃气氛。&lt;/p&gt;
-&lt;p class="description"&gt;《人树》继承了欧洲小说的传统，气势恢弘，浑然一气，评论家们认为它有史诗的气派。&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《人树》是怀特的成名作。小说叙述了斯坦·帕克一家从拓荒创业，生儿育女到最后斯坦去世的故事。斯坦早先到达的是被森林覆盖的一片荒地，但是，随着迁居来的人不断增加，垦荒的发展，荒芜之地变成了悉尼的效区。斯坦和他的妻子艾米经过了水、火、旱灾的侵袭，度过他们的蜜月，也尝过貌合神离、同床异梦的滋味。他们的儿子雷自幼乖戾，成年后堕落为罪犯，最终死于枪战之中。女儿塞儿玛顺着社会的阶梯爬了上去，做了律师的妻子，成为上流社会的一员。
+《人树》在澳大利亚文学史上的重要意义主要在于它第一次体现了澳洲题材成功地与现代派的表现手法相结合。帕特里克·怀特突破了在他之前的作家以现实主义手段描写丛林人、拓荒、火灾、森林大火等澳洲文学传统材的单一格局，使澳洲文学呈现出多色调、多流派的新局面，出现了生机勃勃的活跃气氛。
+《人树》继承了欧洲小说的传统，气势恢弘，浑然一气，评论家们认为它有史诗的气派。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787532720224</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>CNTY:AUSTRALIA</dc:subject>
-        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>人树</dc:subject>
+        <dc:subject>澳大利亚文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>澳大利亚</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>外国小说</dc:subject>
+        <dc:subject>英美文学</dc:subject>
+        <dc:subject>历史</dc:subject>
         <meta content="{&quot;帕特里克·怀特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="诺贝尔文学奖" name="calibre:series"/>
         <meta content="73" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-04-26T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:56+00:00" name="calibre:timestamp"/>
         <meta content="人树" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

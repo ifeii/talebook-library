@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db3af3d4-9f19-4e56-b4cb-143d6b36ba2d</dc:identifier>
+        <dc:title>洗澡</dc:title>
+        <dc:creator opf:file-as="杨绛" opf:role="aut">杨绛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《洗澡》不是由一个主角贯连全部的小说，而是借一个政治运动作背景，写那个时期形形色色的知识分子。所以是个横断面；既没有史诗性的结构，也没有主角。本书第一部写新中国不拘一格收罗的人才，人物一一出场。第二部写这些人确实需要“洗澡”。第三部写运动中这群人各自不同的表现。“洗澡”没有得到预期的效果，原因是谁都没有自觉自愿。假如说，人是有灵性、有良知的动物，那么，人生一世，无非是认识自己，洗炼自己，自觉自愿地改造自己，除非甘心与禽兽无异。但是这又谈何容易呢？这部小说里，只有一两人自觉自愿地试图超拔自己。读者出于喜爱，往往把他们看作主角。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020043804</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>杨绛</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>知识分子</dc:subject>
+        <dc:subject>洗澡</dc:subject>
+        <dc:subject>文革</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;杨绛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="48" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:38+00:00" name="calibre:timestamp"/>
+        <meta content="洗澡" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

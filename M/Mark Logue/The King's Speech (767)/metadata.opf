@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5d562a0-c60e-49e5-96fe-6b5a9b9392ea</dc:identifier>
+        <dc:title>The King's Speech</dc:title>
+        <dc:creator opf:file-as="Mark Logue" opf:role="aut">Mark Logue</dc:creator>
+        <dc:creator opf:file-as="Mark Logue" opf:role="aut">Peter Conradi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-25T16:00:00+00:00</dc:date>
+        <dc:description>The "quack" who saved a king... Featuring a star-studded cast of Academy AwardÂ® winners and nominees, The King's Speech won the 2010 Toronto International Film Festival People's Choice Award and is generating plenty of Oscar buzz. This official film tie-in is written by London Sunday Times journalist Peter Conradi and Mark Logue--grandson of Lionel Logue, one of the movie's central characters. It's the eve of World War II, and King Edward VIII has abdicated the throne of England to marry the woman he loves. Never has the nation needed a leader more. But the new monarch, George VI--father of today's Queen Elizabeth II--is painfully shy and cursed with a terrible stammer. How can he inspire confidence in his countrymen when he cannot even speak to them? Help arrives in speech therapist Logue, who not only is a commoner, but Australian to boot. Will he be able to give King George his voice? The King's Speech tells an inspiring tale of triumph over adversity and the unlikely friendship between a reluctant king and the charismatic subject who saved the throne.</dc:description>
+        <dc:publisher>Sterling</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402786761</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>人物</dc:subject>
+        <dc:subject>国王的演讲</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <meta content="{&quot;Peter Conradi&quot;: &quot;&quot;, &quot;Mark Logue&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="22" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:49+00:00" name="calibre:timestamp"/>
+        <meta content="King's Speech, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

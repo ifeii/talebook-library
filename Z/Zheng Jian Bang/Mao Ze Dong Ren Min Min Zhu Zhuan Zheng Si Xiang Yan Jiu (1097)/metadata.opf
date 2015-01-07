@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1097</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff55f93d-86ad-4f22-91f6-93aeda7fdffb</dc:identifier>
+        <dc:title>毛泽东人民民主专政思想研究</dc:title>
+        <dc:creator opf:file-as="郑建邦" opf:role="aut">郑建邦</dc:creator>
+        <dc:creator opf:file-as="郑建邦" opf:role="aut">等</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-08-31T16:00:00+00:00</dc:date>
+        <dc:description>本書是唐德剛教授《民國通史》系列「人民政府篇」第一分冊。
+
+毛澤東生前當國，前後凡二十八年（一九四九－一九七六），從完全正確，到完全錯誤，最後把八億人民，都整到家破人亡的絕境；古老民族也被他弄到了人相食，和亡國滅種的邊緣，自成五千年國史上，前所未有的一個特殊階段。何以毛公這樣一位雄才大略的歷史人物，弄成這樣一個「小時了了，大未必佳」地可笑的結局呢？關於毛氏晚年的失德，近年來大眾媒體上的評毛之論，都太看重於毛氏個人的行為了。歷史人物尤其是轉型期中的歷史人物的政治行為，不是不重要，但是其重要性亦有其極限。在治宏觀史學的社會科學家看來，一部中國近現代史原只是一部近代中國社會轉型史。毛澤東在中國近代轉型史中，原只是個轉型中期的民族領袖。他個人的個性、見識、修養、訓練和時代，都只能鑄造他做個轉型高潮中的秦始皇，而不能做個完成轉型的漢武帝。這就叫做形勢比人強。毛澤東自視為天生聖哲，其實他和你我一樣，也只是個渺小的脊椎動物，並不能扭轉他們唯物主義者曲不離口的所謂「客觀實在」啊！他是時勢所造的英雄；但是他這個蓋世英雄卻未能創造時勢。夫復何言？</dc:description>
+        <dc:publisher>陕西人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787224030570</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>唐德刚</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>毛泽东专政始末</dc:subject>
+        <dc:subject>近代史</dc:subject>
+        <dc:subject>毛澤東</dc:subject>
+        <dc:subject>绝版Kindle</dc:subject>
+        <dc:subject>Kindle</dc:subject>
+        <dc:subject>【图书馆借阅】</dc:subject>
+        <meta content="{&quot;等&quot;: &quot;&quot;, &quot;郑建邦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="41" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:16+00:00" name="calibre:timestamp"/>
+        <meta content="毛泽东人民民主专政思想研究" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

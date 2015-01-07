@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3a9a7fb-0c92-4954-be61-a21fafb87fee</dc:identifier>
+        <dc:title>简.爱</dc:title>
+        <dc:creator opf:file-as="夏洛蒂·勃朗特" opf:role="aut">夏洛蒂·勃朗特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-05-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是英国19世纪女作家夏洛蒂·勃郎特（Charlotte Bronte 1816-1855）成名之作。小说中的女主人公简·爱，幼失父母，寄养在舅母家，因备受虐待而萌发反抗意识。学校毕业后，应聘到桑菲尔德庄园当家庭教师，与主人罗切斯特互相产生了爱慕之情。但因发现罗切斯特早有妻室——一直被囚禁在庄园阁楼里的疯女人，简·爱便只身逃离庄园，四处流浪。最后，因心中恋念罗切斯特，她重又回来。这时，</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787805673233</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>夏洛蒂・勃朗特</dc:subject>
+        <dc:subject>简爱</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;夏洛蒂·勃朗特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:25:10+00:00" name="calibre:timestamp"/>
+        <meta content="简.爱" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

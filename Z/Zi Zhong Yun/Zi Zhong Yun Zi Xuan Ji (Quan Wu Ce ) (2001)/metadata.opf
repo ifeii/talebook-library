@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2001</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfb69e93-c4db-4d30-ac46-1a0895c8a2cb</dc:identifier>
+        <dc:title>资中筠自选集（全五册）</dc:title>
+        <dc:creator opf:file-as="资中筠" opf:role="aut">资中筠</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《资中筠自选集(套装共5册)》包括：《资中筠自选集：感时犹世》、《资中筠自选集：士人风骨》、《资中筠自选集：做观天下》、《资中筠自选集：闲中记美》、《资中筠自选集：不尽之思》。本人忝列“学者”圈，以笔耕为业，实际上是半百以后才开始。前半生所写文字都是奉命之作，多为“内部”报告，偶然以他人名义公开发表，也多为应景文章，不值得追认。我笔归我有，迄今不过三十载。前期主要是专业研究的学术著作。在“正业”之外兴之所至写点东西始于上世纪80年代，当然是与当时的开放形势分不开的。对我这个半生为驯服工具的人来说，发现原来这支笔还能属于自己，可以这样来用，是一大解放。开始只是偶一为之，且多为读书心得，后来逐渐欲罢不能，大量写作始于90年代，特别是正式退休之后。这些文章都是有所思而流诸笔端，没有任何功利目的，完全摆脱了命题作文之累。80年代初的心情充满了对未来的热情和期待，自己似乎大梦初醒，从精神桎梏和迷失中走出来。尽管仍然感觉到旧的顽固势力和种种太熟悉的思维习惯的羁绊，总的心态是乐观而有信心。以后种种是那时未料及的，所以从文章时序来看，越到后来，所表达的心情越沉重。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787549509881</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>资中筠</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>学术思想</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;资中筠&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:58+00:00" name="calibre:timestamp"/>
+        <meta content="资中筠自选集（全五册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

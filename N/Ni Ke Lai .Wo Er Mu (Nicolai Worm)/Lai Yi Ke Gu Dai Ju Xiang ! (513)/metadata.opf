@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4de9973c-4e95-4e69-b99a-99cd9389bd6e</dc:identifier>
+        <dc:title>來一客古代巨象！</dc:title>
+        <dc:creator opf:file-as="尼柯萊‧沃爾姆(Nicolai Worm)" opf:role="aut">尼柯萊‧沃爾姆(Nicolai Worm)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-08T16:00:00+00:00</dc:date>
+        <dc:description>好讀書櫃《典藏版》，感謝邱子軒掃瞄整理製作：作者以生動有趣的筆法，為我們介紹各類營養素與未知症候群（Syndrome X）之間的關係，其中著墨最深的是傳統的低脂、高碳水化合物飲食方式造成胰島素抗性，進而產生近代文明病的過程，觀點新穎具啟發性。作者也以基因演化的過程與最新的新陳代謝研究比較結果，來解釋「石器時代的生活方式」所帶來的好處。建議搭配「最衰者生存」、「槍炮、病菌與鋼鐵」一起看，這樣對人類演化過程和飲食習慣，當有更深入的體會。
+
+作者營養學博士尼柯萊‧沃爾姆（Nicolai Worm），德語地區知名的營養學家，一九五一年生，慕尼黑大學營養學系畢業，吉森大學營養學系博士，研究重點為「飲食營養和心肌梗塞」。他在德國運動聯合會的教練學院擔任運動營養學教授，並在膽固醇問題上，持反傳統的批判立場，享有高知名度。</dc:description>
+        <dc:publisher>高談文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570443592</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>饮食</dc:subject>
+        <dc:subject>减肥</dc:subject>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>实用</dc:subject>
+        <meta content="{&quot;尼柯萊‧沃爾姆(Nicolai Worm)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="饮食" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:50:49+00:00" name="calibre:timestamp"/>
+        <meta content="來一客古代巨象！" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

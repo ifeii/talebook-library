@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b1dc622-c4e1-4e7a-81b1-e3f9b04ad737</dc:identifier>
+        <dc:title>拓荒与呐喊</dc:title>
+        <dc:creator opf:file-as="刘道玉" opf:role="aut">刘道玉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《拓荒与呐喊：一个大学校长的教改历程》是中国著名教育家、武大前校长刘道玉的人生历程。作者从自己幼年求学时期写起，一直写到自己青年时期留学苏联和“反修能手”的岁月以及文革期间的各种非人遭遇，特别是详细描述了自己中年时期主政武大八年实行教改以及巅峰时期突遭免职的整个过程。从中，我们可以看出中国高教的“中国特色”以及至今求解“钱学森之问”没有下文的症结所在。此外，《拓荒与呐喊：一个大学校长的教改历程》还对自己“生不愿封万户侯”的信条以及耄耋之年安度晚年的人生感悟都做了系统阐述。观点鲜明，文字隽永，很值得当下的我们阅读和思考……</dc:description>
+        <dc:publisher>世界知识出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787501241187</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>刘道玉</dc:subject>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>武汉大学</dc:subject>
+        <dc:subject>改革</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>大学</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <meta content="{&quot;刘道玉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:34+00:00" name="calibre:timestamp"/>
+        <meta content="拓荒与呐喊" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

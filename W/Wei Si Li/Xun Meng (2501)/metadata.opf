@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c21cd55f-d21e-45ec-ad65-d04e80353d52</dc:identifier>
+        <dc:title>寻梦</dc:title>
+        <dc:creator opf:file-as="卫斯理" opf:role="aut">卫斯理</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-31T16:00:00+00:00</dc:date>
+        <dc:description>两个身份背景完全不同又互不认识的人，十多年来重复做着同一个可怕的噩梦，神秘的梦魇背后，竟然牵涉数十年前山区小村落的一桩离奇命案！一对男女前世今生的爱恨纠缠，一步一步引领着他们走向恐怖的深渊，当噩梦的谜底逐步解开，一场出乎意料的悲剧亦同时揭开序幕……
+故事讲述的是一个事业成功、在社会上有地位的商人，自童年时代起，就不断重复地做着一个同样的梦，在梦境中他是另一个人，被一个女人所杀。他用尽方法去找寻这个梦，证实了梦境中的一切确实曾发生过，那是他的前生。而他又和梦中有关的人物在今世重逢，错综复杂的因果循环，出人意料的结局，是一部风格独特的科幻小说。
+卫斯理即将挑战你的智慧和胆识！ 心跳加速，我逃逃逃……救命啊！！！真是令人惊惊的一幕，现在，请你深呼一口气， 提起脚跟，放轻腿步， 一起进入这令人头皮发麻的世界……</dc:description>
+        <dc:publisher>上海书店出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806788677</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>卫斯理系列</dc:subject>
+        <meta content="{&quot;卫斯理&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:10+00:00" name="calibre:timestamp"/>
+        <meta content="寻梦" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

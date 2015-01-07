@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de8971ef-cc82-4a50-9f70-0d49abfd96e6</dc:identifier>
+        <dc:title>道德情操论</dc:title>
+        <dc:creator opf:file-as="亚当·斯密" opf:role="aut">亚当·斯密</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《道德情操论》是斯密的伦理学著作，首次出版于1759年，斯密去世前共出版过六次。全书共有七卷构成，主要阐释的是道德情感的本质和道德评价的性质。斯密在该书中继承了哈奇森的道德感学说和休谟的同情论思想，形成了自己的道德情感理论。他反对神学家用天启 来说明道德的根源，而把他认为是人的本性中所有的同情的情感作为阐释道德的基础。他用同情的原理来解释人类正义感和其它一切道德情感的根源，来说明道德评价的性质，并以此为基础表明各种基本美德的特征。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100028264</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亚当・斯密</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>伦理学</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <meta content="{&quot;亚当·斯密&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:10+00:00" name="calibre:timestamp"/>
+        <meta content="道德情操论" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

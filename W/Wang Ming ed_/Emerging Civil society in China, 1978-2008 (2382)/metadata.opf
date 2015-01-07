@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">612576f2-b703-4d74-bced-e2ecf7098567</dc:identifier>
+        <dc:title>Emerging Civil society in China, 1978-2008</dc:title>
+        <dc:creator opf:file-as="Wang Ming ed." opf:role="aut">Wang Ming ed.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-12T16:00:00+00:00</dc:date>
+        <dc:description>Emerging Civil Society in China, 1978-2008 is translated from the original Chinese to provide a look into how scholars in China have been assessing the development of civil organizations and analyzing them based on system reforms, the public sphere, and collective action. This volume and the others in the SSRC series, provide western scholars with an accessible English language look at the state of current scholarship in China, and as such, does not simply provide information for the direct study of socio-political issues, but also for meta-level analysis of how the domestic scholarship in China is developing and assessing the interplay of the country's political and economic reforms with the society and daily life of its people.</dc:description>
+        <dc:publisher>Brill</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789004188136</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>政治学</dc:subject>
+        <dc:subject>海外中国研究</dc:subject>
+        <dc:subject>中国政治</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>王名</dc:subject>
+        <dc:subject>新书记</dc:subject>
+        <dc:subject>当代中国</dc:subject>
+        <meta content="{&quot;Wang Ming ed.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:27:55+00:00" name="calibre:timestamp"/>
+        <meta content="Emerging Civil society in China, 1978-2008" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

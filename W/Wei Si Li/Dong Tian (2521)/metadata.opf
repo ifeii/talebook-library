@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e51cf8bc-cae9-4f4e-aedb-4603392fc2d5</dc:identifier>
+        <dc:title>洞天</dc:title>
+        <dc:creator opf:file-as="衛斯理" opf:role="aut">衛斯理</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:40+00:00</dc:date>
+        <dc:description>一個從少就對廟宇有莫大興趣的少年來到位於喜馬拉雅山區的桑伯喇嘛廟，不久居然和一位貢雲大師神秘地失蹤了。更沒想到的是受託前來調查的白素也跟著失蹤於廟中，難道他們可了「西方極樂世界」？&#13;
+&#13;
+------------------------------------------------&#13;
+《洞天》這個故事，十分玄──雖然衛斯理幻想故事，大都很玄，但這個故事，有極濃的神秘氣氛，有以為有極濃的宗教氣氛的，其實未必，故事只不過借了一座喇嘛廟和密宗的喇嘛寺進行，密宗本身十分詭秘，自然而然，形成了一種特別的氣氛。 &#13;
+&#13;
+故事到了最後，仍然是「外星人」，但李一心這個外星人，和在別的故事中曾出現的外星人，大不相同，他來地球，目的是帶走若干人──又借用了佛經中「接引」的故事。 &#13;
+&#13;
+是不是真有這樣的「接引者」？不能肯定。 &#13;
+&#13;
+可以肯定的是，在歷史記著中，真有「離開」的人。 &#13;
+&#13;
+衛斯理的決定對──若是要那麼辛苦，去「入籍」異星，在另一種全然不可測的生命形式下生活，倒不如做做地球人算了。 &#13;
+&#13;
+自然，人各有志，各人可以選擇自己所喜愛的生命形式，至少，應該可以選擇自己喜愛的生活方式。 &#13;
+&#13;
+衛斯理（倪匡） &#13;
+一九八七、三、四</dc:description>
+        <dc:publisher>明窗出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789622200784</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>科幻悬疑恐怖</dc:subject>
+        <meta content="{&quot;衛斯理&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:31+00:00" name="calibre:timestamp"/>
+        <meta content="洞天" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

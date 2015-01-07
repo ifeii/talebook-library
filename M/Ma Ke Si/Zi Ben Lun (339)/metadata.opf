@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bb3ee0c-4439-47c1-8acb-e2ccfc7063d5</dc:identifier>
+        <dc:title>资本论</dc:title>
+        <dc:creator opf:file-as="马克思" opf:role="aut">马克思</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《经典通读:资本论》是马克思倾注毕生精力完成的科学巨著，是他一生恪守崇高信念，从事科学研究的结晶。马克思逝世后，《经典通读:资本论》第二、第三卷由恩格斯整理，分别在1885年和1894年出版。后来，由考茨基整理出版了马克思计划中的关于剩余价值理论史的《经典通读:资本论》第四卷，但考茨基把它独立于《经典通读:资本论》，命名为《剩余价值学说史》。通常所说的《经典通读:资本论》是指前三卷。马克思说："我要在本书研究的，是资本主义生产方式以及和它相适应的生产关系和交换关系。"《经典通读:资本论》即论资本，而资本是带来剩余价值的价值，所以，贯穿《经典通读:资本论》全书的中心是剩余价值。具体而言： 在第一卷里，马克思暂时撇开流通过程和分配过程来研究资本自身的生产过程，中心是研究剩余价值的生产问题。在第二卷里，马克思在资本生产过程的基础上来研究资本的流通过程，是资本的生产过程和流通过程的统一，中心是分析剩余价值的实现问题。在第三卷里，马克思研究资本主义生产的总过程，研究资本的各种具体形式和剩余价值的各种具体形式，此过程是资本的生产过程、流通过程和分配过程的统一，中心是分析剩余价值的分配问题。当您翻开《经典通读:资本论》的时候，您或许还未曾了解它的厚重与深刻，未曾领略它的瑰丽与丰润，但无论如何，这本影响了人类历史的巨著都值得您对它怀有基本的敬意与惊叹!1867年9月14日，《经典通读:资本论》第一卷出版了。马克思还积极投身实际斗争。1864年9月28日，马克思应邀出席国际工人协会成立大会(即第一国际)，并当选为协会临时委员会委员，兼任德国通讯书记。之后，马克思为第一国际起草了许多重要文件，为第一国际制定了斗争纲领、斗争策略和组织原则。19世纪70年代，马克思写了《哥达纲领批判》，深刻阐释了科学社会主义的基本原理，首次提出了共产主义社会两个发展阶段的认识。此后，马克思仍热心指导法国工人党、北美社会主义工人党等政治组织，帮助他们改正思想错误，进而成为各国工人运动的灵魂。《经典通读:资本论》第一卷出版后，马克思继续进行修改、校订，并反复修改第二卷和第三卷手稿，但1883年3月14日，积劳成疾的马克思与世长辞。他的心脏停止跳动时，面前书桌上还放着正在修改的《经典通读:资本论》书稿。马克思死后被安葬在伦敦的海格特公墓，和夫人燕妮葬在一起。</dc:description>
+        <dc:publisher>北京出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787200069716</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>资本论</dc:subject>
+        <dc:subject>马克思</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>资本</dc:subject>
+        <meta content="{&quot;马克思&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:55+00:00" name="calibre:timestamp"/>
+        <meta content="资本论" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

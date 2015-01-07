@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1054</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d500b9a1-0c57-48e5-89ca-20c58126e198</dc:identifier>
-        <dc:title>自然哲學</dc:title>
-        <dc:creator opf:file-as="莫裡茨·石裡克" opf:role="aut">莫裡茨·石裡克</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-08-27T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;　　莫里茨·石里克（1882～1936） &lt;br&gt;　　Schlick，Moritz &lt;br&gt;　　 &lt;br&gt;　　德国哲学家，物理学家。逻辑实证主义维也纳学派的主要创始人。生于柏林。1917年起先后在罗斯托克和基尔任大学教授 ， 1922 年任维也纳大学 归纳科学的哲学讲座教授 ，1936年被德国法西斯拥护者暗杀。石里克的前期哲学被称为批判的实在论，后期思想称为逻辑实证主义。他认为哲学不是科学，不是一种知识体系，而是确定和发现命题意义的活动。他强调，凡是在原则上不可证实的陈述，都是应当排除的形而上学的陈述。因此，唯物主义和唯心主义的全部争论在他看来都是毫无意义的。一切科学知识的最终的基础，就是那些描述此时此地知觉并与一定手势相联系的基本命题 。他还主张一种有经验根据的幸福论，并把“增进你的幸福”作为一种伦理学的基本原则。著有《普通认识论》、《自然哲学》。&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上書苑</dc:publisher>
+        <dc:title>自然哲学</dc:title>
+        <dc:creator opf:file-as="莫里茨·石里克" opf:role="aut">莫里茨·石里克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《自然哲学》主要内容：自然科学各不同分支的合并或融合——就是说，简单的命题归属于越来越普遍的命题——只能从下面以自下而上的方向发生。因为在每一个领域内，随着知识的进步，所达到的水平会越来越高，而在这些更高的水平达到之前，根本就没有可能来实现那种必需的综合以获得一幅完整的图象。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787100005258</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>CNTY:GERMAN</dc:subject>
-        <dc:subject>ZDC:ZXZZ</dc:subject>
-        <meta content="{&quot;莫裡茨·石裡克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>科学哲学</dc:subject>
+        <dc:subject>石里克</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <dc:subject>逻辑实证主义</dc:subject>
+        <dc:subject>自然哲学</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>社科作品</dc:subject>
+        <meta content="{&quot;莫里茨·石里克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="哲学/宗教" name="calibre:series"/>
         <meta content="30" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-04-14T16:00:00+00:00" name="calibre:timestamp"/>
-        <meta content="自然哲學" name="calibre:title_sort"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:43+00:00" name="calibre:timestamp"/>
+        <meta content="自然哲学" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

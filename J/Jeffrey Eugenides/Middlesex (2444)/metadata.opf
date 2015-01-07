@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85de0e12-5da4-4d3a-9866-61981bb25f3c</dc:identifier>
+        <dc:title>Middlesex</dc:title>
+        <dc:creator opf:file-as="Jeffrey Eugenides" opf:role="aut">Jeffrey Eugenides</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-16T07:00:00+00:00</dc:date>
+        <dc:description>（按照amazon.com的简介翻译的）&#13;
+　　“我出生过两次：第一次，作为一个女婴，出生在意外晴朗没有烟雾的底特律一月的一天，1960年；第二次，在 密西根洲，婆透思基城的一个急诊室里，以一个少年男子的身份，1974年八月。” 《Middlesex》如此开头。这是一本令人着迷的史诗型故事，关于一个富有传奇色彩的希腊裔美国家庭。同时又是一本讲述“一个基因在时间隧道里的过山车般的旅途。”Jeffrey Eugenides在1993年发表了他那优雅而且令人难忘的处女作：《处女自杀》，至今名列近来最好的小说之列。大家拭目以待的他的第二本小说是以奇怪但是可信的四十一岁双性人卡尔-思坦分耐笛斯如何被当作珈丽奥佩养大的感人故事为中心。&#13;
+　　&#13;
+　　Eugenides把一个带有污点的贯穿80年的家庭史用万花筒般的语言技巧编织起来，从1920年代小亚细亚一个小城镇里的被命运捉弄的乱伦结合开始到禁酒时期的底特律；从福特公司的早期到1967年的种族暴乱；从高尚文雅的底特律郊区GROSSE POINTE里发生的迷惘充满了少年成长之痛的爱情故事到现代的柏林。Eugenides对语言的驾驭能力令人叹为观止。他把卡尔/珈丽奥佩二者交错的叙述平衡得令人信服，把这个奇怪而且常常让人不安的故事用智慧，洞察力，和幽默讲述出来：&#13;
+　　&#13;
+　　（以下为引用原书）&#13;
+　　 情绪，据我所知是不能用一个简单的字来概括的。我不相信“悲伤”，“快乐”，或者“遗憾”这种字眼。。。我喜欢拥有丰富多彩的情绪，好象德国的火车车厢构造，比如说“陪伴着悲剧的快乐”，或者“拥有了梦想之后的失望”，我希望能够有个字眼能够形容“一个失败的餐馆带来的悲伤”，还有“住进一个有小酒巴的房间带来的兴奋”。我从来没有找到合适的语言来形容我的一生，而现在我开始讲我自己的故事，对这些合适的词组的需要就更迫切了。&#13;
+　　&#13;
+　　 Emotions, in my experience aren't covered by single words. I don't believe in ”sadness,” ”joy,” or ”regret.” … I'd like to have at my disposal complicated hybrid emotions, Germanic traincar constructions like, say, ”the happiness that attends disaster.” Or: ”the disappointment of sleeping with one's fantasy.” ... I'd like to have a word for ”the sadness inspired by failing restaurants” as well as for ”the excitement of getting a room with a minibar.” I've never had the right words to describe my life, and now that I've entered my story, I need them more than ever.</dc:description>
+        <dc:publisher>Picador</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312422158</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>middlesex</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>Jeffrey_Eugenides</dc:subject>
+        <dc:subject>JeffreyEugenides</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;Jeffrey Eugenides&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:29:07+00:00" name="calibre:timestamp"/>
+        <meta content="Middlesex" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

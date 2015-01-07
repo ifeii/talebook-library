@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c599472c-85b4-4bb3-aa1e-d63380f2e505</dc:identifier>
+        <dc:title>奇迹之旅系列 罗德斯岛的地下迷宫</dc:title>
+        <dc:creator opf:file-as="陆杨" opf:role="aut">陆杨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《罗德斯岛的地下迷宫(第2卷)》内容简介失窃的天神钥匙，可怖的地下迷宫，苏醒的远古战神竟然是机器人……还等什么，翻开“奇迹之旅”你就能得到一次前往神秘遗址的机会！一场惊心动魄的冒险旅途！数轮挑战智力的头脑风暴。</dc:description>
+        <dc:publisher>四川少儿</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fc6ff7d5-af93-4174-8d3c-ecb9a9d8801f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787536546783</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>123</dc:subject>
+        <dc:subject>9787536546783</dc:subject>
+        <dc:subject>asd</dc:subject>
+        <dc:subject>bg</dc:subject>
+        <dc:subject>冒险小说</dc:subject>
+        <meta content="{&quot;陆杨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:38:58+00:00" name="calibre:timestamp"/>
+        <meta content="奇迹之旅系列 罗德斯岛的地下迷宫" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

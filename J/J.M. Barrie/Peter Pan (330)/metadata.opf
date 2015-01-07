@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d211de0a-6253-4f15-99e6-917ebb59eb11</dc:identifier>
+        <dc:title>Peter Pan</dc:title>
+        <dc:creator opf:file-as="J.M. Barrie" opf:role="aut">J.M. Barrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-02-28T16:00:00+00:00</dc:date>
+        <dc:description>Considered a masterpiece since its first appearance on stage in 1904, Peter Pan is J. M. Barrie's most famous work and the greatest of all children's stories. While it is a wonderful fantasy for the young, Peter Pan, particularly in the novel form Barrie published in 1911, says something important to all of us. Here "the boy who wouldn't grow up" and his adventures with Wendy and the lost boys in the Neverland evoke a deep emotional response as they give form to our feelings about parents, boys and girls, the unknown, freedom, and responsibility. Humorous, satiric, filled with suspenseful cliff-hangers and bittersweet truths, Peter Pan works an indisputable magic on readers of all ages, making it a true classic of imaginative literature.
+“Barrie wrote his fantasy of childhood, added another figure to our enduring literature, and thereby undoubtedly made one of the boldest bids for immortality of any writer. . . . It is a masterpiece.”—J. B. Priestley</dc:description>
+        <dc:publisher>Bantam Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553211788</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>Peter</dc:subject>
+        <dc:subject>Pan</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>儿童</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <meta content="{&quot;J.M. Barrie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:51+00:00" name="calibre:timestamp"/>
+        <meta content="Peter Pan" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

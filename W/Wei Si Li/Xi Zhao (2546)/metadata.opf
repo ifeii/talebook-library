@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfc77957-add4-48db-9921-18c0a8eae772</dc:identifier>
+        <dc:title>犀照</dc:title>
+        <dc:creator opf:file-as="衛斯理" opf:role="aut">衛斯理</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:50+00:00</dc:date>
+        <dc:description>衛斯理的好友張堅從南極寄了三塊小冰塊要求化驗，而負責化驗的胡懷玉博士突然之間性情大變，而且行為怪異，難道這些冰塊暗藏著什麼玄機？&#13;
+&#13;
+----------------------------------------------&#13;
+可愛的、令衛斯理有時見到他也不免頭痛的少年溫寶裕，在這個故事中首次出現。「犀照」這個故事，也可以說是「溫寶裕出世記」，像「封神榜」中哪吒出世一樣，從此有了這個性好胡思亂想、常有匪夷所思想法、又膽大妄為、行動完全出格的少年人，在衛斯理故事中翻江倒海，大展拳腳。以後的許多故事，都和他有關，而且環繞著他，又發展出不少別的人物來，都性格鮮明，很可以有點故事在他們身上發展。 &#13;
+&#13;
+這個故事中的胡懷玉博士，是不是真的患了病，還是遭到了不知名生物的侵入？近幾年來，令得人人談虎色變的、破壞人類先天免疫能力的那種病毒，有報導說是從實驗室中不小心「逃」出來的──如果這項報導屬實，那麼胡懷玉的憂慮，就大有道理。 &#13;
+&#13;
+實用科學能解釋的東西太少，所以在許多情形下，需要幻想，在幻想的基礎上，科學能進一步發展；若囿於現在實用科學所能知的，連幻想一下都沒有可能了。 &#13;
+&#13;
+幻想是主，科學是副！ &#13;
+&#13;
+衛斯理（倪匡）一九八七、三、廿九</dc:description>
+        <dc:publisher>明報出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789622200838</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>卫斯理系列</dc:subject>
+        <meta content="{&quot;衛斯理&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:57+00:00" name="calibre:timestamp"/>
+        <meta content="犀照" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

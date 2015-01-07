@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b03bd1c-27a7-4e6d-ba13-211b54532d1a</dc:identifier>
+        <dc:title>春秋左傳注（全四冊）</dc:title>
+        <dc:creator opf:file-as="杨伯峻" opf:role="aut">杨伯峻</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《春秋左传》是我国现存最早的编年体史书，起自鲁隐公元年，迄于鲁哀公二十七年，是学习、研究先秦历史、文学、哲学和语言必读的典籍。作者积数十年之力，对左氏《春秋》经、传作详细校勘、分段、注释，充分吸收前人研究成果及近代考古资料，融会贯通，时出己见，是为当代《春秋左传》集大成之全注本。</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101002621</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>左传</dc:subject>
+        <dc:subject>杨伯峻</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>古籍</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>经学</dc:subject>
+        <meta content="{&quot;杨伯峻&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="四书五经" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:43+00:00" name="calibre:timestamp"/>
+        <meta content="春秋左傳注（全四冊）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

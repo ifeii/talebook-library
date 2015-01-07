@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e43e5c25-3cd1-43d5-b6e6-7eab2ee7e91a</dc:identifier>
+        <dc:title>草样年华</dc:title>
+        <dc:creator opf:file-as="孙睿" opf:role="aut">孙睿</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《草样年华》是一部描写大学生活的长篇爱情小说，以邱飞和周舟的爱情生活为主线，塑造了大学生邱飞、杨阳等个性鲜明的人物。在学校里，他们都是所谓不务正业的“坏”学生，无心学习，整天琢磨着逃避考试、偷窥女生宿舍、谈恋爱、玩乐队、喝酒、打架等等，为读者展开了一幅活灵活现的大学生活众生相。但他们实际上又是充满理想和热情的青春少年，他们渴望找到灵魂的出口，热爱文学和音乐，内心充满了善良和对未来的期待，只是与大学校园死板、程序化的环境格格不入，这才导致了他们的愤世嫉俗，以微弱的“坏”来与周围的环境相抗争。直到最后才猛然惊醒，为自己青春的面目全非和支离破碎而备觉荒凉，在此情可待成追忆时，才知道爱情和生活的可贵。</dc:description>
+        <dc:publisher>远方出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787805959177</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">13fc6286-965c-46fc-a770-f057160a2654</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>草样年华</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>孙睿</dc:subject>
+        <dc:subject>校园</dc:subject>
+        <dc:subject>大学</dc:subject>
+        <dc:subject>颓废</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <meta content="{&quot;孙睿&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:14+00:00" name="calibre:timestamp"/>
+        <meta content="草样年华" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

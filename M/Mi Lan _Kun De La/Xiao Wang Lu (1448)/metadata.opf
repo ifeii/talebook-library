@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f4b4841-180e-4f05-b31d-b1f61b8322f8</dc:identifier>
+        <dc:title>笑忘录</dc:title>
+        <dc:creator opf:file-as="米兰·昆德拉" opf:role="aut">米兰·昆德拉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《笑忘录》1979年在法国出版，获法国文学奖项“梅第奇大奖”。这是一部关于笑与忘、关于布拉格、关于布拉格、也关于天使们的小说。作品以1968年苏联军队入侵捷克斯洛伐克为时代背景，描写了捷克不同阶层知识分子的多舛命运。书中不同的章节一个接着一个，如同旅行的几个不同阶段，朝向某个主旋律的内在，朝向某种独一无二情境的内在，而旅行的意涵已迷失在广袤无垠的内在世界，欲辩却已忘言。作者在故事叙述当中，探讨了人生中间记忆和遗忘的哲学关系；记忆，人们希望保持或者忘却的内容，如同附带欢娱和讽刺的笑一样，是交相辉映的永恒主题。是米兰·昆德拉奠定大师地位的关键代表作。
+在这部批评界奉为具有超现实主义风格的现代派小说杰作中，昆德拉试图打通小说、哲学和政治议论以及自传之间的隔膜关系，籍以用罕见的政治正确的角度，探讨人生、音乐、性、哲学、文学和政治等重大话题，用笔诙谐独到，常常使阅读者在沉重的阅读中邂逅绝妙的幽默趣事，以致忍俊不禁。
+小说在法国出版后引起西方舆论界高度关注，获得当年法国最佳外国文学奖。但是，它也给作者带来了意想不到的灾难——当时的捷克政府以此书在法国的非法出版为由，剥夺了昆德拉德捷克国籍。不过，这也从另一方面成就了昆德拉，使其成为国际驰名的小说家。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532731282</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>米兰·昆德拉</dc:subject>
+        <dc:subject>笑忘录</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>米兰・昆德拉</dc:subject>
+        <dc:subject>捷克</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>昆德拉</dc:subject>
+        <meta content="{&quot;米兰·昆德拉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:48+00:00" name="calibre:timestamp"/>
+        <meta content="笑忘录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

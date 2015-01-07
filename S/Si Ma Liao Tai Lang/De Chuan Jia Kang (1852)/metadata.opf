@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8e4e6d0-2d65-4ded-bbbf-0cf8894e2ca5</dc:identifier>
+        <dc:title>德川家康</dc:title>
+        <dc:creator opf:file-as="司马辽太郞" opf:role="aut">司马辽太郞</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-28T16:00:00+00:00</dc:date>
+        <dc:description>他，出生于封闭落后的三河地区。三岁与生母离别，六岁作为人质流寓他国。辛酸和凄苦的人质生涯，锤炼出他坚毅无比的韧性和机警沉稳的个性。
+成年后继任城主，但领内豪族林立，领外强敌环伺。为了在乱世中求生存，他不惜充当今川义元的炮灰，随后又率领三河武士追随织田信长四处征战。刚赢得了自己的生存空间，却不得不为取信于信长，痛心杀妻灭子。信长梦断本能寺后，秀吉抢先控制了局势。他一方面屈累代尊贵武士之膝，拜服在出身寒微的秀吉脚下；一方面埋首于在局部区域扩张势力范围。等到时机降临，他果断出击，将潜在的敌人彻底瓦解。
+他最大的特点，被人们总结为“忍耐”。也许为了能够与众多天才交战，这个既无非凡创造力，又无卓越天资的普通人，只能以“忍耐”来磨炼自己、提升自己。但忍耐，是为了走更远的路。他，没有创造性，倾心于模仿他人的长处，将武田的兵法、信长的果断和秀吉的策略揽于一身。他，以正直和忠诚征服了信长和秀吉，可秀吉一死，他却骤变为谲诈多端的首领。可见其正直和忠诚绝非真心为之，不过是掩盖锋芒的处事之术。
+司马辽太郎以流畅犀利的笔触，疏密有致地描绘了一个朝代的开创者德川家康由人质到王者的曲折一生，让读者深刻体会到德川家康，一个谋略家的高明、隐忍和狡猾。</dc:description>
+        <dc:publisher>重庆出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787229003340</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e45634e4-ca98-462b-9aab-3c4156d248ee</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>司马辽太郎</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>日本战国</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <meta content="{&quot;司马辽太郞&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:50+00:00" name="calibre:timestamp"/>
+        <meta content="德川家康" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

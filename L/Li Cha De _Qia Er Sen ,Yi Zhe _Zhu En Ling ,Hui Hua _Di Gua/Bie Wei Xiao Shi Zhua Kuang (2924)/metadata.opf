@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">880951a5-7107-41d5-bffd-a3933ff794bd</dc:identifier>
+        <dc:title>别为小事抓狂</dc:title>
+        <dc:creator opf:file-as="理查德·卡尔森|译者:朱恩伶|绘画:地瓜" opf:role="aut">理查德·卡尔森,译者:朱恩伶,绘画:地瓜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《别为小事抓狂》来自我们的日常生活，是人们在安身立命时都会面临的思考。理查德当然也是凡人，只是他观察与谈论人生时，对于那些阻挡我们快乐的事物，有着非凡的透彻体悟。他告诉我们拥有快乐与正面的人生态度并不难做到，只要你愿意为自己的人生负责。人生的方向，在于你能保持开放，一点一点调整心态，这样你就能从内心逐渐坚强起来。在全世界，每一天，每一个角落，都有人因读了此书而改变生活的态度，进而改变了一生。生而为人，我们都在同样的小事中挣扎过活；即便面临生命的尽头，人生课题也是大同小异。</dc:description>
+        <dc:publisher>华夏</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fc7a85f5-2e90-436b-8910-ef94969e96b3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508050003</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>别为小事抓狂</dc:subject>
+        <dc:subject>心态</dc:subject>
+        <dc:subject>人生哲学</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>生活态度</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>卡尔森</dc:subject>
+        <meta content="{&quot;理查德·卡尔森,译者:朱恩伶,绘画:地瓜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:34+00:00" name="calibre:timestamp"/>
+        <meta content="别为小事抓狂" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

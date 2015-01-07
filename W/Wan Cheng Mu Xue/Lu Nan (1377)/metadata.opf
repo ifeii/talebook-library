@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1377</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cf2df67-709a-4953-9eb5-104f8758e266</dc:identifier>
+        <dc:title>鹿男</dc:title>
+        <dc:creator opf:file-as="万城目学" opf:role="aut">万城目学</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-31T16:00:00+00:00</dc:date>
+        <dc:description>有点神经质的年轻男老师，原本只是去奈良一所女子高中代一学期的课，结果不但第一天就跟女学生结下梁子，还糊里糊涂地被迫接下一桩事关重大的神秘任务！而本来看似简单的差事，却因为意外的波折，变成了倒计时的惊险大挑战！
+全书有如宫崎骏动画电影般充满想像力，加上浩瀚的构思、缜密的结构、跃动的细节，以及字里行间处处可见的幽默，让人在会心大笑之外，还有满满的感动！
+鹿以低沉的声音告诉我：
+你被选为“送货人”，—定要把“眼睛”拿回来，
+不然就会有大事发生！
+我虽然百般抗拒，却发现头上竟然长出了鹿耳、鹿角……
+这、这究竟是怎么回事啊？</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208086197</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>万城目学</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>鹿男</dc:subject>
+        <dc:subject>幻想</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <meta content="{&quot;万城目学&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:36+00:00" name="calibre:timestamp"/>
+        <meta content="鹿男" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

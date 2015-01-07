@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2296c885-e562-4862-a893-fed801646dd9</dc:identifier>
+        <dc:title>吸血鬼日记</dc:title>
+        <dc:creator opf:file-as="L. J. Smith" opf:role="aut">L. J. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-08T16:00:00+00:00</dc:date>
+        <dc:description>《吸血鬼日记》是由L.J.史密斯创作的童颜成年吸血鬼恐怖系列小说。各国版本小说封面(20张)故事以艾琳娜·吉尔伯特，一个在两个吸血鬼兄弟间左右为难的高中女孩为中心展开。这部系列小说最初在1991年以三部曲出版，后因读者的压力使作者在一年后写了第四部。L.J.史密斯在停笔几年后的1998年宣布一部稍有改动的以Damon为主角的三部曲命名为《吸血鬼日记：归来》，《归来》继续发展故事。第一部，《归来：暮色降临》在2009年9月10出版。《归来：灵魂的阴影》在2010年3月出版。《归来：午夜》暂时定为2011年四月出版</dc:description>
+        <dc:publisher>United States</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061904127</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>吸血鬼日记</dc:subject>
+        <dc:subject>Vampire</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>吸血鬼</dc:subject>
+        <dc:subject>L.J.Smith</dc:subject>
+        <dc:subject>原文书</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;L. J. Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:57+00:00" name="calibre:timestamp"/>
+        <meta content="吸血鬼日记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

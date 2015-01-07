@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dabe15a5-17f3-4187-8843-4b0998a99ebc</dc:identifier>
+        <dc:title>马未都说收藏·陶瓷篇（下）</dc:title>
+        <dc:creator opf:file-as="马未都" opf:role="aut">马未都</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《马未都说收藏:陶瓷篇(下)》根据著名收藏家马未都先生在中央电视台《百家讲坛》已做关于中国陶瓷艺术的12期讲座内容整理而成，图文并茂，相得益彰。全书共12章，既对陶瓷及陶瓷历史等层面做了宏观描述，也对历代名窑，以及宋、元、明等朝代瓷器做了微观阐释。语言深入浅出，通俗易懂，尤以大量生动实例为佐证，读者会在不经意间领略到中国陶瓷艺术文化的独特魅力。作者精心选配的150余幅相关图片，更是起到锦上添花之功，为《马未都说收藏:陶瓷篇(下)》增色不少。《百家讲坛》栏目一贯坚持“让专家、学者为百姓服务”的栏目，栏目在专家、学者和百姓之间架起一座桥梁——“一座让专家通向老百姓的桥梁”，从而达到普及中国优秀传统文化的目的。</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101062014</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>马未都</dc:subject>
+        <dc:subject>收藏</dc:subject>
+        <dc:subject>陶瓷</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>百家讲坛</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;马未都&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:08+00:00" name="calibre:timestamp"/>
+        <meta content="马未都说收藏·陶瓷篇（下）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">481b068b-4f53-45ac-a899-8241b0fbcdb9</dc:identifier>
+        <dc:title>大唐双龙传</dc:title>
+        <dc:creator opf:file-as="黄易" opf:role="aut">黄易</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-07-31T16:00:00+00:00</dc:date>
+        <dc:description>黄易的武侠力作《大唐双龙传》以隋末唐初群雄割据的动荡局面为背景，叙述了扬州城里的寇仲和徐子陵由两个小混混成长为两个武林绝顶高手的历程。该书把历史背景和武侠世界很好地结合起来，使人感到规模宏大，有亲临其境之感。可以在大唐双龙传中读到包括历史、天文、医术、科学、宗教、宇宙奥秘、艺术美学等上天入地的学问知识，但更重要的——是他对于生命哲学的省思。</dc:description>
+        <dc:publisher>华艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787800397547</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">40c7c1af-2987-4fdc-8fb9-34dac79163b6</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>黄易</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>大唐双龙传</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>武侠小说</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>黄易经典</dc:subject>
+        <dc:subject>兄弟</dc:subject>
+        <meta content="{&quot;黄易&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:52+00:00" name="calibre:timestamp"/>
+        <meta content="大唐双龙传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

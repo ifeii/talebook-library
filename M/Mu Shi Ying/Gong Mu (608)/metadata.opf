@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76190614-e028-40f8-a105-0ef23bc921c9</dc:identifier>
+        <dc:title>公墓</dc:title>
+        <dc:creator opf:file-as="穆时英" opf:role="aut">穆时英</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>被当作消遣品的男子和公墓是比较早的东西。前者只想为一种被当作消遣品的悲哀，和一种优鬱的气氛。后者则写的带有早春的蜜味的一段罗曼史。上海的孤步舞是作长篇[中国一九三一]时的一种断片，只是一种技巧上的试验和锻炼。其余的五篇：夜、莲花落、夜总会里的五个人、黑牡丹、Graven“A”是在一个稍微相同的企图下写的。当时的目的只是想表现一些从生活上跌下来的，一些没落的Pletot。</dc:description>
+        <dc:publisher>百花文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530641880</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>穆時英</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国现代文学</dc:subject>
+        <dc:subject>新感覺派</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>新感觉派</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>穆时英</dc:subject>
+        <meta content="{&quot;穆时英&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="44" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:59+00:00" name="calibre:timestamp"/>
+        <meta content="公墓" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

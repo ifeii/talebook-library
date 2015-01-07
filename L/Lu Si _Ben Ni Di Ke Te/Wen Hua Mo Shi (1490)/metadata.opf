@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71e05cde-754a-4825-a2f0-a258cdf24f1e</dc:identifier>
+        <dc:title>文化模式</dc:title>
+        <dc:creator opf:file-as="露丝·本尼迪克特" opf:role="aut">露丝·本尼迪克特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《文化模式》是《菊与刀》的作者、美国著名人类学家露丝·本尼迪克特的代表作，写于1934年。该书也可以说是20世纪西方有关文化问题讨论中最有影响的著作之一，已被译成14种文字，有着广泛影响。果勒认为，可以“以此书出版的年代，作为国民性的科学研究诞生之年”。玛格丽特·米德在1958年的新序中提出，此书是“20世纪第二季最伟大的著作之一”。“文化模式”这一概念，有各种不同的用途和意思。不同的文化人类学家对文化模式的理解也不同。本尼迪克特认为，文化模式是相对于个体行为来说的。她认为，人类行为的方式有多种多样的可能，这种可能是无穷的。但是一个部族、一种文化在这样的无穷的可能性里，只能选择其中的一些，而这种选择有自身的社会价值趋向。选择的行为方式，包括对待人之生死、青春期、婚姻的方式，以至在经济、政治、社会交往等领域的各种规矩、习俗，并通过形式化的方式，演成风俗、礼仪，从而结台成一个部落或部族的文化模式。</dc:description>
+        <dc:publisher>社会科学文献出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787509705902</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>人类学</dc:subject>
+        <dc:subject>本尼迪克特</dc:subject>
+        <dc:subject>文化研究</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>文化模式</dc:subject>
+        <dc:subject>文化人类学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;露丝·本尼迪克特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:37+00:00" name="calibre:timestamp"/>
+        <meta content="文化模式" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

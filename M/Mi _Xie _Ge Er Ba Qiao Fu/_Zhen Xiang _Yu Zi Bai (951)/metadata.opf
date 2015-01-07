@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a42e1ea9-ff09-44c8-bfd8-17a8529a53b6</dc:identifier>
+        <dc:title>“真相”与自白</dc:title>
+        <dc:creator opf:file-as="米·谢·戈尔巴乔夫" opf:role="aut">米·谢·戈尔巴乔夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-31T16:00:00+00:00</dc:date>
+        <dc:description>・全球7种文字出版，发行量逾10000000册
+戈尔巴乔夫曾是全球公认的风云人物。本书“回忆内容”由三方面组成：
+第一方面是戈尔巴乔夫的身世及家庭，记述他本人当选苏共总书记前的经历和他个人的家庭生活及与其知心友人间的关系；
+第二方面是戈尔巴乔夫在克里姆林宫的政治生涯，记述他当选总书记后进行改革的理念及活动。其中戈尔巴乔夫本人对改革事业的思考和心理活动等方面的细腻记述、“事过境迁”后的反思以及对自己行为的辩解、官僚派别间的明争暗斗，是任何其他书刊无法取代、独一无二的珍贵资料；
+第三方面为戈尔巴乔夫在“严峻的1991年”的经历，重点记述八月政变、年终解体的详细过程。
+戈尔回忆如是，读者见仁见智。</dc:description>
+        <dc:publisher>社会科学文献出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801496478</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>苏联</dc:subject>
+        <dc:subject>戈尔巴乔夫</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>自传</dc:subject>
+        <meta content="{&quot;米·谢·戈尔巴乔夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="33" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:54+00:00" name="calibre:timestamp"/>
+        <meta content="真相”与自白" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

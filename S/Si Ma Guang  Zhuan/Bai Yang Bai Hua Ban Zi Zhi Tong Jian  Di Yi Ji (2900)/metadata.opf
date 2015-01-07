@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cb7ba43-2600-48e1-a7a4-a9728bcec82f</dc:identifier>
+        <dc:title>柏杨白话版资治通鉴 第一辑</dc:title>
+        <dc:creator opf:file-as="司马光 撰" opf:role="aut">司马光 撰</dc:creator>
+        <dc:creator opf:file-as="司马光 撰" opf:role="aut">柏杨 译</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《资治通鉴》是一部浓缩了中国古代政治动作、权力游戏的历史巨著，是古代帝王鉴于往事、资于治道的必读史书。
+柏杨耗时十年（1983-1993）将《资治通鉴》译写成现代语言，亲手增绘地图，并注入自己的历史观点，谈论历史成败因果。
+该系列图书做了大量修订，一方面对原书的人名、地名进行了全面校订，改正了大量疏漏与差错，另一方面对不适合内地读者阅读习惯和现代汉语规范的语词、叙说方式做了相应变通。另外，历史地图、图表均参照《中国历史地图集》及最新研究成果重新绘制而成。</dc:description>
+        <dc:publisher>北岳文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787537829014</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">db70f2bb-152d-466a-82e1-9dc83fe5bca7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>资治通鉴</dc:subject>
+        <dc:subject>柏杨</dc:subject>
+        <dc:subject>资治通鉴柏杨版</dc:subject>
+        <dc:subject>资治通鉴（第一辑秦风汉雨）（柏杨白话版）</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>司马光</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;司马光 撰&quot;: &quot;&quot;, &quot;柏杨 译&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:09+00:00" name="calibre:timestamp"/>
+        <meta content="柏杨白话版资治通鉴 第一辑" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

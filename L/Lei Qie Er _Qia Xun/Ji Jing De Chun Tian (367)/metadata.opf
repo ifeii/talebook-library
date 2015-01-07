@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8efb1a4-4d93-4c52-989e-9ea007189395</dc:identifier>
+        <dc:title>寂静的春天</dc:title>
+        <dc:creator opf:file-as="蕾切尔·卡逊" opf:role="aut">蕾切尔·卡逊</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《寂静的春天》于1972年-1977年间陆续译为中文，开首的几章曾在中国科学院地球化学研究所编辑出版的学术刊物“环境地质与健康”上登载过，全书于1979年由科学出版社正式出版。20年后的今天，我们高兴地看到，在中国社会科学院哲学研究所吴国盛先生及吉林人民出版社的协同努力下，《寂静的春天》得以纳入《绿色经典文库》再版。我们衷心希望，这本彪炳史册的著作为中国环境保护事业带来的启迪和推动，能够继续下去。</dc:description>
+        <dc:publisher>吉林人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787206028083</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>环保</dc:subject>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>环境保护</dc:subject>
+        <dc:subject>蕾切尔·卡逊</dc:subject>
+        <dc:subject>自然</dc:subject>
+        <dc:subject>寂静的春天</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>环境</dc:subject>
+        <meta content="{&quot;蕾切尔·卡逊&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科学" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:14:12+00:00" name="calibre:timestamp"/>
+        <meta content="寂静的春天" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b62a0e27-51e8-48fd-ace0-ac15680aeba0</dc:identifier>
+        <dc:title>都市妖奇談-卷二</dc:title>
+        <dc:creator opf:file-as="可蕊" opf:role="aut">可蕊</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-02T16:00:00+00:00</dc:date>
+        <dc:description>「都市妖奇談」系列描寫妖怪們在都市中的生活百態，是既溫馨又奇異的現代奇談。
+開創中國大陸當代妖怪小說風潮，可蕊成名作重修愛藏版
+暢銷作家 九把刀 / 挑戰者總編輯 林依俐 / 暢銷作家 星子 / 麥兜動畫導演 袁建滔 / 知名漫畫家 游素蘭 一致推薦
+人類也許永遠都不會發現，
+古代神話傳說中的各種妖獸，正和他們分享著這座城市……
+在城市中與你擦肩而過的，不一定是人……  膽小的肉腳妖怪鹿九第一次來到人類的大城市，這個城市的妖怪究竟危不危險？  投靠長輩的路上，鹿九遇到了開著紅色計程車的影魅、霸道蠻橫的畢方；好心救人送往醫院，卻碰到殭屍醫生；路上遭混混恐嚇，被化身為男孩的九尾狐所救；更意外撞見了這裡的地頭蛇地狼，被強逼著陪酒……  城市大了，什麼樣的生物都可能存在，什麼樣的怪事都可能發生。神話傳說裡的妖怪們，原來也生活在我們的都市中。他們化成了人類的外表，在這裡生存、捕食、進化、玩樂……
+本書共收錄「都市妖奇談」——【給妖怪們的安全手冊】、【我是貓】、【真心英雄】、【幻遊記】，帶領您進入全新的都市魔幻體驗中。</dc:description>
+        <dc:publisher>蓋亞</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866815065</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>都市妖奇谈</dc:subject>
+        <dc:subject>可蕊</dc:subject>
+        <dc:subject>灵异</dc:subject>
+        <dc:subject>ey5</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>都市妖</dc:subject>
+        <meta content="{&quot;可蕊&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="都市妖奇談" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:50:26+00:00" name="calibre:timestamp"/>
+        <meta content="都市妖奇談-卷二" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

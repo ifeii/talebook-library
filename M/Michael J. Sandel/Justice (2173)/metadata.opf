@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82673f7a-c2f5-4987-8749-2dea8c975a36</dc:identifier>
+        <dc:title>Justice</dc:title>
+        <dc:creator opf:file-as="Michael J. Sandel" opf:role="aut">Michael J. Sandel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-16T16:00:00+00:00</dc:date>
+        <dc:description>《公正:该如何做是好?》内容简介：如果为了减轻病人的痛苦而向他提供致命性的药物，你认为这是对生命的亵渎吗？如果一个人的死能换来多数人的生，你会牺牲那个人面让自己和同伴们活下去吗？如果改进汽车的致命缺陷能挽救很多人的生命，你会愿意为此付出高额的改装费用吗？如果-项合同与传统道德桕冲突，法院判决合同无效，你会认为法院的判决是公正的吗？在这个日益物质化的年代，我们的行为选择总在人性和物质性之间摇摆不定。当我们遇到生死抉择的时候。我们常常因为尊重人的基本权利而违背利益最大化的理性原则；因此我们才会认为，19世纪遇险的英国船员为了存活下去杀死并吃掉一个病弱的奴仆，是有悖人道的。但是，当我们口口声声说个人的生命权利至上时，为什么像福特汽车这样的企业却会给生命贴上价格标签？如果我们尊重个体的权利。但为什么大多数人又会反对同性婚姻？
+我们的社会、我们的思潮、我们的正义观。正陷入尴尬的两难选择当中。我们甚至怀疑法律是否公正，因为法律无法回避个人的道德判断，无法做到中立。这多少让习惯了传统道德观念和固定思维的我们感到不安，但这种不安，却能让我们的理性精神保持清醒的状态。
+我们清醒的理性和人类的良知，会促发我们去寻找有关“公正”的“出路”。这条道路既能体现我们社会规范的人性，又能体现客观性。而这正是“世界最受欢迎的老师之一”的迈克尔·桑德尔教授寻找的有关公正的第三条进路：培养我们每个人的德性，作出我们应该作的、公正的选择。  
+
+ 《公正:该如何做是好?》中文最新超值版火热上市，点击进入  
+ 
+海报：
+
+ 
+
+  点击链接进入中文版： 
+ 公正:该如何做是好?</dc:description>
+        <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780374532505</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f073b9e7-4e3f-45f1-8d17-5c3eca32e203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>道德</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <dc:subject>Political_Sciences</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <meta content="{&quot;Michael J. Sandel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:29+00:00" name="calibre:timestamp"/>
+        <meta content="Justice" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

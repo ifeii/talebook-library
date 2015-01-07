@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09b81ebb-949a-4e7c-8091-c2bad617b416</dc:identifier>
+        <dc:title>我情愿跳舞</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-31T16:00:00+00:00</dc:date>
+        <dc:description>可恩忽然想起那首歌：当你遇到逆境，你可以坐困愁城，但是我情愿你跳舞。母亲气色这样好，当然是跳了舞回来。
+即使是做梦，也代她高兴。
+可是，这个梦好似比往日的梦略长略真。
+“过来坐下，”穗姨说：“听日焺说，你都改过来了，现在足不出户，同往日南辕北辙，又懂得收拾屋子……为何沉默？”门响，日焺进来，捧着买回来的宵夜，“我胡乱挑了粥粉饭面，”看到可恩，“可恩，她们回来了。”可恩这才发觉不是做梦，她强做镇定，握住母亲的手，一时不知说什么才好，竟然客套地问：“玩得高兴吗？”关锦婵也双眼润湿，“很开心很轻松，欧洲美不胜收，但是无论如何，家里最好。”日焺把食物转了碗取出。
+可恩盘膝坐在一旁，看着母亲，很怕一眨眼她就会消失。
+她们把旅游照片摊出来摆满一地。
+日焺问：“为什么不用数码相机？容易储藏。”
+“用照相簿也方便。”
+“干脆搁小盒子里，要看时整叠取出。”
+可恩缩在沙发里不出声，体内细胞好似逐一回暖，忽然，她打个呵欠，伸个懒腰，蜷缩在沙发上盹着。耳边母亲说：“咦，睡着了，奇怪，也不说话，也不吵闹，象换个人似的，应当高兴，但是见她长了灵性，反而伤感。”第二天醒来，可恩发觉自己还在沙发上，身体压着一条肩膀，已经麻痹。她想起昨夜的事，连忙跑上楼去找母亲，一看，睡房是空的，不禁失望。随即听见园子里有人说话，可恩自露台看下去，原来是母亲与园丁在商量不知什么，她放假这段日子，园子荒芜了。可恩松口气，妈妈的确在家。
+以后可得好好珍惜她。</dc:description>
+        <dc:publisher>东方出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4d0d95ac-1070-4d0a-a374-28bd495dc145</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787506068475</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>香港文学</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>自我完善</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>都市言情</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:34:00+00:00" name="calibre:timestamp"/>
+        <meta content="我情愿跳舞" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

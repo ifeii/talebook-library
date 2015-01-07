@@ -1,29 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1241</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f4b8f58d-cc79-4ed8-8db2-94fc3b2b201e</dc:identifier>
         <dc:title>黑色大丽花</dc:title>
         <dc:creator opf:file-as="詹姆斯·艾尔罗伊" opf:role="aut">詹姆斯·艾尔罗伊</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-12-22T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div class="intro"&gt;
-    &lt;p&gt;1947年1月15日，洛杉矶。&lt;/p&gt;    &lt;p&gt;人们在空地上发现了一具被肢解的女尸，有着被严重殴打和虐待的痕迹，死状让人不寒而
-栗。当年洛杉矶警方为此案展开了该市历史上最大规模的调查搜捕，但这个杀人狂就像“开膛手杰克”一样，人间蒸发了，至今没有踪迹。因为死尸那头乌黑的长发
-呈放射状散开，像一朵盛开的黑色大丽花，所以此案被称为“黑色大丽花谋杀案”。这件谋杀案当年轰动一时，是加利福尼亚州历史上最离奇的案件。&lt;/p&gt;    &lt;p&gt;事
-情围绕着巴奇·布雷切特和李·布兰查德的调查展开。而在调查工作的过程中，两个人双双爱上了同一个女人，而这一切又与“黑色大丽花”有关，他们急于知道她
-过去的一切，并立志逮捕凶手。而调查的结果却又离奇非常…… 邪恶的召唤把人们带入欲望的深渊，紧紧纠缠着这个死去的女孩，几近疯狂……&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;（&lt;font class="Apple-style-span" color="#800040"&gt;子乌注：豆瓣评价一般，有人说翻译的不行，不过我觉得还行就是了……可以看看&lt;/font&gt;）&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:description>1947年1月15日，洛杉矶。
+人们在空地上发现了一具被肢解的女尸，有着被严重殴打和虐待的痕迹，死状让人不寒而栗。当年洛杉矶警方为此案展开了该市历史上最大规模的调查搜捕，但这个杀人狂就像“开膛手杰克”一样，人间蒸发了，至今没有踪迹。因为死尸那头乌黑的长发呈放射状散开，像一朵盛开的黑色大丽花，所以此案被称为“黑色大丽花谋杀案”。这件谋杀案当年轰动一时，是加利福尼亚州历史上最离奇的案件。
+事情围绕着巴奇·布雷切特和李·布兰查德的调查展开。而在调查工作的过程中，两个人双双爱上了同一个女人，而这一切又与“黑色大丽花”有关，他们急于知道她过去的一切，并立志逮捕凶手。而调查的结果却又离奇非常…… 邪恶的召唤把人们带入欲望的深渊，紧紧纠缠着这个死去的女孩，几近疯狂……</dc:description>
+        <dc:publisher>哈尔滨出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787806994740</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>CNTY:USA</dc:subject>
-        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>黑色大丽花</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>詹姆斯·艾尔罗伊</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>惊悚小说</dc:subject>
         <meta content="{&quot;詹姆斯·艾尔罗伊&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="小说" name="calibre:series"/>
         <meta content="75" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2012-12-23T13:32:53+00:00" name="calibre:timestamp"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:25+00:00" name="calibre:timestamp"/>
         <meta content="黑色大丽花" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

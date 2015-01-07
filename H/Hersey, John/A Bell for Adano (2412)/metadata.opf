@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">220c6247-bc5e-452f-aaa9-f02e3096f306</dc:identifier>
+        <dc:title>A Bell for Adano</dc:title>
+        <dc:creator opf:file-as="Hersey, John" opf:role="aut">Hersey, John</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-14T13:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;Novel by John Hersey, published in 1944 and awarded a Pulitzer Prize in 1945. The novel's action takes place during World War II after the occupation of Sicily by Allied forces. Major Victor Joppolo, an American army officer of Italian descent, is part of the Allied military government ruling the town of Adano. In his attempts to reform the town and bring democracy to the people by treating them with respect and decency, Joppolo comes into conflict with his commanding officer, a hard-nosed general who eventually has Joppolo transferred because of his refusal to follow orders. Joppolo's concern for the town is epitomized by his efforts to replace a bell that the fascists had melted down to use for ammunition. -- __&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;An Italian-American major in World War II wins the love and admiration of the local townspeople when he searches for a replacement for the 700 year-old town bell that had been melted down for bullets by the fascists. &lt;/p&gt; &lt;/div&gt; &lt;p class="description"&gt;SUMMARY:&lt;br&gt;An Italian-American major in World War II wins the love and admiration of the local townspeople when he searches for a replacement for the 700 year-old town bell that had been melted down for bullets by the fascists.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553145731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Large type books</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <dc:subject>1939-1945</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <meta content="{&quot;Hersey, John&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-08-29T12:29:14+00:00" name="calibre:timestamp"/>
+        <meta content="Bell for Adano, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

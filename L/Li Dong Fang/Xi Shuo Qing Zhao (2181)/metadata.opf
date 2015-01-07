@@ -6,18 +6,29 @@
         <dc:title>细说清朝</dc:title>
         <dc:creator opf:file-as="黎东方" opf:role="aut">黎东方</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-01-15T16:00:00+00:00</dc:date>
-        <dc:description>本书是“细说中国历史丛书”的一种,由旅美著名历史学家黎东方先生撰写。它叙述了从努尔哈赤、皇太极建立清朝至清朝灭亡期间的重要事件和重要人物。作者以“讲史”的形式,通俗而生动地讲述了对俄和战、鸦片战争、太平天国革命,戊戌政变、八国联军侵华等历史事件,以及康熙、雍正、乾隆、吴三桂、洪秀全、和珅、李鸿章、康有为、慈禧等历史人物。全书既有生动的故事和真实的历史,又有颇具见识的评点,还阐释了顺治出家、雍正暴亡、乾隆身世等历史之谜。本丛书所采用的“细说体”既不像正史的艰深枯燥,又不似野史的胡编乱造,是别具风采的史学著作。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2002-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《细说清朝》最主要部分由台湾著名学者黎东方著述，分别是《细说秦汉》、《细说三国》、《细说元朝》、《细说明朝》、《细说清朝》、《细说民国创立》。所缺部分，另有学者补上：沈起炜著的《细说两晋南北朝》、赵剑敏著的《细说隋唐》、虞云国著的《细说宋朝》，这样，上自秦汉、下止民国，将几千年中国历史细细说来。
+黎东方教授的《细说》深入浅出，是适合大众阅读的通俗性历史读物。
+黎东方教授对各个朝代的历史事实与现象，透过其表面而洞察其底蕴，并探明其彼此间的相互关系，在融会贯通的理解之后，才笔之于书。阅读《细说》，会发现黎东方教授具有深厚的功底，才能左右逢源、曲汇旁通。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">6d62f4e3-6f12-421d-9af7-a10fa379b754</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787208025004</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>历史</dc:subject>
+        <dc:subject>黎东方</dc:subject>
+        <dc:subject>清朝</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>细说清朝</dc:subject>
+        <dc:subject>细说系列</dc:subject>
+        <dc:subject>清史</dc:subject>
+        <dc:subject>史学</dc:subject>
         <meta content="{&quot;黎东方&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:12:11.099744+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:34+00:00" name="calibre:timestamp"/>
         <meta content="细说清朝" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

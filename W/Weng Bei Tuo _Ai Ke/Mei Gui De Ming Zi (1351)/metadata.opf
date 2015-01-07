@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aef3c7b-4ed4-469f-8aee-a0f0852a7c47</dc:identifier>
+        <dc:title>玫瑰的名字</dc:title>
+        <dc:creator opf:file-as="翁贝托·埃科" opf:role="aut">翁贝托·埃科</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>“玫瑰的名字”是中世纪用来表明含有象征意义的词汇，故事亦以一所中世纪修道院为背景。原本就已被异端的怀疑和僧侣的个人私欲弄得乌烟瘴气的寺院，却又发生了一连串离奇的死亡事件。一个博学多闻的圣方济格教士负责调查真相，却被卷入恐怖的犯罪中……
+这是一部侦探、哲理、历史小说。除了扑朔迷离、扣人心弦的故事情节外，书中充满了各种学问，涉及神学、政治学、历史学、犯罪学，还涉及亚里士多德、阿奎那、培根等不同的思想。展现了作者渊博的学识和超凡的叙述才能。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532748549</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">102b1db2-007f-4d10-962c-59a42c224efa</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>艾柯</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>UmbertoEco</dc:subject>
+        <dc:subject>意大利文学</dc:subject>
+        <dc:subject>宗教</dc:subject>
+        <meta content="{&quot;翁贝托·埃科&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:12+00:00" name="calibre:timestamp"/>
+        <meta content="玫瑰的名字" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4db99caa-46a5-4d1a-8cdf-76f9e46fb39b</dc:identifier>
+        <dc:title>金阁寺</dc:title>
+        <dc:creator opf:file-as="三岛由纪夫" opf:role="aut">三岛由纪夫</dc:creator>
+        <dc:creator opf:file-as="三岛由纪夫" opf:role="aut">安部公房</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-19T16:00:00+00:00</dc:date>
+        <dc:description>《金阁寺》描写青年沟口素来因自己的生理缺陷而自卑并甚而失去生活的信心和乐趣，唯一的精神支柱是寄托于名胜古迹金阁寺的对美的追求，但又日渐感觉美的永恒存在是对世俗人生追求的阻碍，于是终于一把火烧了金阁寺，摆脱了“美”对人生的禁锢。
+与《金阁寺》相比，安部公房的《砂女》，可谓用另一种语言构筑的另一世界。“他”即主人公，某学校教员仁木顺平，利用休假日外出采集昆虫标本，住宿砂穴民家。穴中只住有一位年轻女人。第二天“他”醒来发现，通往地面的绳梯已被人撤去，始知自己受了欺骗。这处砂的村落由那位把“他”引往砂穴中的“年长者”控制着。虽有粮水烟茶平均按时供给，却无行动自由。“他”几次劝导年轻的女人放弃这种无视自我存在的、为了苟活而终日挖砂不止的活动，却遭到女人绝念而平静的拒绝：不可能。在与女人的肉体生活中，“他“获得过短暂的快乐，但逃跑的心不死。然而几次行动都惨遭失败。后来在送已有身孕的女人去医院时，“他”得到了通往地上的绳梯，却已无心逃出。</dc:description>
+        <dc:publisher>工人出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500802006</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>三岛由纪夫</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>自毁艺术＆虐恋文化</dc:subject>
+        <dc:subject>美学</dc:subject>
+        <dc:subject>安部公房</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;安部公房&quot;: &quot;&quot;, &quot;三岛由纪夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:14:01+00:00" name="calibre:timestamp"/>
+        <meta content="金阁寺" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

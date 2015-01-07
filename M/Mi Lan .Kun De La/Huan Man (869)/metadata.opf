@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2940596-e591-4151-bc0e-e46485649fbe</dc:identifier>
+        <dc:title>緩慢</dc:title>
+        <dc:creator opf:file-as="米蘭．昆德拉" opf:role="aut">米蘭．昆德拉</dc:creator>
+        <dc:creator opf:file-as="米蘭．昆德拉" opf:role="aut">Milan Kundera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-17T16:00:00+00:00</dc:date>
+        <dc:description>由於旅途中的駕駛事件，論及了速度、時間以及記憶、歷史、遺忘等主題；以城堡為場景，穿插了美麗的愛情故事，並交織著當代與 18 世紀兩個時空……。豐富的意涵，不時流露著詼諧、諷刺及輕鬆的巧思，散發著昆德拉無窮的魅力。
+繼《不朽》這本小說之後，昆德拉 5 年間沒再寫小說。1995年初，他又出版了最新一本小說《緩慢》，再度讓讀者驚喜，讓書評家讚嘆。
+從小說名字「緩慢」兩字，就可以窺知昆德拉對「時間」質疑的企圖。他對「時間」下的定義很廣：記憶、歷史、速度、遺忘……加上書中時空交錯的呼應安排。《閱讀》（Lire）雜誌（95年 2 月）對這本書的書評標題便是：「優遊於時間之中的昆德拉。」不僅因為他對「時間」這個主題的從容揮灑安排，也因為在這本百餘頁的小說中，昆德拉在字裡行間流露他少見的詼諧、諷刺和輕鬆。
+試讀：
+http://www.crown.com.tw/crown94/07Jul/044063_1.htm</dc:description>
+        <dc:publisher>時報出版</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789571320847</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>米蘭．昆德拉</dc:subject>
+        <dc:subject>捷克</dc:subject>
+        <dc:subject>小說</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>米兰昆德拉</dc:subject>
+        <dc:subject>米兰·昆德拉</dc:subject>
+        <dc:subject>米蘭昆德拉</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;米蘭．昆德拉&quot;: &quot;&quot;, &quot;Milan Kundera&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="42" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:04+00:00" name="calibre:timestamp"/>
+        <meta content="緩慢" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

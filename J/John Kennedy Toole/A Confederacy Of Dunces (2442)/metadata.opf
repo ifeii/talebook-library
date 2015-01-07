@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60f2449c-b3c5-4aa0-bbc9-ad2772f8a466</dc:identifier>
+        <dc:title>A Confederacy Of Dunces</dc:title>
+        <dc:creator opf:file-as="John Kennedy Toole" opf:role="aut">John Kennedy Toole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-29T16:00:00+00:00</dc:date>
+        <dc:description>Released by Louisiana State University Press in 1980, A Confederacy of Dunces is nothing short of a publishing phenomenon. Rejected by countless publishers and submitted by the author's mother years after his suicide, the book won the 1981 Pulitzer Prize for fiction. Today there are almost two million copies in print worldwide in eighteen languages. Now, for the first time, John Kennedy Toole's comic masterpiece is available in a large print edition. Toole's lunatic and sage novel introduces one of the most memorable characters in American literature, Ignatius Reilly, whom Walker Percy dubs "slob extraordinaire, a mad Oliver Hardy, a fat Don Quixote, a perverse Thomas Aquinas rolled into one." Set in New Orleans, A confederacy of Dunces outswifts Swift, one of whose essays gives the book its title. As its characters burst into life, they leave the region and literature forever changed by their presence-Ignatius and his mother; Miss Trixie, the octogenarian assistant accountant at Levi Pants; inept, wan Patrolman Mancuso; Darlene, the Bourbon Street stripper with a penchant for poultry; Jones the jivecat in spaceage dark glasses. Included here is the introduction that writer and New Orleans resident Andrei Codrescu composed for the book's twentieth anniversary. Set in oversized type for ease in reading, the large print edition will gratify both first-timers seeking to discover this modern-day classic and longtime afficionados wishing to reread a favorite novel.</dc:description>
+        <dc:publisher>Louisiana State University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780807130087</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>comedy</dc:subject>
+        <dc:subject>tragicomedy</dc:subject>
+        <dc:subject>黑色幽默</dc:subject>
+        <dc:subject>Tim推荐的</dc:subject>
+        <dc:subject>commedia</dc:subject>
+        <dc:subject>robina</dc:subject>
+        <dc:subject>tragedy</dc:subject>
+        <meta content="{&quot;John Kennedy Toole&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:29:06+00:00" name="calibre:timestamp"/>
+        <meta content="Confederacy Of Dunces, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

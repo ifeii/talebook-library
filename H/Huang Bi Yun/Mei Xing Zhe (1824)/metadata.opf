@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58623c1a-84fc-4b49-81a6-5b98f62faeed</dc:identifier>
+        <dc:title>媚行者</dc:title>
+        <dc:creator opf:file-as="黃碧雲" opf:role="aut">黃碧雲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>《媚行者》是一本關於自由的小說。
+自由是甚麼意思？如果存在的話，以怎樣的處境或語言存在？
+《媚行者》也是一本關於時間和空間的小說──如果將過去重新活一次──如果再到十年前到過的城市──如果十年前的小說人物，她們還活著，沒有自殺，還活得……她們對她們的所謂人生，有甚麼感悟？
+《媚行者》並沒有解答自由。我們是從不自由而嘗試理解自由的。《媚行者》所能做到的，到後來，只是比較理解自由不是……
+《媚行者》不只是一本書，她又是一個讀書小劇場；她是一個人（她又不是作者）；她是小說又是自述；說她媚她又脾氣壞。至於說《媚行者》是一個生存遊戲，她又玩得太認真了──這種懸疑不定，她說，就是生之《媚》了。</dc:description>
+        <dc:publisher>天地圖書</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789629930691</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>黃碧雲</dc:subject>
+        <dc:subject>黄碧云</dc:subject>
+        <dc:subject>媚行者</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港文學</dc:subject>
+        <dc:subject>香港文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;黃碧雲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:25+00:00" name="calibre:timestamp"/>
+        <meta content="媚行者" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

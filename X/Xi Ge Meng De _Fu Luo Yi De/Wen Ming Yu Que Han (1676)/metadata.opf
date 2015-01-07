@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">278ce945-8cdf-4426-b4fb-cc60b038f8de</dc:identifier>
+        <dc:title>文明与缺憾</dc:title>
+        <dc:creator opf:file-as="西格蒙德·弗洛伊德" opf:role="aut">西格蒙德·弗洛伊德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-29T16:00:00+00:00</dc:date>
+        <dc:description>《文明与缺憾(英汉双语)》由西格蒙德·弗洛伊德所著，《文明与缺憾(英汉双语)》中他呈现的理论是，人类生来具有“死亡本能”，文明则歪曲了这种本能的攻击性，将可怕的负罪感强加于我们人类。弗洛伊德划时代的思想，构成了精神分析的基础，颠覆了我们对自身的认识。</dc:description>
+        <dc:identifier opf:scheme="ISBN">9787500133247</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>弗洛伊德</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>精神分析</dc:subject>
+        <dc:subject>社科</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>学术</dc:subject>
+        <dc:subject>故事</dc:subject>
+        <meta content="{&quot;西格蒙德·弗洛伊德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:20+00:00" name="calibre:timestamp"/>
+        <meta content="文明与缺憾" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

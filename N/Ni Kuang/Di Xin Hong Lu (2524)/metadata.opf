@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b7e152f-b511-4dbc-9afa-338f9a3c4181</dc:identifier>
+        <dc:title>地心洪爐</dc:title>
+        <dc:creator opf:file-as="倪匡" opf:role="aut">倪匡</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:10:30+00:00</dc:date>
+        <dc:description>南极专家张坚是卫斯理的朋友。他在南极看见一块大冰山中，有一架黑色的圆型潜艇，窗中竟闪出以摩斯密码发出的求救讯号。张坚以破冰机救出潜艇，潜艇圆盖打开，一个矮小的人向张坚招手，然后返回潜艇，飞上天空离去。
+卫斯理接受张坚的邀请，一起乘飞机往南极。途中 ，他们的飞机被潜艇中的矮子以强度磁力吸往空中基地，而这空中基地拥有毁灭世界的力量……</dc:description>
+        <dc:publisher>明窗出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789622200142</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;倪匡&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:35+00:00" name="calibre:timestamp"/>
+        <meta content="地心洪爐" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

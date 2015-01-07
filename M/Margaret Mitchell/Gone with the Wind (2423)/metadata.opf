@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c16cb190-544a-44cb-8009-575b971be792</dc:identifier>
+        <dc:title>Gone with the Wind</dc:title>
+        <dc:creator opf:file-as="Margaret Mitchell" opf:role="aut">Margaret Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-09T16:00:00+00:00</dc:date>
+        <dc:description>Margaret Mitchell's epic novel of love and war won the Pulitzer Prize and went on to give rise to two authorized sequels and one of the most popular and celebrated movies of all time.  Many novels have been written about the Civil War and its aftermath. None take us into the burning fields and cities of the American South as  Gone With the Wind  does, creating haunting scenes and thrilling portraits of characters so vivid that we remember their words and feel their fear and hunger for the rest of our lives.  In the two main characters, the white-shouldered, irresistible Scarlett and the flashy, contemptuous Rhett, Margaret Mitchell not only conveyed a timeless story of survival under the harshest of circumstances, she also created two of the most famous lovers in the English-speaking world since Romeo and Juliet.</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416548898</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>飘</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>乱世佳人</dc:subject>
+        <dc:subject>玛格丽持</dc:subject>
+        <meta content="{&quot;Margaret Mitchell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:37+00:00" name="calibre:timestamp"/>
+        <meta content="Gone with the Wind" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

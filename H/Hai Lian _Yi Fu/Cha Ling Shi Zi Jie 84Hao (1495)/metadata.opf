@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">284afd40-2f1c-4539-8d26-b5819c30abe8</dc:identifier>
+        <dc:title>查令十字街84号</dc:title>
+        <dc:creator opf:file-as="海莲·汉芙" opf:role="aut">海莲·汉芙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>这本被全球人深深钟爱的书，记录了纽约女作家海莲和一家伦敦旧书店的书商弗兰克之间的书缘情缘。双方二十年间始终未曾谋面，相隔万里，深厚情意却能莫逆于心。无论是平淡生活中的讨书买书论书，还是书信中所蕴藏的难以言明的情感，都给人以强烈的温暖和信任。这本书既表现了海莲对书的激情之爱，也反映了她对弗兰克的精神之爱。海莲的执著、风趣、体贴、率真，跳跃于一封封书信的字里行间，使阅读成为一种愉悦而柔软的经历。来往的书信被海莲汇集成此书，被译成数十种文字流传。
+译者陈建铭是台湾一位古旧书店的工作人员，他在未被出版方邀作译者之前，便凭着自己对《查令十字街84号》的热爱动手开始翻译其中的章节。
+现在世间已无查令十字街84号的旧书店，但英国文学，古本图书，伦敦巷陌，书中的这些话题仍不断激起后来者的思念和共鸣。广播、舞台和银幕也钟情于这本爱书人的掌上明珠，每年都有世界各地的书迷到伦敦查令十字街朝圣，渐渐地，《查令十字街84号》成为全球爱书人之间的一个暗号。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806579060</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>查令十字街84号</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>书信集</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>书信</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>读书</dc:subject>
+        <meta content="{&quot;海莲·汉芙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:40+00:00" name="calibre:timestamp"/>
+        <meta content="查令十字街84号" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

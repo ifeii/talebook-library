@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac23e0b7-7842-49eb-99cc-f20d45189038</dc:identifier>
+        <dc:title>China Emerging</dc:title>
+        <dc:creator opf:file-as="WU Xiao-bo" opf:role="aut">WU Xiao-bo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-29T16:00:00+00:00</dc:date>
+        <dc:description>(中文版为《激荡三十年》)
+The rise of China s economy over the past thirty years is undoubtedly one of the most remarkable events in human history. People outside China consider the country s amazing transformation a mystery. Those inside China have been challenged with a colossal task taking more than 1.3 billion people from an agrarian existence into the modern world in the face of intense conflicts of interest and complicated domestic and international economic situation. No nation ever did it before; none will ever do it again.
+This book presents, through vivid language and hundreds of photographs covering diverse aspects of Chinese society, a wide array of significant events and influential figures that have profoundly impacted the course of China s development from 1978 through 2008. Examples include the fall of the Gang of Four, the establishment of Lenovo, the country s first special economic zone, China s entry into the WTO, the Sichuan Earthquake, and the Beijing Olympic Games.</dc:description>
+        <dc:publisher>Cengage Learning Asia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789814272353</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <meta content="{&quot;WU Xiao-bo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="经济" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:58:44+00:00" name="calibre:timestamp"/>
+        <meta content="China Emerging" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

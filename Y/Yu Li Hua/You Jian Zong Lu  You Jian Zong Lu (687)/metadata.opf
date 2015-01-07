@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9352ac26-0391-4fb6-b3d3-37ebf7bbdd20</dc:identifier>
+        <dc:title>又见棕榈 又见棕榈</dc:title>
+        <dc:creator opf:file-as="於梨华" opf:role="aut">於梨华</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-24T16:00:00+00:00</dc:date>
+        <dc:description>《又見棕櫚．又見棕櫚》名列 世紀百強 第 56。作者於梨華浙江省鎮海縣人。1931年生於上海。抗日戰爭前，因父親職務的關係，舉家遷到福建省。抗日戰爭爆發後，全家開始了漫長的流浪生活，最後定居於四川省成都。抗戰勝利後，全家先回到上海，然後返回鄉下居住。1947年底因父親派到台灣接收糖廠，第二年於梨華也去台並轉學到台中女子中學。她在台中女子中學讀書時就開始了寫作，她的第一篇文章是評論沈從文的《邊城》。</dc:description>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508008752</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>於梨华</dc:subject>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>當代文學</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;於梨华&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="56" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:12+00:00" name="calibre:timestamp"/>
+        <meta content="又见棕榈 又见棕榈" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

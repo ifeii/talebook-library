@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">484ed594-7627-47e2-940f-4382289a6b4c</dc:identifier>
+        <dc:title>雪白血红</dc:title>
+        <dc:creator opf:file-as="张正隆" opf:role="aut">张正隆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-18T16:00:00+00:00</dc:date>
+        <dc:description>(子乌注：from 百度百科)
+本书描述了在解放战争期间从抗战胜利后抢占东北，到辽沈战役胜利结束这3年的历史。作者为了写这本书，跑遍大江南北，采访了上百参加战争的老兵，花了1年多的时间。与它不止赞扬了林彪高超的军事才能揭露了战争期间长春围城战等人们不知道，更不敢想的事实，语言深沉，给人以震 撼人心的力量，在当时引起了很大的社会反响。编辑出版者称，“作品突破了传统的思维定势，力图用鲜明的当代意识和深邃的哲理描写交战双方的复杂命运与斗争的结果”。从1990年第4期开始，《中流》杂志开辟“怎样看待《雪白血红》专栏，共用六期展开论争。《作品与争鸣》也在1991年第2、4期以“《雪白血红》是怎样的书”为题做了“争鸣综述”。在论争中，有读者来信认为，《雪白血红》采取的是“毋庸置疑、不许置辩地将共产党和国民党视若一丘之貉的大有问题的错误舆论导向。”（《中流》1990年第10期）第11期《中流》发表了曾见焉的文章《颇为耐人寻味的所谓“当代意识”——写在读完&lt;雪白血红&gt;之后》，在涉及对战争的看法时，文章认为《雪白血红》“无视阶级社会的客观存在，而成为脱离实际的虚幻梦呓”。在社会发展问题上，《雪白血红》“忘不了革命战争中不可避免的破坏，不承认社会主义必经的初级阶段，从而怀疑我们社会发展是否失常”。“其实，拆穿了讲，它无非是要证明：大陆不如台湾，共产党不如国民党，社会主义不如资本主义。”“对于中国的革命战争，再没有比这否定得更彻底了；对于中国的社会主义建设，再没有比这否定得更彻底了。”魏巍认为，“这个作品是这些年来自由化泛滥的一个典型表现。”</dc:description>
+        <dc:publisher>解放军出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506510486</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>辽沈战役</dc:subject>
+        <dc:subject>解放战争</dc:subject>
+        <dc:subject>报告文学</dc:subject>
+        <dc:subject>纪实</dc:subject>
+        <dc:subject>雪白血红</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;张正隆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="26" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:09+00:00" name="calibre:timestamp"/>
+        <meta content="雪白血红" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

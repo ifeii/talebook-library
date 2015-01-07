@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">855</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9c7cf0b-8bab-4593-96d9-d36834bdb057</dc:identifier>
+        <dc:title>妻妾成群</dc:title>
+        <dc:creator opf:file-as="蘇童" opf:role="aut">蘇童</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-10T16:00:00+00:00</dc:date>
+        <dc:description>《妻妾成群》名列 世紀百強 第 81。作者，蘇童，男，生於一九六三年一月，江蘇蘇州人。一九八○年考入北京師範大學中文系，一九八四年到南京工作，一度擔任《鐘山》編輯，現為中國作家協會江蘇分會駐會專業作家。一九八三年開始發表小說，迄今有作品百十萬字，其中中短篇小說集七部，長篇小說二部。目前蘇童的風頭正健，時有佳作面世。隨《妻妾成群》被著名電影導演張藝謀改編成電影《大紅燈籠高高掛》，獲奧斯卡金像獎提名，蘇童的名聲蜚聲海內外，無可爭議是青年一代作家的佼佼者。</dc:description>
+        <dc:publisher>遠流出版事業股份有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573250142</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>苏童</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>蘇童</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中國文学</dc:subject>
+        <dc:subject>当代</dc:subject>
+        <meta content="{&quot;蘇童&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="81" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:57:58+00:00" name="calibre:timestamp"/>
+        <meta content="妻妾成群" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

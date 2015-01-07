@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">841f3962-baaa-4516-9984-02ec3a138717</dc:identifier>
+        <dc:title>纯粹理性批判</dc:title>
+        <dc:creator opf:file-as="康德" opf:role="aut">康德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-30T16:00:00+00:00</dc:date>
+        <dc:description>本书是康德三大批判著作、也是其全部哲学著述中意义最为特殊和重大的巨著，它改变了整个西方哲学前进发展的方向和进程。康德花了11年的时间完成，1781年初版，1787年再版。 贯彻始终的根本指导思想就是：通过对理性本身、即人类先天认识能力的批判考察，确定它有哪些先天的、即具有普遍性和必然性的要素，以及这些要素的来源、功能、条件、范围和界限，从而确定它能认识什么和不能认识什么，在这基础上对形而上学的命运和前途作出最终的判决和规定，其使命是为真正的、作为科学的形而上学提供坚实可靠的基础。全书约有40余万字，除了序言和一个总的导言外，分为“先验要素论”和“先验方法论” 。中译本是直接从德文原本由邓晓芒翻译、杨祖陶校订，其译文精良，堪称佳作。书后还附有德汉术语索引、汉德术语对照以及人名索引，方便使用。</dc:description>
+        <dc:publisher>人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787010040592</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>康德</dc:subject>
+        <dc:subject>纯粹理性批判</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>古典哲学</dc:subject>
+        <dc:subject>理性</dc:subject>
+        <meta content="{&quot;康德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:33+00:00" name="calibre:timestamp"/>
+        <meta content="纯粹理性批判" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

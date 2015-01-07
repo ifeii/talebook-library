@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f5bd3b5-b8a9-45ef-82cd-015efa088cd2</dc:identifier>
+        <dc:title>忏悔录（第一部）</dc:title>
+        <dc:creator opf:file-as="卢梭" opf:role="aut">卢梭</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-07-31T16:00:00+00:00</dc:date>
+        <dc:description>卢梭的这部自传是这个世界上一切自传作品中最有价值的一部，整个自传是在颠沛流离的逃亡生活中断断续续完成的，是一个激进的平民思想家与反动统治激烈冲突的结果，是一个平民知识分子在封建专制压迫面前维护自己不仅是作为一个人、更重要的是作为一个普通人的人权和尊严的作品，是对统治阶级迫害和污蔑的反击。他在书中的确以真诚坦率的态度讲述了他自己的全部生活和思想感情、性格人品的各个方面，充满了平民的自信、自重和骄傲，是一部最活生生的个性解放的宣言书，坦率和真诚达到了令人想象不到的程度，这使它成了文学史上的一部奇书。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100025355</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卢梭</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>忏悔录</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>法国文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;卢梭&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="44" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:18+00:00" name="calibre:timestamp"/>
+        <meta content="忏悔录（第一部）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

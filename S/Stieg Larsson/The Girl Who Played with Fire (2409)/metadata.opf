@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">031b7b7b-86fd-437f-9cfc-7174035572be</dc:identifier>
+        <dc:title>The Girl Who Played with Fire</dc:title>
+        <dc:creator opf:file-as="Stieg Larsson" opf:role="aut">Stieg Larsson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-27T16:00:00+00:00</dc:date>
+        <dc:description>Mikael Blomkvist, crusading journalist and publisher of the magazine  Millennium,  has decided to run a story that will expose an extensive sex trafficking operation between Eastern Europe and Sweden, implicating well-known and highly placed members of Swedish society, business, and government.
+
+But he has no idea just how explosive the story will be until, on the eve of publication, the two investigating reporters are murdered. And even more shocking for Blomkvist: the fingerprints found on the murder weapon belong to Lisbeth Salander—the troubled, wise-beyond-her-years genius hacker who came to his aid in  The Girl with the Dragon Tattoo,  and who now becomes the focus and fierce heart of  The Girl Who Played with Fire. 
+
+As Blomkvist, alone in his belief in Salander’s innocence, plunges into an investigation of the slayings, Salander herself is drawn into a murderous hunt in which she is the prey, and which compels her to revisit her dark past in an effort to settle with it once and for all.</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307269980</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>瑞典</dc:subject>
+        <dc:subject>Stieg_Larsson</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>千禧三部曲</dc:subject>
+        <dc:subject>StiegLarsson</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <meta content="{&quot;Stieg Larsson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:23+00:00" name="calibre:timestamp"/>
+        <meta content="Girl Who Played with Fire, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

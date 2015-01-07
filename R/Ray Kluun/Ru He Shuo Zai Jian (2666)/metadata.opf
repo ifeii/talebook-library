@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05795277-ee0e-4385-8846-f910822da1f5</dc:identifier>
+        <dc:title>如何说再见</dc:title>
+        <dc:creator opf:file-as="Ray Kluun" opf:role="aut">Ray Kluun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-09T16:00:00+00:00</dc:date>
+        <dc:description>17岁时，他会讲德语跟英语，还会开车和游泳，说得出南美洲每一国的首都。
+27岁时，她可以连喝二十杯啤酒业不会吐，可以倒挂金钩传球给左后卫腿也不断。
+但直到37岁，太太得了不治之症，雍容大方离去，他才发现，自己不会说再见。
+幸福的列车骤然脱轨，他以为他能够麻醉和忘却。可是生活却变得越来越糟。
+谁能带他重回起点，寻找自我？
+一次大手牵小手的澳洲旅行，一段父女相依的温馨时光，翻开阳光灿烂的新一页。
+终有一天，我们都要学会说再见，对无法改变的事实，对不得不黯然逝去的时间，对喜爱的衣饰，对珍贵的友人，然后，是终将消逝的生命。
+原来，这不是结束，而是下一程的开始。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6d81acdc-7b4b-4403-8a52-ed551eab525f</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508617657</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>如何说再见</dc:subject>
+        <dc:subject>荷兰</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>瑞·科伦</dc:subject>
+        <dc:subject>父女</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>瑞‧科倫</dc:subject>
+        <meta content="{&quot;Ray Kluun&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:59+00:00" name="calibre:timestamp"/>
+        <meta content="如何说再见" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

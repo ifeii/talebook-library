@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">967a647c-8d76-4f80-930a-a757a91dce94</dc:identifier>
+        <dc:title>鬼吹灯全集</dc:title>
+        <dc:creator opf:file-as="天下霸唱" opf:role="aut">天下霸唱</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-17T04:00:00+00:00</dc:date>
+        <dc:description>盗墓者的经历。作者天下霸唱,原名张牧野,就是这样一个系列形式的文字冒险故事,三位当代“摸金校尉”(盗墓贼),利用风水秘术,解读天下大山大川的脉搏,寻找那些失落在大地上的一处处龙楼宝殿,沙漠、雪山、森林、峡谷、急流、草原、鲜为人知的神秘动植物,危机四伏的陷阱,步步惊心,环环紧扣,超越极限与想象力的挑战,在离奇诡异的地下世界中,揭开一层层远古的神秘面纱,故事由一本主人公家中传下来的秘书残卷为引,纵横天下千里寻龙,历尽艰难险阻,毕竟那些龙形虎藏、揭天拔地、倒海翻江的举动,都迥异庸俗,昆仑山大冰川下的九层妖楼,中蒙边境野人沟中的关东军秘密要塞,消失在塔克拉玛干黑沙漠中的精绝古城,神山无底洞中的尸香魔芋花,云南丛林中的虫谷妖棺,西藏喀喇昆仑山中的古格王朝无头洞,陕西的龙岭迷窟......</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">daab91e9-84e0-42cb-9977-31b1a150167c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>恐怖·科幻</dc:subject>
+        <meta content="{&quot;天下霸唱&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T11:28:01.635020+00:00" name="calibre:timestamp"/>
+        <meta content="鬼吹灯全集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

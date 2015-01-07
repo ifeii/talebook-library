@@ -1,45 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1249</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">0cf12115-b0aa-46c3-9b93-93859661b9aa</dc:identifier>
         <dc:title>风声·雨声·读书声</dc:title>
         <dc:creator opf:file-as="朱学勤" opf:role="aut">朱学勤</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.25) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-01-25T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;h2 style="font-size: 14px; "&gt;&lt;span class="Apple-style-span" style="font-size: 14px; font-weight: normal; "&gt;本书记载了作者带着“问题意识”问学十年的心路历程，既有甘坐冷板凳写出的学术文章，也有破门而出，剑锋直指时代命题的短论，书评，在一束
-意气风发的论述中，蕴涵着“笑着的”、“叫着的”、“哭着的”深度思想拷问。这些学理层面的思索，笔端常带感情，反映了一个思想史学者的真知灼见和对国
-家、民族命运的热切关注，对精神生命的自我淘洗和执著追求，在浮躁蔽日的当下显得弥足珍贵。&lt;/span&gt;&lt;/h2&gt;&lt;div class="indent" id="link-report" style="font-size: 14px; "&gt;
-
-    
-
-
-
-&lt;div style="visibility: hidden;" class="report"&gt;&lt;a rel="nofollow" href="http://book.douban.com/subject/5325877/#"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-
-
-  
-
-
-
-
-
-
-    
-    
-  
-  &lt;h2 style="font-size: 14px; "&gt;作者简介&lt;/h2&gt;&lt;h2 style="font-size: 14px; "&gt;&lt;span class="Apple-style-span" style="font-weight: normal; "&gt;朱学勤，1952年9月出生于上海市，复旦大学历史学博士，1997年至1998年哈佛大学访问学者，现为上海大学历史系教授。著有《道德
-理想国的覆灭——从卢梭到罗伯斯庇尔》、《中国与欧洲文化交流志》、《风声·雨声·读书声》、《被遗忘与被批评的》，《思想史上的失踪者》等。&lt;/span&gt;&lt;/h2&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-29T16:00:00+00:00</dc:date>
+        <dc:description>本书记载了作者带着“问题意识”问学十年的心路历程，既有甘坐冷板凳写出的学术文章，也有破门而出，剑锋直指时代命题的短论，书评，在一束意气风发的论述中，蕴涵着“笑着的”、“叫着的”、“哭着的”深度思想拷问。这些学理层面的思索，笔端常带感情，反映了一个思想史学者的真知灼见和对国家、民族命运的热切关注，对精神生命的自我淘洗和执著追求，在浮躁蔽日的当下显得弥足珍贵。</dc:description>
+        <dc:publisher>中国人民大学出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787300127118</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:SGSW</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>朱学勤</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>思想史</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>政治哲学</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
         <meta content="{&quot;朱学勤&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="随笔" name="calibre:series"/>
         <meta content="32" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2013-01-25T18:50:31+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:28+00:00" name="calibre:timestamp"/>
         <meta content="风声·雨声·读书声" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: &quot;随笔&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>

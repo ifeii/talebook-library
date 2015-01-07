@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7462d982-aaae-4fdf-8ec7-35bbf81cf910</dc:identifier>
+        <dc:title>One Billion Customers</dc:title>
+        <dc:creator opf:file-as="James McGregor" opf:role="aut">James McGregor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-14T16:00:00+00:00</dc:date>
+        <dc:description>It is well known that with 1.3 billion mouths to feed, China’s market is moving quickly toward surpassing North America and Europe combined. Companies from the U.S. and across the globe are flocking there to buy, sell, manufacture and create new products. But as former The Wall Street Journal China bureau chief turned successful corporate executive James McGregor explains, business in China is conducted with much subterfuge -- nothing is as it seems and nothing about business in China is easy.
+Quickly becoming the bible for anybody doing business in China, One Billion Customers shows how to navigate the often treacherous waters of Chinese deal making. Brilliantly written by an author who has lived in China for nearly two decades, the book reveals indispensable, street-smart strategies, tactics, and lessons for succeeding in the world’s fastest growing consumer market. Foreign companies rightly fear that Chinese partners, customers or suppliers will steal their technology or trade secrets or simply pick their pockets. Testy relations between China’s Communist leaders and the U.S. and other democracies can trap foreign companies in a political crossfire. McGregor has seen or experienced it all, and now he shares his insights about how China really works.
+One Billion Customers maximizes the expansive knowledge of a respected journalist, well-known businessman, and ultimate China insider, offering compelling narratives of personalities, business deals, and lessons learned—from Morgan Stanley’s creation of a joint-venture Chinese investment bank to the pleasure dome of a smuggler whose $6 billion operation demonstrates how corruption greases the wheels of Chinese commerce. With nearly one hundred strategies for conducting business in China, this unprecedented account combines practical lessons with the story of China’s remarkable rise to power.</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743258418</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国现状分析</dc:subject>
+        <dc:subject>十亿消费者</dc:subject>
+        <dc:subject>纪实</dc:subject>
+        <dc:subject>外国记者</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <meta content="{&quot;James McGregor&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="经济" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:30+00:00" name="calibre:timestamp"/>
+        <meta content="One Billion Customers" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

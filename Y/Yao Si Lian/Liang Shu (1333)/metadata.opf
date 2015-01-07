@@ -6,16 +6,23 @@
         <dc:title>梁书</dc:title>
         <dc:creator opf:file-as="姚思廉" opf:role="aut">姚思廉</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-01-15T16:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>清乾隆三十七年，乾隆皇帝弘历下诏，开四库全书馆，次年敕修“四库全书”。自唐宋以后，历代王朝便形成了收集编纂典籍的传统，唐代有《艺文类聚》、《北堂书抄》，宋代有《太平御觉》、《册府元龟》，特别是明代永乐年间编纂的《永乐大典》，共二万二千九百三十七卷，收入图书七八千种，堪称鸿篇巨制。清朝康熙、雍正年间，清王朝又编纂了《古今图书集成》一万卷。到了清乾隆年间，安徽学政朱筠以为《永乐大典》收录图书未为尽全，因此上书建议向民间广泛征求佚书，同时，设立专门机构，对翰林院所藏《永乐大典》进行校辑。于是，乾隆皇帝下诏开设四库全书馆，委派纪昀等著名学者一百六十余人，开始编纂《四库全书》。 
+编纂《四库全书》首先是在全国范围内征集图书，从乾隆三十七年开馆征书，至乾隆四十三年，历时七年，共征集图书一万二千二百三十七种；然后是整理图书，由四库馆臣对内府藏书以及从各地征集的图书进行校订，提出应抄、应刻、应存的具体意见。其中，应抄、应刻之书被认为是合格的著作，被收入《四库全书》，而应存之书则不能收入四库全书，仅仅是在《四库全书总目》中存目。《四库全书》分为经史子集四部，收入图书三千四百五十七种，凡七万九千零七十卷，装订成三万六千余册，六千七百五十二函。成为中国历史上卷帙最多的一部著作。 
+本书的出版发行无论是对于历史文献的研究整理，还是对于中国古代历史与思想文化的研究，其积极意义都是不言而喻的。同时，由于《四库全书荟要》本来就是书中精品，再辅之以现代的印刷技术，这套书也理所当然地应该成为大小图书馆和个人收藏的珍品。
+本书为四库全书之一，四库全书分为经史子集四部，收入图书三千四百五十七种，凡七万九千零七十卷，装订成三万六千余册，六千七百五十二函。本册为梁书影印本。</dc:description>
+        <dc:publisher>吉林出版集团</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807200253</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>历史</dc:subject>
+        <dc:subject>二十四史</dc:subject>
+        <dc:subject>社会</dc:subject>
         <meta content="{&quot;姚思廉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:57:59.375771+00:00" name="calibre:timestamp"/>
+        <meta content="2014-08-22T16:03:48+00:00" name="calibre:timestamp"/>
         <meta content="梁书" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

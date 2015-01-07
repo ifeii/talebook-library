@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">879d1825-a124-40e1-add1-64e5d6b0f600</dc:identifier>
+        <dc:title>癌人</dc:title>
+        <dc:creator opf:file-as="王晋康" opf:role="aut">王晋康</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-30T16:00:00+00:00</dc:date>
+        <dc:description>王晋康科幻精品集。
+    PPG药业公司总裁约翰·罗伯逊为了8000亿美元的利润和给患肝坏死的妻子置换人的肝脏，在生物学家保罗不知情的情况下，使用保罗去世的祖母的癌细胞克隆了一个黑人女孩儿海拉。孕育海拉的是约翰的女儿苏玛。海拉的生长速度是常人的2倍，而且器官有再生能力。器官盗卖都盯上了她的器官，而“保护人类纯洁组织”却视其为异类，欲将其置于死地。虽然保罗和苏玛带着海拉躲进了深山，但海拉最终未能逃脱器官盗卖者的魔掌。海拉用自己的特异功能杀死了盗割自己肾脏的凶手。约翰的妻子最终未能换上海拉的肝脏。为了避免“癌人”引起更大的社会矛盾，FBI策划了一场针对海拉的爆炸。但在亲人的帮助下，海拉逃到了巴西，并在亚马孙密林的地下建立了自己的王国。她用克隆技术克隆了很多“小海拉”，并通过孤儿院将这些婴儿带到亲人的附近。然而，FBI并没有放过她……</dc:description>
+        <dc:publisher>河南人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787215052598</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>王晋康</dc:subject>
+        <dc:subject>克隆</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>N3</dc:subject>
+        <dc:subject>Z2</dc:subject>
+        <dc:subject>幻想</dc:subject>
+        <dc:subject>赵日日</dc:subject>
+        <meta content="{&quot;王晋康&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:09+00:00" name="calibre:timestamp"/>
+        <meta content="癌人" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54807588-cb78-42e7-acb5-96b1dc5b1159</dc:identifier>
+        <dc:title>殺人時計館</dc:title>
+        <dc:creator opf:file-as="綾辻行人" opf:role="aut">綾辻行人</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>『這本推理小說真厲害！』1992年度TOP 20！
+周刊文春年度十大推理小說！偵探小說研究會本格推理BEST 100！
+【日本推理小說之神】島田莊司‧【日本的艾勒里昆恩】有栖川有栖◎專文推薦
+【推理評論家】傅博◎系列導讀 【推理評論家】杜鵑窩人◎本書導讀
+李昂·既晴·楊照◎三大名家聯合推薦
+李昂：『《殺人時計館》的密室連環殺人好看，但真正深刻打動我的心的是真相大白時，發現可以為了一份痴迷的愛，做了如此全然料想不到的創舉。』
+既晴：『《殺人時計館》彷彿總令人感覺身處靜謐甚至凝凍的空氣中，耳邊不停傳來細微卻擾動神經的鐘錶齒輪聲，眼前霎然出現了造型怪誕、構造複雜的異度空間一般。』
+楊照：『綾辻行人直接面對時間的挑戰，構畫了一套近乎不可思議的時間騙局，看透了時間的人，想要用時間來瞞騙命運。這樣艱難卻又有趣的主題，在綾?行人筆下寫活了。』
+杜鵑窩人：『這本書中既有「暴風雨山莊」、「敘述性詭計」、「不在場證明」、「密室殺人」、「不可能的殺人」，又有「機械性密室」和「迷宮」等等各式各樣的推理詭計和場景設計來「招待」這本小說的讀者。』
+滴……答……鮮血隨著指針流淌，誰在倒數計時？
+噹……噹……千萬次的復仇鐘響，一個也別想逃！
+位於鐮倉秘境、收藏了上百個古鐘的時計館是鐘錶製造商會的總裁所擁有。傳說十年前總裁獨生女自殺後，她的幽魂還常徘徊在館中無指針的鐘塔！
+介紹心靈感應、超人能力的『混沌』雜誌籌備一項計畫：向時計館的亡魂挑戰！於是雜誌編輯江南，帶著攝影記者，還有推理研究會的幾名學生，找來了極富盛名的美女招魂師光明寺，去探訪這棟詭異的建築物。
+沒想到第一次招魂會後光明寺就失蹤了！在大家的猜測聲中，恐懼不已而躲回房間的推理會員早紀子，忽然想起十年前遇見的美少女，難道就是館主的女兒嗎？但她無法再繼續想下去了──因為有一個黑影拿著沉重的座鐘，高高地舉起兩隻手臂，朝她臉上砸了下來……</dc:description>
+        <dc:publisher>皇冠文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573322344</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>綾辻行人</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>绫辻行人</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本推理</dc:subject>
+        <dc:subject>馆系列</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <meta content="{&quot;綾辻行人&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:01+00:00" name="calibre:timestamp"/>
+        <meta content="殺人時計館" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

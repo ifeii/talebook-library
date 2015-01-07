@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">582f12e2-cb75-4fd4-92f3-881ca54f1b9c</dc:identifier>
+        <dc:title>与神对话（第一卷）</dc:title>
+        <dc:creator opf:file-as="尼尔·唐纳德·沃尔什" opf:role="aut">尼尔·唐纳德·沃尔什</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-26T16:00:00+00:00</dc:date>
+        <dc:description>尼尔•唐纳德•沃尔什撰写的《与神对话》丛书共有九部作品，第一部是1995年在美国出版的《与神对话》（第一卷）。该书出版之后，很快成为年度最畅销的图书之一，连续占据《纽约时报》畅销书排行榜137周，是历年来该排行榜在榜时间最长的非虚构类作品。该丛书其他作品也都曾登上这个排行榜。
+在接受美国著名电视主持人拉里•金（Larry King）的采访时，尼尔•唐纳德•沃尔什谈到了创造这套书的缘起：1992年前后，陷入人生谷底的沃尔什愤怒地给上帝写信，问了许多关于他的生活为何如此悲惨的问题。写下问题之后，他听到有个来自右边的声音说：“你真的想知道所有这些问题的答案吗？或者只是在发泄而已？”沃尔什转过头，却看不到人影。他感到脑海中充满了那些问题的答案，于是决定将它们写出来。这场旷日持久的对话最终变成了《与神对话》丛书。
+九部作品分别为：《与神对话》（全三卷）、《与神为友》、《与神团聚》、《与神对话•青春版》、《新启示录》、《明日之神》、《与神归家》。
+本书是《与神对话》（第一卷）</dc:description>
+        <dc:publisher>上海书店出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787545801026</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>与神对话</dc:subject>
+        <dc:subject>心灵</dc:subject>
+        <dc:subject>尼尔·唐纳德·沃尔什</dc:subject>
+        <dc:subject>灵修</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>宗教</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <meta content="{&quot;尼尔·唐纳德·沃尔什&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:55+00:00" name="calibre:timestamp"/>
+        <meta content="与神对话（第一卷）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

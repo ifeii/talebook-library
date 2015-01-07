@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99465594-cbae-4add-9ac2-3d3922e1e39c</dc:identifier>
+        <dc:title>喧哗与骚动</dc:title>
+        <dc:creator opf:file-as="威廉·福克纳" opf:role="aut">威廉·福克纳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《喧哗与骚动(译文名著精选)》是福克纳第一部成熟的作品，也是作家花费心血最多、本人最喜欢的小说。小说讲述的是南方没落地主康普生一家的家族悲剧。老康普生游手好闲、嗜酒贪杯，其妻自私冷酷、怨天尤人。长子昆丁绝望地抱住南方所谓的旧传统不放，因妹妹凯蒂风流成性、有辱南方淑女身份而恨疚交加，竟至溺水自杀。次子杰生冷酷贪婪，三子班吉则是个白痴，三十三岁时只有三岁小儿的智能。《喧哗与骚动(译文名著精选)》通过这三个儿子的内心独白，围绕凯蒂的堕落展开，最后则由黑人女佣迪尔西对前三部分的“有限视角”作一补充，归结全书。小说大量运用多视角叙述方法及意识流手法，是意识流小说乃至整个现代派小说的经典名著。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532753710</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A4SBV0G</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>福克纳</dc:subject>
+        <dc:subject>意识流</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>威廉·福克纳</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;威廉·福克纳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:34:59+00:00" name="calibre:timestamp"/>
+        <meta content="喧哗与骚动" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebb2e628-2d58-4fce-a6ef-4460be9518b8</dc:identifier>
+        <dc:title>中国通史</dc:title>
+        <dc:creator opf:file-as="吕思勉" opf:role="aut">吕思勉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是吕思勉先生史学论著之一，完成于1939年，分上、下两册。上册分门别类地叙述社会经济制度、政治制度和文化学术的发展情况，内容包括婚姻、族制、政体、阶级、财产、官制、选举、赋税、兵制、刑法、实业、货币、衣食、住行、教育、语文、学术、宗教等十八类；下册按历史顺序叙述了政治历史的变革。本书此次列入《吕思勉文集》出版，以上海开明书店的初版为底本，吸收了杨宽、吕翼仁先生的校订成果，将原书的繁体直排夹注，改为繁体横排夹注，同时尽量保留了著作的原貌。</dc:description>
+        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">97b51f93-f2d0-48d8-a289-61922a23d14a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532552795</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>吕思勉</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>中国通史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>通史</dc:subject>
+        <dc:subject>国史</dc:subject>
+        <meta content="{&quot;吕思勉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:20+00:00" name="calibre:timestamp"/>
+        <meta content="中国通史" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

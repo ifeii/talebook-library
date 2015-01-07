@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18698ac8-ce6c-427e-8f6e-b16189d7b675</dc:identifier>
+        <dc:title>日本四大推理奇书之黑死馆杀人事件</dc:title>
+        <dc:creator opf:file-as="小栗虫太郎" opf:role="aut">小栗虫太郎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-21T05:00:00+00:00</dc:date>
+        <dc:description>《黑死馆杀人事件》是小栗虫太郎创作风格的缩影,可以在这里找到他全部的风格和特点。这毫无疑问是小栗最伟大的作品,也是小栗浓缩全部心血的集大成之作。在这部作品的前后,小栗也经常在自己的其他作品中提到《黑死馆杀人事件》。
+  《黑死馆杀人事件》其实是一部非常本格的作品,但是却带有小栗虫太郎自身的许多特点,因此不熟悉他的人总认为这并非是一个作家在写自己想要的纯本格推理小说。小栗虫太郎的作品以大量知识堆砌的炫学的成分著称,但炫学的大部分内容都与诡计设计、凶案过程以及推理解答密切相关,那些复杂难解、光怪陆离的反推理成分,都被完全本格的主线运用着,这是《姑获鸟之夏》和《玫瑰之名》所完全不具备的特点。严格来说,《黑死馆杀人事件》是一部体现小栗虫太郎本格作家身份的最杰出的代表作!</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c8e6cc89-1442-49d7-96ce-131d5e0063d8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>恐怖·悬疑</dc:subject>
+        <meta content="{&quot;小栗虫太郎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T11:28:23.145125+00:00" name="calibre:timestamp"/>
+        <meta content="日本四大推理奇书之黑死馆杀人事件" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

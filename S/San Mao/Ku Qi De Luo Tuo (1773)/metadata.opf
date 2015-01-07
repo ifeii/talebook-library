@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03699012-4883-4597-a6d1-1641a2c092bd</dc:identifier>
+        <dc:title>哭泣的骆驼</dc:title>
+        <dc:creator opf:file-as="三毛" opf:role="aut">三毛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-31T16:00:00+00:00</dc:date>
+        <dc:description>在《哭泣的骆驼》中，三毛依然恋恋着墨沙漠生活周遭的人与事，《收魂记》、《搭车客》、《逍遥七岛游》、《一个陌生人的死》、《大胡子与我》等篇，情趣盎然；《沙巴军曹》与《哑奴》所刻画的主角，给人留下了难以磨灭的印象；而压轴的《哭泣的骆驼》，以游击战事为背景，细细铺写一对沙漠情鸳的生死盟，竟犹如史诗般的磅礴。</dc:description>
+        <dc:publisher>哈尔滨出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806399071</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7dfeed11-5cdb-4829-a6e9-c8507be22582</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>三毛</dc:subject>
+        <dc:subject>哭泣的骆驼</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>流浪</dc:subject>
+        <dc:subject>游记</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>沙漠</dc:subject>
+        <meta content="{&quot;三毛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:41+00:00" name="calibre:timestamp"/>
+        <meta content="哭泣的骆驼" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

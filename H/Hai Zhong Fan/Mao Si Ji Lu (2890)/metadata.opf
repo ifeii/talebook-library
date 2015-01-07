@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b7d6de6-da93-4f6d-b57d-910c6cabc00a</dc:identifier>
+        <dc:title>冒死记录</dc:title>
+        <dc:creator opf:file-as="海中帆" opf:role="aut">海中帆</dc:creator>
+        <dc:creator opf:file-as="海中帆" opf:role="aut">张海帆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《冒死纪录》讲述了一个普通的公司职员．无意间发现了自己背上有一块正在迅速消失的蓝斑之后，他的生活方式完全改变了，整个世界不再是他眼中原来的轮廓，强悍的对手、巨大的神秘组织似乎无孔不入．这一切就在你我的身边……也许你的一个不经意的举动，却揭开了巨大黑幕的一角，黑幕后是怎样的一个世界?看似结束的背后．另一个故事却突然展开……党醒、挣扎、迷失……所有的命运起始于三十多年前的一个人身上……一切都那么真实，一切都那么匪夷所思。</dc:description>
+        <dc:publisher>花山文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807550167</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">bfb0d8d9-4a1b-47ff-b723-9ee87778c8ec</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>冒死记录</dc:subject>
+        <dc:subject>太岁</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>海中帆</dc:subject>
+        <meta content="{&quot;张海帆&quot;: &quot;&quot;, &quot;海中帆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:59+00:00" name="calibre:timestamp"/>
+        <meta content="冒死记录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

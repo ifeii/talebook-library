@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a63cd56b-6cf9-45e0-bc7f-cf06e874c87a</dc:identifier>
+        <dc:title>将军底头</dc:title>
+        <dc:creator opf:file-as="施蛰存" opf:role="aut">施蛰存</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-12T16:00:00+00:00</dc:date>
+        <dc:description>《將軍底頭》名列 世紀百強 第 93。作者施蟄存(1905-2003年11月19日)，三十年代著名小說家，其創作曾被呼之為「新感覺派」，作家也被歸入與劉吶鷗、穆時英並列的「海派」。但確實地說，他當時的作品稱為「心理分析小說」更為恰當，代表作包括以都市為背景的《梅雨之夕》及以歷史為背景的《將軍底頭》等。他曾評價自己的小說「把心理分析、意識流、蒙太奇等各種新興的創作方法，納入了現實主義的創作軌道」，由此對中國小說發展作出了貢獻，是有道理的。</dc:description>
+        <dc:publisher>上海书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787805690223</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>施蟄存</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>现代文学</dc:subject>
+        <dc:subject>海派小说</dc:subject>
+        <dc:subject>施蛰存</dc:subject>
+        <dc:subject>中国现当代文学</dc:subject>
+        <dc:subject>海派</dc:subject>
+        <meta content="{&quot;施蛰存&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="93" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:18+00:00" name="calibre:timestamp"/>
+        <meta content="将军底头" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

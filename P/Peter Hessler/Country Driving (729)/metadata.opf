@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ede9e3c-c0fa-467c-8bbe-774e4d36389b</dc:identifier>
+        <dc:title>Country Driving</dc:title>
+        <dc:creator opf:file-as="Peter Hessler" opf:role="aut">Peter Hessler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-08T16:00:00+00:00</dc:date>
+        <dc:description>From the bestselling author of  Oracle Bones  and  River Town  comes the final book in his award-winning trilogy, on the human side of the economic revolution in China.       In the summer of 2001, Peter Hessler, the longtime Beijing correspondent for  The New Yorker , acquired his Chinese driver's license. For the next seven years, he traveled the country, tracking how the automobile and improved roads were transforming China. Hessler writes movingly of the average people—farmers, migrant workers, entrepreneurs—who have reshaped the nation during one of the most critical periods in its modern history.      Country Driving  begins with Hessler's 7,000-mile trip across northern China, following the Great Wall, from the East China Sea to the Tibetan plateau. He investigates a historically important rural region being abandoned, as young people migrate to jobs in the southeast. Next Hessler spends six years in Sancha, a small farming village in the mountains north of Beijing, which changes dramatically after the local road is paved and the capital's auto boom brings new tourism. Finally, he turns his attention to urban China, researching development over a period of more than two years in Lishui, a small southeastern city where officials hope that a new government-built expressway will transform a farm region into a major industrial center.     Peter Hessler, whom  The Wall Street Journal  calls "one of the Western world's most thoughtful writers on modern China," deftly illuminates the vast, shifting landscape of a traditionally rural nation that, having once built walls against foreigners, is now building roads and factory towns that look to the outside world.</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061804090</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>PeterHessler</dc:subject>
+        <dc:subject>当代中国</dc:subject>
+        <dc:subject>游记</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>外國人看中国</dc:subject>
+        <dc:subject>旅行</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>何伟</dc:subject>
+        <meta content="{&quot;Peter Hessler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="游记/Jounrey" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:37+00:00" name="calibre:timestamp"/>
+        <meta content="Country Driving" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2434</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efb3297d-f3ef-4ae8-82b0-03794377b720</dc:identifier>
+        <dc:title>The Executioner's Song</dc:title>
+        <dc:creator opf:file-as="Mailer, Norman" opf:role="aut">Mailer, Norman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-30T16:00:00+00:00</dc:date>
+        <dc:description>Norman Mailer's Pulitzer Prize-winning and unforgettable classic about convicted killer Gary Gilmore now in a brand-new edition. 
+
+Arguably the greatest book from America's most heroically ambitious writer, THE EXECUTIONER'S SONG follows the short, blighted life of Gary Gilmore who became famous after he robbed two men in 1976 and killed them in cold blood. After being tried and convicted, he immediately insisted on being executed for his crime. To do so, he fought a system that seemed intent on keeping him alive long after it had sentenced him to death. And that fight for the right to die is what made him famous.
+
+Mailer tells not only Gilmore's story, but those of the men and women caught in the web of his life and drawn into his procession toward the firing squad. All with implacable authority, steely compassion, and a restraint that evokes the parched landscape and stern theology of Gilmore's Utah. THE EXECUTIONER'S SONG is a trip down the wrong side of the tracks to the deepest source of American loneliness and violence. It is a towering achievement-impossible to put down, impossible to forget.</dc:description>
+        <dc:publisher>Warner Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446584388</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>普利策奖</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <meta content="{&quot;Mailer, Norman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:58+00:00" name="calibre:timestamp"/>
+        <meta content="Executioner's Song, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

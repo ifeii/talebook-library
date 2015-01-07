@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">192e78c2-873a-4c42-908f-491fd6ebd7d6</dc:identifier>
+        <dc:title>佛祖在一号线</dc:title>
+        <dc:creator opf:file-as="李海鹏" opf:role="aut">李海鹏</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>千呼万唤的李海鹏首部专栏集，中国当下最好的专栏作家之一。
+本书是著名新闻人和评论人李海鹏在《第一财经周刊》、《南方周末》和《智族GQ》上的专栏集结。涉及社会、经济、文化、生活的时评和杂文。语言睿智幽默、见解险直犀利，让民众听到一种最清醒有力的声音。
+李海鹏的身份并不是作为《南方周末》的高级记者记，或者《第一财经周刊》的专栏名家，或者《GQ》的专题总监而被大家记住的，他被人尊敬和认识，是因为他近乎天真的对自由的执着，对伟大社会成形的关注及焦心。抽丝剥茧的分析，吹毛断发的文字，掷地成声的观点，恣肆放达的叙述，这些都注满了李海鹏的所有文章，其间到处安放着才情、思想、和对自由美好世界的向往，以至于除此之外，他几乎一无所有了。
+图书品牌：磨铁——文治图书
+请海鹏写专栏是《第一财经周刊》做的最好的决定之一。很多时候我们怯于表达，海鹏有勇气；很多时候我们的表达不够准确，海鹏对语言和逻辑的把握让他的文字充满力量；最关键的是，海鹏的优雅和从容，于是有了我们这个时代最值得阅读的文字。
+——伊险峰 《第一财经周刊》执行总编
+海鹏把第一篇专栏《台风》给我时，不确定地说“不知道是不是GQ要的”。至今我都很感谢他，那篇专栏是我第一次看到他回望内心的写作，感受到他“手指触及真理核心时的极度快感”，那声音好古怪。我想，这些细碎、微妙、不经意又很本质的描述，才是生命最原本的光辉啊。
+——王锋 《智族GQ》编辑总监
+在世界到处是光的今天，我们缺少另一种光。李海鹏的书像一颗小钻石，清醒、隐蔽，光芒四射。
+——马莉 诗人、画家、《南方周末》高级编辑
+无论作为记者还是专栏作家，李海鹏都长于发现无所不在的荒诞，但他文字的底色是悲悯，悲民生之多艰，悲世人昏庸而不自知。因此他刻薄、幽默、不羁却温热。汉语被他如此高妙自如地运用，像一个狡黠而骄傲的小男孩把玩他心爱的弹弓。
+——杨瑞春 《中国新闻周刊》执行主编</dc:description>
+        <dc:publisher>文化艺术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787503945434</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>李海鹏</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>南方周末</dc:subject>
+        <dc:subject>专栏</dc:subject>
+        <dc:subject>杂文随笔</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;李海鹏&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:36+00:00" name="calibre:timestamp"/>
+        <meta content="佛祖在一号线" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

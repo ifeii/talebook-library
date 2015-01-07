@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ab38335-58d9-4d2f-991f-8eb1446dd5e1</dc:identifier>
+        <dc:title>彼岸书</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-06T16:00:00+00:00</dc:date>
+        <dc:description>啪哒。&#13;
+&#13;
+    什么东西落在我身后的地板上，发出轻微的响声，似乎还弹了一下，又滚动了一阵子才停下来。&#13;
+&#13;
+    坐在对面的李颜不经意地扫过一眼，脸色忽然僵住，隔着一张茶几都能看到他放大的瞳孔直勾勾地盯着我身后的地板。&#13;
+&#13;
+    完了。坏事了。&#13;
+&#13;
+    我心里暗骂，脸上不动声色：“怎么了？”一边也转过头看去。&#13;
+&#13;
+    大理石的地板上，静静停着一颗乳白色的圆球，上面粘着些许粘液，后面还拖着一根短短的神经。这只眼球毫无生气地停在那里，黯淡的瞳孔正直直地对着我们两个。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>耽美·同人</dc:subject>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-07-16T14:11:49+00:00" name="calibre:timestamp"/>
+        <meta content="彼岸书" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

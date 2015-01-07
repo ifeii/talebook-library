@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fec021f-24d1-4534-83ee-2695df5b3a2b</dc:identifier>
+        <dc:title>上海往事</dc:title>
+        <dc:creator opf:file-as="张浩音" opf:role="aut">张浩音</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-17T16:00:00+00:00</dc:date>
+        <dc:description>那个夏天我失业在家。朋友来信说，写点什么呢。于是我就在一个叫做“笑语扬眉”的BBS上开始每天打上几千字。这一种互动的写作方式和以往闷头写作的感受完全不同，类似被抛在舞台上的个唱会。于是，在掌声、欢笑声和叹息声中慢慢磨出了今天这个样子；这是一个忧伤无奈的故事，浓缩着很多人的影子和心迹，甚至也许有素不相识的你的一些偶合的境遇。很久以前，我认为自己已经是一个不相信爱情的人了。但这部小说已在她诞生的过程让我重新又变成了一个相信爱情的人。需要解释一下的是，文中的“伴你到黎明”因为和现实生活中的“相伴到黎明”相似，以至于不少读者来信问我这是不是某个著名女播音员的私人生活。其实很简单，因为想做播音员是我的一个梦想、所以我就在小说里让主人公代替实现了。按照先前的承诺，小说出版，我会写上： 送给一群充满阳光欢笑和智慧的女孩子，送给她们的“笑语扬眉”。 &#13;
+一部填补中国当代文学“空白”的情爱长篇“上海往事，她和她的故事”网站的经典作品。</dc:description>
+        <dc:publisher>广西人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787219047644</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>上海往事</dc:subject>
+        <dc:subject>les</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>同志</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>拉拉</dc:subject>
+        <dc:subject>上海</dc:subject>
+        <meta content="{&quot;张浩音&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:34+00:00" name="calibre:timestamp"/>
+        <meta content="上海往事" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

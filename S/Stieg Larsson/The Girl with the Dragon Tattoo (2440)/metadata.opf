@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2440</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52aa44ff-859c-4e0e-a402-07880a67b19c</dc:identifier>
+        <dc:title>The Girl with the Dragon Tattoo</dc:title>
+        <dc:creator opf:file-as="Stieg Larsson" opf:role="aut">Stieg Larsson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-15T16:00:00+00:00</dc:date>
+        <dc:description>A 24-year-old computer hacker sporting an assortment of tattoos and body piercings and afflicted with Asperger Syndrome or something of the like has been under state guardianship in her native Sweden since she was thirteen. She supports herself by doing deep background investigations for Dragan Armansky, who, in turn, worries the anorexic-looking Lisbeth Salander is "the perfect victim for anyone who wished her ill." Salander may look fourteen and stubbornly shun social norms, but she possesses the inner strength of a determined survivor. She sees more than her word processor page in black and white and despises the users and abusers of this world. She won't hesitate to exact her own unique brand of retribution against small-potatoes bullies, sick predators, and corrupt magnates alike.
+Financial journalist Carl Mikael Blomkvist has just been convicted of libeling a financier and is facing a fine and three months in jail. Blomkvist, after a Salander-completed background check, is summoned to a meeting with semi-retired industrialist Henrik Vanger whose far-flung but shrinking corporate empire is wholly family owned. Vanger has brooded for 36 years about the fate of his great niece, Harriet. Blomkvist is expected to live for a year on the island where many Vanger family members still reside and where Harriet was last seen. Under the cover story that he is writing a family history, Blomkvist is to investigate which family member might have done away with the teenager.
+So, the stage is set. The reader easily guesses early that somehow Blomkvist and Salander will pool their talents to probe the Vanger mystery. However,Swede Stieg Larsson's The Girl with the Dragon Tattoo is no humdrum, formulaic whodunit. It is fascinating and very difficult to put down. Nor is it without some really suspenseful and chillingly ugly scenes....
+The issue most saturating The Girl with the Dragon Tattoo is that of shocking sexual violence primarily against women but not excluding men. Salander and Blomkvist both confront prima facie evidence of such crimes. Larsson's other major constituent elements are corporate malfeasance that threatens complete collapse of stock markets and anarchistic distrust of officialdom to the point of endorsing (at least, almost) vigilantism. He also deals with racism as he spins a complex web from strands of real and imagined history concerning mid-twentieth century Vanger affiliations with Sweden's fascist groups.
+But Larsson's carefully calibrated tale is more than a grisly, cynical world view of his country and the modern world at large. At its core, it is an fascinating character study of a young woman who easily masters computer code but for whom human interaction is almost always more trouble than it is worth, of an investigative reporter who chooses a path of less resistance than Salander but whose humanity reaches out to many including her, and of peripheral characters -- such as Armansky -- who need more of their story told.
+Fortunately, The Girl with the Dragon Tattoo in English translation will be followed by two more in the Millennium series: The Girl Who Played with Fire, and The Air Castle that Blew Up. I can't wait. Larsson also made a 200-page start on a fourth book, but sadly he succumbed to a heart attack in 2004 and his father decided the unfinished work will remain unpublished.</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307269751</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>瑞典</dc:subject>
+        <dc:subject>StiegLarsson</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>Stieg_Larsson</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <meta content="{&quot;Stieg Larsson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:29:04+00:00" name="calibre:timestamp"/>
+        <meta content="Girl with the Dragon Tattoo, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

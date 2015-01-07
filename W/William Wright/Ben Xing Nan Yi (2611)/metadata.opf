@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72b6fa59-3fc9-4489-8977-fcb65220af18</dc:identifier>
+        <dc:title>本性难移</dc:title>
+        <dc:creator opf:file-as="William Wright" opf:role="aut">William Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:42+00:00</dc:date>
+        <dc:description>《本性难移》是科幻小说家倪匡的作品之一，卫斯理系列115号。作者倪匡在小说中将人类的奴性、第二次世界大战、日本忍术、医学和科技连系起来，是卫斯理系列中较为特别的一部</dc:description>
+        <dc:publisher>遠流</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573247036</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>霞</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <meta content="{&quot;William Wright&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:05+00:00" name="calibre:timestamp"/>
+        <meta content="本性难移" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

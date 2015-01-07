@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58560cdc-58da-4e80-938c-739743ba7659</dc:identifier>
+        <dc:title>城邦暴力團</dc:title>
+        <dc:creator opf:file-as="張大春" opf:role="aut">張大春</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-21T05:00:00+00:00</dc:date>
+        <dc:description>“金庸之後，最精采的武俠小說“ － 倪匡&#13;
+&#13;
+向在文壇以「頑童」著稱的小說家張大春，近年創作形式轉向「武俠」類型.這部全書字數長達36 萬字的《城邦暴力團》以其磅礡浩瀚的氣勢、繁複迷離的小說迷宮方式，將成為張大春近年來最具爆炸性的代表作。此书集結現代與武俠、現實與傳奇、暴力與愛情，&#13;
+以繁複迷離的線索，構成一部空前絕後的奇異武林史。</dc:description>
+        <dc:publisher>時報出版</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780000911292</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">84f255ff-f6da-43ce-9e3e-5ba610b3a175</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>张大春</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>城邦暴力團</dc:subject>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>武侠小说</dc:subject>
+        <dc:subject>城邦暴力团</dc:subject>
+        <meta content="{&quot;張大春&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:13+00:00" name="calibre:timestamp"/>
+        <meta content="城邦暴力團" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

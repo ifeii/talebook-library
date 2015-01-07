@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61726f30-ec3f-469e-8b9c-1f1f96c9daea</dc:identifier>
+        <dc:title>懂得爱</dc:title>
+        <dc:creator opf:file-as="麦基卓" opf:role="aut">麦基卓</dc:creator>
+        <dc:creator opf:file-as="麦基卓" opf:role="aut">黄焕祥</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>《懂得爱：在亲密关系中成长》（繁体字版书名为《关系花园》）
+一段亲密关系，是突破自我和持续成长的最好机会。黄焕祥和麦基卓是人性的艺术家，他们强调关系中的信心、分享、接纳与不带自我责难的个人责任。他们花费26年的时间开展一项探索“爱与亲密”的计划，并以亲身验证的理论与方法，教导我们如何创造并滋养一份亲密关系，并在关系中呈现出爱的完整意义。</dc:description>
+        <dc:publisher>深圳报业集团出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807091325</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>懂得爱</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>情感</dc:subject>
+        <dc:subject>爱</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>关系</dc:subject>
+        <dc:subject>心灵</dc:subject>
+        <meta content="{&quot;麦基卓&quot;: &quot;&quot;, &quot;黄焕祥&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:55+00:00" name="calibre:timestamp"/>
+        <meta content="懂得爱" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02fb074d-3a0d-4352-9dc1-7135bec4ad88</dc:identifier>
+        <dc:title>克里姆林宫的枢机主教</dc:title>
+        <dc:creator opf:file-as="汤姆·克兰西" opf:role="aut">汤姆·克兰西</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《克里姆林宫的枢机主教》故事在二十世纪八十年代美苏两国争夺星球大战计划和高科技武器优势的背景下，围绕步步紧逼的追捕和骇人听闻的审讯，以及政治阴谋、情报刺探等内容展开。当苏联发展能够在太空轨道中摧毁宇宙空间站的激光武器时，美国中央情报局遂特别动用“枢机主教”来收集“亮星”工程的绝密情报。“枢机主教”潜伏在克里姆林宫已长达三十余年，从未遭到苏联反间谍机构的怀疑，不料此次马失前蹄，落入克格勃之手。为实施营救计划，杰克·瑞安只身深入虎穴，亮出“红十月”号这一杀手锏，逼使克格勃主席救出“枢机主教”叛逃。与此同时，对苏联怀有国仇家恨的阿富汗游击队在美国的支持下，袭击“亮星”工程的实验基地；克格勃渗透进美国研制激光武器系统的“运茶快船”工程，绑架负责该项目的工程师……中情局和克格勃围绕激光武器与导弹防御系统展开了一场惊心动魄的间谍战。从阿富汗山区到新墨西哥高原，从华盛顿到莫斯科，世界和平就掌握在克里姆林宫的“枢机主教”手中。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532742769</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>汤姆・克兰西</dc:subject>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>汤姆·克兰西</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>间谍</dc:subject>
+        <meta content="{&quot;汤姆·克兰西&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="军事小说" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:27+00:00" name="calibre:timestamp"/>
+        <meta content="克里姆林宫的枢机主教" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

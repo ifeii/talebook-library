@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67367132-50d9-4007-b123-39f483562462</dc:identifier>
+        <dc:title>时间机器（中英双语）</dc:title>
+        <dc:creator opf:file-as="乔治·威尔斯" opf:role="aut">乔治·威尔斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《时间机器》是英国传奇作家乔治・威尔斯最为成功的一部作品，也是世界科幻小说史上第一部以时间旅行为题材的作品。后世的有关时间旅行的科幻小说，无不直接或间接地受到它的启发和影响。
+与同时年代并称为“科幻小说之父”的儒勒・凡尔纳不同的是，威尔斯以一种荒凉、哀伤的笔 触给我们展示了一次震撼人心的时间旅行。主人公“时间旅行者”是威尔斯笔下的英雄，一个狂放不羁的天才，可即便如此，他仍旧无无力改变现实。在未来世界，人类正逐渐走向没落，自相残杀、愚昧无知，曾经辉煌的科技、文化及固有的价值观、道德观全部土崩瓦解，难道这就是人类终极的宿命吗？为追寻真相，时间旅行者又一次踏上了漫漫的时间之旅。
+作者简介
+威尔斯，1939年，73岁的乔治・威尔斯独坐在酒会大厅的某个角落，为自己写下了一句短小的墓志铭：“上帝将要毁灭人类――尽管我警告过你们。”也许这个近乎玩笑的做法正反映了他对于人类与科学未来的担忧。
+威尔斯创作的目的不在于预见未来科学发展的可能，他所关注的是科学发展与人性社会的相互关系――如果没有人性的进步，科学的发展只能是人类的灾难。他的作品用科学幻想揭露了社会及人性的矛盾与黑暗，彻底击碎了科学与田园牧歌相联系的浪漫梦想，具有十分深刻的现实意义。
+编辑推荐
+最具人文关怀的成长名著，属于我们永远的纯真年代。
+“他带回来的那两朵白花可以证明，即使在濒临衰亡的时代，温情仍然活在人类心中。”</dc:description>
+        <dc:publisher>天津社会科学院出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806882917</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>威尔斯</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>时间机器</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>乔治·威尔斯</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;乔治·威尔斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科幻/奇幻/玄幻" name="calibre:series"/>
+        <meta content="24" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:07+00:00" name="calibre:timestamp"/>
+        <meta content="时间机器（中英双语）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

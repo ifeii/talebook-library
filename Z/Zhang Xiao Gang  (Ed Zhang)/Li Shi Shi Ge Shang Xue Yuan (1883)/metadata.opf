@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc8cff74-7990-4da7-9812-981fec8bc684</dc:identifier>
+        <dc:title>历史是个商学院</dc:title>
+        <dc:creator opf:file-as="张晓刚 (Ed Zhang)" opf:role="aut">张晓刚 (Ed Zhang)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-30T16:00:00+00:00</dc:date>
+        <dc:description>流血的历史经验，不败的商业智慧！一部博采中国历史经典案例、融汇中西智慧的经营管理书。《中国为什么要改革：思忆父亲胡耀邦》作者胡德平、中欧国际工商学院肖知兴教授诚挚推荐！
+《历史是个商学院》从中国历史中选取关键阶段、著名事件、重要人物，作为案例进行剖析，旁征博引西方管理学、经济学、营销学等著作中精华观点，绝大部分为作者从原著中翻译而来，力求信达雅；又融汇了大量中国古代诗文中的经典内容，既体现古人“修身齐家治国平天下”的精湛见解，又与现代工 商管理思想相通，还可以增进企业家、管理者的人文修养。
+在此基础上，作者发出了自己的声音，提出了中国社会三大组织原型并论述其对现代组织的影响及启示，阐述了管理上要注重“仁”的价值，战略上要善于经营不败，领导力建设上要超越个人局限，人力资源管理上要培养忠诚，用人上要提防“马仔政治”，品牌打造上要从传统中找寻“寄托”等诸多观点。
+本书的着眼点，不在于讲历史故事。作者认为，近乎捕风捉影地讲故事，更适宜茶余饭后消遣。而对于企业家、管理者来说，读史就是要从华夏民族共同的经验中汲取宝贵的智慧和教训，从而获得有助于解决现实问题的启示。</dc:description>
+        <dc:publisher>湖南科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">df15454c-beb2-4e69-b87f-97486c40e0dd</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787535769787</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>历史是个商学院</dc:subject>
+        <dc:subject>经营管理</dc:subject>
+        <dc:subject>系统思考</dc:subject>
+        <dc:subject>商业管理</dc:subject>
+        <dc:subject>MBA</dc:subject>
+        <meta content="{&quot;张晓刚 (Ed Zhang)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:20+00:00" name="calibre:timestamp"/>
+        <meta content="历史是个商学院" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">946</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2bc35ee-80eb-4b91-b416-58f8e30b9965</dc:identifier>
+        <dc:title>杰克·韦尔奇自传</dc:title>
+        <dc:creator opf:file-as="杰克.韦尔奇（Jack Welch）" opf:role="aut">杰克.韦尔奇（Jack Welch）</dc:creator>
+        <dc:creator opf:file-as="杰克.韦尔奇（Jack Welch）" opf:role="aut">约翰.拜恩（John A. Byrne）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-30T16:00:00+00:00</dc:date>
+        <dc:description>世界第一CEO自传！本书英文版2001/9/11日出版、立即在Amazon销售排行榜上名列第5。
+  
+他的自传在他动笔之前就被时代华纳公司以700万美元的天价竞标购得它的北美版权，超过了历史上的所有自传作者
+  
+  在书中他回顾了他的一生，但从他的童年故事开始他就在利用书的任何一个部分向读者介绍他的管理思想和经验。在书的结尾提出了作为CEO的20多条经验总结，这些都是心血的凝结.....《杰克·韦尔奇自传》是韦尔奇退休前的最后一个大动作。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508601915</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>杰克・韦尔奇</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>自传</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>企业管理</dc:subject>
+        <dc:subject>GE</dc:subject>
+        <dc:subject>人物</dc:subject>
+        <meta content="{&quot;约翰.拜恩（John A. Byrne）&quot;: &quot;&quot;, &quot;杰克.韦尔奇（Jack Welch）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="32" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:51+00:00" name="calibre:timestamp"/>
+        <meta content="杰克·韦尔奇自传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

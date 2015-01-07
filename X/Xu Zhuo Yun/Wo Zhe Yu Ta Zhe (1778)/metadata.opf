@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1778</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">811fb81b-c49e-4752-a4d5-1d8892240e66</dc:identifier>
+        <dc:title>我者与他者</dc:title>
+        <dc:creator opf:file-as="许倬云" opf:role="aut">许倬云</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《我者与他者:中国历史上的内外分际》内容简介：中国的历史，不是一个主权国家的历史而已；中国文化系统也不是单一文化系统的观念足以涵盖。不论是作为政治性的共同体，抑或文化性的综合体，“中国”是不断变化的系统，不断发展的秩序。这一个出现于东亚的“中国”，有其自己发展与舒卷的过程，也因此不断有不同的“他者”界定其自身。到了今天，经过八次锤炼，“中国”已不再是传统的中国。“中国”竟在几个古老文化体系之中，经历了最大，也可能最为彻底的变化过程，我们甚至可以提问：原来的“中国”是否还存在。</dc:description>
+        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108034786</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>许倬云</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>三联</dc:subject>
+        <dc:subject>依枕闲读</dc:subject>
+        <meta content="{&quot;许倬云&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:45+00:00" name="calibre:timestamp"/>
+        <meta content="我者与他者" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cfa0ca0-3c95-47b9-a306-024fce82cf81</dc:identifier>
+        <dc:title>魔法英语:名著学习的革命:伊索寓言精选(书+光盘+笔) (平装)</dc:title>
+        <dc:creator opf:file-as="伊索" opf:role="aut">伊索</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-31T16:00:00+00:00</dc:date>
+        <dc:description>一场名著阅读的风暴，一次英语学习的革命，魔法系列图书《名著学习的革命》，集阅读、聆听、朗诵、互动学习于一体，引领21世纪语言学习新潮流。　　全套图书共10册，包括：海明威的《老人与海》，《安徒生童话精选》，艾米莉·勃朗特的《呼啸山庄》，夏洛蒂·勃朗特的《简·爱》，《希腊神话故事》，《伊索寓言精选》，塞万提斯的《唐吉柯德》，《天方夜谭》，安东尼·圣修伯理的《小王子》，马克·吐温的《哈克贝利·芬历险记》。　　中英文双语对照，每本书另配多媒体光盘，让英语学习变的更简单。</dc:description>
+        <dc:publisher>中国出版集团,中国对外翻译出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787899936542</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A4SBVBK</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;伊索&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:34:53+00:00" name="calibre:timestamp"/>
+        <meta content="魔法英语:名著学习的革命:伊索寓言精选(书+光盘+笔) (平装)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

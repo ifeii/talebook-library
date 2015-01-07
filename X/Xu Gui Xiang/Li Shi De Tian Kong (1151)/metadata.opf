@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1151</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">224f41b0-da5c-4448-a703-3a926b71f0bc</dc:identifier>
         <dc:title>历史的天空</dc:title>
         <dc:creator opf:file-as="徐贵祥" opf:role="aut">徐贵祥</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-06-02T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;《历史的天空》是革命题材，讲述梁大牙迎亲路上，在蓝桥埠遭到了日军轰炸，火光中逃出4个年轻人。想投国军的梁大牙却意外地被八路军收留，想投八路军的同乡陈墨涵却被国军抓差。开篇，跌宕之间埋下了很多伏笔，因为错位，所以不甘，由此充满悬念。因为是一代人几十年间的成长史，所以姜大牙桀骜不驯的个性和军队刚性的纪律之间便冲突不断，这个悬念是贯穿始终的。&lt;br&gt;　　本书获得第六届“茅盾文学奖”、第三届"人民文学奖"、第十届中国人民解放军文艺奖、第八届"五个一工程奖&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《历史的天空》中浓缩了我党高级干部曲折的成长经历，从全新的角度诠释了战争与政治、权力、人性之间的关系，在富有激情的情节推进中，有一种回肠荡气之感。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787020031962</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:MDWX</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>茅盾文学奖</dc:subject>
+        <dc:subject>历史的天空</dc:subject>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>徐贵祥</dc:subject>
+        <dc:subject>抗日</dc:subject>
         <meta content="{&quot;徐贵祥&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="小说" name="calibre:series"/>
         <meta content="63" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-08-24T15:35:21+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:33+00:00" name="calibre:timestamp"/>
         <meta content="历史的天空" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

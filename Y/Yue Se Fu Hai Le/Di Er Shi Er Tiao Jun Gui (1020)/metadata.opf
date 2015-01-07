@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5281381-6d3f-41e4-98d5-0eb6b6881c10</dc:identifier>
+        <dc:title>第二十二条军规</dc:title>
+        <dc:creator opf:file-as="约瑟夫・海勒" opf:role="aut">约瑟夫・海勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-31T16:00:00+00:00</dc:date>
+        <dc:description>第二次世界大战末，在意大利厄尔巴岛以南八英里的地中海的一个美国空军基地――皮亚诺萨小岛上，轰炸手约塞连上尉像只惊弓之鸟，在一片混乱、荒谬与恐怖中，置一切权威、信条于不顾，为保存自己的性命而进行着几近疯狂的努力。在这个岛上，他生活的唯一目的就是逃避作战飞行。于是，他一次又一次地装病住进医院，因为他发现唯有这里才是最好的藏身之地。最后，他终于开了小差，逃到了瑞典。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787805676302</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>黑色幽默</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>约瑟夫·海勒</dc:subject>
+        <dc:subject>第二十二条军规</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;约瑟夫・海勒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="35" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:34+00:00" name="calibre:timestamp"/>
+        <meta content="第二十二条军规" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

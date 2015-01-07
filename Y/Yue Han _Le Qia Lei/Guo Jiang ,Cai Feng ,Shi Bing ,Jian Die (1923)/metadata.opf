@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7699d7be-26bf-4127-b5bc-36f07eb8f0ba</dc:identifier>
+        <dc:title>锅匠，裁缝，士兵，间谍</dc:title>
+        <dc:creator opf:file-as="约翰·勒卡雷" opf:role="aut">约翰·勒卡雷</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-31T16:00:00+00:00</dc:date>
+        <dc:description>有时候，背叛不为别的，它是一种本能。
+一个外勤人员的告密搅动了英国情报机构“圆场”得之不易的平静，原来圆场十几年来一直潜伏着苏联情报头子卡拉安插的双面间谍，且是圆场四位高层中的一位。乱局之下，已被迫退休的史迈利奉命出山。锅匠，裁缝，士兵，水手，究竟谁是幕后主使？记忆力像计算机一样好的史迈利钻进尘封的故纸堆中寻找蛛丝马迹，逐渐将真相抽丝剥茧，终于解开了卡拉设置的“最后一个聪明的结”……</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208078161</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>约翰·勒卡雷</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>间谍</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>史迈利三部曲</dc:subject>
+        <dc:subject>锅匠，裁缝，士兵，间谍</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;约翰·勒卡雷&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:56+00:00" name="calibre:timestamp"/>
+        <meta content="锅匠，裁缝，士兵，间谍" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

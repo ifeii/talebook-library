@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98b4ac3b-e87f-4d06-84ec-30b97f787ed3</dc:identifier>
+        <dc:title>玩火的女孩</dc:title>
+        <dc:creator opf:file-as="斯蒂格·拉森" opf:role="aut">斯蒂格·拉森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:description>她发现阻止恐惧接近的最有效方法，就是幻想一些能带给她力量的事物。於是她闭上眼睛，想像汽油的味道……
+《龙纹身的女孩》中谜样的女子莎兰德，在《玩火的女孩》中成了全瑞典最恶名昭彰、引人议论的通缉犯！两名即将为《千禧年》杂志撰写惊人报导的自由撰稿人、以及一名声誉良好的律师，在家中惨遭谋杀，凶器上遗留的，竟是莎兰德的指纹。她过去不可预测的暴力行为，使她理所当然地成了涉嫌重大的危险分子，但不管警方设下多严密的防线，她却像从人间蒸发般消失无踪。
+人真的是她杀的吗？她又究竟躲到哪去了呢？还会有下一个牺牲者吗？
+随着案情挖掘愈深，莎兰德不为人知的黑暗过往也逐渐揭露……不论真相如何，莎兰德绝不当一个无助的受害者，她是复仇天使——她正当的愤怒，将降临到那些伤害她的人身上。结局将令你再次震惊又心疼！</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020082384</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">67fb3cc2-60fe-4a0d-a3fa-4ea51c02742c</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>千禧三部曲</dc:subject>
+        <dc:subject>斯蒂格·拉森</dc:subject>
+        <dc:subject>瑞典</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>犯罪小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;斯蒂格·拉森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:25+00:00" name="calibre:timestamp"/>
+        <meta content="玩火的女孩" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

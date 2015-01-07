@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5451c3c1-2ba2-498a-9989-81c580a95f86</dc:identifier>
+        <dc:title>小时候就在想的事</dc:title>
+        <dc:creator opf:file-as="黑柳彻子" opf:role="aut">黑柳彻子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《小时候就在想的事》是《窗边的小豆豆》续篇，更多欢笑，更多感动！日，美，英等国中小学生与教师必读书，为了孩子，你一定要读的一本书，每一位家长和老师！
+《窗边的小豆豆》是日本有史以来销量最大的一本书，译成33种文字，已成为20世纪全球最有影响的作品之一。2003年引入中国后引起越来越大的反响，接连受到《中国教育报》《中华读书报》《新京报》《北京晚报》等近百家媒体高度评价，被新浪网和当当网联合评选为2003年度最有价值图书。迄今，一直连续高居全国畅销书排行榜。
+《小时候就在想的事》讲述更多小豆豆的故事，告诉我们，越是小孩子，就越是拥有人类最珍贵，最必要的东西。本书和《窗边的小豆豆》一样让人在笑声和感动中深深思考，现代教育应当如何理解和发掘出每一个孩子的完美天性，让他一生都生活在灿烂的阳光中。</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544229166</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c5ec275c-91b7-4aea-a2c8-fb4ec5f7e693</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>黑柳彻子</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小时候就在想的事</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>小豆豆</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>教育</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <meta content="{&quot;黑柳彻子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:36+00:00" name="calibre:timestamp"/>
+        <meta content="小时候就在想的事" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

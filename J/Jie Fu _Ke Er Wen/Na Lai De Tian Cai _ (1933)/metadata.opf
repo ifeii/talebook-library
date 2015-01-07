@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6994e0d9-29cf-4835-a457-a7ecdcaa51b2</dc:identifier>
+        <dc:title>哪来的天才？</dc:title>
+        <dc:creator opf:file-as="杰夫·科尔文" opf:role="aut">杰夫·科尔文</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-31T16:00:00+00:00</dc:date>
+        <dc:description>自我否定？或是前路迷茫？
+深谙职场，却默默无闻？
+疲于奔命的状态与年少时的梦想相去甚远？
+我们一直都在丈量自己与成功之间的距离，希望几度幻灭又燃起，不要希冀一本书能够改变你的一生，但是在杰夫•科尔文的文字中，我们能够读懂“天分”、“经验”、“努力”、“成功”等被我们说得太多以至忘却了其深刻含义的词语。
+激发你的生命力。
+——《时代》杂志
+棒极了！
+——《华尔街日报》
+如果你有获得成功的强烈愿望，就不妨努力争取。杰夫•科尔文告诉了你获得成功的路径。科尔文所说的与我自己在体育运动、法律和商业领域的感受惊人地一致。
+——西南航空创始人、总裁 赫伯•凯勒赫（Herb Kelleher）
+1978年，作者来到宝洁，见到了一对工作在狭小房间的22岁年轻人，当时人们都说“这两人将来一定能够取得成功”。果然不出所料，这两个年轻人后来成为了通用电气和微软的首席执行官，他们就是杰夫•伊梅尔特和史蒂夫•鲍尔曼。
+是什么让当时的人们就认为他们具有取得成功的潜质？这并不取决于他们的天赋，也不取决于他们的基因，而是取决于他们坚持不懈地“刻意练习”，这是本书要告诉读者的最大的一个秘密。
+《财富》杂志曾刊登过一篇非常受读者欢迎的封面报道，名为《如何成就伟大》。《财富》杂志的高级编辑杰夫•科尔文在读者的期盼下，将这篇经典的封面文章写成了这本书，旨在为读者揭开成功的奥秘。
+你的外婆也许会告诉你，如果要成为泰格•伍兹、温斯顿•丘吉尔、沃伦•巴菲特、杰克•韦尔奇、莫扎特这样的人，就必须埋头苦干。但事实并不仅如此，你还必须坚持不懈地“刻意练习”，你必须学会如何对结果进行分析，如何从失败中吸取教训，只要按照科学的方法进行“练习”，每个人都有可能获得成功，而不是仅仅取决于你的智商或者是情商。
+科尔文提出的“刻意练习”的成功法则不仅适用于科学、音乐、艺术领域，就是谈判、理财等技能，也可以依照成功法则来习得。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508616681</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>学习</dc:subject>
+        <dc:subject>个人管理</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>哪来的天才</dc:subject>
+        <dc:subject>方法</dc:subject>
+        <meta content="{&quot;杰夫·科尔文&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:05+00:00" name="calibre:timestamp"/>
+        <meta content="哪来的天才？" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

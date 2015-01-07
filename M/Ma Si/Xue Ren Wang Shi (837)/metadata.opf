@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cb8cf08-47db-4433-9d94-35f19ade6fbd</dc:identifier>
+        <dc:title>学人往事</dc:title>
+        <dc:creator opf:file-as="马嘶" opf:role="aut">马嘶</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1899-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>时事出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787800095962</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>民国</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>文化史</dc:subject>
+        <dc:subject>大家小事</dc:subject>
+        <dc:subject>向往之</dc:subject>
+        <dc:subject>北大学者</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <meta content="{&quot;马嘶&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="26" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:57:49+00:00" name="calibre:timestamp"/>
+        <meta content="学人往事" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

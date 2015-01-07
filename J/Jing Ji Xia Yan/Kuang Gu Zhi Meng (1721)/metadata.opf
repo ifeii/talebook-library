@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fd70a14-0201-4a71-ab80-ac2f1d9f2765</dc:identifier>
+        <dc:title>狂骨之梦</dc:title>
+        <dc:creator opf:file-as="京极夏彦" opf:role="aut">京极夏彦</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-31T16:00:00+00:00</dc:date>
+        <dc:description>继《姑获鸟之夏》、《魍魉之匣》后，京极堂系列第三部。
+连续杀死丈夫四次的女人朱美，一个有强迫症的精神科医生，一个不信神的牧师。梦境与现实纠缠在三个人之间，奇怪的事情一再发生。
+在海上漂流的黄金骷髅头，深山中发生的集体自杀事件。这些看似毫不相关的人各自被怪异的梦境所苦…接二连三发生的诡异事件却将他们一一串连起来……到底什么是梦境、什么又是真实？错综复杂的谜团，却在书末有最干净明快的答案。
+“狂骨”即为「发狂的骸骨」，论者认为，由于过去典籍并无「狂骨」此类怪物，因此应为热爱创造妖怪的鸟山石燕所创造，他在《今昔画图百鬼拾遗》中这么形容：骷髅头下挂着单薄的骨架，尽管披挂的长白发看似女性，身体轮廓却隐约不可辨识，总在井中的汲水桶中以双手垂放、身下无脚的幽灵姿态现身。
+后来在江户时期变成固定的怪物，相传为被弃尸在井中的冤死者，化为妖怪后总在井边出现，遇到人便会叫他「喝水吧」，路人若依言喝水，便可无事离去；若不听，则狂骨会舞动全身骨骸以示人，据闻听到其骨节撞击声者便会发狂投井身亡。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208083011</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8f1c8ab8-716b-4dcb-91f1-5e7f3151bd25</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>京极夏彦</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>京極夏彥</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>妖怪推理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>京极夏彥</dc:subject>
+        <meta content="{&quot;京极夏彦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:59+00:00" name="calibre:timestamp"/>
+        <meta content="狂骨之梦" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

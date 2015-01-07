@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3cf5b15-3216-4580-bff5-ad55366d4e61</dc:identifier>
+        <dc:title>半生缘</dc:title>
+        <dc:creator opf:file-as="张爱玲" opf:role="aut">张爱玲</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-30T16:00:00+00:00</dc:date>
+        <dc:description>他和曼桢认识，已经是多年前的事了。算起来倒已经有十四年了——真吓人一跳！马上使他连带地觉得自己已老了许多。日子过得真快，尤其对于中年以后的人，十年八年都好像是指顾间的事。可是对于年轻人，三年五载就可以是一生一世。他和曼桢从认识到分手，不过几年的工夫，这几年里面却经过这么许多事情，仿佛把生老病死一切的哀乐都经历到了。
+曼桢曾经问过他，他是什么时候起开始喜欢她的。他当然回答说：“第一次看见的时候。”说那句话的时候是在那样的一种心醉的情形下，简直什么都可以相信，自己当然绝对相信那不是谎话。其实他到底是什么时候第一次看见她的，根本就记不清楚了。</dc:description>
+        <dc:publisher>北京十月文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530208694</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>张爱玲</dc:subject>
+        <dc:subject>半生缘</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文学经典</dc:subject>
+        <meta content="{&quot;张爱玲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="24" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:19+00:00" name="calibre:timestamp"/>
+        <meta content="半生缘" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bb15d00-96ee-4f86-9082-f38c731aa285</dc:identifier>
+        <dc:title>香水</dc:title>
+        <dc:creator opf:file-as="帕·聚斯金德" opf:role="aut">帕·聚斯金德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T16:00:00+00:00</dc:date>
+        <dc:description>小说叙述一个奇才怪杰谋杀了26个少女的故事。其中每一次谋杀都是一个目的：只是因为迷上她们特有的味道。对格雷诺耶来说，每次都是一场恋爱，但是他爱的不是人，而是她们身上的香味；谋杀她们只是为了永远占有，并且拥有他所钟爱的那种没有感觉，没有生命的“香味”……
+这本书不是一部通俗的惊险小说，而是一部构思奇特，充满幻想，离意深刻的严肃作品；自1985年出版以来，始终高居德国畅销书排行榜前列，已被译成30余种文字。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532736201</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f0b9ca2a-a8e8-4e65-941e-218ff11769dd</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>香水</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>聚斯金德</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>谋杀</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;帕·聚斯金德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:30+00:00" name="calibre:timestamp"/>
+        <meta content="香水" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

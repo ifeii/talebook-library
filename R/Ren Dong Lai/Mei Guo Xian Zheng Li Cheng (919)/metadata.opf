@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1735704b-7a7e-4725-8bb0-98eb5294c835</dc:identifier>
+        <dc:title>美国宪政历程</dc:title>
+        <dc:creator opf:file-as="任东来" opf:role="aut">任东来</dc:creator>
+        <dc:creator opf:file-as="任东来" opf:role="aut">陈伟</dc:creator>
+        <dc:creator opf:file-as="任东来" opf:role="aut">白雪峰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T16:00:00+00:00</dc:date>
+        <dc:description>本书的主体部分由三篇精彩的宪法论文与25个司法大案组成，一共28节。这三篇论文是《美国宪法的英国普通法渊源》、《保守的美国革命产生了长寿的联邦宪法》和《美国宪政法治捍卫者：最高法院的九尊护法神》。按照历史发展的轨迹，三篇文章分别扼要论述了美国宪政中的英国因素、美国特征及平稳发展的原因。25个司法大案则主要包括：确立最高法院司法审查权的“马伯里诉麦迪逊案（1803）”、引发内战的“斯科特案（1857）”、结束种族隔离的“布朗案（1954）”、导致总统下台的“美国诉尼克松案（1974）”，以及裁决总统选票的“布什诉戈尔案（2000）”。每个案例自成一节，既有生动的史实叙述，也有引人深思的法理分析。25个案例异彩纷呈，令人回味无穷。
+中国社会科学院美国研究所所长王缉思为本书作序。他在序中说：“本书并没有就法律谈法律，而是用生动的笔触，翔实的资料，描述了法治在美国社会的各个方面从生根到开花的历程。联邦最高法院的25个故事所揭示的，是一以贯之而又不断发展的一种观念，一种精神。美国宪政的酸甜苦辣尽在其中，让读者去细细品味。”“要研究美国的任何一个侧面，都需要了解美国法律”。作者以对美国问题的敏锐眼光，积20年观察、研究之功力，将学术著作的准确性与通俗读物的可读性融为一体；相信本书的出版不但能使历史学者了解美国历史的宪政之维，也能使法律学者明白任何一个重大案例都是历史的沉淀。
+本书的附录部分除了收录《独立宣言》、《合众国宪法》、大法官任期表等一般内容外，还逐条罗列、并简介了写作过程中所用到的网络资源和参考书。另外，书中的前言（美国联邦最高法院略论）和后记（一次愉快的精神之旅）也同样精彩。</dc:description>
+        <dc:publisher>中国法制出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801821386</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>宪政</dc:subject>
+        <dc:subject>法律</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>民主</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>法学</dc:subject>
+        <dc:subject>美国宪政历程</dc:subject>
+        <meta content="{&quot;任东来&quot;: &quot;&quot;, &quot;白雪峰&quot;: &quot;&quot;, &quot;陈伟&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="21" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:36+00:00" name="calibre:timestamp"/>
+        <meta content="美国宪政历程" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">142735fb-f20e-4395-adf3-97dd772e1873</dc:identifier>
+        <dc:title>匆匆那年</dc:title>
+        <dc:creator opf:file-as="九夜茴" opf:role="aut">九夜茴</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《匆匆那年(签名本)》通过诙谐的文字，以方茴和陈寻的爱情故事为主线，描述了80后的情感与生活历程。方茴过去的回忆让人仿佛再次回到了90年代末的北京，在时间跨度长达十年的叙述中有美好的青春校园生活，有涉及青少年犯罪的探讨警示，有建国五十年大庆、迎接新世纪、北京申奥成功的历史事件，有大学时代的颓废迷茫，有工作以后的艰难奋斗，有婚姻生活的现状等等，以独特的视角真实记录了80后的成长轨迹和他们富有时代感的印记。《匆匆那年》是九夜茴继《弟弟，再爱我一次》和《风不飘摇，云不飘摇》后的又一力作。</dc:description>
+        <dc:publisher>东方出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8fc5f36d-a15d-4516-b66e-bc88a3be9291</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787506036979</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>九夜茴</dc:subject>
+        <dc:subject>匆匆那年</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>80后</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>青春文学</dc:subject>
+        <meta content="{&quot;九夜茴&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:47+00:00" name="calibre:timestamp"/>
+        <meta content="匆匆那年" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d56a84f4-709b-450f-ba10-4e40bb6faaf8</dc:identifier>
+        <dc:title>七修类稿</dc:title>
+        <dc:creator opf:file-as="郎瑛" opf:role="aut">郎瑛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《七修类稿》为明代学者郎瑛的一本笔记体著述，是他致力于学问考辨的一部专著。该书考论范围极为广阔，以类相从，凡分七门。内容或测天地之高深，或明国家之典故，或研穷义理，或研穷义理，或辨证古今，或掇诗文而拾其遗，或捃事物而章其赜，以至奇怪诙谑之事，无不采录。考论严谨详明，能驰骋古今，贯穿子史。且有许多内容，为史书所阙，有很高的史料价值。</dc:description>
+        <dc:publisher>上海书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787545800357</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">046d52d2-fb0b-4f12-8c46-8d96bb626be2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>笔记</dc:subject>
+        <dc:subject>【明】郎瑛</dc:subject>
+        <dc:subject>郎瑛</dc:subject>
+        <dc:subject>古籍</dc:subject>
+        <dc:subject>筆記</dc:subject>
+        <dc:subject>明代</dc:subject>
+        <dc:subject>明人筆記</dc:subject>
+        <dc:subject>藏书之一</dc:subject>
+        <meta content="{&quot;郎瑛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:42+00:00" name="calibre:timestamp"/>
+        <meta content="七修类稿" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

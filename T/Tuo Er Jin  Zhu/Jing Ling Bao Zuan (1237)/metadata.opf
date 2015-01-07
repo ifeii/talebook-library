@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a4ef5e-5b2a-4884-b563-cd703d139199</dc:identifier>
+        <dc:title>精靈寶鑽</dc:title>
+        <dc:creator opf:file-as="托爾金 著" opf:role="aut">托爾金 著</dc:creator>
+        <dc:creator opf:file-as="托爾金 著" opf:role="aut">泰德‧納史密斯 繪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《精靈寶鑽》於1977年首次出版時，曾獲得以下的佳評： 「這本一個人寫作超過半世紀的作品，竟成為一群人的創作源頭，這是怎麼辦到的？」 ─衛報
+「原本抱著創作英文神話的雄心，最後卻成了偉大的真神話！」 ─金融時報
+「一部非凡絕美的創作……在其最佳時刻展現壯麗風華。」 ─華盛頓郵報
+「一本嚴酷、悲傷、細密構思而又美麗不已的書，充滿著英雄主義與希望。」─多倫多環球郵報
+此書敘述中土世界第一紀元的故事，遠比《魔戒》的時代古老許多，《魔戒》中的人物，如愛隆與凱蘭崔爾，都在這齣古老的戲劇中扮演了重要的角色。
+書名《精靈寶鑽》是「精靈寶鑽爭戰史」的簡稱，描寫最有才能的精靈－－費諾所造三顆偉大寶石的故事；他將照亮諸神所居之地維林諾的雙聖樹的光芒收存到寶石之中。當黑暗之王魔苟斯摧毀了雙聖樹後，那璀璨的光芒唯獨活在精靈寶鑽中；魔苟斯奪走了寶石，將它們鑲在他的王冠上，他在中土大陸北方的堡壘，固若金湯的安格班中稱王。《精靈寶鑽》記載費諾與其族人背叛了諸神，流亡到了中土大陸，對魔苟斯這位巨大而可怕的敵人發動戰爭，寫下一連串精靈與人類絕望又英勇的故事。
+本書除了最主要的「精靈寶鑽爭戰史」，還包含其他短篇：敘述創造之始的〈埃努的大樂章〉，描述諸神特性與力量的〈關於維拉與邁雅的記載〉，述說爭戰史之後的短篇〈努曼諾爾淪亡史〉，講述在第二紀元末努曼諾爾島上的王國沈淪滅亡的故事；最後，讓本書大功告成的短篇是〈魔戒與第三紀元〉。
+作者簡介
+托爾金生於1892年1月3日。在服完第一次世界大戰的兵役後，他展開了一段卓越的學術生涯，並且被推崇為世界上最優秀的語言學家之一。但他最為人所知的是：他是中土世界的創造者，以及《哈比人歷險記》、《魔戒三部曲》、《精靈寶鑽》這三大鉅著的作者。他去世於1973年9月2日，享年81歲。
+此書編者克理斯多福•托爾金為作者的兒子。 畫者
+泰德•納史密斯，土生土長於加拿大安大略省高德瑞契（Goderich）的泰德•納史密斯，童年生活大多在搬遷中度過，其間曾在法國居住過三年。他在青少年時期認識了托爾金的作品，從那時開始，便不斷將托爾金所寫的故事畫成圖畫。如今，在他的建築師生涯之外，他也是著名的托爾金詮釋者。他已經繪畫出版了三本托爾金的插畫月曆；能為《精靈寶鑽》一書繪製插圖，是他多年夢想的實現。目前他居住在安大略省得馬克罕（Markham）。
+譯者簡介
+鄧嘉宛，1962年生，英國新堡大學社會語言學碩士。從事翻譯工作多年，譯作十數本，另與康來昌合著有《與我共遊奇幻國度──魔戒導讀》（校園出版）</dc:description>
+        <dc:publisher>聯經出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570825244</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>托尔金</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>魔戒</dc:subject>
+        <dc:subject>J.R.R.Tolkien</dc:subject>
+        <dc:subject>精灵宝钻战争史</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>魔幻</dc:subject>
+        <meta content="{&quot;托爾金 著&quot;: &quot;&quot;, &quot;泰德‧納史密斯 繪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="魔戒" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:24+00:00" name="calibre:timestamp"/>
+        <meta content="精靈寶鑽" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

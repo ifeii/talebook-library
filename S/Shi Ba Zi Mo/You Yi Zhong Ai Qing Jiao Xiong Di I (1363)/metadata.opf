@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4720ed1-1a8d-4c14-aeb9-73a8734315b6</dc:identifier>
+        <dc:title>有一种爱情叫兄弟Ⅰ</dc:title>
+        <dc:creator opf:file-as="十八子墨" opf:role="aut">十八子墨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-29T16:00:00+00:00</dc:date>
+        <dc:description>十八，一个从传统审美来看形象欠佳的中性女生，在男生多于女生七倍的工科学校，她极其无辜地被剩下了。在那段最猖狂的年华中，她与他们兄弟相称，感受着友谊的温暖，同时坚持自己的原则。她想念8岁时认识的小意，默默喜欢拥有灿烂笑容的易名，却把这些深埋心底，因为明了自己“不够有市场”。当朝夕相处的哥们儿、花花公子小淫为她“浪子回头”时，她彷徨了，有着情感洁癖的她该与他继续当兄弟，还是冲破自己的禁忌？</dc:description>
+        <dc:publisher>花山文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807553014</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>十八子墨</dc:subject>
+        <dc:subject>有一种爱情叫兄弟</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>校园</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>青春校园</dc:subject>
+        <dc:subject>晋江</dc:subject>
+        <meta content="{&quot;十八子墨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:22+00:00" name="calibre:timestamp"/>
+        <meta content="有一种爱情叫兄弟Ⅰ" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94f30228-575d-4998-9d0f-ea61e3c48eff</dc:identifier>
+        <dc:title>一个或所有问题</dc:title>
+        <dc:creator opf:file-as="赵汀阳" opf:role="aut">赵汀阳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《一个或所有问题》的一个基本主张是“智慧的复兴”。因为现在很缺乏智慧，缺乏智慧就创造不出生活和思想的意义。哲学错误地以为能够“知道”生活和思想的意义，因此以为哲学必须去“描述”或“解释”生活和思想的意义，可是又描述不出来，解释不妥当。维特根斯坦曾经开玩笑说，哲学问题是很难解决的，就像找不到真正的止痒药方，我们就只好一直胡乱挠下去。可是我担心的是，我们后来其实已经不痒了，问题已经变成了打嗝，可是还在盲目地挠下去。哲学的困难不在于我们缺乏知识能力，而在于生活和思想的意义是活的，它的问题不断变化，它不是认识对象，而是创作对象。智慧与创作并行，而知识落后一步。</dc:description>
+        <dc:publisher>江西教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9c856ebc-4382-414c-8a37-4d72eec183ff</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787539230443</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>赵汀阳</dc:subject>
+        <dc:subject>一个或所有问题</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>无立场分析</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>政治哲学</dc:subject>
+        <meta content="{&quot;赵汀阳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:41+00:00" name="calibre:timestamp"/>
+        <meta content="一个或所有问题" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

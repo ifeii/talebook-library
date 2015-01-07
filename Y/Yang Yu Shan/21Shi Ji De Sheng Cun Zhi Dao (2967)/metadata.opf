@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fe80bb9-bd96-4d1b-87ec-e6412f5c4102</dc:identifier>
+        <dc:title>21世纪的生存之道</dc:title>
+        <dc:creator opf:file-as="杨雨山" opf:role="aut">杨雨山</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《21世纪的生存之道》主要内容：三眼国际创意文化传播机构作为国内专注于为企业总裁级别的高端人才提供全面策略指导、交流服务和智力产品支持的文化机构，矢志横跨出版策划、影视媒体、咨询培训和案例研究等业务模块，以文化和创意为魂，以产品和实业为体，借助于全新的品牌运作与营销模式，全力打造中国最具影响力的管理财经类智力产品运营服务商。
+公司旗下的企业案例研究中心立足于全球化背景下的中国企业现状，通过实地调研，深度挖掘中国企业的成功之道，探讨企业面临的困境和挑战，为中国企业的管理实践提供第一手素材。</dc:description>
+        <dc:identifier opf:scheme="ISBN">9787113095031</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>个人管理</dc:subject>
+        <meta content="{&quot;杨雨山&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:39:15+00:00" name="calibre:timestamp"/>
+        <meta content="21世纪的生存之道" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

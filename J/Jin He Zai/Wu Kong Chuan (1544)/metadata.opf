@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0037f156-956c-4d45-822b-d3cc473c6fde</dc:identifier>
+        <dc:title>悟空传</dc:title>
+        <dc:creator opf:file-as="今何在" opf:role="aut">今何在</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-03-31T16:00:00+00:00</dc:date>
+        <dc:description>猪八戒和孙悟空虽然都神通广大，但在命运面前终究是软弱无力的小人物。顶天立地的美猴王实际上仍然是那个充满惊恐的小猴子，而决心与命运抗争的天逢若非紧急也终究不肯以猪的面目见阿月。神仙尚且如此，何况吾辈生来渺小的小人物呢？随着年纪的增长，少年时素怀的“愿乘长风破万里浪”的豪情壮志早已经烟消云散，只剩下一个行尸走肉的家伙还在苟延残喘。自己何尝不是一只因为知道自己身份而在午夜对月痛哭的猪啊！但他们最终战胜了命运，而我呢？</dc:description>
+        <dc:publisher>光明日报出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801453648</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>今何在</dc:subject>
+        <dc:subject>悟空传</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>网络文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>西游记</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;今何在&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:30+00:00" name="calibre:timestamp"/>
+        <meta content="悟空传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

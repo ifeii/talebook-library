@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5525cd33-9717-4870-9a9d-9855fcaa720c</dc:identifier>
+        <dc:title>惡童三部曲</dc:title>
+        <dc:creator opf:file-as="雅歌塔‧克里斯多" opf:role="aut">雅歌塔‧克里斯多</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-09T04:00:00+00:00</dc:date>
+        <dc:description>編輯推薦&#13;
+&#13;
+人類的戰爭除了荒謬與傷痛之外，還留下了文學。很多作家都以戰爭與種族屠殺為主題創作小說，因為那是一段人類近代歷史中最慘烈的傷痕。《惡童三部曲》以大戰中的中歐為背景，以最平淡而詭譎的手法，呈現了人類在戰爭中扭曲的人性與無以言明的傷痛。作者雅歌塔．克里斯多夫巧妙絕倫的說故事手法，讓三本書各自獨立卻又相互牽引，形成了一種如夢似幻的小說情境，《惡童三部曲》於是大放異彩，成為二十世紀備受注目的作品。經歷過戰爭的人，也許沒有辦法用平常的方式說故事。 &#13;
+歌雅塔．克里斯多夫在《惡童三部曲》中幾乎都是以描繪事實的方式寫作，沒有情感抒發，也沒有道德標準。她讓書中雙胞胎練習作文時這樣寫道：「假如我們寫『傳令兵很和善的話，這並不一定是真的...，我們簡單的寫著『傳令兵遞給我們兩條毯子』」。有人在描述這本書的時候說這是「一部驚悚、冷酷的黑色小說」，它冷酷的部分也就是來自於這種對任何人事物都沒有道德判斷的荒謬態度，這也正是作者對戰爭的危害最深沉的控訴。 &#13;
+&#13;
+《惡童三部曲》可說是歌雅塔‧克里斯多夫用了三本書的篇幅，為一個故事寫下三個版本，每個版本（三本書）都不盡相同，故事時間也似乎有所延續。但在互相映照比對之下，讀者會發現每一個曾經在上一本書中發生的情節，到了下一本書都有所扭曲變更，令人不禁想要回到上一本書查看書中人物的處境。當你回到上一本書，你才知道你被騙了，很多情節「可能」都沒有發生過，那些「可能」只是書中人物的幻想或小說作品。 &#13;
+&#13;
+走到這一步，我們才知道我們是在一個（或是兩個）寂寞男孩的心靈傷痕中，閱讀著關於人類的歷史與戰爭。所有扭曲的時間空間，所有像畜生一樣的人群（我們都知道那是猶太人），所有逃離邊境又回到國內，都是戰爭中男孩看到的人生。 &#13;
+&#13;
+走到這個作者精心設計打造的情境迷宮，我們，處在太平盛世的閒適讀者才有可能對處在戰爭中的受傷心靈有一些體悟。 &#13;
+&#13;
+這三本書在台灣初版時也曾造成熱烈迴響，多次被媒體選為好書，今年出版社出了合訂本，將三本訂為一本。在東歐仍有種族屠殺，阿拉伯世界與西方世界仍在對抗的二十一世紀初，這本書的出版也許會帶給台灣讀者一些啟發。</dc:description>
+        <dc:publisher>小知堂</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">080e89ca-0be6-4e8d-ac3c-89f90fb85e47</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789574500222</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>惡童三部曲</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>匈牙利</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>人性</dc:subject>
+        <dc:subject>外國文學</dc:subject>
+        <meta content="{&quot;雅歌塔‧克里斯多&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:44+00:00" name="calibre:timestamp"/>
+        <meta content="惡童三部曲" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

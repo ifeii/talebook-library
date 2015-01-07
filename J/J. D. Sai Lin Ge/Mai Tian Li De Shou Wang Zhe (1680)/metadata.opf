@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">798ad86b-b5f4-43ff-80ad-da4dc118a838</dc:identifier>
+        <dc:title>麦田里的守望者</dc:title>
+        <dc:creator opf:file-as="J. D. 塞林格" opf:role="aut">J. D. 塞林格</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-31T16:00:00+00:00</dc:date>
+        <dc:description>霍尔顿是出身于富裕中产阶级的十六岁少年，在第四次被开除出学校之后，不敢贸然回家，只身在美国最繁华的纽约城游荡了一天两夜，住小客店，逛夜总会，滥交女友，酗酒……他看到了资本主义社会的种种丑恶，接触了各式各样的人物，其中大部分是“假模假式的”伪君子。
+霍尔顿几乎看不惯周围发生的一切，他甚至想逃离这个现实世界，到穷乡僻壤去假装一个又聋又哑的人，但要真正这样做，又是不可能的，结果他只能生活在矛盾之中：他这一辈子最痛恨电影，但百无聊赖中又不得不在电影院里消磨时间；他厌恶没有爱情的性关系，却又糊里糊涂地叫来了妓女；他讨厌虚荣庸俗的女友萨丽，却又迷恋她的美色，情不自禁地与她搂搂抱抱。
+因此，他尽管看不惯世道，却只好苦闷、彷惶，用种种不切实际的幻想安慰自己，自欺欺人，最后仍不免对现实社会妥协，成不了真正的叛逆，这可以说是作者塞林格和他笔下人物霍尔顿的悲剧所在。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a553ae94-b979-4d6e-b80b-174528ab4767</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787805676135</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>麦田里的守望者</dc:subject>
+        <dc:subject>塞林格</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;J. D. 塞林格&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:24+00:00" name="calibre:timestamp"/>
+        <meta content="麦田里的守望者" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

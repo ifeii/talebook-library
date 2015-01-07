@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ac2a921-fd65-4379-972e-f9293967396e</dc:identifier>
+        <dc:title>幕府大将军</dc:title>
+        <dc:creator opf:file-as="矢川" opf:role="aut">矢川</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T16:00:00+00:00</dc:date>
+        <dc:description>以幕府大将军川家康的一生为线索，展现了英雄辈出的日本战国时代，再现了16世纪日本战国后期从乱世到治世这一政治进程。本书对同时代的今川义元、织田信长、武田信玄、上杉謙信、丰臣秀吉等日本著名政治人物亦有深度刻画，以及对关原大战、大阪之战等数十场日本战国时代著名战役的场景都有细致入微的描写。
+　　本书是“日本往事系列”丛书第一辑三本中的一本（另外两本是《最后的武士》和《军国幕僚》）。本丛书以通俗易荱的文字和翔实的史料，讲述了日本战国时代如何从乱世到治世，如何形成近古代时期日本的武士传承和利益格局，以及这种传承与格局甚至对二战前的日本都还有着深远的影响。这三本书可以算是日本战国后期至二战前夕的历史三部曲。</dc:description>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505722125</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本战国</dc:subject>
+        <dc:subject>德川家康</dc:subject>
+        <dc:subject>日本历史</dc:subject>
+        <dc:subject>幕府大将军</dc:subject>
+        <dc:subject>矢川</dc:subject>
+        <dc:subject>织田信长</dc:subject>
+        <meta content="{&quot;矢川&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:11+00:00" name="calibre:timestamp"/>
+        <meta content="幕府大将军" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc80b5f1-9ad3-4bd1-b19d-7d351d7c6e9b</dc:identifier>
+        <dc:title>动物农场</dc:title>
+        <dc:creator opf:file-as="乔治·奥威尔" opf:role="aut">乔治·奥威尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《动物农场》是奥威尔最优秀的作品之一，是一则入木三分的反乌托的政治讽喻寓言。农场的一群动物成功地进行了一场“革命”，将压榨他们的人类东家赶出农场，建立起一个平等的动物社会。然而，动物领袖，那些聪明的猪们最终却篡夺了革命的果实，成为比人类东家更加独裁和极权的统治者。“多一个人看奥威尔，就多了一分自由的保障，”有论家如是说。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532745418</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e9cc16be-657d-459a-b5d9-7d817b2389dd</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>乔治·奥威尔</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>讽刺</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>动物农场</dc:subject>
+        <dc:subject>动物庄园</dc:subject>
+        <meta content="{&quot;乔治·奥威尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:34:26+00:00" name="calibre:timestamp"/>
+        <meta content="动物农场" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

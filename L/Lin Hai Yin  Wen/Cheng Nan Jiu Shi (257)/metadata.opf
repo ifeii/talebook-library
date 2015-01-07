@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">923ea1ac-d562-48cc-8240-3bfbcf83a0a3</dc:identifier>
+        <dc:title>城南旧事</dc:title>
+        <dc:creator opf:file-as="林海音 文" opf:role="aut">林海音 文</dc:creator>
+        <dc:creator opf:file-as="林海音 文" opf:role="aut">关维兴 图</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-30T16:00:00+00:00</dc:date>
+        <dc:description>多少年来，《城南旧事》感动了一代又一代的读者，除了再版无数次的小说版外，1985年，本书在中国大陆搬上银幕，电影“城南旧事”获得“中国电影金鸡奖”、第二届“马尼拉国际电影节最佳故事片奖金鹰奖章”、第十四届“贝尔格勒国际儿童电影节最佳影片思想奖”等多项大奖。
+儿童绘本版《城南旧事》由当今中国极具代表性的水彩画家关维兴，运用优雅诗意的风格和穿透人心的独到技巧，将创作的图画全然融入故事的情节。画中举凡服饰、器物和建筑，考据详实，没一点随便或含糊。人物细致的表情、光线和空气的律动、圆熟丰美的调子，使文图呈现无懈可击的呼应。绘本《城南旧事》甫出版即获选1993、1994年“波隆那国际儿童书插画展”、1993年“布拉迪斯国际插画双年展”以及1994年“加泰隆尼亚国际插画双年展”。
+从小说到电影，从成人书到儿童绘本，《城南旧事》是故事、是梦幻，读时仿若音乐，轻轻扣动人心，字里行间所隐涵的深意，更令人撼动，久久不能自已。</dc:description>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500652045</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>林海音</dc:subject>
+        <dc:subject>城南旧事</dc:subject>
+        <dc:subject>童年</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>小时候</dc:subject>
+        <meta content="{&quot;关维兴 图&quot;: &quot;&quot;, &quot;林海音 文&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="70" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:14+00:00" name="calibre:timestamp"/>
+        <meta content="城南旧事" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

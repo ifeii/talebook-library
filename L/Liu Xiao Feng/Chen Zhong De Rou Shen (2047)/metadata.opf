@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64ba5e5d-5ee1-4c5b-b9fa-2ae869af6dab</dc:identifier>
+        <dc:title>沉重的肉身</dc:title>
+        <dc:creator opf:file-as="刘小枫" opf:role="aut">刘小枫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>法国大革命时代的风云人物丹东究竟是怎样死的？他与妓女玛丽昂又有什么关系？牛虻和他的情人以及他情人的情人间的纠缠又是怎么一回事？卡吉娅和萨宾娜身体的丰盈及阿蕾特和特丽莎身体的沉重间的对比说明了什么？《十诫》所要表达的诚实、谎言、友爱、亲情、负疚……这些伦理问题对我们究竟意味着什么？毕希纳、昆德拉、基斯洛夫斯基这些思想大师给我们带来的是什么？作者刘小枫以其优美流畅的文笔、精辟独到的视角，向我们复述了一个令人深思乃至惊心动魄的故事，让我们思索人生。所谓现代性伦理，指的是人民伦理和个体自由伦理。时下人们正身不由己地从人民伦理脱身出来，转向个体自由伦理。本书的叙事纬语从人民伦理转到自由个体伦理，主要围绕中欧两位当代作家的叙事，以探讨两种不同的个体自由伦理的差异。</dc:description>
+        <dc:publisher>华夏出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e34c87e7-db7b-4e28-81f6-06d5f8fd37a8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508033778</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>刘小枫</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>沉重的肉身</dc:subject>
+        <dc:subject>伦理</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>伦理学</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <meta content="{&quot;刘小枫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:39+00:00" name="calibre:timestamp"/>
+        <meta content="沉重的肉身" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

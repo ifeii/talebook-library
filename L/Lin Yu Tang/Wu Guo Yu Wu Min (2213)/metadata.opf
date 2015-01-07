@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd517ff5-626d-4895-9964-48003db61d13</dc:identifier>
+        <dc:title>吾国与吾民</dc:title>
+        <dc:creator opf:file-as="林语堂" opf:role="aut">林语堂</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《吾国与吾民》（My Country and My People）又名《中国人》，著于1934年春夏秋三季，是林语堂在西方文坛的成名作与代表作。由于该书将中国人的性格、心灵、理想、生活、政治、社会、艺术、剖释得非常美妙，并与西方人的性格、理想、生活等作了相应的广泛深入的比较，在海内外引轰动，为美国许多知名人士推崇备至，被译成多种文字，在西方广泛流传。</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787561334409</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">58775360-10c2-4109-8ec3-2d0509bc334d</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>林语堂</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>吾国与吾民</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;林语堂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:58+00:00" name="calibre:timestamp"/>
+        <meta content="吾国与吾民" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

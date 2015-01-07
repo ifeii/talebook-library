@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cdf29d9-ad9d-4388-9785-e2b40e02af0a</dc:identifier>
+        <dc:title>生命的留言</dc:title>
+        <dc:creator opf:file-as="陆幼青" opf:role="aut">陆幼青</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-31T16:00:00+00:00</dc:date>
+        <dc:description>这是一本牵动无数读者心扉的“非常之书”。陆幼青敢于直面死亡，真正地拥有人生，是一位很了不起的勇士。他在生命即将结束时写出死亡的感觉，鼓励生命的强者，这是生命的财富！书中散文般优美的文字会打动每一位读者。</dc:description>
+        <dc:publisher>华艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801422521</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>陆幼青</dc:subject>
+        <dc:subject>生命的留言</dc:subject>
+        <dc:subject>死亡</dc:subject>
+        <dc:subject>生命</dc:subject>
+        <dc:subject>日记</dc:subject>
+        <dc:subject>人生</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <meta content="{&quot;陆幼青&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:15+00:00" name="calibre:timestamp"/>
+        <meta content="生命的留言" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1016</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93d544f5-0727-4654-9268-146591c2addf</dc:identifier>
+        <dc:title>彼得·潘</dc:title>
+        <dc:creator opf:file-as="詹姆斯·巴里" opf:role="aut">詹姆斯·巴里</dc:creator>
+        <dc:creator opf:file-as="詹姆斯·巴里" opf:role="aut">孙国双 图</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-30T16:00:00+00:00</dc:date>
+        <dc:description>彼得·潘，满口珍珠般的乳牙，穿一身用树叶和树浆做的衣服，一个不愿长大也永远不会长大的可爱的小男孩。
+因为害怕长大，他在出生的第一天，就从家里逃了出来，常去伦敦的肯辛顿公园游荡：如今长住在一个叫“乌有岛”的海岛上，成为一群被大人丢失的孩子们的队长。在一个夏夜里，彼得·潘飞到伦敦，趁达林太太不在家，诱使她的小女孩温迪带着两个小弟弟跟他飞回乌有岛。大家推举温迪做母亲，从此过上了童话般奇妙的生活。他们一起做了许多英勇的事，包括一次被掠一了海盗船，彼得·潘与诡计多端的海盗头子胡克决一死战，使他掉进了鳄鱼的口中……
+《彼得·潘》将荒诞幻想、仙人故事、惊险情节，运用性格刻划、心理描写、讽刺和幽默等手段纺织在一个小小的故事里。它既像一场令人眼花缭乱的马戏，又像一首狂想曲，给读者以强烈的震撼力。</dc:description>
+        <dc:publisher>哈尔滨出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806398159</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>彼得・潘</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>童年</dc:subject>
+        <meta content="{&quot;詹姆斯·巴里&quot;: &quot;&quot;, &quot;孙国双 图&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:31+00:00" name="calibre:timestamp"/>
+        <meta content="彼得·潘" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

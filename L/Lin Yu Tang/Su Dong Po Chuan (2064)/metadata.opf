@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2064</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3535123f-9a2c-45bc-8f07-83715939b4fc</dc:identifier>
+        <dc:title>苏东坡传</dc:title>
+        <dc:creator opf:file-as="林语堂" opf:role="aut">林语堂</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《苏东坡传》是林语堂最得意的作品，中国现代长篇传记开标立范之作。
+苏东坡是一个无可救药的乐天派、一个伟大的人道主义者、一个百姓的朋友、一个大文豪、大书法家、创新的画家、造酒试验家、一个工程师、一个憎恨清教徒主义的人、一位瑜伽修行者佛教徒、巨儒政治家、一个皇帝的秘书、酒仙、厚道的法官、一位在政治上专唱反调的人。一个月夜徘徊者、一个诗人、一个小丑。但是这还不足以道出苏东坡的全部……苏东坡比中国其他的诗人更具有多面性天才的丰富感、变化感和幽默感，智能优异，心灵却像天真的小孩——这种混合等于耶稣所谓蛇的智慧加上鸽子的温文。
+知道一个人，或不知道一个人，与他是否为同代人，没有关系。主要的倒是对他是否有同情的了解。归根结底，我们只能知道自己真正了解的人，我们只能完全了解我们真正喜欢的人。我认为我完全知道苏东坡，因为我了解他。我了解他，是因为我喜欢他。</dc:description>
+        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f6da5437-ce3e-49f0-b1ec-4ca948aad7ef</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787561335017</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>林语堂</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>苏东坡</dc:subject>
+        <dc:subject>苏东坡传</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>苏轼</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <meta content="{&quot;林语堂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:51+00:00" name="calibre:timestamp"/>
+        <meta content="苏东坡传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

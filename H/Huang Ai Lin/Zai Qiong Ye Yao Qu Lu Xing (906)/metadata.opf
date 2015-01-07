@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">802527d5-35de-4f37-961f-a98f79967fc6</dc:identifier>
+        <dc:title>再穷也要去旅行</dc:title>
+        <dc:creator opf:file-as="黄爱琳" opf:role="aut">黄爱琳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《再穷也要去旅行》中，一个喜欢独自上路的马来西亚女孩与读者分享旅行的快乐经历和心情。背包式的旅行有更多的惊喜和冒险，同时也有机会接触当地的人，对当地的文化及风俗可以有更进一步的了解。后来，旅行的日子久了，纪念品就越买越少，游客越多的地方就会去得越少，作者知道她对旅行的定义已经渐渐改变，心里开始了解旅行所带来的真正的意义。</dc:description>
+        <dc:publisher>上海社会科学院出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806818732</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>旅行</dc:subject>
+        <dc:subject>再穷也要去旅行:女孩背包游世界</dc:subject>
+        <dc:subject>游记</dc:subject>
+        <dc:subject>旅行，自助，日记</dc:subject>
+        <dc:subject>再穷也要去旅行</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>旅游</dc:subject>
+        <dc:subject>黄爱琳</dc:subject>
+        <meta content="{&quot;黄爱琳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="游记/Jounrey" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:26+00:00" name="calibre:timestamp"/>
+        <meta content="再穷也要去旅行" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

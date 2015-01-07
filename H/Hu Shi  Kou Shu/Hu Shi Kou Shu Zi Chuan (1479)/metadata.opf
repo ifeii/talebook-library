@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f693accf-9621-4868-b336-4cd9520adf13</dc:identifier>
+        <dc:title>胡适口述自传</dc:title>
+        <dc:creator opf:file-as="胡适 口述" opf:role="aut">胡适 口述</dc:creator>
+        <dc:creator opf:file-as="胡适 口述" opf:role="aut">唐德刚 译注</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>一般人对口述自传的了解，大抵是从唐德刚这部《胡适口述自传》开始的。这是唐德刚根据美国哥伦比亚大学“中国口述历史学部”所公布的胡适口述回忆十六次正式录音的英文稿，和唐德刚所保存并经过胡氏手订的残稿，对照参考，综合译出的。这也是唐德刚在哥伦比亚大学与胡适亲身交往、提着录音机完成的一项傲人的“口述史传工程”。
+在这里，胡适重点对自己的一生的学术作总结评价，而这评价反映出胡氏晚年的思想与他中少年期的思想简直没有什么出入。唐德刚将其英文口述译为中文后所作的注释评论，却是不可不读的好文章。这本书“传”与“注”已成为不可分割的整体，就学术价值和史料价值而言，注释部分的分量，恐怕还在传文之上。1970年代，海外史学界盛称《胡适口述自传》：“先看德刚，后看胡适。”</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563355129</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>胡适</dc:subject>
+        <dc:subject>唐德刚</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>口述历史</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>自传</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <meta content="{&quot;胡适 口述&quot;: &quot;&quot;, &quot;唐德刚 译注&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:27+00:00" name="calibre:timestamp"/>
+        <meta content="胡适口述自传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

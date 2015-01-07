@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9128fce-2e12-4cf0-a146-b71bee985302</dc:identifier>
+        <dc:title>自殺島 3</dc:title>
+        <dc:creator opf:file-as="森恒二" opf:role="aut">森恒二</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-28T16:00:00+00:00</dc:date>
+        <dc:description>「無法島」と呼ばれるこの島で、過去に一体何があったのか…主人公・セイが小さき相棒イキルと共に狩りを行う一方、ついに島からの脱出を試みる仲間が!? サバイバル極限ドラマ、衝撃の第3巻!!　2010年6月刊。</dc:description>
+        <dc:publisher>白泉社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784592146230</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>漫画</dc:subject>
+        <dc:subject>森恒二</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本漫画</dc:subject>
+        <dc:subject>人性</dc:subject>
+        <dc:subject>青年向</dc:subject>
+        <dc:subject>漫畫</dc:subject>
+        <dc:subject>自杀</dc:subject>
+        <meta content="{&quot;森恒二&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:20+00:00" name="calibre:timestamp"/>
+        <meta content="自殺島 3" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

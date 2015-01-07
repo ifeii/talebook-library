@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2054</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">763dc3fc-f5f1-4e93-af7e-bf3315a23e2d</dc:identifier>
+        <dc:title>七剑下天山</dc:title>
+        <dc:creator opf:file-as="梁羽生" opf:role="aut">梁羽生</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-02-29T16:00:00+00:00</dc:date>
+        <dc:description>《七剑下天山》是梁羽生大师的经典之作。
+讲述康熙年间“天山七剑”与清廷殊死斗争的故事。
+×　　　　　　×　　　　　　×　　　　　　×　　　　　　×　　　　　　×
+谈武侠小说，不能不谈梁羽生，不能忽略他在平淡中飘溢出来的独特韵味。就新派武侠小说而言，古龙是小字辈，金庸是后行一步的人，梁羽生则是时间上的“大哥大”。正是由于他无意闯入武林，才造成了本世纪最壮观的文化景致——武侠热。 梁羽生文学功底很深，言辞优美，描写生动，文中大量运用诗词，独树一帜。只是在情节上的描写稍逊与金庸与古龙，但其作品仍很值得一读，不愧为三大宗师之一。
+梁羽生的武侠小说，上接《儿女英雄传》以来的侠义小说和民国旧武侠小说，开创新派武侠文学；下启金庸、古龙的一片天地。他这样评价自己在武侠小说界的地位：开风气者，梁羽生；发扬光大者，金庸。
+在上世纪六七十年代，他和金庸共同扛起了新派武侠小说的大旗，“金梁并称，一时瑜亮”。梁金并世之时，曾主张“侠是下层劳动人民的智慧与品德的化身”，将侠行建立在正义、尊严、爱民的基础上，摒弃了旧派武侠小说一味复仇与嗜杀的倾向，金庸更将之提升为“为国为民，侠之大者”。
+梁羽生小说以实在的文史知识和古代诗词见称。语言文采飞扬，字里行间透出浓郁的书卷气，故事中常常将诗词歌赋、民歌俗语点缀其间。他的小说技法以传统继承为主，多用章回小说的形式铺张故事，小说回目意境深远，对仗精巧，情节推展明显具有怡荡有致的韵律感，叙事中也带有明显的说书人的口气。其武侠小说中的人物道德色彩浓烈，正邪严格区分。他的武侠作品，每一部都有明确的历史背景，小说情节构置巧妙、稳厚绵密。有人认为梁羽生小说的缺憾在于“乏味”二字，究其原因，可能还是因为梁先生始终保有一种“正统”文人的姿态。梁先生自己也说：“可能我也犯过“离奇 ”的毛病。但我的作品中“离奇”不是主流，不是我的风格”。</dc:description>
+        <dc:publisher>广东旅游出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bc7605ef-e3d0-414d-8362-943ad2ef953d</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787805216461</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>梁羽生</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>武侠小说</dc:subject>
+        <dc:subject>七剑下天山</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;梁羽生&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:43+00:00" name="calibre:timestamp"/>
+        <meta content="七剑下天山" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

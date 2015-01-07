@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43492c7a-e93e-4083-bdde-b121151f236c</dc:identifier>
+        <dc:title>娱乐至死</dc:title>
+        <dc:creator opf:file-as="尼尔·波兹曼" opf:role="aut">尼尔·波兹曼</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《娱乐至死》是对20世纪后半叶美国文化中最重大变化的探究和哀悼：印刷术时代步入没落，而电视时代蒸蒸日上；电视改变了公众话语的内容和意义；政治、宗教、教育和任何其他公共事务领域的内容，都不可避免的被电视的表达方式重新定义。电视的一般表达方式是娱乐。一切公众话语都日渐以娱乐的方式出现，并成为一种文化精神。一切文化内容都心甘情愿地成为娱乐的附庸，而且毫无怨言，甚至无声无息，“其结果是我们成了一个娱乐至死的物种”。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563344970</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>传媒</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>传播学</dc:subject>
+        <dc:subject>娱乐至死</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>媒介</dc:subject>
+        <dc:subject>娱乐</dc:subject>
+        <meta content="{&quot;尼尔·波兹曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文化" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:54:10+00:00" name="calibre:timestamp"/>
+        <meta content="娱乐至死" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

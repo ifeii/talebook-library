@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d4d814c-141c-4d18-80ce-d778be2baddb</dc:identifier>
+        <dc:title>艳阳天</dc:title>
+        <dc:creator opf:file-as="亦舒" opf:role="aut">亦舒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《艳阳天》内容简介：故事的女主角周从心是个弃婴，从小被人收养，长大后一个偶然机会得到一本护照，因相貌与护照主人十分相似，从心决定冒名顶替，去美国闯一闯。到美国之后从心孤身奋斗，住廉租屋，在茶餐厅做女侍，后来在机缘巧合之下参加华裔小姐选举，在总决赛中荣获亚军。因其相貌出众，身世成谜，在媒体的推波助澜之下，从心名声大噪。从心低调、内敛、自重自爱，一步步从无到有辛酸打拼，功成名就的她看透世事，心中清明。成名之后，追求者纷至沓来，从心不骄纵，知进退，懂分寸，能够认清自己的位置和价值。她拒绝了富家公子温士元的追求，手眼通天的陆兆洲劝她息影，让她专心陪他，她也一口回绝。</dc:description>
+        <dc:publisher>中国妇女出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787512703339</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3357472c-ae52-4103-894d-8a899c27a59a</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>亦舒</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>香港</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>艳阳天</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>师太</dc:subject>
+        <meta content="{&quot;亦舒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:33:39+00:00" name="calibre:timestamp"/>
+        <meta content="艳阳天" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

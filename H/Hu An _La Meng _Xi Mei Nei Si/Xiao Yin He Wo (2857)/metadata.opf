@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2857</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c625778e-06f7-4b25-857c-2555c4d4b771</dc:identifier>
+        <dc:title>小银和我</dc:title>
+        <dc:creator opf:file-as="胡安·拉蒙·希梅内斯" opf:role="aut">胡安·拉蒙·希梅内斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《小银和我》娓娓道来的是作者与一头毛驴（小银）齿唇相依的真挚的情感，这种情感的纯度和浓度只能在宗教之中才能体会得到。小银是作者的兄弟，朋友，或者孩子。他们亲密无间。在作者眼里，小银：毛茸茸的小银玲珑而温顺，外表是那样的柔软，软的通身像一腔纯净的棉絮，没有一根骨头。唯有一双宝石般发亮的眼珠，才坚硬得像两颗精美明净的黑水晶的甲虫……月样的银白，钢样的坚强。他们相依为命，一同走过美丽的原野、村庄、山岗、教堂、大街、小巷……走过诗人的故乡——西班牙的韦尔瓦省的摩格尔，那也是诗人的最后的安息之地。这是一组西班牙南方的风情画。也是献给小银的一首长长的抒情诗。希梅内斯一会儿喃喃低语，一会儿欣喜若狂。他注视小银的目光那样柔和、那样深情、那样迷恋、那样宁静……</dc:description>
+        <dc:publisher>浙江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787533928353</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>西班牙</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>希梅内斯</dc:subject>
+        <dc:subject>西班牙文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>童书</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <meta content="{&quot;胡安·拉蒙·希梅内斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:30+00:00" name="calibre:timestamp"/>
+        <meta content="小银和我" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

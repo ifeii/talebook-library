@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e35c88a4-e9ea-4cfc-b788-6c39a4a3658a</dc:identifier>
+        <dc:title>大爱晚成</dc:title>
+        <dc:creator opf:file-as="金陵雪" opf:role="aut">金陵雪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>女性情感心理小说，继《相亲以后》。
+薛葵：冰雪聪明、妙语连珠，工作于某生物研究所，大智若愚、大巧若拙的性格使她无论在职场或生活中，都如鱼得水。卓正扬：长在部队大院、特种兵出身、自创明星企业的汽车业新贵，人前冉冉升起的商界精英，人后对恋人温柔宠溺的个性男人。
+薛葵的上司给她安排了一场相亲，薛葵刻意打扮成一个梳公主头穿雪纺裙配大胸花的恶俗女人，让卓正扬无论如何都入不了眼，匆匆告别，从此各奔东西互不相干；再遇薛葵时，卓正扬看到的是一个机巧细思、语带机锋、咄咄逼人的女子，将他高高在上、老谋深算的姑姑逼得避无可避；再然后，看见的是那个和父亲在一起时会笑意盈盈、控制场面的孝顺女儿。冰冷，热情，机智，聪慧，妙语连珠的薛葵丰富了卓正扬一直以来单调划一的生活，她到底还有多少面是他不知道的？风光无两的薛葵背后，上司绞尽脑汁琢磨如何能挤兑她，卓正扬由冷到热步步追求让她渐渐害怕，卓正扬的死党展开插科打诨不断恶作剧，心怀鬼胎的极品女人沈西西对她变态的蔑视与嫉妒，父母视若珍宝的表象之下引而不发的不满，十五岁那年隐痛的过去与贪婪。自己喜欢的总是无法克服过去的阴影，自己想摆脱的又总是纠缠不放……</dc:description>
+        <dc:publisher>中国城市出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787507420029</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>大爱晚成</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>金陵雪</dc:subject>
+        <dc:subject>现代都市</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>治愈系</dc:subject>
+        <dc:subject>晋江</dc:subject>
+        <meta content="{&quot;金陵雪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:28+00:00" name="calibre:timestamp"/>
+        <meta content="大爱晚成" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

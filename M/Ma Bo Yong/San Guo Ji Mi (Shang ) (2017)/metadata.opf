@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf6ab6d3-8b86-464c-971d-9ca34010f69a</dc:identifier>
+        <dc:title>三国机密（上）</dc:title>
+        <dc:creator opf:file-as="马伯庸" opf:role="aut">马伯庸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+        <dc:description>东汉末年，天下大乱。曹操迎汉献帝至许都，此后，“奉天子以令不臣”，逐渐集军权、政权于一身，开始了自己政治生涯的新篇章。以伏皇后、杨彪、唐姬为首的一批效忠汉室的志士谨遵献帝临终前嘱托，从温县司马防家秘密迎立献帝的同胞弟弟刘平入宫。从此，展开了与满宠、郭嘉、荀彧为首的曹营一轮轮惊险紧张的搏杀。刘平终究能不能力挽狂澜？官渡之战，胜家真的是曹操吗？究竟谁在幕后操纵三国的历史走向？</dc:description>
+        <dc:publisher>江苏人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">701f1685-032c-4864-b652-bdc9e9455714</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787214078919</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>马伯庸</dc:subject>
+        <dc:subject>三国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>祥瑞御免</dc:subject>
+        <dc:subject>阴谋论</dc:subject>
+        <dc:subject>亲王</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <meta content="{&quot;马伯庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:14+00:00" name="calibre:timestamp"/>
+        <meta content="三国机密（上）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

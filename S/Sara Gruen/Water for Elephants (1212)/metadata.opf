@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2f1bca5-6bb9-40fb-beb3-3a8389f4e8d1</dc:identifier>
+        <dc:title>Water for Elephants</dc:title>
+        <dc:creator opf:file-as="Sara Gruen" opf:role="aut">Sara Gruen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-08T16:00:00+00:00</dc:date>
+        <dc:description>An atmospheric, gritty, and compelling novel of star-crossed lovers, set in the circus world circa 1932, by the bestselling author of  Riding Lessons .
+
+ When Jacob Jankowski, recently orphaned and suddenly adrift, jumps onto a passing train, he enters a world of freaks, drifters, and misfits, a second-rate circus struggling to survive during the Great Depression, making one-night stands in town after endless town. A veterinary student who almost earned his degree, Jacob is put in charge of caring for the circus menagerie. It is there that he meets Marlena, the beautiful young star of the equestrian act, who is married to August, the charismatic but twisted animal trainer. He also meets Rosie, an elephant who seems untrainable until he discovers a way to reach her.
+
+  Beautifully written,  Water for Elephants  is illuminated by a wonderful sense of time and place. It tells a story of a love between two people that overcomes incredible odds in a world in which even love is a luxury that few can afford.</dc:description>
+        <dc:publisher>Algonquin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781565125605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>SaraGruen</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <meta content="{&quot;Sara Gruen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="67" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:15+00:00" name="calibre:timestamp"/>
+        <meta content="Water for Elephants" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

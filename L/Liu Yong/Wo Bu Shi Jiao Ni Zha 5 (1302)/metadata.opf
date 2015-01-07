@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c5f79a1-0f55-4a98-9a5b-c3c4d0cbd89e</dc:identifier>
+        <dc:title>我不是教你诈5</dc:title>
+        <dc:creator opf:file-as="刘墉" opf:role="aut">刘墉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是著名畅销书作家刘墉《我不是教你诈》系列之最新力作。
+刘墉先生在这本长久经营、精心写成的新书中，以大量令人震惊的材料，披露了当今医疗界很多不为人知的内幕，告诉你医师药师不希望你知道的事。全书共14章，展开了“医”、“药”、“疗”、“补品”四大项专题讨论，直面医、疗、药、检的虚伪、无良商人的卑劣、医疗体系的疏失、贪官污吏的包庇，以期唤起广大民众应有的警觉，促进社会教化，净化道德人心。其犀利如刀的文笔，鞭辟人里的批判，充分展现了刘埔先生博大的生命关怀精神。
+如同《我不是教你诈》前面4集，本书每章都有一个生动的故事开场，接下来则是深入讨论的“想一想”，像剥竹笋一样，一层层剥开，一层层分析。但是为了更实用。在“想一想”之后还有“良心的建议”——我不是教你诈，是教你认清世相，认识别人的诈，以免吃亏上当，甚至误了性命。
+《我不是教你诈》系列问世以来，深受广大读者欢迎，热销近400万册。</dc:description>
+        <dc:publisher>漓江出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540739782</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">02f988da-0b07-45dc-8194-0b9d41b7d749</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>刘墉</dc:subject>
+        <dc:subject>处世</dc:subject>
+        <dc:subject>我不是教你诈5</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>医药</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>处事</dc:subject>
+        <dc:subject>我不是教你诈</dc:subject>
+        <meta content="{&quot;刘墉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:19+00:00" name="calibre:timestamp"/>
+        <meta content="我不是教你诈5" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

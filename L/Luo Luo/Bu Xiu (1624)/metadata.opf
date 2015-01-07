@@ -6,18 +6,28 @@
         <dc:title>不朽</dc:title>
         <dc:creator opf:file-as="落落" opf:role="aut">落落</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-08-12T16:00:00+00:00</dc:date>
-        <dc:description>每年会有一次，异常的低谷，改变先前生活方式，没有办法做任何事情，坐在阳台上被太阳晒得睁不开眼睛，连觉得口渴也没法起身倒水的，失意。&#13;
-　　--所以我不知道如何开口。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2007-11-30T16:00:00+00:00</dc:date>
+        <dc:description>落落在《不朽》中，记录了“80后”这代人的成长轨迹，“所有过去发生过的事情，在我的记忆中它们留下的形状。每个人的成长中能碰到各种美好或不美好的记忆，小时候被委屈的零星小事，忙碌的父母，同为独生子女的我们放学后空荡荡的家，机器猫，小霸王学习机……我都将它们记载下来，以示回忆的痕迹。希望可以和所有曾有过同样经历和感受的人用共同的心情来温习那些带有缺口却依旧温暖的记忆，因为记忆永远不朽。”
+黑夜中分享眼睛，告别时分享遗忘，天涯分享边界，花朵分享各自的芬芳。让那些不朽，变成须臾，彼此分享。而所有须臾，化为不朽。累积永恒。成为柔软的这个世界。
+——落落</dc:description>
+        <dc:publisher>长江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787535435590</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>现代·当代</dc:subject>
+        <dc:subject>落落</dc:subject>
+        <dc:subject>不朽</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>青春文学</dc:subject>
+        <dc:subject>80后</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>文学</dc:subject>
         <meta content="{&quot;落落&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:02:45.499657+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:36+00:00" name="calibre:timestamp"/>
         <meta content="不朽" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

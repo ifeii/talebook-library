@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed95f702-5b62-469b-9c29-a93d22e397fb</dc:identifier>
+        <dc:title>正义论</dc:title>
+        <dc:creator opf:file-as="约翰·罗尔斯" opf:role="aut">约翰·罗尔斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-31T16:00:00+00:00</dc:date>
+        <dc:description>自由主义中的保守派只能接受形式上的平等，也就是法律面前人人平等的原则；而自由平等主义者则表现出对于实质平等的强烈关怀。罗尔斯在《正义论》当中提出了关于正义的两条原则：第一条是所谓平等的自由原则，即每个人应该在社会中享有平等的自由权利；第二条原则包括差别原则与机会平等原则。前者要求在进行分配的时候，如果不得不产生某种不平等的话，这种不平等应该有利于境遇最差的人们的最大利益，就是说，利益分配应该像处于不利地位的人们倾斜；后者要求将机会平等的原则应用于社会经济的不平等，使具有同等能力、技术与动机的人们享有平等的获得职位的机会。煌煌50万言的文字，便是围绕这两个原则展开的。</dc:description>
+        <dc:publisher>中国社会科学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500402442</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>罗尔斯</dc:subject>
+        <dc:subject>政治哲学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>正义论</dc:subject>
+        <dc:subject>政治学</dc:subject>
+        <dc:subject>伦理学</dc:subject>
+        <dc:subject>正义</dc:subject>
+        <dc:subject>法学</dc:subject>
+        <meta content="{&quot;约翰·罗尔斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="24" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:48+00:00" name="calibre:timestamp"/>
+        <meta content="正义论" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

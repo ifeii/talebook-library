@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b28834da-1f91-41d6-81a3-a3ce3be04c71</dc:identifier>
+        <dc:title>Moby Dick</dc:title>
+        <dc:creator opf:file-as="Herman Melville" opf:role="aut">Herman Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-30T16:00:00+00:00</dc:date>
+        <dc:description>在线阅读本书
+
+  A novel that explores the darkest depths and brightest hopes in the souls of men,  Moby-Dick  is an impassioned drama of the ultimate human struggle that the  Atlantic Monthly  called "the greatest of American novels."</dc:description>
+        <dc:publisher>Signet Classics</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451526991</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Melville</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>白鲸</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;Herman Melville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="26" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:51+00:00" name="calibre:timestamp"/>
+        <meta content="Moby Dick" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

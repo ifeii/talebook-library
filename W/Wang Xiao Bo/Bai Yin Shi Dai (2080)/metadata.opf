@@ -6,17 +6,27 @@
         <dc:title>白银时代</dc:title>
         <dc:creator opf:file-as="王小波" opf:role="aut">王小波</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-10-29T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt; 《白银时代》是《时代三部曲》之二。&lt;br&gt; 这是由一组虚拟时空的作品构成的长篇。这组作品写的是本世纪长大而活到下世纪的知识分子,在跨世纪的生存过程中,回忆他们的上辈、描述他们的上辈、描述他们自己的人生。与其说这是对未来世界的预测,不如说是现代生活的寓言,是反乌托邦故事。主人公生活的未来世界不仅不比现在更好,反而变本加厉地发展了现代生活中的荒谬。知识分子作为个体的人,被抛入日益滑稽的境地里。作者用两套叙述,在一套叙述中,他描写蹲派出所、挨鞭刑的画家、小说家,以及他们不同寻常的爱情;另一套叙述,则描写他自己作为未来的史学家,因为处世要遵循治史原则而犯下种种“错误”,最后他回到原来的生活、身分,成了没有任何欲望的“正常人”。这两套叙述时时交叉、重合。在所谓的写实与虚构的冲突里,作者创造出任由他穿插、反讽、调侃和游戏性分析的情境来。&lt;br&gt; 《黄金时代》、《白银时代》和《青铜时代》是王小波作品的精华。 “时代三部曲”表面上是王小波作品的合集,每部之间似乎没有什么联系,但其实是有一个逻辑顺序的。这个逻辑顺序就是:《黄金时代》中的小说写现实世界;《白银时代》中的小说写未来世界;《青铜时代》写的故事都发生在过去。&lt;/p&gt;</dc:description>
-        <dc:publisher>陕西师范大学出版社</dc:publisher>
+        <dc:date>1997-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《白银时代》是《时代三部曲》之二。这是由一组虚拟时空的作品构成的长篇。这组作品写的是本世纪长大而活到下世纪的知识分子，在跨世纪的生存过程中，回忆他们的上辈、描述他们的上辈、描述他们自己的人生。与其说这是对未来世界的预测，不如说是现代生活的寓言。</dc:description>
+        <dc:publisher>花城出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536025097</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">cdbc10be-2cfe-4580-a007-683c6bdc82a3</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>王小波</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>白银时代</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>当代</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>经典</dc:subject>
         <meta content="{&quot;王小波&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:10:31.043845+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:04+00:00" name="calibre:timestamp"/>
         <meta content="白银时代" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

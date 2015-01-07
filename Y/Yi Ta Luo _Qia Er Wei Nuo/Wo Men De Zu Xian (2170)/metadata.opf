@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1aad6e5f-7a2a-4963-8870-a8a37d9e8312</dc:identifier>
+        <dc:title>我们的祖先</dc:title>
+        <dc:creator opf:file-as="伊塔洛·卡尔维诺" opf:role="aut">伊塔洛·卡尔维诺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-31T16:00:00+00:00</dc:date>
+        <dc:description>卡尔维诺钟爱童话这一艺术形式，熟稔童话的特征、手法，自然也偏爱在小说中运用童话的手法来写现实的人和事。《我们的祖先》是这一艺术手法占主导地位的标志。
+《我们的祖先》三部曲，由《分成两半的子爵》（1952）、《树上的男爵》（1957）、《不存在的骑士》（1959）三部小说组成。 三部曲没有一个共同的人物或共同的情节脉络来把它们连缀；但共同的思想内涵，共同的艺术探索，把它们合成一个有机的整体，即这三部小说都采用童话的手法，来表现当代社会里的人被摧残，苦苦追求自身的完整性的遭际。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544704663</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>卡尔维诺</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>我们的祖先</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>伊塔洛・卡尔维诺</dc:subject>
+        <dc:subject>意大利文学</dc:subject>
+        <meta content="{&quot;伊塔洛·卡尔维诺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:27+00:00" name="calibre:timestamp"/>
+        <meta content="我们的祖先" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
