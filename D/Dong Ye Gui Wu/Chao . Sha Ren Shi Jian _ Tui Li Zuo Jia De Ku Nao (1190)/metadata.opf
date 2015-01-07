@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19e77a45-c2c5-45af-a9b3-6e84a48db34b</dc:identifier>
+        <dc:title>超. 殺人事件: 推理作家的苦惱</dc:title>
+        <dc:creator opf:file-as="東野圭吾" opf:role="aut">東野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-11T15:11:52+00:00</dc:date>
+        <dc:description>◎2002年「這本推理小說了不起！」第五名
+◎2001年「週刊文春推理小說BEST10」第八名
+締造史上「五冠王」記錄暢銷書天王
+直木獎作家東野圭吾的幽默獻禮！
+日本暢銷書天王東野圭吾生花妙筆，直指文學界各種匪夷所思怪現象。
+八篇既諷刺又爆笑的「推理文壇大小牌現形記」！
+面臨報稅危機的推理作家、
+煩惱筆下偵探最終該如何收尾的推理作家、
+被要求將故事篇幅加巨的推理作家……，
+東野圭吾針對日本出版界的現況提出質疑，
+令人捧腹大笑的辛辣短篇集。
+小說家為何要寫出與故事情節無關，又瑣碎嘮叨的冗長敘述？
+為了騙稿費？不，他們另有所圖……
+轟動推理小說界的驚人詭計，到底是以多麼可笑的方式誕生的？
+作家嘔心瀝血想出來的？不，他們另有秘方……
+令沒沒無聞的新人作家一夕走紅的神奇捷徑是什麼？
+努力寫出好作品？不，他們令有驚人之舉……
+添加大量科學知識的推理小說火紅當熱，讀者看的到底是小說還是百科全書？
+新書大量出版，沒時間看書卻要寫書評的書評家，寫出來的文章到底可不可信？
+東野圭吾更為用心設計的，就是如何將業界的荒謬現象，以誇張的方式來加以突顯，配合上最出人意表的結局，最終成為一篇具有黑色幽默的小說。
+一個認識東野圭吾的全新角度！
+當事情到達極點而無法再承受更嚴重的脫軌行為時，。東野圭吾以最惡搞的情況做為結局，荒謬也就因而從極限處出現。－－凌徹（推理小說研究者）</dc:description>
+        <dc:publisher>獨步</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954467</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>讽刺</dc:subject>
+        <dc:subject>短篇集</dc:subject>
+        <meta content="{&quot;東野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:58+00:00" name="calibre:timestamp"/>
+        <meta content="超. 殺人事件: 推理作家的苦惱" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

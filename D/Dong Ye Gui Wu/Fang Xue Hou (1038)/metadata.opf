@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25bed86c-b198-49ac-a658-32cfaab738c3</dc:identifier>
+        <dc:title>放學後</dc:title>
+        <dc:creator opf:file-as="東野圭吾" opf:role="aut">東野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-25T16:00:00+00:00</dc:date>
+        <dc:description>「你在什麼時候會恨一個人？」
+因為變調的愛情、破裂的友誼，或是無地自容的屈辱？
+然而，對她們來說，當美麗、純粹、真實的事物被破壞，重視的回憶和夢想被摧毀時，恨意便開始萌發，恣意地蔓延開來......
+推理評論家傅博專文導讀｜第三十一屆江戶川亂步獎得獎作品
+星期天的早晨，我隨著人潮站在月台邊緣，冷不防有人從旁撞來。我失去平衡，差點跌落鐵軌。隨後，列車疾駛而過。
+星期一放學後，我游完泳進入淋浴間沖洗，瞥見拳頭大小的白色盒子沉在深達腳踝的積水中。那是一百伏特家用延長線的插座，另一端連結在電源上。為什麼我還能平安無事？檢查電源箱，保險線路顯示電流量過載而短路彈開。
+星期二放學後，一件從高處墜下的黑色物體，落在我剛才走過的地方，摔了個稀巴爛。那是一盆天竺葵。再早個幾秒落下，那就會是一盆血紅的天竺葵了。
+星期四放學後，一具冰冷的屍體倒臥在體育場的更衣室角落，只不過，那名遭毒斃的男性不是我，而是學校的輔導部主任村橋。
+村橋是被人殺死的嗎？凶手和覬覦我生命的會是同一個人嗎？怎樣的恨意會轉換成冷血的殺意，在生活單純的女子中學裡取人性命？
+青春的歡笑與憂愁、人性的幽微與黑暗
+本格推理的趣味與魅力、欲晉身推理文壇的雄心與狂熱
+都在《放學後》一書中徹底展現！
+《嫌疑犯X的獻身》、《白夜行》、《流星之絆》作者
+當代最火紅的日本推理作家　東野圭吾熱情滿溢的起點之作！</dc:description>
+        <dc:publisher>臉譜</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789862350072</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>江户川乱步奖</dc:subject>
+        <dc:subject>放学后</dc:subject>
+        <meta content="{&quot;東野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:39+00:00" name="calibre:timestamp"/>
+        <meta content="放學後" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">952dce05-71ca-405e-9de7-daf79be6a02b</dc:identifier>
+        <dc:title>三剑客</dc:title>
+        <dc:creator opf:file-as="大仲马（Alexandre Dumas）" opf:role="aut">大仲马（Alexandre Dumas）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-13T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;年轻的达达尼昂从外省来到巴黎效忠法王路易十三，与三名火枪手志同道合，结成生死交，共同对付国王的对头——红衣主教黎希留的卫队，并且屡战屡胜。在错综复杂的政治旋涡中，这四个伙伴遇到主教密探——心狠手辣、诡计多端的女子米拉迪，双方反复较量，达达尼昂一次次绝处逢生，幸免于难，但他的情妇却惨死她手。达达尼昂最终是否把法王后送给情人白金汉公爵的钻石项链及时交还给王后呢？书中男女主人公各自的结局又是如何呢？&lt;/span&gt;&lt;div&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;(&lt;/span&gt;&lt;span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;子乌注：从译序来看，这个版本应该是罗国林与王学文合译的译林版——封面我用的是98年版的封面，但是ISBN是95年版的——，但是很奇怪的，目录中似乎对不太起来，不知道是否是台版的翻译有些不同。另外，有人评价说该译本的前三十回是罗国林翻译，质量比之后王学文翻译的好很多，未阅读，不确定。&lt;/font&gt;&lt;/span&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787805675329</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>大仲马</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>世界名著</dc:subject>
+        <dc:subject>三剑客</dc:subject>
+        <dc:subject>外国名著</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>法国文学</dc:subject>
+        <meta content="{&quot;大仲马（Alexandre Dumas）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="38" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:16+00:00" name="calibre:timestamp"/>
+        <meta content="三剑客" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">923413e8-59f4-487f-8736-6dd3bab3791d</dc:identifier>
+        <dc:title>乔布斯的秘密日记</dc:title>
+        <dc:creator opf:file-as="丹尼尔·莱昂斯" opf:role="aut">丹尼尔·莱昂斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>美国《福布斯》杂志资深编辑丹尼尔·莱昂斯，假冒苹果公司总裁史蒂夫·乔布斯，通过多年来对高科技业的深刻了解，以及风趣幽默的文笔，把近年来高科技业的酸甜苦辣，都融入了这本书中。
+在书中，莱昂斯以犀利讽刺的文笔以及惟妙惟肖的模仿，巧妙地揭露出美国科技产业中许多真实的故事与新闻事件，不仅在网络上引起轩然大波，甚至还骗过了很多人！其讽刺的文笔吸引了一群忠实读者，包括乔布斯本人和比尔·盖兹，都爱偷偷读他的文章。
+这本书，有精心安排的情节，以诙谐语调模拟苹果公司总裁，如何应付现实生活中遭遇的麻烦……苹果公司的创新文化、iPod的传奇内幕、令人羡慕的分红配股……书中有着比传统媒体更贴近真实的描述。
+书中部分内容根据真人真事，但各角色的对话、想法还有心态，都属虚构，以增加故事的可读性。这是美国科技业最令人捧腹的作品。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f00e8b96-1a57-4316-80ff-c95b00a1f938</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508617725</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>乔布斯</dc:subject>
+        <dc:subject>苹果</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>讽刺</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;丹尼尔·莱昂斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:10+00:00" name="calibre:timestamp"/>
+        <meta content="乔布斯的秘密日记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

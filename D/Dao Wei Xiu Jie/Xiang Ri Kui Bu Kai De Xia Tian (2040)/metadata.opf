@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">011a012b-2300-4a36-bf0d-75b3d158eb79</dc:identifier>
+        <dc:title>向日葵不開的夏天</dc:title>
+        <dc:creator opf:file-as="道尾秀介" opf:role="aut">道尾秀介</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>強烈的視覺感和極佳的節奏，充滿驚異和恐怖的閱讀驚豔！
+寧靜的小鎮發生了一連串虐殺貓狗事件，要帶作業給請假同學的主角，將會行經有貓狗屍體的地點，而盡頭等著他的又是什麼？
+那年夏天，我同學Ｓ君上吊，死了，
+我明明看到他的屍體，大家卻說我騙人……
+喂，你相信投胎轉世嗎？
+那……那個死掉的Ｓ君，
+七天之後，竟然在我房裡現身啦！
+只不過，他變成了一個……
+我是個小學四年級的男生，我跟我那三歲的妹妹美加，
+在那年暑假經歷了一場前所未有的恐怖大冒險！
+無法分類的小說．不能解釋的情節．嚴禁洩露的謎底
+且看道尾秀介如何使出絕．超．技．巧！
+打造全新風格的驚悚超現實新本格推理??
+驚爆日本推理界．期待度最高的王牌──道尾秀介
+榮獲2007年「這本推理小說了不起！」
+「本格推理」之「作家別得票數」第1名。</dc:description>
+        <dc:publisher>獨步文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866954900</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>道尾秀介</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>向日葵不開的夏天</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>新本格</dc:subject>
+        <meta content="{&quot;道尾秀介&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:34+00:00" name="calibre:timestamp"/>
+        <meta content="向日葵不開的夏天" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

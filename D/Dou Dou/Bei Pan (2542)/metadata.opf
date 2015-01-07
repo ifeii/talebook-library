@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">251e5692-f255-4000-80fd-f6e550b6a030</dc:identifier>
+        <dc:title>背叛</dc:title>
+        <dc:creator opf:file-as="豆豆" opf:role="aut">豆豆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:31+00:00</dc:date>
+        <dc:description>某公司总经理宋一坤突然被捕。没有人想到这是他为了保全实力，自己把自己策划人狱。年轻聪颖的女记者夏英杰受朋友之托前去探监，竟然对宋一坤一见钟情，不能自拔。于是自己策划自杀。她以死相威胁，终于赢得了宋一坤对她的臣服。然而宋一坤此时已囊空如洗，他真的愿意就此把男人的生存筹码押在一个女人身上？宋一坤开始策划一个庞大工程。他在夏英杰完成了长篇小说创作后，携书稿去了一趟北京，途中安排好友方于云研制一项专利，并顺便对江州皮革厂的地理位置考察了一番，又插空去了一趟上海。然而，不久方子云的合作伙伴携600万巨款潜逃，受骗农民中不断发生流血事件，方子云受良心责备自杀了。夏英杰了解内情后大为震惊，当机立断胁迫好友叶红军倒戈，秘密退还赃款，亲手使她自己的心上人宋一坤精心策划的即将合龙的工程瞬间陷人绝境。面对众叛亲离的局面，宋一坤不得不背叛自己。
+这是一个发生在世纪之交的惊心动魄的故事！这是一部大变革时期的灵魂仟悔录！在弥漫着情爱与血腥的商战中，只有人类良知与正义的光芒四射！</dc:description>
+        <dc:publisher>群众出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787501421695</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>豆豆</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>背叛</dc:subject>
+        <dc:subject>社会小说</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>现实</dc:subject>
+        <dc:subject>生存</dc:subject>
+        <meta content="{&quot;豆豆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:30:53+00:00" name="calibre:timestamp"/>
+        <meta content="背叛" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

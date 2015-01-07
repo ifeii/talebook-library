@@ -1,24 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1186</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">998a76ec-cb8c-4127-b9f0-ba5f87dfa720</dc:identifier>
         <dc:title>变身</dc:title>
         <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-10T11:53:56+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;《变身》属于一个写作意外，东野圭吾称之为自己“唯一有灵感闪现”之作，评论界将这部作品与《分身》、《平行世界的爱情故事》并称为“东野私小说三部曲”，纯情凄美的爱情故事令万千人潸然泪下…… 即使我变得不再是我，即使我已变身为嗜血的凶徒，即使整个世界已变成废墟，我仍然会用全部生命来爱你，至死不渝…… 灿烂羞涩的阿惠与善良朴实的纯一目光第一次相撞，便各自从对方眼睛里感觉到了心仪已久的凝望与承诺。他们的爱情令人痴痴神往，唯美清新得令人荡气回肠。一声突如其来的枪响，纯一右脑中弹。醒来之后，他已奇迹般获救，但竟心性大变，有如横遭诅咒一般灵魂全然被残暴嗜血主宰。 一个找不到自己、无法控制灵魂之人内心的惶恐和凄凉，令人心碎。纯一发誓要找回自己，找回然而植给自己的右脑的源头。几经周折，当他真正揭开一道骇人听闻的黑暗之门时，他已不可挽回地滑向了无边的深渊，唯一的牵挂只剩下美丽如花的阿惠和相守终生的约定……&lt;/p&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>成濑纯一：普通的相貌、普通的经历、普通的工作、普通的性格，典型的到哪里都随处可见的那种人。工作两年，不好不坏，性格懦弱……唯一比较拿手的就是画画，并在买画材的时候认识了在油画店工作的小惠，然后象普通人一样陷入热恋。本该充满着幸福与宁静的生活，却被始料不及的一宗抢劫事件打乱——为了救一名小女孩，成濑被抢劫犯用枪射杀！
+醒来后的成濑被告知由于发生了亿分之一的奇迹，医院用刚好死去的别人的右脑移植到他遭枪击，受到破坏的右脑，手术奇迹般地成功。苏醒过来后，虽说有医生的详细解说和安慰，但自己的大脑有一半是别人的，有别人存在于自己的脑中。带着这份疑问的成濑忐忑不安地回到阔别已久的工作岗位和爱人身边，可慢慢地，他发现自己的身心正逐步发生一些变化，于是他决定要调查捐赠者的生前事迹以及为何自己会越来越暴躁的真正原因……
+《变身》属于一个写作意外，东野圭吾称之为自己“唯一有灵光闪耀”之作，评论界将这部作品与《分身》、《平行世界的爱情故事》并称为“东野私小说三部曲”。</dc:description>
+        <dc:publisher>南海出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787544244848</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>CNTY:JAPAN</dc:subject>
-        <dc:subject>ZDC:TLJS</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>悬疑</dc:subject>
         <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="东野圭吾" name="calibre:series"/>
         <meta content="20" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2012-03-10T11:53:56+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:55+00:00" name="calibre:timestamp"/>
         <meta content="变身" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

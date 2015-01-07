@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">367d0106-a4d7-4af5-9533-d5e7c2c9ee49</dc:identifier>
+        <dc:title>茅山后裔1</dc:title>
+        <dc:creator opf:file-as="大力金刚掌" opf:role="aut">大力金刚掌</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-30T16:00:00+00:00</dc:date>
+        <dc:description>从古尸腹中发现的丝绢，竟然是明成祖朱棣举大明朝廷之力都没能窥得究竟的后晋藏宝图，而中国的传古至宝——和氏璧传国玺竟然就在宝藏之中……茅山道传人张国忠奉上级指示要写一篇批判《茅山图志》的文章，以端正大家的迷信思想，原本也是百般怀疑的他，决定亲自去找出证据来证实里面的内容只是装神弄鬼，可他万万没料到，当他遇到人家所谓的“撞鬼”事件时，运用《茅山图志》里面所说的方法去处理，还当真把“鬼”给驱逐了，原先想要找出证据证实《茅山图志》内容只是胡言乱语的行动，反倒成了《茅山图志》的证实之旅，甚至还因此挖掘出了一连串埋藏已久的千古谜题。</dc:description>
+        <dc:publisher>太白文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806804919</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7f04a230-4bc0-456f-b781-01e535b1ae0f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>茅山后裔</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>盗墓</dc:subject>
+        <dc:subject>道教</dc:subject>
+        <dc:subject>灵异</dc:subject>
+        <dc:subject>大力金刚掌</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <meta content="{&quot;大力金刚掌&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:54+00:00" name="calibre:timestamp"/>
+        <meta content="茅山后裔1" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

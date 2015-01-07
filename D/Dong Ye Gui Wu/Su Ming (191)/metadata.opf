@@ -1,31 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">191</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">6b620b8a-6949-49f1-adb6-1e627abeddf8</dc:identifier>
         <dc:title>宿命</dc:title>
         <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-04-14T16:00:00+00:00</dc:date>
-        <dc:description>SUMMARY:
-《宿命》作为东野圭吾的代表作之一，为写作生涯的分水岭。从此，他笔锋日趋老辣，文字鲜加雕琢．叙述简练凶狠，情节跌宕诡异，故事架构几至匪夷所思的地步：尤其是作品核心开始超越案件，以更宽的视野和更深的笔力关注社会、探讨人性．“人性作家”称号也由此而来。
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《宿命》作为东野圭吾的代表作之一，为写作生涯的分水岭。从此，他笔锋日趋老辣，文字鲜加雕琢．叙述简练凶狠，情节跌宕诡异，故事架构几至匪夷所思的地步：尤其是作品核心开始超越案件，以更宽的视野和更深的笔力关注社会、探讨人性．“人性作家”称号也由此而来。
 作品从主人公的孩提时代开始，涉及两代，每一个时间点的背景均不容有误，东野圭吾花费三个月制作出一份时间表．其创作之严谨可见一斑：两个二十余年来彼此敌对却又互相牵挂的宿敌，被一件突发的凶案联系到一起，他们究竟背负着怎样的宿命？</dc:description>
         <dc:publisher>南海出版公司</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787544244237</dc:identifier>
-        <dc:language>zh-CN</dc:language>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>日本</dc:subject>
-        <dc:subject>推理小说</dc:subject>
+        <dc:language>en</dc:language>
         <dc:subject>东野圭吾</dc:subject>
         <dc:subject>推理</dc:subject>
-        <dc:subject>宿命</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="东野圭吾" name="calibre:series"/>
         <meta content="10" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:20+00:00" name="calibre:timestamp"/>
         <meta content="宿命" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

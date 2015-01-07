@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b594e7dc-5755-4e5e-8dbf-e638e03fb9eb</dc:identifier>
+        <dc:title>十一字杀人</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-12T16:00:00+00:00</dc:date>
+        <dc:description>这十一个字，由地狱般的憎恨而生所有的谎言与借口，也因这十一个字而逐渐显现……
+“我可是很胆小的噢”——这是我记忆中他说过的最后一句话。
+我的男友被谋杀了。他最近一直为自己“被盯上了”而害怕。随后，在他的遗物中有一些重要的资料被盗。身为一名专写推理小说的女作家，我和编辑冬子两人开始追查事件的真相。然而，他的被杀只是一个开始，谋杀案接二连三地上演……隐藏在十一个字背后的真相到底是什么？
+我认为在推理小说中，可以寻找到和自己生活相近，同一世界观的东西。可以描绘生活中的瞬间，譬如：恋爱、工作中的小烦恼……以及幸福。我期待创造有着自己风格的娱乐。——东野圭吾</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532749522</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="东野圭吾" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:17+00:00" name="calibre:timestamp"/>
+        <meta content="十一字杀人" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

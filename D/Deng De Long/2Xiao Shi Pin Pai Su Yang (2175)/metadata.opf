@@ -6,16 +6,29 @@
         <dc:title>2小时品牌素养</dc:title>
         <dc:creator opf:file-as="邓德隆" opf:role="aut">邓德隆</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-12-14T05:18:14+00:00</dc:date>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《2小时品牌素养(第2版)》第一次系统发布有关中国企业的品牌竞争力分析报告，揭示了中国一流企业在品牌战略上面临的深重危机，提出了定位突围之道和实践方法。全书分上下两篇，上篇详细分析了定位的原理，给出定位的三种方法，并特别为中国企业走向世界指出了三条出路；下篇以王老吉品牌战略历程为例，细致论述了一个品牌打造的完整过程，并就品牌实践中的许多关键问题进行了阐述和研讨。作为兼顾理论和实践的第2版，《2小时品牌素养(第2版)》简明而完整地提供了关于品牌打造的专业知识，兼具入门工具与指导手册之效。
+
+  点击链接进入： 
+《2小时品牌素养(第3版)》</dc:description>
+        <dc:identifier opf:scheme="ISBN">9787111254713</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">f4b61737-c637-4c93-8235-1986031ef168</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>品牌</dc:subject>
+        <dc:subject>营销</dc:subject>
+        <dc:subject>定位</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>2小时品牌素养</dc:subject>
+        <dc:subject>战略</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>邓德隆</dc:subject>
         <meta content="{&quot;邓德隆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:12:05.570544+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:30+00:00" name="calibre:timestamp"/>
         <meta content="2小时品牌素养" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

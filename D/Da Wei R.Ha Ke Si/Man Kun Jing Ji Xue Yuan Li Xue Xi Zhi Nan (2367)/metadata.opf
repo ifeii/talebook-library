@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f46fb127-279b-4c04-a9a4-c0c6579f9846</dc:identifier>
+        <dc:title>曼昆经济学原理学习指南</dc:title>
+        <dc:creator opf:file-as="大卫R.哈克斯" opf:role="aut">大卫R.哈克斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《曼昆经济学原理学习指南》是学习经济学大师曼昆所著的《经济学原理》第3版的辅导书。它的特点是：每个章节都与教科书一一对应，便于对照学习；“本章复习”逐节提炼教科书中的基本原理并有所深化；“问题与简答题”、“自我测验”有助于深化理解教科书中所介绍的内容；“高深的评论性思考”则把经济学原理与时事结合在一起，强调了经济学原理的实际应用，让你把握经济学家的思考方式。</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787111143260</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>曼昆</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济学原理的学习指南</dc:subject>
+        <dc:subject>学习指南</dc:subject>
+        <dc:subject>大学教材</dc:subject>
+        <dc:subject>经济学教科书</dc:subject>
+        <dc:subject>经济管理类</dc:subject>
+        <meta content="{&quot;大卫R.哈克斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:32+00:00" name="calibre:timestamp"/>
+        <meta content="曼昆经济学原理学习指南" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

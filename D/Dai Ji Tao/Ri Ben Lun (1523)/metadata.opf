@@ -6,15 +6,29 @@
         <dc:title>日本論</dc:title>
         <dc:creator opf:file-as="戴季陶" opf:role="aut">戴季陶</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-01-14T06:49:41.957000+00:00</dc:date>
+        <dc:date>2012-07-31T16:00:00+00:00</dc:date>
+        <dc:description>日本的有識之士認為：外國人撰寫的日本文化著作中，有一部可以淩駕於《菊與刀》之上，那就是戴季陶的《日本論》。
+戴季陶憑著對日本入木三分的了解和通透的見識，刪繁就簡，自取日本神韻。在不足十萬字的篇幅中，縱論日本從皇權、國禮，到信仰、宗教；從武士、財閥，到政黨格局、兩性生活的方方面面。《日本論》不僅能說明日本的一切現象，而且能揭開構成一切現象的深層動因；不僅對中日國民性進行了大量的對比剖析，而且揭示了近代中日關係中的大量鮮為人知的歷史事實。即使在成書八十多年後的今天，《日本論》仍然是了解日本的經典之作。
+相較於當下一些人僅僅對日本的一知半解，就貿然“反日”或一味“哈日“。戴季陶的日本觀既有扎實的證據，又有理性的態度。</dc:description>
+        <dc:publisher>香港中和出版有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789881588555</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">67b6372d-79e6-40dc-a69c-77c4b30af6b2</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>文化研究</dc:subject>
+        <dc:subject>戴季陶</dc:subject>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>兵法</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>海外日本研究</dc:subject>
+        <dc:subject>社科</dc:subject>
         <meta content="{&quot;戴季陶&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:00:59.320156+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:04+00:00" name="calibre:timestamp"/>
         <meta content="日本論" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

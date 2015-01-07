@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d0153f2-c585-4a15-b184-46f64e9aadeb</dc:identifier>
+        <dc:title>蓝衣社</dc:title>
+        <dc:creator opf:file-as="丁三" opf:role="aut">丁三</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T16:00:00+00:00</dc:date>
+        <dc:description>一群黄埔学生，在山河破碎、内忧外患的大时代，甘冒杀身之祸，创建了声势浩大的秘密组织蓝衣社，短短几年时间，就一跃而为民国三大派系之首。胡宗南、桂永清、郑介民、戴笠……都从这里开始了自己的发迹。但它最终却演变成中国历史上唯一一次的法西斯化运动，因为它的创始者们坚信：只有法西斯，才能救中国。然而，群体命运的分化、权益分配的失衡、最高领袖的玩弄，以及人在历史面前的无力，最终使蓝衣社在创立七年之后不宣而散，解散后的蓝衣社分化而为三青团和军统局。
+本书翔实记录了30年代如火如荼的蓝衣社运动的兴衰历程，从崭新角度讲述了“满洲事变”（九一八事变）、民国反腐败运动、第五次围剿、“新生活运动”、汪精卫遇刺案、戴笠崛起和西安事变等重大史实，堪称中国非虚构文学的代表作品之一。</dc:description>
+        <dc:publisher>语文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802411784</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">49548e8b-66f3-4b3b-ae0f-6e698dbd7cc2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国法西斯运动</dc:subject>
+        <dc:subject>国民党</dc:subject>
+        <dc:subject>丁三</dc:subject>
+        <dc:subject>民国</dc:subject>
+        <dc:subject>民國</dc:subject>
+        <dc:subject>革命</dc:subject>
+        <dc:subject>中国国民党</dc:subject>
+        <meta content="{&quot;丁三&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:31+00:00" name="calibre:timestamp"/>
+        <meta content="蓝衣社" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57697baa-9986-47fb-9c38-1b48ab37b32a</dc:identifier>
+        <dc:title>Mostly Harmless</dc:title>
+        <dc:creator opf:file-as="Douglas Adams" opf:role="aut">Douglas Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-16T16:00:00+00:00</dc:date>
+        <dc:description>The Hitch Hiker's Guide to the Galaxy has, in what we laughingly call the past, a great deal to say on the subject of parallel universes. Very little of this is, however, at all comprehensible to anyone below the level of Advanced God, and since it is now well-established that all known gods came into existence a good three millionths of a second after the Universe began rather than, as they usually claimed, the previous week, they already have a great deal of explaining to do as it is, and are therefore not available for comment at this time...VOLUME FIVE IN THE TRILOGY OF FIVE</dc:description>
+        <dc:publisher>Picador</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780330491228</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>DouglasAdams</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <dc:subject>Douglas.Adams</dc:subject>
+        <dc:subject>english</dc:subject>
+        <meta content="{&quot;Douglas Adams&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="银河系漫游指南" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:26+00:00" name="calibre:timestamp"/>
+        <meta content="Mostly Harmless" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

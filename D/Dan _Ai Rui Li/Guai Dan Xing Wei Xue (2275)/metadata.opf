@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6063220-58f2-4a26-8b6e-eca90988aa9c</dc:identifier>
+        <dc:title>怪诞行为学</dc:title>
+        <dc:creator opf:file-as="丹·艾瑞里" opf:role="aut">丹·艾瑞里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-30T16:00:00+00:00</dc:date>
+        <dc:description>生活中我们常有莫名其妙的举动。你真的会失控？一时冲动就是没道理可言？本书作者丹·艾瑞里告诉你：错！所有的现象，背后都有经济的力量！社会当实验室，真人做小白鼠，丹·艾瑞里的这本《怪诞行为学》一语道破，用轻松幽默的方式告诉我们这是为什么，又该如何改变。他比别的所有经济学家都更好地揭示、解释了我们不可思议的行为背后的原因。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508612799</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>行为经济学</dc:subject>
+        <dc:subject>怪诞行为学</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>行为学</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>丹.艾瑞里</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <meta content="{&quot;丹·艾瑞里&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:59+00:00" name="calibre:timestamp"/>
+        <meta content="怪诞行为学" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

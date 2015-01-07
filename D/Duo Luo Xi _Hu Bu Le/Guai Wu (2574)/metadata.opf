@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2574</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f4a82bb-d4d6-42b8-89b3-639125d68114</dc:identifier>
+        <dc:title>怪物</dc:title>
+        <dc:creator opf:file-as="多萝西·胡布勒" opf:role="aut">多萝西·胡布勒</dc:creator>
+        <dc:creator opf:file-as="多萝西·胡布勒" opf:role="aut">托马斯·胡布勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T13:09:32+00:00</dc:date>
+        <dc:description>六月里的一个夜晚，狂风暴雨肆虐，天气很凉。五位年轻人聚在温暖的狄沃达蒂别墅里，这是一座临着日内瓦湖南岸的避暑山庄，颇为豪华。当中的一位，拜伦勋爵提议来一场比赛：每个人都来写一个鬼故事。他也许想像不到，他提出的这项挑战会催生一部注定比他自己的作品更有名的小说，也想像不到，玛丽•雪莱会是这部小说的作者……
+本书主要以玛丽•雪莱创造科学怪人的思想来源、精神脉络为主线，着重揭示了创造者与创造物之间的神秘关系，及创造物的孤独命运，集中展现了玛丽•雪莱与当时浪漫主义诗人雪莱的情感、婚姻生活，及与拜伦等当时英国文化圈的精英之间的思想交流、碰撞等，刻画了英国18世纪末至19世纪初整个时代的变幻和文人命运。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208078826</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>怪物</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>玛丽·雪莱</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;托马斯·胡布勒&quot;: &quot;&quot;, &quot;多萝西·胡布勒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:31:27+00:00" name="calibre:timestamp"/>
+        <meta content="怪物" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

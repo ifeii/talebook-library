@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f7ce2c8-ff84-4901-a862-b9a3ecef0c2f</dc:identifier>
+        <dc:title>天使与魔鬼</dc:title>
+        <dc:creator opf:file-as="丹.布朗" opf:role="aut">丹.布朗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-31T16:00:00+00:00</dc:date>
+        <dc:description>虔诚的上帝信徒——欧洲原子核研究组织的杰出科学家列奥纳多·维特勒毕生致力于以科学的手段证明神的存在。他和其养女、神秘妩媚的科学家维特多利亚在实验室里进行高度机密的试验，成功地制造出了一种极其强大的能量——“反物质”。
+在这个重大发现尚未对外公布时，列奥纳多在实验室里惨遭杀害，一颗眼珠被凶手挖走，胸口上赫然印着一个神秘的标记——“光照派”！更令人震惊的是，藏在地下的反物质不翼而飞。哈佛大学的符号学专家罗伯特·兰登应欧洲原子核研究组织首领之邀，前来调查这个神秘的符号。就在他到达的当天，失踪的反物质在梵蒂冈城地下某处被人发现。离开了实验室的反物质，会在二十四小时之后自行爆炸。这天正是天主教教皇选举日。来自世界各地的天主教首领会聚在梵蒂冈城，藏在地下的反物质就如同一枚定时炸弹，如不能及时找到，整个梵蒂冈城便会在顷刻间灰飞烟灭。
+形势刻不容缓，兰登与维特多利亚一起踏上了前往梵蒂冈的冒险之旅……</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020049929</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>丹·布朗</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>宗教</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>天使与魔鬼</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;丹.布朗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="丹·布朗" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:51+00:00" name="calibre:timestamp"/>
+        <meta content="天使与魔鬼" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

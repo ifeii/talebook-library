@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3d2251b-2d60-4c68-b8e6-d8b36b0c77a1</dc:identifier>
+        <dc:title>银河系漫游指南</dc:title>
+        <dc:creator opf:file-as="道格拉斯·亚当斯" opf:role="aut">道格拉斯·亚当斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-31T16:00:00+00:00</dc:date>
+        <dc:description>地球被毁灭了，因为要在它所在的地方修建一条超空间快速通道。主人公阿瑟·邓特活下来了，因为他有一位名叫福特·长官的朋友。这位朋友表面上是个找不着工作的演员，其实是个外星人，是名著《银河系漫游指南》派赴地球的研究员。两人开始了一场穿越银河的冒险，能够帮助他们的只有《银河系漫游指南》一书中所包括的无限智慧。
+旅途中，他们遇上了一批非常有趣的同伴：
+赞福德·毕博布鲁克斯：长着两个头、三条胳膊的银河大盗，他的另一个身份是银河帝国总统。
+崔莉恩：赞福德的同伙，除阿瑟·邓特之外惟一一个幸存下来的地球人。事实上，阿瑟从前认识崔莉恩，而且曾经试图勾搭人家，可惜没有成功。
+马文：天才机器人，疑心病极其重，极其沮丧，极其唠叨。
+这些人物结成一个小团队，他们将揭开一个骇人听闻的大秘密……</dc:description>
+        <dc:publisher>四川科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536457577</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>银河系漫游指南</dc:subject>
+        <dc:subject>道格拉斯・亚当斯</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>幽默</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;道格拉斯·亚当斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="银河系漫游指南" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:36+00:00" name="calibre:timestamp"/>
+        <meta content="银河系漫游指南" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
