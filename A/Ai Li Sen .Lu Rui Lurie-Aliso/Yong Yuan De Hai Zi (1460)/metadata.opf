@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f9d883c-0c40-454e-8cf4-c3c3719464f9</dc:identifier>
+        <dc:title>永遠的孩子</dc:title>
+        <dc:creator opf:file-as="艾莉森．盧瑞Lurie-Aliso" opf:role="aut">艾莉森．盧瑞Lurie-Aliso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-24T04:25:28+00:00</dc:date>
+        <dc:description>本書前九章介紹兒童文學名作家的生平，後六章則專文探討童話故事、童書插畫、童詩、兒童遊戲、兒童文學中的大自然等主題。
+作者也是普立茲獎作家艾莉森．盧瑞，多年來深入研究探索童書作家的成長軌跡，試圖解開讀者長久以來的困惑：這些童書作家的內心深處，是否都住著一個長不大的孩子？作者找出每個時代最為人熟知的童書作者，包括：《小婦人》作者艾考特、《綠野仙蹤》作者鮑姆、《哈利波特》系列作者J. K. 羅琳等，追蹤他們的生平事蹟，從中發現了一個有趣的事實──童書作家大多藉由創作兒童故事，轉化了自己生命中的悲傷、懷舊與內心掙扎的經驗。
+本書後六章則廣泛探討兒童文學相關的每一議題，從童話故事、童書插畫、童詩、兒童遊戲到兒童文學中的大自然等。《紐約書評》作者John Bayley認為此書堪稱是童書研究的經典之作。
+目錄
+前言
+第一章 醜小鴨的意涵　安徒生
+第二章 小婦人與大女孩　艾考特
+第三章 奇妙的綠野仙蹤　鮑姆
+第四章 有人在嗎？德拉梅爾的孤寂小孩　德拉梅爾
+第五章 約翰．梅斯菲爾德的歡樂盒　梅斯菲爾德
+第六章 嚕嚕米和他的朋友　楊笙
+第七章 蘇斯博士回來了　蘇斯
+第八章 哈隆與故事海　魯西迪
+第九章 哈利波特的冒險　羅琳
+第十章 童話告訴我們的話
+第十一章 男孩女孩出來玩：兒童的遊戲
+第十二章 兒童創作與閱讀的詩
+第十三章 超越文字的說服力：童書的插圖
+第十四章 魔幻森林與秘密花園：兒童文學中的自然
+第十五章 善良的壞男孩</dc:description>
+        <dc:publisher>書林</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789574452293</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae40202e-343a-4105-ae7f-132ae7eed3aa</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>2014春《儿童文学》参考书</dc:subject>
+        <dc:subject>【~】</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>儿童文学理论</dc:subject>
+        <dc:subject>童书研究</dc:subject>
+        <meta content="{&quot;艾莉森．盧瑞Lurie-Aliso&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:12:13+00:00" name="calibre:timestamp"/>
+        <meta content="永遠的孩子" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

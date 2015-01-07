@@ -1,25 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">714</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1e82124f-4ef4-4414-a4dc-44bb7c67ee38</dc:identifier>
         <dc:title>面具馆</dc:title>
         <dc:creator opf:file-as="艾西恩" opf:role="aut">艾西恩</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p style="color:red;"&gt;(子乌注：找这本书我翻遍了整个豆瓣，最终才发现，不仅书名改了，作者连笔名也换了。我看的时候作者闪苍，书名《犯罪心理学》)&lt;/p&gt;
-&lt;p&gt;　　该作品曾以《犯罪心理学》、《ID》为题、署名詹姆斯·梅里布克，闪苍在网友中引发震动——它是一部罕见的原创推理作品。&lt;/p&gt;&lt;p&gt;　　美国西部城市波特兰陷入惊恐之中——杀人案接踵而至，每一位受害者都被剥去了脸皮，尸体上都留下了铁钉、硬币等“记号”，身旁还有一行血字：“面具即将归来！”&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-30T16:00:00+00:00</dc:date>
+        <dc:description>该作品曾以《犯罪心理学》、《ID》为题、署名詹姆斯・梅里布克，闪苍在网友中引发震动――它是一部罕见的原创推理作品。&#13;
+美国西部城市波特兰陷入惊恐之中――杀人案接踵而至，每一位受害者都被剥去了脸皮，尸体上都留下了铁钉、硬币等“记号”，身旁还有一行血字：“面具即将归来！”&#13;
+是密码，还是预言？&#13;
+警方一筹莫展，案件扑朔迷离。恶作剧般的血字出现在街头，一个自称杀了人却不知尸体和凶器所在的女性来警局投案，而她的男友在城市的另一端被谋杀……老警官萨姆兰邀请神秘的中国心理医生塞斯・沃勒帮助分析案情，塞斯・沃勒依靠对人类心理和行为的敏锐直觉，对案件进行了抽丝剥茧的调查。正当二人联手之时，面具杀手又更新了“游戏规则”。&#13;
+形势刻不容缓，一定要揭开面具杀手的灵魂黑幕，一定要赶在杀手的前面挽救更多人生命……</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787801871183</dc:identifier>
-        <dc:language>zh-CN</dc:language>
-        <dc:subject>悬疑·犯罪</dc:subject>
+        <dc:language>en</dc:language>
+        <dc:subject>艾西恩</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>心理犯罪</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>面具馆</dc:subject>
+        <dc:subject>侦探推理</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;艾西恩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="侦探/悬疑" name="calibre:series"/>
         <meta content="2" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-02-27T10:55:30.062000+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:30+00:00" name="calibre:timestamp"/>
         <meta content="面具馆" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

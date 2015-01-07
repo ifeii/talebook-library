@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e48a22d7-48fa-4445-a392-3807edd238da</dc:identifier>
+        <dc:title>基地与帝国</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《基地与帝国》是“基地”系列三部曲中的第二部。此时，由伟大的心里史学家哈里·谢顿所创立的基地，虽然已在银河外缘立稳了脚跟，但还得面对来自银河帝国的压力。
+垂死的帝国仍拥有银河中最强大的武力。一位野心勃勃的将军，率太空舰队攻向基地，聚居在基地小行星上的学者和科学家，能逃过大难的一线希望，全维系在谢顿死前留下的语言中……
+可是，就连谢顿当年也无法预料到：还有比太空军团更具有威胁性的外力已悄然诞生，那就是银河中的突变异种——“骡”。面对骡奇异的心灵力量，即使是一支最坚强的人，也会俯首屈服，成为听话的奴隶。骡的黑色舰队兵不血刃地接受了成立三百多年的历史，为了征服宇宙，骡和忠贞之士都在寻找第二基地，而骡的第一波搜索行动，被一个平凡的女子贝妲阻止，从而为第二基地的反攻计划争取到充分的时间。</dc:description>
+        <dc:publisher>天地出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249437</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>阿西莫夫</dc:subject>
+        <dc:subject>基地系列</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>基地</dc:subject>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="基地" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:26+00:00" name="calibre:timestamp"/>
+        <meta content="基地与帝国" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

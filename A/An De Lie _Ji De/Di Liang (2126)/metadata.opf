@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84b7dd6e-3acf-404e-9e40-0f61558819d1</dc:identifier>
+        <dc:title>地粮</dc:title>
+        <dc:creator opf:file-as="安德烈·纪德" opf:role="aut">安德烈·纪德</dc:creator>
+        <dc:creator opf:file-as="安德烈·纪德" opf:role="aut">André Gide</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>谨以此书献给所有自觉日益干涸却仍羡望着甘美清泉的心灵，以及所有在生命旅途中渐感疲倦而等待生命的更新与第二次怀春的不安灵魂——
+“我将教给你热诚。”
+----------------
+《地粮》是纪德游历北非和意大利之后，以抒情方式，揉合传统的短诗、颂歌、旋曲等形式写成的一连串富有诗意的断想。他以炽热的灵魂感应生命的花果，并将这赤诚之爱整个地化作颂歌、凝成诗语。此书可谓纪德本人最激越的精神独白，被奉为“不安的一代人的《圣经》”。
+跃动而充满灵性的文字描绘出路途中飘忽随想的意象：摩苏尔的花园，都古耳的舞蹈，瑞士牧人之歌，冰冻的湖沼，抛起雪花的雪车，无际的沙漠，风情万种的女郎……而正凭着这种对于“眼前”、对于“当下”始终热烈的投入和全然尽兴的感受，我们生命的每一瞬间才能集中起某种特殊的不可追忆的幸福，并时时赋予生命以新的惊奇。“让一切事物在我面前放出虹彩；让一切美，闪烁着我的爱。”
+而今，这一切境物在路旁等待着的，是你，亲爱的读者！起程吧！敞开身心，去感受，去接纳，而毋须理解：因为纪德所要给你的，不是智慧，不是同情，而是爱！这份半神秘性的觉醒与本能的冲动，恰是呼吸本身所需要的。更愿你读完这书后，离开它，忘怀它，去探寻属于你的快乐——那绮丽如夏日之晨曦的满足！</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532749690</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>安德烈·纪德</dc:subject>
+        <dc:subject>纪德</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>法国文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;安德烈·纪德&quot;: &quot;&quot;, &quot;André Gide&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:37+00:00" name="calibre:timestamp"/>
+        <meta content="地粮" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

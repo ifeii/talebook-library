@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">046ae68f-4ad0-4b40-9a47-8c2eebb30acc</dc:identifier>
+        <dc:title>VI Editor Pocket Reference</dc:title>
+        <dc:creator opf:file-as="Arnold Robbins" opf:role="aut">Arnold Robbins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-08T16:00:00+00:00</dc:date>
+        <dc:description>For many users, working in the UNIX environment means using vi, a full-screen text editor available on most UNIX systems. Even those who know vi often make use of only a small number of its features.
+The vi Editor Pocket Reference is a companion volume to O'Reilly's updated sixth edition of Learning the vi Editor, a complete guide to text editing with vi. New topics in Learning the vi Editor include multi-screen editing and coverage of four vi clones: vim,elvis, nvi, and vile.
+This small book is a handy reference guide to the information in the larger volume, presenting movement and editing commands, the command-line options, and other elements of the vi editor in an easy-to-use tabular format.</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781565924970</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Vim</dc:subject>
+        <dc:subject>Kindle</dc:subject>
+        <dc:subject>Linux</dc:subject>
+        <dc:subject>Vi</dc:subject>
+        <dc:subject>英文版</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>软件开发</dc:subject>
+        <meta content="{&quot;Arnold Robbins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="编程/技术" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:53:52+00:00" name="calibre:timestamp"/>
+        <meta content="VI Editor Pocket Reference" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

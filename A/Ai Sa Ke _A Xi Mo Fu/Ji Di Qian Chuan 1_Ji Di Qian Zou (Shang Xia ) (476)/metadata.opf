@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd1ba86f-eb56-4764-ab33-f5b48e6ce040</dc:identifier>
+        <dc:title>基地前传1·基地前奏（上下）</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>在银河帝国的川陀星球，学者哈里·谢顿在数学十年年会上，透露其“心理史学”理论可以证明人类可以用数学预测未来！搅动了银河系若干星球。帝国皇帝要求他“预测一个好的未来”，谢顿答道：“不可能。”皇帝下令行政长官丹莫茨尔掌控谢顿。为逃避，谢顿在记者夫铭安排下开始在银河系逃亡。在川陀大学，他在穹顶上遇险，在麦曲生星球，竟意外得到秘不示人的典籍，开始接触“朴仆”（机器人）问题，冒险闯入麦曲生人的圣堂，长老阁寻找“朴仆”，触犯大忌，与元首日主十四正面交锋，又是夫铭现身营救。一连串难解的遭遇，躲不开关于“长生不老”的机器人的传说。
+难以置信的是“他”就是机器人，更不想到的是谢顿所钟情的“她”也是机器人，一个在人的感染下懂得恋爱的机器人。
+本书以“心理史学”为引子，走入银河系，展示了人和机器人分不开理不清的联系，我们不能不问，在银河帝国人和机器人谁主沉浮？</dc:description>
+        <dc:publisher>天地出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249406</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>阿西莫夫</dc:subject>
+        <dc:subject>基地系列</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>基地</dc:subject>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="基地" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:22+00:00" name="calibre:timestamp"/>
+        <meta content="基地前传1·基地前奏（上下）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

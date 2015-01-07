@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">420e20f9-fad2-426d-87c5-7b7255696d97</dc:identifier>
+        <dc:title>我愛身分地位</dc:title>
+        <dc:creator opf:file-as="艾倫狄波頓" opf:role="aut">艾倫狄波頓</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-26T16:00:00+00:00</dc:date>
+        <dc:description>每個成人的人生可說都是以兩種愛為主軸。第一種愛──對兩性之愛的追求──早已廣為流傳與記載。第二種愛──對身分地位的追求──則較為私密，而且過程充滿羞辱。然而，第二種愛的強度卻毫不遜於第一種。」
+
+無論古今東西，身份地位如此誘人，芸芸眾生競相追逐。
+
+在這樣孜孜以求的背後，隱藏著一種極少人能夠坦然承認的「地位焦慮」：顧慮別人如何看待自己，顧慮自己在別人眼中究竟是成功還是失敗。而依附權貴、鑽營投機、為了妝點門面而過度消費，都是典型的症狀，造成人們晚上輾轉難眠。
+
+艾倫•狄波頓以他一貫的生花妙筆，援引思想家、藝術家及作家的觀點與行徑，帶領我們抽絲剝繭，探索地位焦慮的根源。不僅如此，為了讓我們抒解心中的焦慮，狄波頓還精心提供了一道道奇特的妙方：效法古希臘哲人和波希米亞文化人，或者看看諷刺漫畫，甚至觀賞廢墟的石塊、在櫥櫃上擺設骷髏頭……。
+
+翻開本書，傾聽狄波頓風趣睿智的分析及忠告，讓我們免去追求身分地位之苦，享受生活的甜美與平靜。</dc:description>
+        <dc:publisher>先覺</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2e543479-d6ec-4076-9298-6515978b550e</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789861340258</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>艾倫．狄波頓</dc:subject>
+        <dc:subject>AlainDeBotton</dc:subject>
+        <dc:subject>我爱身份地位</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>社會人文</dc:subject>
+        <dc:subject>蔡康永推荐</dc:subject>
+        <dc:subject>文化．人生</dc:subject>
+        <meta content="{&quot;艾倫狄波頓&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:26+00:00" name="calibre:timestamp"/>
+        <meta content="我愛身分地位" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

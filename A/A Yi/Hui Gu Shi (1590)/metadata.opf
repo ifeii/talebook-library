@@ -6,26 +6,27 @@
         <dc:title>灰故事</dc:title>
         <dc:creator opf:file-as="阿乙" opf:role="aut">阿乙</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-08-15T00:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;本书收录作者近年创作中短篇小说30余篇。作者的写作态度从“自我迷恋”慢慢进化到“自我呈现”、“自我认识”,相对于编造一个好故事,作者更愿意去呈现一段生命证据;相对于从天空俯视,作者更愿意身在大地,身在其中,去感受单个、渺小的人在时代、社会、人世面前的呼吸。因为小说结尾往往带有毁灭性、绝望感,作品也往往被评价为“冰冷”、“憋屈”,但是作者始终认为,“与其回避,不如直面”,“太阳只有在寒冬尽头才会散发出巨大暖意”。本书同题小说《极端年月》描写了“情人节爆炸案”发生后几个月内一名普通警察的所见所闻。在每个人都陷入到极端情绪并不可自拔后,女友不贞的警察选择和达观的地痞一起活下来,并重新接纳女友,因为没有比活着更大的价值。《1983年》展开对人生命荒谬性的探索,仅仅因为躬下身去捡一张角票,连当事人自己也无法判断是要将之据为己有还是要送还店主,就被逮捕并坐了很多年的牢。作者“人即是我”的写作态度,以及对人生提出的问题和思考,将震撼读者的心灵。&lt;/p&gt;</dc:description>
+        <dc:date>2008-07-31T16:00:00+00:00</dc:date>
+        <dc:description>本书收录作者近年创作中短篇小说30余篇。作者的写作态度从“自我迷恋”慢慢进化到“自我呈现”、“自我认识”，相对于编造一个好故事，作者更愿意去呈现一段生命证据；相对于从天空俯视，作者更愿意身在大地，身在其中，去感受单个、渺小的人在时代、社会、人世面前的呼吸。因为小说结尾往往带有毁灭性、绝望感，作品也往往被评价为“冰冷”、“憋屈”，但是作者始终认为，“与其回避，不如直面”，“太阳只有在寒冬尽头才会散发出巨大暖意”。本书同题小说《极端年月》描写了“情人节爆炸案”发生后几个月内一名普通警察的所见所闻。在每个人都陷入到极端情绪并不可自拔后，女友不贞的警察选择和达观的地痞一起活下来，并重新接纳女友，因为没有比活着更大的价值。《1983年》展开对人生命荒谬性的探索，仅仅因为躬下身去捡一张角票，连当事人自己也无法判断是要将之据为己有还是要送还店主，就被逮捕并坐了很多年的牢。作者“人即是我”的写作态度，以及对人生提出的问题和思考，将震撼读者的心灵。</dc:description>
         <dc:publisher>上海三联书店</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">34c6c6ee-e071-4197-b550-5b00114039ed</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9787542628541</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>短篇</dc:subject>
         <dc:subject>阿乙</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>灰故事</dc:subject>
+        <dc:subject>短篇</dc:subject>
+        <dc:subject>中国</dc:subject>
         <dc:subject>短篇小说集</dc:subject>
         <dc:subject>文学</dc:subject>
-        <dc:subject>灰故事</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>小说</dc:subject>
         <meta content="{&quot;阿乙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:02:07.541891+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:08+00:00" name="calibre:timestamp"/>
         <meta content="灰故事" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

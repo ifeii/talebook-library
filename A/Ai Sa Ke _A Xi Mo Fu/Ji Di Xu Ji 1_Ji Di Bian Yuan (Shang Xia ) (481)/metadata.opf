@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">337e39b8-66dd-4d5a-a322-d35ffb8a6a9f</dc:identifier>
+        <dc:title>基地续集1·基地边缘（上下）</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>当初，心理史学家哈里·谢顿建立基地，并预测人类能在千年间重建银河新帝国。现在，498年过去了，谢顿计划似乎被执行得很完美。
+“完美，可能吗”基地人员葛兰·崔维兹表示怀疑。首先，谢顿就不曾预测到“骡”会造成大灾祸。此外，有奇异的力量在继续控制人们的心灵。崔维兹尝试警告大家注意危机，却换得被放逐的下场。他于是开始了奇特的银河查访之旅
+同时，第二基地的史陀·坚迪柏也怀疑星际间暗藏着强大的操纵力量。他因此航向太空，尾随崔维兹的查访航迹……
+崔维兹终于发现具备不可思议力量的星球。看来，历史进展早已超越谢顿计划的蓝图。现在，只有他能决定，要抢救计划呢，还是任计划灰飞烟灭？</dc:description>
+        <dc:publisher>天地出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249444</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>阿西莫夫</dc:subject>
+        <dc:subject>基地系列</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>艾萨克·阿西莫夫</dc:subject>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="基地" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:30:28+00:00" name="calibre:timestamp"/>
+        <meta content="基地续集1·基地边缘（上下）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

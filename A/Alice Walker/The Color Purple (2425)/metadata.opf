@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">948d20fd-5cc9-4294-89cc-ebfe1e22fe73</dc:identifier>
+        <dc:title>The Color Purple</dc:title>
+        <dc:creator opf:file-as="Alice Walker" opf:role="aut">Alice Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-27T16:00:00+00:00</dc:date>
+        <dc:description>Celie is a poor black woman whose letters tell the story of 20 years of her life, beginning at age 14 when she is being abused and raped by her father and attempting to protect her sister from the same fate, and continuing over the course of her marriage to "Mister," a brutal man who terrorizes her. Celie eventually learns that her abusive husband has been keeping her sister's letters from her and the rage she feels, combined with an example of love and independence provided by her close friend Shug, pushes her finally toward an awakening of her creative and loving self.</dc:description>
+        <dc:publisher>Mariner Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156028356</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>AliceWalker</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>Walker</dc:subject>
+        <dc:subject>Alice</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>PURPLE</dc:subject>
+        <meta content="{&quot;Alice Walker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:39+00:00" name="calibre:timestamp"/>
+        <meta content="Color Purple, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

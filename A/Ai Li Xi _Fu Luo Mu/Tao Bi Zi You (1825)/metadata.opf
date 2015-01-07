@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30cbd2a4-3192-43bc-94f2-2cdf83bbfbea</dc:identifier>
+        <dc:title>逃避自由</dc:title>
+        <dc:creator opf:file-as="埃里希·弗罗姆" opf:role="aut">埃里希·弗罗姆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-31T16:00:00+00:00</dc:date>
+        <dc:description>精神分析学说是奥地利精神病医生、心理学家弗洛伊德在20世纪初创立的。弗洛伊德最初是作为神经病学家和精神科医生来从事研究的。其研究对象主要是歇斯底里症患者。他发现歇斯底里症的根源主要不是由于生理的原因，而是在于深刻内在的心理因素。他将这种存在的心理因素归结为儿童期被压抑的性意识，并由此创立了“无意识性本能学说”，认为神经症的发作就是性意识的长期压抑最后总爆发的结果。弗洛伊德将他的发现加以总结，形成了一种全新的、最富创见的心理学说，并将这一学说全面推广到哲学、社会、宗教、文化领域，形成了一个庞大的思想体系。
+埃里希·弗罗姆一直致力于研究现代人的性格结构及有关心理因素和社会因素相互作用的问题。这本《逃避自由》是这项研究的一部分。目前的政治发展及其对现代化最伟大的成就——个性及人格的独一无二性的潜在威胁，使他决定中断大范围的研究，集中精力专门研究对现代文和社会危机最要紧的一个方面，即，自由对现代人的含义。</dc:description>
+        <dc:publisher>国际文化出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801058300</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>弗罗姆</dc:subject>
+        <dc:subject>精神分析</dc:subject>
+        <dc:subject>弗洛姆</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>自由</dc:subject>
+        <dc:subject>逃避自由</dc:subject>
+        <meta content="{&quot;埃里希·弗罗姆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:26+00:00" name="calibre:timestamp"/>
+        <meta content="逃避自由" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

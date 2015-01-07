@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dd6607e-1996-4280-8566-0ffdd4634116</dc:identifier>
+        <dc:title>东方快车谋杀案</dc:title>
+        <dc:creator opf:file-as="阿加莎·克里斯蒂" opf:role="aut">阿加莎·克里斯蒂</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-30T16:00:00+00:00</dc:date>
+        <dc:description>午夜过后，一场大雪迫使东方快车停了下来。这辆豪华列车整年都处于满员状态。但那天早上却发现少了一名乘客。一个美国人死在了他的包厢里，他被刺了十二刀，可他包厢的门却是反锁着的。
+随着紧张气氛逐渐增强，侦探赫尔克里·波洛想出了两个侦破此案的方法……</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020056309</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>阿加莎·克里斯蒂</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>侦探</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>东方快车谋杀案</dc:subject>
+        <dc:subject>侦探推理</dc:subject>
+        <meta content="{&quot;阿加莎·克里斯蒂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="阿加莎克里斯蒂全集" name="calibre:series"/>
+        <meta content="52" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:11:53+00:00" name="calibre:timestamp"/>
+        <meta content="东方快车谋杀案" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
