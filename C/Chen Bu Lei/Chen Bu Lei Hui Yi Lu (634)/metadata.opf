@@ -1,23 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b5b45404-fdfe-4e4c-ae54-8832e5a3d08a</dc:identifier>
-        <dc:title>陳布雷回憶錄</dc:title>
-        <dc:creator opf:file-as="陳布雷" opf:role="aut">陳布雷</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
-        <dc:description>&lt;span class="Apple-style-span" style="font-family: Verdana, Arial, Tahoma, sans-serif; color: rgb(51, 51, 51); font-size: 12px; line-height: 20px; "&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;陳布雷／王家出版。民國時期著名評論家，常被稱為蔣介石之文膽。1948年自殺身亡，死因有多種說法，「已死明志？」「死諌？」或是「以死報國？」讀書找答案。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;此書最早於1949年於上海出版，當時是以影印手稿直接刊行。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;民國歷史上，陳布雷可稱之為傳奇人物，本於報界服務、評論家，後棄文從政，受蔣介石信任，屢居高位。在國民政府飄搖之際，突然自殺身亡，中央日報最初曾報導他是突發性心臟病發身亡，後才改口，自殺的原因始終眾說紛紜。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;蔣介石的重要言論、文章，確實多出自陳布雷之筆。為人捉刀，還是總裁那攸關國事軍情的重要文稿，對於一位文人來說，相信是一腔苦水、滿腹委屈。他了解的機密太多了，要修飾的語句太多了。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;「讓我安靜些！」這是陳布雷留下的最後一句話。&lt;/p&gt;&lt;/span&gt;</dc:description>
-        <dc:publisher>百年千书</dc:publisher>
+        <dc:title>陈布雷回忆录</dc:title>
+        <dc:creator opf:file-as="陈布雷" opf:role="aut">陈布雷</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-31T16:00:00+00:00</dc:date>
+        <dc:description>《陈布雷回忆录》内容简介：陈布雷是民国历史上一位传奇的人物。他是个典型的旧文人，具有浓厚的传统思想。追随蒋介石二十余年，屡屡列居高位，地位显赫一时，但在国民政府风雨飘摇之际，却自杀身亡，给世人留下了较多的迷惑和深深的遗憾。本文试通过《回忆录》的内容对其进行分析。</dc:description>
+        <dc:publisher>东方</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787506035385</dc:identifier>
-        <dc:language>zh-CN</dc:language>
+        <dc:language>en</dc:language>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>陈布雷</dc:subject>
+        <dc:subject>民国历史</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>民国</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;陈布雷&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="传记" name="calibre:series"/>
         <meta content="15" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-02-18T04:11:10.882000+00:00" name="calibre:timestamp"/>
-        <meta content="陳布雷回憶錄" name="calibre:title_sort"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:52:48+00:00" name="calibre:timestamp"/>
+        <meta content="陈布雷回忆录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

@@ -6,16 +6,27 @@
         <dc:title>七夜雪</dc:title>
         <dc:creator opf:file-as="沧月" opf:role="aut">沧月</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-02-13T16:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2006-09-30T16:00:00+00:00</dc:date>
+        <dc:description>鼎剑阁霍展白为救治昔日恋人之子沫儿的病，用七年的时间拼死取得了药王谷主人薛紫夜开给他的七味绝世药引，魔教大光明宫排位第一的神秘杀手瞳为了自己能杀死魔教教主获得自由而抢夺龙血赤寒珠，霍展白和瞳在打斗中双双重伤，被薛紫夜送回药王谷治疗。沫儿的病事实上无法治疗，薛紫夜为一直隐 瞒着霍展白而不安，不顾自己寒症孱弱之身而设法寻找疗法。与此同时，薛紫夜震惊地发现这个能用眼神控制人精神的杀手瞳竟然是失散多年的儿时伙伴明介……</dc:description>
+        <dc:publisher>北京十月文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">7a955421-9d59-4b95-a21a-c4e3a5cc7142</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787530208687</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>沧月</dc:subject>
+        <dc:subject>武侠</dc:subject>
+        <dc:subject>七夜雪</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>武侠玄幻</dc:subject>
+        <dc:subject>沧月-《七夜雪》</dc:subject>
         <meta content="{&quot;沧月&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:09:24.055291+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:55+00:00" name="calibre:timestamp"/>
         <meta content="七夜雪" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

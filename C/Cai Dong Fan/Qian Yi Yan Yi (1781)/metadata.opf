@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8301066-dfff-401f-9391-c71fd5ca9bbf</dc:identifier>
+        <dc:title>前汉演义</dc:title>
+        <dc:creator opf:file-as="蔡东藩" opf:role="aut">蔡东藩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《国学经典:前汉演义(珍藏版)》为民国蔡东潘在“演义救国”思想指导下创作的系列长篇历史小说之一，写秦末群雄逐鹿，刘邦建汉至王莽纂汉一段历史。这是一部以正史为经，轶闻为纬，体例特殊，自批自注的演义巨作。全书文笔亲切自然，通俗易懂。
+《国学经典:前汉演义(珍藏版)》记述的朝代包括秦和西汉，从秦王赢政出身讲起，到西汉政权被王莽篡夺为止，共两个半世纪。书中较细地描述了秦朝暴政、楚汉相争、汉武帝开疆拓土，也椰揄了妄想成仙的秦皇汉武，揭露了王莽的阴险狡诈。全书较好地描绘了统一的封建帝国初期的面貌。</dc:description>
+        <dc:publisher>吉林大学</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787560167565</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;蔡东藩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:16:47+00:00" name="calibre:timestamp"/>
+        <meta content="前汉演义" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

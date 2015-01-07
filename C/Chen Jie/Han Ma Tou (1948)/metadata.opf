@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f75ede7b-c7fe-4473-aec6-3d9c0e41136d</dc:identifier>
+        <dc:title>旱码头</dc:title>
+        <dc:creator opf:file-as="陈杰" opf:role="aut">陈杰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《旱码头》内容简介：戏谑调侃、老谋深算、商战迭出、奇招不断一代商贾奇侠，智斗贪官恶霸，重塑中华民族精魂。商道：贸易就是这样。把那边没有的运过去，把这边没有的运过来。我们从中牟利，这就是贸易！在对中国的开发中，第一批人是强盗，但接踵而来的是绅士。所以有人揶揄说——绅士跟在强盗后面！
+文化：是中国的文化人死板，不是中国的文化死板！中国文化不仅不死板，而且最宽容开放！汉武以来，罢黜百家，独尊儒术，表面看是大力张扬儒家之学，究其实，却是最大的阉割！</dc:description>
+        <dc:publisher>北方联合出版传媒(集团)股份有限公司,万卷出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806019832</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>陈杰</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>财经商场传记商业史</dc:subject>
+        <dc:subject>旱码头</dc:subject>
+        <dc:subject>要买的书</dc:subject>
+        <meta content="{&quot;陈杰&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:17+00:00" name="calibre:timestamp"/>
+        <meta content="旱码头" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

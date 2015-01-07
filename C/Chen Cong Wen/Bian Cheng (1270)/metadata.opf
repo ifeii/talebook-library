@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6088e22f-27d0-434d-9c89-2c95f4880d3b</dc:identifier>
+        <dc:title>边城</dc:title>
+        <dc:creator opf:file-as="沈从文" opf:role="aut">沈从文</dc:creator>
+        <dc:creator opf:file-as="沈从文" opf:role="aut">黄永玉 卓雅 插图.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《边城》是沈从文的代表作，写于一九三三年至一九三四年初。这篇作品如沈从文的其他湘西作品，着眼于普通人、善良人的命运变迁，描摹了湘女翠翠阴差阳错的生活悲剧，诚如作者所言：“一切充满了善，然而到处是不凑巧。既然是不凑巧，因之素朴的善终难免产生悲剧。”
+《边城》写出了一种如梦似幻之美，像摆渡、教子、救人、助人、送葬这些日常小事，在作者来都显得相当理想化，颇有几分“君子田”的气象。当然，矛盾也并非不存在，明眼人一看便知，作者所用的背景材料中便隐伏着社会矛盾的影子。作者亦不曾讳言他的写作意图是支持“民族复兴大业的人”，“给他们一种勇气和信心”。</dc:description>
+        <dc:publisher>北岳文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787537823425</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>沈从文</dc:subject>
+        <dc:subject>边城</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>乡土</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>现代文学</dc:subject>
+        <meta content="{&quot;沈从文&quot;: &quot;&quot;, &quot;黄永玉 卓雅 插图.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:42+00:00" name="calibre:timestamp"/>
+        <meta content="边城" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

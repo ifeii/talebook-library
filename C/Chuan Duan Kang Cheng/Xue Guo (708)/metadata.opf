@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32ca09a0-6feb-4d31-8539-e7a0d74b53a1</dc:identifier>
+        <dc:title>雪国</dc:title>
+        <dc:creator opf:file-as="川端康成" opf:role="aut">川端康成</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-31T16:00:00+00:00</dc:date>
+        <dc:description>1968年诺贝尔文学奖。
+
+获奖理由：“由于他高超的叙事性作品以非凡的敏锐表现了日本人精神特质”
+
+《雪国》（ゆきぐに）是日本作家川端康成的第一部中篇小说。它也是作者在被授予诺贝尔文学奖时被评奖委员会提到的三部小说之一。另外两部是《古都》和《千羽鹤》。根据小说被改编成多部同名影视剧。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020035847</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>川端康成</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>雪国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;川端康成&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="诺贝尔文学奖" name="calibre:series"/>
+        <meta content="68" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:27+00:00" name="calibre:timestamp"/>
+        <meta content="雪国" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

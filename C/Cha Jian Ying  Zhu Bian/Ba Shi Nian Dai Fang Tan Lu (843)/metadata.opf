@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93bcb896-7f23-43a0-ab19-97a06f643205</dc:identifier>
+        <dc:title>八十年代访谈录</dc:title>
+        <dc:creator opf:file-as="查建英 主编" opf:role="aut">查建英 主编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-30T16:00:00+00:00</dc:date>
+        <dc:description>这是一本围绕“八十年代”情境及问题意识的对话录，主持者选取的谈话对象多为八十年代引领潮流的风云人物：北岛、阿城、刘索拉、李陀、陈丹青、栗宪庭、陈平原、甘阳、崔健、林旭东、田壮壮、分别属于诗歌、小说、音乐、美术、电影、哲学及文学研究等领域。对话抽取相关领域里在今天仍有讨论价值的当年热点内容作为话题，试图重视这个在中国二十世纪史上具有特殊意义年代的场景和氛围，并且在回顾八十年代社会思想面貌的同时也对其进行反思。
+20世纪80年代是当代中国历史上一个短暂、脆弱却颇具特质、令人心动的年代。谈话者以个人的身份和角度，从各自从事的工作出发，既回忆反省过去的那个时代，也评论分析现在，并且眺望臆想未来。书中虽然记录了许多珍贵的往事，却没有变成一个“怀旧项目”，大多数谈话者没有简单地将80年代浪漫化，尽管他们那时年轻气盛、出道成名。这些回忆者的态度不是一味怀旧或颂扬，而是尽可能坦率、客观地对自我和时代的局限，对不少当年轰动一时的现象、事件、人物及文化动因进行深入剖析、批评和反省。</dc:description>
+        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108024121</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>八十年代</dc:subject>
+        <dc:subject>查建英</dc:subject>
+        <dc:subject>访谈</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;查建英 主编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="文化" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:57:52+00:00" name="calibre:timestamp"/>
+        <meta content="八十年代访谈录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

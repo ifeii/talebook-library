@@ -6,15 +6,27 @@
         <dc:title>李逵日记</dc:title>
         <dc:creator opf:file-as="仓土" opf:role="aut">仓土</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-05-16T03:59:49+00:00</dc:date>
+        <dc:date>2011-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《李逵日记:厅级干部李逵的官场笔记(1112-1123)》最初发于天涯论坛上，一日之内人气飞飙到20万点击，回复1086帖，从此一发不可收拾，作者仅以短短的3万字在天涯2个月内创下200万的点击，猫扑更是在一个多月点击超过一千多万。“人气直逼当年明月，幽默更胜郭德纲”！作者仓土也迅速成为最赋幽默才华的网络明星，同时那一段段幽默风趣的段子更是在天涯、人人网、新浪、SOHU等各大网站飞快传播、疯狂推荐，成为公务员、白领、学生、教师、企业家、医生、农民?、退休干部等社会各阶层逗乐解压的“第三种消费”。</dc:description>
+        <dc:publisher>珠海出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787545305357</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">fcef9bfa-ba75-40f2-866f-5625af331cd2</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>搞笑杂文</dc:subject>
+        <dc:subject>李逵日记</dc:subject>
+        <dc:subject>官场</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>官场小说</dc:subject>
+        <dc:subject>仓土</dc:subject>
+        <dc:subject>无厘头</dc:subject>
         <meta content="{&quot;仓土&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:12:54.582189+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:12+00:00" name="calibre:timestamp"/>
         <meta content="李逵日记" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

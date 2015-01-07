@@ -6,16 +6,29 @@
         <dc:title>红瓦黑瓦</dc:title>
         <dc:creator opf:file-as="曹文轩" opf:role="aut">曹文轩</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-24T11:28:16+00:00</dc:date>
+        <dc:date>2005-02-28T16:00:00+00:00</dc:date>
+        <dc:description>本书是曹文轩从他的40万字的长篇力作《红瓦》（该书曾获国家图书奖、北京市文学艺术奖）中提炼创作而成的一部少年长篇小说，从小说反映的内容和生活来看，可以视为《草房子》的续篇。小说以油麻地为背景，从一个中学生的视角诗意地描述了往昔乡村生活的淳厚风情，细腻地记录了少男少女由少不经事而逐渐明白人生的成长历程。
+本书情节起落跌宕，震撼人心，关怀与情意荡漾在字里行间。
+本书曾获国家图书奖，北京市文学艺术奖，台湾“好书大家读”最佳少年儿童读物奖，被韩国《中央日报》等评选为2001年度“十本好书”，其中第九章选入韩国高中语文教材。</dc:description>
+        <dc:publisher>江苏少年儿童出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787534633041</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">f7b1f24b-4a1f-4cff-a321-c0fd25de8305</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>曹文轩</dc:subject>
         <dc:subject>儿童文学</dc:subject>
+        <dc:subject>红瓦黑瓦</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>成长小说</dc:subject>
+        <dc:subject>少年</dc:subject>
+        <dc:subject>中国文学</dc:subject>
         <meta content="{&quot;曹文轩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:07:16.431358+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:23+00:00" name="calibre:timestamp"/>
         <meta content="红瓦黑瓦" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

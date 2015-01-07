@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97121ff0-ab53-4ac1-b6be-704a98c3582e</dc:identifier>
+        <dc:title>无限恐怖</dc:title>
+        <dc:creator opf:file-as="长弓手" opf:role="aut">长弓手</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-31T16:00:00+00:00</dc:date>
+        <dc:description>主人公郑吒自从失去了自己最亲密的青梅竹马后，对这种反复而又无聊的现代生活已经感到十分的厌倦。正在这时，主神向他发出了一道信息：“想明白生命的意义吗？想真正的……活着吗？”再按下YES后，一切都改变了。原来这是个为了让人类进化的空间……在主神空间里，只有不停地变强、不停地进化，才能闯过那一关关的恐怖片。郑吒，怎样才能活下去呢？是杀死与自己对抗的所有人，走向孤独的王者之道？还是和自己的伙伴奋战到死，以仁义之道来度过劫难？其实，所有的一切只是为了活下去。直到他们发现了主神空间的秘密……究竟……谁才是暗中真正的威胁？！
+一切尽在无限恐怖！</dc:description>
+        <dc:publisher>北方文艺</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787531721970</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>无限恐怖</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>惊悚</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>好看好看</dc:subject>
+        <dc:subject>长弓手</dc:subject>
+        <meta content="{&quot;长弓手&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:13+00:00" name="calibre:timestamp"/>
+        <meta content="无限恐怖" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

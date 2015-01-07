@@ -6,15 +6,28 @@
         <dc:title>南北史演义</dc:title>
         <dc:creator opf:file-as="蔡东藩" opf:role="aut">蔡东藩</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
-        <dc:publisher>xzap's txt2mobi</dc:publisher>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>民国著名史学家、小说家蔡东藩，以“演义救国”旨，历时十年，创作出《中国历代通俗演义》。上起秦始皇，下至1928年，全面记述了中国封建时期2166年的历史，以内容丰富、取才翔实名重一时，深受读者青睐。   
+    这套书的编写体例综合了《三国演义》及毛宗岗的批注，有正文、有批注、有总批，只不过是蔡东藩自批自注。通过这些批注，或对有关的虚诞说法加以批驳，或对某些史料的运用注明出处和异同，或对古代的某些官制、法制、地理、器物、名号乃至方言俚语加以通俗的解释，或对所写某些人物加以褒贬，以此达到帮助读者理解正文、弄清历史。在史料的选择和运用上，蔡东藩以“正史”为主，兼采稗史、轶闻，而出于稗史、轶闻者必有旁证，对史料“几经考证”，“务求确凿”。由于蔡东藩如此重视历史的真实性，反对虚构杜撰，因此，这套演义虽然通俗，但却有较高的史学价值。   
+    《南北史演义》为《中国历代通俗演义》之一。共一百回，作者论述了南朝的宋、齐、梁、陈四个朝代的更替。</dc:description>
+        <dc:publisher>文化艺术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787503924064</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>蔡东藩</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>南北朝</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>演义</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>南北史演义</dc:subject>
+        <dc:subject>中国古典小说</dc:subject>
         <meta content="{&quot;蔡东藩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:04:31.325697+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:13+00:00" name="calibre:timestamp"/>
         <meta content="南北史演义" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

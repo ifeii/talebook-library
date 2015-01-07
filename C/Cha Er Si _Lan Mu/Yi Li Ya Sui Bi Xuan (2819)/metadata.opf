@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddc484c1-ae0f-4a8a-aaaf-ff3b03864d41</dc:identifier>
+        <dc:title>伊利亚随笔选</dc:title>
+        <dc:creator opf:file-as="查尔斯·兰姆" opf:role="aut">查尔斯·兰姆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《伊利亚随笔》荟萃了英国著名作家查尔斯·兰姆(Carles Lamb，1775～1834)最出色的随笔作品，堪称十九世纪英国文学的瑰宝。在这些随笔中，兰姆以“伊利亚”为笔名，从日常作息、家长里短切人，将平生感念娓娓道来；随笔主题既与兰姆本人的独特经历水乳交融，又浸淫于广阔深挚的人道主义氛围；文风含蓄迂回之余，亦不失情真意切，纤毫毕现地展示了英式随笔的至高境界。正如三十年代我国作家梁遇春所言：对丁心灵的创伤，兰姆是一剂“止血的良药”。
+这部十九世纪初期的英国文学经典里的某些篇章，竟同布迪厄的看法不谋而合，这为我们在不同的时代和民族背景下验证布氏理论的“普适性”提供了有趣的案例。
+本书选录了《伊利亚随笔》中的主要作品，包括《南海公司回忆》、《除夕随想》等诸多名篇。著名翻译家刘炳善先生的译文精到而隽永，恰到好处地传达了兰姆独树一帜的文字魅力。本书所配的二十多幅插图，出自英国著名画家谢帕德(Ernest H．shepard)手笔，极具收臧价值。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532740864</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00A4SBVZQ</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>查尔斯·兰姆</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>英国文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>伊利亚随笔选</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <meta content="{&quot;查尔斯·兰姆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:35:00+00:00" name="calibre:timestamp"/>
+        <meta content="伊利亚随笔选" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

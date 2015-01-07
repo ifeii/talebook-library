@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2855</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">357c108f-c251-40a5-a39f-efdf18127ebf</dc:identifier>
+        <dc:title>草房子</dc:title>
+        <dc:creator opf:file-as="曹文轩" opf:role="aut">曹文轩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-31T16:00:00+00:00</dc:date>
+        <dc:description>这是一部讲究品位的少年长篇小说。
+作品写了男孩桑桑刻骨铭心、终身难忘的六年小学生活。六年中，他亲眼目睹或直接参与了一连串看似寻常但又催人泪下、撼动人心的故事：少男少女之间毫无暇疵的纯情，不幸少年与厄运相拼时的悲怆与优雅，残疾男孩对尊严的执著坚守，垂暮老人在最后一瞬所闪耀的人格光彩，在死亡体验中对生命的深切而优美的领悟，大人们之间扑朔迷离且又充满诗情画意的情感纠葛 …… 这一切，既清楚又朦胧地展现在少年桑桑的世界里。这六年，是他接受人生启蒙教育的六年。
+作品格调高雅，由始至终充满美感。叙述风格谐趣而又庄重，整体结构独特而又新颖，情节设计曲折而又智慧。荡漾于全部作品的悲悯情怀，在人与人之间的关系日趋疏远、情感日越淡漠的当今世界中，也显得弥足珍贵、格外感人。通篇叙述既明白晓畅，又有一定的深度，是那种既是孩子喜爱也可供成人阅读的儿童文学作品。</dc:description>
+        <dc:publisher>江苏少年儿童出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f6c6400-6024-4603-9ee6-a011d1d9bec6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787534618727</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>曹文轩</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>草房子</dc:subject>
+        <dc:subject>童年</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>浪漫主义小说</dc:subject>
+        <meta content="{&quot;曹文轩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:28+00:00" name="calibre:timestamp"/>
+        <meta content="草房子" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc69c838-0af4-4c55-a8be-eb7d9ec7c8d0</dc:identifier>
+        <dc:title>iPhone全球供應鏈大解析</dc:title>
+        <dc:creator opf:file-as="曾航" opf:role="aut">曾航</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-14T16:00:00+00:00</dc:date>
+        <dc:description>三星為什麼可以理直氣壯，聲稱iPhone是「韓國手機」？
+電子大國日本，為什麼做不出一支日本iPhone？
+台灣代工廠接下甜美蘋果訂單，同時硬吞下多少辛酸？
+一個比一個大的問號，衝擊著你、我，以及每一個台灣人的心！
+本書獨家批露蘋果供應鏈生態圈，從 創新→設計→零組件製造→組裝→銷售→走私→回收翻新→再銷售→再回收分解，剖析iphone龐大複雜而艱辛的全球供應鏈與經濟圈。
+只知道iPhone不算懂iPhone，身為台灣的一分子，不論是科技人、投資人，或單純在校生，怎能不睜大眼睛深入了解，iPhone血淋淋的全球大供應鏈？
+那正是你我過去、現在，甚或是未來，所必須面對的最真實世界！
+2011年10月，美國加大爾灣分校及柏克萊分校、雪城大學的三位學者：Kenneth L. Kraemer, Greg Linden, and Jason Dedrick，聯合發佈了一份名為＜Capturing Value in Global Networks: Apple’s iPad and iPhone＞震驚台灣各界。我們第一次發現，每賣出一支iPhone，美國可以分配到58.8%的利潤，而台灣，只能分配到0.5%。
+所以《天下雜誌》說：「蘋果大賣，沒人笑得出來」！《自由時報》咬牙切齒說：「狠蘋果」！這一切的一切，若不能將台灣電子產業整個放進全球供應鏈裡，用真實、用數據、用競爭力、用價值創造，一項一項檢視，怎能把嚴酷的全球競爭現實看清楚？
+本書特色
+■三位學者：Kenneth L. Kraemer, Greg Linden, and Jason Dedrick，聯合發佈了一份名為 ＜Capturing Value in Global Networks: Apple’s iPad and iPhone＞的報告只是個開端，本 書可以讓你看到更多「iPhone 背後不能說的祕密」
+■ 全書宛若一部「iPhone史詩」，跑遍十多個城市，獨家批露蘋果供應鏈生態圈，從它的 創新→設計→零組件製造→組裝→銷售→走私→回收翻新→再銷售→再回收分解一氣呵成，完整恢弘；兼具專業與感性
+■ 剖析iphone龐大複雜而艱辛的全球供應鏈如何緊密合作又如何短兵競爭
+每年製造出千萬支如同單一廠商產製的手機，這是人類工業史上的一大驚人成就
+■ 中日韓的 iPhone保衛戰，過去、現在及未來，是如何開打、戰況如何、誰生誰死？
+■ 台灣IT產業將如何力求升級、力圖生存？</dc:description>
+        <dc:publisher>人類智庫</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789866137976</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Apple</dc:subject>
+        <dc:subject>iPhone</dc:subject>
+        <dc:subject>iphone全球供应链</dc:subject>
+        <meta content="{&quot;曾航&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:15:22+00:00" name="calibre:timestamp"/>
+        <meta content="iPhone全球供應鏈大解析" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

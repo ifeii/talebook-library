@@ -6,17 +6,30 @@
         <dc:title>到黑夜想你没办法</dc:title>
         <dc:creator opf:file-as="曹乃谦" opf:role="aut">曹乃谦</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-04-28T16:00:00+00:00</dc:date>
-        <dc:description>由29个短篇小说和一个中篇小说汇成一个长篇小说，小说的背景是1973年、1974年的塞北农村温家窑，故事里头的人物多半是一些可怜的光棍儿，除了渴望吃饱以外，他们都渴望跟女人“做那个啥”。</dc:description>
-        <dc:publisher>vinny</dc:publisher>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>尽管大多数人并不熟悉他的文字，但由于诺贝尔文学奖评委马悦然曾说过，“曹乃谦和李锐、莫言一样都有希望获得诺贝尔文学奖”，人们开始关注他。曹乃谦《到黑夜想你没办法》由29个短篇小说和一个中篇小说汇成一个长篇小说，小说的背景是1973年、1974年的塞北农村温家窑，故事里头的人物多半是一些可怜的光棍儿，除了渴望吃饱以外，他们都渴望跟女人“做那个啥”。书中对食欲和性欲饥渴的描写达到了极至，而曹乃谦这个37岁才开始写小说、现年58岁的大同警察说，书里写的故事都是真实发生的。书中多次出现的“要饭调”使全书有一股浓浓的莜面味。
+《到黑夜想你没办法》
+温家窑是曹乃谦小说中故事的发生地，1974年曹乃谦曾被派到这里给插队青年带队，在温家窑一年的生活，深深震撼了曹乃谦。而那首在当地叫“要饭调”、“烂席片”的信天游，也成为了他小说的“主旋律”。
+当年因为和朋友打赌，曹乃谦开始写小说。1988年《温家窑风景》系列小说的第一部分在《北京文学》发表后，得到了著名作家汪曾祺的好评。汪曾祺还向曹乃谦建议，书名可以改为《到黑夜想你没办法》，而这个题目则取自书中唱到的“要饭调”：“白天想你墙头上爬，到黑夜想你没办法。”
+不过，当长篇小说《到黑夜想你没办法》完成后，却在国内经历了10年无出版社问津的尴尬。直到一个偶然的机会，曹乃谦遇到了诺贝尔文学奖的评委马悦然，在他的推荐下该书才由台湾地区天下文化书坊出版，后来又被马悦然翻译成瑞典文出版。而在沉寂多年后，这本被誉为“最有希望获得诺贝尔文学奖”的小说，今年4月底终于在内地面市。</dc:description>
+        <dc:publisher>长江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787535434500</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>现代·当代</dc:subject>
+        <dc:subject>曹乃谦</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>到黑夜想你没办法</dc:subject>
+        <dc:subject>农村</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>山西</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;曹乃谦&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:58:30.777896+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:20+00:00" name="calibre:timestamp"/>
         <meta content="到黑夜想你没办法" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

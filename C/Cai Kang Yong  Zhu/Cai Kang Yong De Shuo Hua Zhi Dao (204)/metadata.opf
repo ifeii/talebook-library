@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">197e6029-da22-4f8c-b7f3-f18d30bcde87</dc:identifier>
+        <dc:title>蔡康永的说话之道</dc:title>
+        <dc:creator opf:file-as="蔡康永 著" opf:role="aut">蔡康永 著</dc:creator>
+        <dc:creator opf:file-as="蔡康永 著" opf:role="aut">熊宝 插图</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《蔡康永的说话之道》是蔡康永的第一本实用书，在“说话”多年之后，首次尝试教人“说话”。本书开端康永哥便许下宏愿：这本书会令“本来已经很讨人喜欢的你，在未来变得更讨人喜欢”。《蔡康永的说话之道》包括40篇精彩短文，每篇都是让谈话变美的醍醐味，并配以熊宝绘制的令人喷饭的搞笑插画，如同蔡康永的主持风格一样犀利俏皮，饶有情趣。</dc:description>
+        <dc:publisher>沈阳出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544143158</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>蔡康永</dc:subject>
+        <dc:subject>沟通技巧</dc:subject>
+        <dc:subject>社交</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>蔡康永的说话之道</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>沟通</dc:subject>
+        <meta content="{&quot;熊宝 插图&quot;: &quot;&quot;, &quot;蔡康永 著&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:29+00:00" name="calibre:timestamp"/>
+        <meta content="蔡康永的说话之道" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

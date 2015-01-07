@@ -4,20 +4,38 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">1518</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">36251008-6931-4079-a4b0-72d1f8819905</dc:identifier>
         <dc:title>往复书简</dc:title>
-        <dc:creator opf:file-as="凑佳苗" opf:role="aut">凑佳苗</dc:creator>
+        <dc:creator opf:file-as="湊佳苗" opf:role="aut">湊佳苗</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-07-15T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p class="description"&gt;只有在信中,才会说出的谎言。&lt;br&gt;  只有在信中,才能隐藏的真相。&lt;br&gt;  只有在信中,才能做到的告白。&lt;br&gt;  ——“那件事”的真相,从信封中滑落&lt;/p&gt;
-&lt;p class="description"&gt;  《十年后的毕业作品》&lt;br&gt;  一个女孩失踪了,据说与十年前高中广播部的四个女生都喜欢同一个男生有关。这究竟是阴谋,还是单纯的事故?&lt;br&gt;  《二十年后的作业》&lt;br&gt;  一位老师托人寻找二十年前六位学生的下落,而他们都与一个重大事件有关——老师的丈夫因意外事故死亡时,这六个学生都在现场。老师这么做,难道真的只是想确定他们过得好不好吗?&lt;br&gt;  《十五年后的回忆》&lt;br&gt;  一对从初中开始相爱的恋人,在谈婚论嫁前夕,男孩忽然离开去了国外。随着书信往来,女孩渐渐发现,这一切与他们初中时发生的一起事件有关,但她却丢掉了那段记忆。她所忘记的,究竟是多可怕的事?&lt;br&gt;作者简介   &lt;br&gt;  凑佳苗,日本当前最受瞩目的推理小说家,作品畅销百万,屡获大奖。&lt;br&gt;  2007年,短篇小说《神职者》获第29届推理小说新人奖。2009年,长篇处女作《告白》获第6届日本书店大奖第一名及广岛文化奖。这一年,她成功击败强劲对手东野圭吾和伊坂幸太郎,成为“年度最畅销推理作家”。&lt;br&gt;  她的作品还荣登日本三大推理小说畅销排行榜:2008年周刊文春推理小说十佳榜首、2009年宝岛社“这本推理小说了不起”奖、2009年本格推理小说十佳。&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2011-11-30T16:00:00+00:00</dc:date>
+        <dc:description>只有在信中，才会说出的谎言。
+只有在信中，才能隐藏的真相。
+只有在信中，才能做到的告白。
+——“那件事”的真相，从信封中滑落
+《十年后的毕业作品》
+一个女孩失踪了，据说与十年前高中广播部的四个女生都喜欢同一个男生有关。这究竟是阴谋，还是单纯的事故？
+《二十年后的作业》
+一位老师托人寻找二十年前六位学生的下落，而他们都与一个重大事件有关——老师的丈夫因意外事故死亡时，这六个学生都在现场。老师这么做，难道真的只是想确定他们过得好不好吗？
+《十五年后的回忆》
+一对从初中开始相爱的恋人，在谈婚论嫁前夕，男孩忽然离开去了国外。随着书信往来，女孩渐渐发现，这一切与他们初中时发生的一起事件有关，但她却丢掉了那段记忆。她所忘记的，究竟是多可怕的事？</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">911c6259-a674-48b4-bd2a-2a7550724744</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508630885</dc:identifier>
         <dc:language>zho</dc:language>
-        <meta content="{&quot;凑佳苗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:00:56.588827+00:00" name="calibre:timestamp"/>
+        <dc:subject>湊佳苗</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日系推理</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>凑佳苗</dc:subject>
+        <dc:subject>日本推理</dc:subject>
+        <meta content="{&quot;湊佳苗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:58+00:00" name="calibre:timestamp"/>
         <meta content="往复书简" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

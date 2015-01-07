@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e777da7-bd6c-41bc-a731-c6e8c3eb0384</dc:identifier>
+        <dc:title>蒋介石私人医生回忆录</dc:title>
+        <dc:creator opf:file-as="陈三井" opf:role="aut">陈三井</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《蒋介石私人医生回忆录》主要内容：
+详述蒋氏医疗保健细节，揭示宫廷鲜为人知内幕，担任蒋介石贴身医生几十年的熊丸先生为人们了解真实的蒋宋家族和民国政坛上的一批风云人物提供了视角独特的第一手证言。《蒋介石私人医生回忆录》还收录台湾蓿名作家王丰先生关于蒋介石养生保健秘诀的专题文章，对揭示其长寿之道大有助益，</dc:description>
+        <dc:publisher>团结出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802145252</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>蒋介石</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>私人医生</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>毛泽东</dc:subject>
+        <dc:subject>熊丸</dc:subject>
+        <dc:subject>民国</dc:subject>
+        <meta content="{&quot;陈三井&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="33" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:54:11+00:00" name="calibre:timestamp"/>
+        <meta content="蒋介石私人医生回忆录" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

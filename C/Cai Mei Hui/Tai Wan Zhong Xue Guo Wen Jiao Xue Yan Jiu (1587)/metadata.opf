@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">614ef2bc-0c29-4a94-b040-515da956891b</dc:identifier>
+        <dc:title>台湾中学国文教学研究</dc:title>
+        <dc:creator opf:file-as="蔡美惠" opf:role="aut">蔡美惠</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《台湾中学国文教学研究》凡七章，首章为教学研究的气象，说明中学国文教学研究目前的成果、所需的资料与常用的方法；第二章是课程改革的趋势，探讨课程革新原因、课程发展依据与课程设计方位等问题；第三章乃教材编选的特色、针对历来中学国文教材各方面的特性，如编辑趋于多元走向、内容呈现简易要求、教材渐染本土色彩进行分析；第四章是教材撰写的风格，对于教材的编纂情况，如用语措辞的趋势、课前导引的重心、课后学习的作用、编辑方式的特点与周边措施的考量等加以比较研究；第五章阐述了范文教学的潮流，主要就形式深究的章法教学与内容深究的篇旨教学两大项申论，并撷取中学范文教学作为例证；第六章分析了教法运用的方向，索讨中学教师教法运用的现象，如创意教学的自由化、媒体教学的科技化等趋向；第七章就“实际教学的挑战”一问题探讨中学国文教师实际教学时所面临的各种问题，并提出相关的解决方针，包含教学环境的效应、教材多元的整合、教法多样的调节、教学资源的平衡，与未来教学的展望等顺题商讨。文末附录《台湾高级中学国文教材之比较分析》、《台湾国民中学国文教材之比较分析》二文，以统计法进行中学国文之量化研究。最后附“主要参考书目”，以征信实。</dc:description>
+        <dc:publisher>广东教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787540663988</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">881d45b6-2a80-4d9e-ac7b-f20191e87685</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>语文</dc:subject>
+        <dc:subject>教育</dc:subject>
+        <meta content="{&quot;蔡美惠&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:14:06+00:00" name="calibre:timestamp"/>
+        <meta content="台湾中学国文教学研究" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

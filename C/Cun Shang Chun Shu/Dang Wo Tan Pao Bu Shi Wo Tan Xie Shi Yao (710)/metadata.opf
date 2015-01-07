@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2377a07-db97-4de6-87ce-e99aba3cb50e</dc:identifier>
+        <dc:title>当我谈跑步时我谈些什么</dc:title>
+        <dc:creator opf:file-as="村上春树" opf:role="aut">村上春树</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
+        <dc:description>他以文字名满全球。
+他的“蓝调”令万千人神迷忧伤。
+文字是他的符号，“跑者蓝调”何尝不是？
+不再是浮华迷茫，不再是旖旎感伤，不再羚羊挂角无迹可寻——写了几十年“别人”的文字，他第一次只写自己：小说之外、故事之外、文字之外，均是不施雕琢娓娓道来，清淡如云，宁静如水……</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544242820</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>村上春树</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>跑步</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>半自传</dc:subject>
+        <meta content="{&quot;村上春树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:28+00:00" name="calibre:timestamp"/>
+        <meta content="当我谈跑步时我谈些什么" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

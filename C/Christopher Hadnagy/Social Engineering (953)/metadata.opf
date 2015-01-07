@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">101ab566-7e25-4fa8-983b-6d726ec158db</dc:identifier>
+        <dc:title>Social Engineering</dc:title>
+        <dc:creator opf:file-as="Christopher Hadnagy" opf:role="aut">Christopher Hadnagy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-20T16:00:00+00:00</dc:date>
+        <dc:description>The first book to reveal and dissect the technical aspect of many social engineering maneuvers        From elicitation, pretexting, influence and manipulation all aspects of social engineering are picked apart, discussed and explained by using real world examples, personal experience and the science behind them to unraveled the mystery in social engineering.       Kevin Mitnick—one of the most famous social engineers in the world—popularized the term “social engineering.” He explained that it is much easier to trick someone into revealing a password for a system than to exert the effort of hacking into the system. Mitnick claims that this social engineering tactic was the single-most effective method in his arsenal. This indispensable book examines a variety of maneuvers that are aimed at deceiving unsuspecting victims, while it also addresses ways to prevent social engineering threats.          Examines social engineering, the science of influencing a target to perform a desired task or divulge information     Arms you with invaluable information about the many methods of trickery that hackers use in order to gather information with the intent of executing identity theft, fraud, or gaining computer system access     Reveals vital steps for preventing social engineering threats     Includes a direct URL to a free download of the world’s premiere penetration-testing distribution, BackTrack 4 SE Edition - geared towards Social Engineering Tools            Social Engineering: The Art of Human Hacking  does its part to prepare you against nefarious hackers—now you can do your part by putting to good use the critical information within its pages.</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470639535</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>社会工程学</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>security</dc:subject>
+        <dc:subject>安全渗透</dc:subject>
+        <dc:subject>hacking</dc:subject>
+        <dc:subject>信息安全</dc:subject>
+        <dc:subject>社会工程</dc:subject>
+        <dc:subject>社交工程</dc:subject>
+        <meta content="{&quot;Christopher Hadnagy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="心理" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:56+00:00" name="calibre:timestamp"/>
+        <meta content="Social Engineering" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
