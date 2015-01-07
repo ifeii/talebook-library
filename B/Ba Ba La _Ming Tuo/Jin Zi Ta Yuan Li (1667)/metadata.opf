@@ -6,17 +6,31 @@
         <dc:title>金字塔原理</dc:title>
         <dc:creator opf:file-as="巴巴拉·明托" opf:role="aut">巴巴拉·明托</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-08-05T16:00:00+00:00</dc:date>
-        <dc:description>《金字塔原理》是关于金字塔原理的最新版本，收录了作者从1987年至今获得和发现的所有关于思维表达方面的体会和技巧。与旧版本相比，本书增加了新的章节，如介绍如何界定问题和分析问题，以及如何从视觉的角度出发，在纸张和屏幕上演示金字塔结构。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2002-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《金字塔原理》是一本讲解写作逻辑与思维逻辑的读物，全书分为四个部分。
+第一篇主要对金字塔原理的概念进行了解释，介绍了如何利用这一原理构建基本的金字塔结构。目的是使读者理解和运用简单文书的写作技巧。
+第二篇介绍了如何深入细致地把握思维的环节，以保证使用的语句能够真实地反映希望表达的思想要点。书中列举了许多实例，突出了强迫自己进行“冷静思维”对明确表达思想的重要性。
+第三篇主要针对的对象是需要写研究分析报告的人士，以及需要对复杂的问题进行分析、提出结论供决策使用的人士。这一篇介绍了如何在解决问题过程中的不同阶段使用多种框架来组织分析过程，使写作者的思维在实际上进行了预先组织，从而能够更方便地应用金字塔原理。
+第四篇介绍了一些演示技巧，能够写作者在以幻灯片等书面形式演示具有金字塔结构的思想时，能让读者或观众感受到金字塔结构的存在。
+附有三个附录。附录一涉及的是分析法和科学法在解决问题过程中的区别；附录二列举了序言部分的各种常用写作模式；附录三是全书要点的详细提纲，突出了《金字塔原理》的关键概念和关键思维技巧，以便读者快速查阅。</dc:description>
+        <dc:publisher>民主与建设出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801125217</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>经济·管理</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>金字塔原理</dc:subject>
+        <dc:subject>逻辑</dc:subject>
+        <dc:subject>写作</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>麦肯锡</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <dc:subject>管理咨询</dc:subject>
         <meta content="{&quot;巴巴拉·明托&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:03:31.036599+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:15:13+00:00" name="calibre:timestamp"/>
         <meta content="金字塔原理" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

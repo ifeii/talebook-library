@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01ce14a6-7ac8-4a70-965c-c818c6037e44</dc:identifier>
+        <dc:title>西窗随笔（全二册）</dc:title>
+        <dc:creator opf:file-as="柏杨" opf:role="aut">柏杨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-04-30T16:00:00+00:00</dc:date>
+        <dc:description>一九六三年夏历五月，柏杨先生正在前途茫茫，愁眉苦脸，漫画家牛哥先生忽然驾临，以手俯我御背，告曰：“老头，我最近帮朋友的忙，接编台北《公论报》副刊，看你着实可怜，特来提拔，可每天写五百字，以免阁下沦于饿殍。”我曰：“杀人杀死，救人救活，要写每天就写一千字，五百字能有几文钱哉？”他慨然应允。当时心中大喜，就要请他吃香片热茶，他已大汗淋漓啦，既然无福消受，只好狼狈辞去。从此柏杨先生就写了起来，并定名为《西窗随笔》+夫西窗者，有异于东窗南窗北窗之窗也——每天一篇，颇为起劲。本书内容包括西窗随笔、大愚若智集、越帮越忙集、心血来潮集、死不认错集等五大部分内容。</dc:description>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505713499</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>柏杨</dc:subject>
+        <dc:subject>杂文</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>好书</dc:subject>
+        <dc:subject>西窗</dc:subject>
+        <meta content="{&quot;柏杨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随笔" name="calibre:series"/>
+        <meta content="31" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:05+00:00" name="calibre:timestamp"/>
+        <meta content="西窗随笔（全二册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

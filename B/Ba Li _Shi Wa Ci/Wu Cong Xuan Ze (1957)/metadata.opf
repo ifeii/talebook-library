@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42c6645f-853d-44fd-bd4e-c53ebd27500d</dc:identifier>
+        <dc:title>无从选择</dc:title>
+        <dc:creator opf:file-as="巴里·施瓦茨" opf:role="aut">巴里·施瓦茨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-30T16:00:00+00:00</dc:date>
+        <dc:description>不知你可曾有这样的体验：手持遥控器在电视屏幕上反复调换节目；在琳琅满目的商场选购却无获而返；面对众多的投资计划却不知所措……。这正是本书将告诉你的：过多的选择已成为一种负担。
+　　当今社会，人们生活的方方面面，如教育、就业、友情、甚至宗教都面临着众多的选择。作者认为，选择确实改善了我们生活的质量，让我们可以掌控自身的命运，并获得我们确实想要的东西。但选择是件好事并不等于更多的选择会更好。相反，过量的选择往往会让你在决定之前就开始自我怀疑，也会让你设定不切实际的期望，更会让你对失败的决定而自怨自艾。长此以往，这会导致人们决策的迟钝，情绪的焦虑和心理上的抑郁。而当今的消费文化总在不断地提醒我们，拥有丰富多样的选择是没有任何理由达不到尽善尽美的。在这种情形下，抑郁症为何如此快地蔓延便得到了很好的注解。 
+　　在本书中，作者分析了过量的选择对人们情绪和心理上所造成的伤害，并通过生动的实例及浅显的推理，揭示了选择数量的急剧上升，不仅没有带给人们更多地自由和自决权，反而形成了社会性的问题。作者最后提出了11 个解决问题的方法，希望人们将选项控制在力所能及的范围内，并养成放弃的习惯，从而在自己的决定中享受生活的乐趣。</dc:description>
+        <dc:publisher>中国商务出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801813268</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>无从选择</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <meta content="{&quot;巴里·施瓦茨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:24+00:00" name="calibre:timestamp"/>
+        <meta content="无从选择" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

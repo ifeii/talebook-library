@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9eee9b58-33db-4b6b-9442-1474016009e2</dc:identifier>
+        <dc:title>时间的玫瑰</dc:title>
+        <dc:creator opf:file-as="北岛" opf:role="aut">北岛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-31T16:00:00+00:00</dc:date>
+        <dc:description>作者北岛用“诗歌传记”的表现手法，向我们娓娓道来20世纪最为辉煌的诗歌时代——“黄金时代”的代表人物，其中包括洛尔加、曼德尔施塔姆、里尔克、特拉克尔、策兰、帕斯捷尔纳克、特朗斯特罗默、艾基、狄兰·托马斯。这些诗人也是北岛最喜欢和热爱的。用平等、理性的眼光，雕琢20世纪的“黄金时代”。一种完全出自个人思想，又完全超越个人思想范畴，面对诗歌与历史的理性思想。
+在手法上，作者把诗、诗歌和时代有力地融合在一起，同时也谈到人的文论创作，在整个过程中，北岛再现了诗人的生平、时代。“我采用的是一种复杂的文体，很难归类，依我看，这和现代诗歌的复杂性，和个人代和作品，也分析了外诗中译面对的困局和荒诞，迫使读者直视文化穿越的可能和不可能与时代、经验与形式、苦难与想象间的复杂性有关。”</dc:description>
+        <dc:publisher>中国文史出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787503416637</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>北岛</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>时间的玫瑰</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>翻译</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>诗</dc:subject>
+        <meta content="{&quot;北岛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:01+00:00" name="calibre:timestamp"/>
+        <meta content="时间的玫瑰" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

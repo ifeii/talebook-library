@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">667fb4ac-9531-47e6-82e6-8024e04dc938</dc:identifier>
+        <dc:title>The Fixer</dc:title>
+        <dc:creator opf:file-as="Bernard Malamud" opf:role="aut">Bernard Malamud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-04T16:00:00+00:00</dc:date>
+        <dc:description>A classic that won Malamud both the Pulitzer Prize and the National Book Award "The Fixer" (1966) is Bernard Malamud's best-known and most acclaimed novel -- one that makes manifest his roots in Russian fiction, especially that of Isaac Babel. Set in Kiev in 1911 during a period of heightened anti-Semitism, the novel tells the story of Yakov Bok, a Jewish handyman blamed for the brutal murder of a young Russian boy. Bok leaves his village to try his luck in Kiev, and after denying his Jewish identity, finds himself working for a member of the anti-Semitic Black Hundreds Society. When the boy is found nearly drained of blood in a cave, the Black Hundreds accuse the Jews of ritual murder. Arrested and imprisoned, Bok refuses to confess to a crime that he did not commit.</dc:description>
+        <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780374529383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>俄国</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>普利策</dc:subject>
+        <dc:subject>犹太人</dc:subject>
+        <meta content="{&quot;Bernard Malamud&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:27:58+00:00" name="calibre:timestamp"/>
+        <meta content="Fixer, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

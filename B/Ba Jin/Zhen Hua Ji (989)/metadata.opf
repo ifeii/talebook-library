@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b51f55cc-ce8c-4ad8-9103-07754e5d3321</dc:identifier>
+        <dc:title>真话集</dc:title>
+        <dc:creator opf:file-as="巴金" opf:role="aut">巴金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-01-31T16:00:00+00:00</dc:date>
+        <dc:description>巴金直面“文革”带来的灾难，直面自己人格曾经出现的扭曲。他愿意用真实的写作，填补一度出现的精神空白。他在晚年终于写作了在当代中国产生巨大影响的《随想录》，以此来履行一个知识分子应尽的历史责任，从而达到了文学和思想的最后高峰。 &#13;
+  《随想录》堪称一本伟大的书。这是巴金用全部人生经验来倾心创作的。没有对美好理想的追求，没有对完美人格的追求，没有高度严肃的历史态度，老年巴金就不会动笔。他在《随想录》中痛苦回忆；他在《随想录》中深刻反思；他在《随想录》中重新开始青年时代的追求；他在《随想录》中完成了一个真实人格的塑造。本书是《随想录》第3集。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020055494</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>巴金</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>知识分子良心</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>文革</dc:subject>
+        <dc:subject>散杂</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <meta content="{&quot;巴金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="随想录" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:18+00:00" name="calibre:timestamp"/>
+        <meta content="真话集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1418</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84f02ea6-14b2-4895-8323-978d5127c05d</dc:identifier>
+        <dc:title>学徒面包师</dc:title>
+        <dc:creator opf:file-as="彼得.莱因哈特" opf:role="aut">彼得.莱因哈特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:description>在《面包大王》中，彼得和大家分享了最近的成果，这是他从很多法国著名面包店所吸取的精华，是他在烹饪学府的厨房中和学生们在一起研究时迸发的火花。透过彼得的肩膀，我们看到了包括莱昂内尔?普瓦拉纳以及菲利普?戈瑟兰在内的巴黎最为著名的烘焙师，他们都曾经是彼得的老师，菲利普?戈瑟兰的《老式面包》掀起了法棍烘焙的艺术革命。彼得随后又在厨房和学生们肩并肩，教授了经典的面包烘焙十二步，他的讲解清晰，还附有100多张逐步分解的照片。在动手制作书中50个全新的经典面包的超级配方以后，你会在知识上获得全新的收获，这些经典的面包包括纯朴的夏巴达（一种带脆皮的意大利面包）、亲切的法式乡村面包、传统的纽约面包圈，还有本书的圣杯——彼得版知名的老式面包。彼得一直在不断地提炼科学，吸取先进的技术，了解食品的历史，将它们溶为一种大家都可以获得的资源，使它如同你烘焙的面包那样，饱满而富有层次。本书采用了最原始的食品描述方式，展现出了最大的魅力，用全部的热情教授充满热情的人——你的回报就是那些在阳光下最美味的面包。</dc:description>
+        <dc:publisher>北京科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787530452301</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>烘焙</dc:subject>
+        <dc:subject>面包</dc:subject>
+        <dc:subject>美食</dc:subject>
+        <dc:subject>烘焙面包</dc:subject>
+        <dc:subject>BBA</dc:subject>
+        <dc:subject>专业烘焙</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>糕点</dc:subject>
+        <meta content="{&quot;彼得.莱因哈特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:20+00:00" name="calibre:timestamp"/>
+        <meta content="学徒面包师" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

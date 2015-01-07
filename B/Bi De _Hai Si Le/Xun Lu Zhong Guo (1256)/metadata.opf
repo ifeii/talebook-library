@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">900b9c15-475c-4219-a4d4-b304350ea6af</dc:identifier>
+        <dc:title>寻路中国</dc:title>
+        <dc:creator opf:file-as="彼得·海斯勒" opf:role="aut">彼得·海斯勒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:description>我叫彼得·海斯勒，是《纽约客》驻北京记者。这本书讲述了我驾车漫游中国大陆的经历。
+2001年夏天，我考取了中国驾照，在此后的七年中，我驾车漫游于中国的乡村与城市。这七年也正是中国汽车业的高速发展期，单在北京一地，每天申领驾照的新人就有一千多，其中有好几年，乘用车销售额的年增长率超过了百分之五十。仅仅两年多的时间，中国政府在乡村所铺设的公路里程数，就超过了此前半个世纪的总量。
+《寻路中国》一书有几条不同的线索。它首先叙述了我由东海之滨沿着长城一路向西，横跨中国北方的万里行程；另一条线索集中讲述了一个因中国汽车业的高速发展而发生巨变的乡村，在这里，我特写了一个农民家庭由农而商的变化经历；最后，则是中国东南部一个工业小镇的城市生活场景。书中所描述的这种由农而工而商、乡村变身城市的发展，正是1978年改革以来中国所发生的最重要的变化。
+《寻路中国》是我的中国纪实三部曲之尾曲。它探讨经济，追踪发展的源头，探究个人对变革的应对。如前两本书那样，它研究中国的核心议题，但并不通过解读著名的政治或文化人物来实现这个目的，也不做宏观的大而无当的分析。它相信通过叙述普通中国人的经历来展现中国变革的实质。我经常在一地连续呆上数月、甚至数年，跟踪变化。我不会仅仅听主人公自己讲述，我会睁大眼睛，看着他们的故事在我面前一点点展开。
+这三本书横跨了我的中国十年，从1996至2007。我们可以看出，这个处于世纪之交的十年是中国历史上最关键的时期之一。正是在这十年中，中国经济实现了腾飞，中国对外部世界的影响力开始增大。更重要的是，这是邓小平去世后的第一个十年。在这十年中，中国历史的面貌开始变化，大规模的政治事件与强力领袖开始从中退却。相反，中国巨变的推动者变成了普通人——走向城市的农民、边学边干的企业家，他们的能量与决心是过去这十年中的决定因素。从《江城》到《甲骨文》再到《寻路中国》，我所讲述的都是他们的故事。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8358c224-5e91-4e9f-904e-e85cf7a59f0d</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787532752805</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>旅行</dc:subject>
+        <dc:subject>纪实中国</dc:subject>
+        <dc:subject>纪实</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>何伟</dc:subject>
+        <dc:subject>寻路中国</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <meta content="{&quot;彼得·海斯勒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:32+00:00" name="calibre:timestamp"/>
+        <meta content="寻路中国" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
