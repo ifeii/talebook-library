@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a29c7081-1b76-465b-9068-16b2d825a4e6</dc:identifier>
+        <dc:title>A Fable</dc:title>
+        <dc:creator opf:file-as="Faulkner, William" opf:role="aut">Faulkner, William</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1977-11-30T16:00:00+00:00</dc:date>
+        <dc:description>This novel won both the Pulitzer Prize and the National Book Award in 195. An allegorical story of World War I, set in the trenches in France and dealing ostensibly with a mutiny in a French regiment, it was originally considered a sharp departure for Faulkner. Recently it has come to be recognized as one of his major works and an essential part of the Faulkner "oeuvre." Faulkner himself fought in the war, and his descriptions of it "rise to magnificence," according to "The New York Times," and include, in Malcolm Cowley's words, "some of the most powerful scenes he ever conceived."</dc:description>
+        <dc:publisher>Random House Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780394724133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Manuscripts</dc:subject>
+        <meta content="{&quot;Faulkner, William&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:28:34+00:00" name="calibre:timestamp"/>
+        <meta content="Fable, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

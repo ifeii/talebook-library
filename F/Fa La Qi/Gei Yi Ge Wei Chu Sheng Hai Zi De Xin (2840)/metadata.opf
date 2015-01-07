@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7a5ee28-ee85-49dd-99d0-507a8dfb88d1</dc:identifier>
+        <dc:title>给一个未出生孩子的信</dc:title>
+        <dc:creator opf:file-as="法拉奇" opf:role="aut">法拉奇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《给一个未出生孩子的信》是一本社会历史、真诚忏悔与虚构故事的混合物，是作者“刻骨铭心的情感经历这颗精子”和“想象力这颗卵子”天然受孕的结果。
+它的主题不仅涉及文学史上从未接触过的内容— 一个未婚母亲与她腹中胎儿的一段旷世未有的缠绵恋情，而且涉及作者对人类生与死、爱与恨的深刻怀疑与痛苦思索。无论从哪方面说，这本书都是法拉奇的不朽之作。</dc:description>
+        <dc:publisher>上海三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787542632081</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f2a09427-0517-494a-a2a8-905bdbb23a0b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>法拉奇</dc:subject>
+        <dc:subject>女性</dc:subject>
+        <dc:subject>给一个未出生孩子的信</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>母性</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>爱</dc:subject>
+        <meta content="{&quot;法拉奇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:37:13+00:00" name="calibre:timestamp"/>
+        <meta content="给一个未出生孩子的信" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

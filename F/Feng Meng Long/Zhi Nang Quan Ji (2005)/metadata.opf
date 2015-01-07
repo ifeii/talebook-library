@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2005</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a460e2d1-3ec9-4b37-a056-fd00ed8c6925</dc:identifier>
+        <dc:title>智囊全集</dc:title>
+        <dc:creator opf:file-as="冯梦龙" opf:role="aut">冯梦龙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-31T16:00:00+00:00</dc:date>
+        <dc:description>《智囊全集》和《古今谭概》是姊妹篇，是一部从先秦到明代智慧故事的总集。《智囊全集》分上智、明智、察智、胆智、术智、捷智、语智、兵智、闺智、杂智十部，其下又分见大、知微、雄略、敏悟等28类小类。不论是经邦治国，高瞻远瞩，还是出奇制胜，决胜千里，抑或是轻取富贵、全身持家，古人的种种智慧韬略，几乎收揽无遗。读此书如入宝山，金玉琳琅，美不胜收。愿大家在恣情赏鉴之余，都有所斩获，携得几件宝贝归来。</dc:description>
+        <dc:publisher>中华书局</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787101057539</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>冯梦龙</dc:subject>
+        <dc:subject>智谋</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>智囊</dc:subject>
+        <dc:subject>古籍</dc:subject>
+        <dc:subject>笔记</dc:subject>
+        <meta content="{&quot;冯梦龙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:01+00:00" name="calibre:timestamp"/>
+        <meta content="智囊全集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

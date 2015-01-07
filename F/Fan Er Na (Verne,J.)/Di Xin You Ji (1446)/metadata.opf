@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9689173a-5146-443f-8af0-a295f17fcc26</dc:identifier>
+        <dc:title>地心游记</dc:title>
+        <dc:creator opf:file-as="凡尔纳（Verne，J.）" opf:role="aut">凡尔纳（Verne，J.）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-11-30T16:00:00+00:00</dc:date>
+        <dc:description>本书是一部充满传奇色彩的科幻小说，但它的诞生是和当时的历史、社会背景分不开的。一方面，欧洲殖民者出于建立各自殖民地帝国的目的，掀起了一股探险狂热，在短短的时间里，他们相继征服了尼罗河的源头、撒哈拉沙漠、非洲大陆、南北两极，地球上人迹未至之处越来越少。另一方面，科学技术，特别是考古学和地质学得到了前所未有的发展。《地心游记》正是在这样的背景下应运而生的。
+本书的内容是：德国科学李侠登布洛克教授受前人萨克努塞姆一封密码信的启发，偕同侄子阿克塞尔和向导汉斯，进行了一次穿越地心的探险旅行。他们从冰岛的斯奈菲尔火山口下降，一路上克服了缺水、迷路、风暴等各和困难，终于在一次火山喷发中从西西岛的斯德布利火山回到地面。
+整部小说就像凡尔纳的所有作品一样，不仅文笔幽默流畅，情节波澜起伏，而且有着浪漫而合乎科学的非凡想像力，把读者带进了一个超越时空的幻想世界。</dc:description>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500611561</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>凡尔纳</dc:subject>
+        <dc:subject>儒勒·凡尔纳</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>地心游记</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <meta content="{&quot;凡尔纳（Verne，J.）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:46+00:00" name="calibre:timestamp"/>
+        <meta content="地心游记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

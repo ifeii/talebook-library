@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9793028a-ea8a-4d45-8cd6-e2dc8a5b7c40</dc:identifier>
+        <dc:title>The Road to Serfdom</dc:title>
+        <dc:creator opf:file-as="F. A. Hayek" opf:role="aut">F. A. Hayek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-14T16:00:00+00:00</dc:date>
+        <dc:description>Product Description
+An unimpeachable classic work in political philosophy, intellectual and cultural history, and economics, The Road to Serfdom has inspired and infuriated politicians, scholars, and general readers for half a century. Originally published in 1944—when Eleanor Roosevelt supported the efforts of Stalin, and Albert Einstein subscribed lock, stock, and barrel to the socialist program—The Road to Serfdom was seen as heretical for its passionate warning against the dangers of state control over the means of production. For F. A. Hayek, the collectivist idea of empowering government with increasing economic control would lead not to a utopia but to the horrors of Nazi Germany and Fascist Italy.
+First published by the University of Chicago Press on September 18, 1944, The Road to Serfdom garnered immediate, widespread attention. The first printing of 2,000 copies was exhausted instantly, and within six months more than 30,000 books were sold. In April 1945, Reader’s Digest published a condensed version of the book, and soon thereafter the Book-of-the-Month Club distributed this edition to more than 600,000 readers. A perennial best seller, the book has sold 400,000 copies in the United States alone and has been translated into more than twenty languages, along the way becoming one of the most important and influential books of the century.
+With this new edition, The Road to Serfdom takes its place in the series The Collected Works of F. A. Hayek.  The volume includes a foreword by series editor and leading Hayek scholar Bruce Caldwell explaining the book's origins and publishing history and assessing common misinterpretations of Hayek's thought.  Caldwell has also standardized and corrected Hayek's references and added helpful new explanatory notes.  Supplemented with an appendix of related materials ranging from prepublication reports on the initial manuscript to forewords to earlier editions by John Chamberlain, Milton Friedman, and Hayek himself, this new edition of The Road to Serfdom will be the definitive version of Friedrich Hayek's enduring masterwork.</dc:description>
+        <dc:publisher>University of Chicago Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780226320540</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Hayek</dc:subject>
+        <dc:subject>自由主义</dc:subject>
+        <dc:subject>Liberalism</dc:subject>
+        <dc:subject>哈耶克</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <meta content="{&quot;F. A. Hayek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="哲学/宗教" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:41+00:00" name="calibre:timestamp"/>
+        <meta content="Road to Serfdom, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

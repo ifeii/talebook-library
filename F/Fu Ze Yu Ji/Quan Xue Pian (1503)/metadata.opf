@@ -6,17 +6,27 @@
         <dc:title>劝学篇</dc:title>
         <dc:creator opf:file-as="福泽谕吉" opf:role="aut">福泽谕吉</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;span class="Apple-style-span" style="background-color: rgb(255, 255, 255); "&gt;个人之自由独立关系到国家之自由独立------福泽谕吉&lt;br&gt;&lt;/span&gt;&lt;span style="orphans: 2; text-align: -webkit-auto; text-indent: 0px; widows: 2; background-color: rgb(255, 255, 255); display: inline !important; float: none; -webkit-text-stroke-width: 0px; -webkit-text-size-adjust: auto; word-spacing: 0px; white-space: normal; text-transform: none; letter-spacing: normal; font-weight: normal; font-variant: normal; font-style: normal; color: rgb(0, 0, 0); "&gt;&lt;font class="Apple-style-span" face="verdana, arial, helvetica, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;p&gt;&lt;span style="color: rgb(0, 0, 0); font-family: verdana, arial, helvetica, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); font-size: small; display: inline !important; float: none; "&gt;《劝学书》：一万元日币的头像不是明治天皇，不是伊藤博文，而是福泽谕吉；明治维新第一功臣不是西乡隆盛，不是大久保利通，而是福泽谕吉；日本近代教育之父的代表作品。&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;
-愿在我们的国家，也能人人自由独立，成为自由独立之国家.-----Mobi creator&lt;font class="Apple-style-span" face="sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 15px; line-height: 22px; "&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:date>1984-09-30T16:00:00+00:00</dc:date>
+        <dc:description>《劝学篇》，本书共分17篇，包括有：论国与国平等；论学者的职分；论国民的职责；勿以自己的意志强制他人；论名分产生伪君子；论思想和行动一致等内容。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100020534</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">44e0f914-b087-4dac-99c3-330755b202e8</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>福泽谕吉</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <dc:subject>文化</dc:subject>
+        <dc:subject>日本思想</dc:subject>
+        <dc:subject>日本近代</dc:subject>
         <meta content="{&quot;福泽谕吉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:00:46.734043+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:46+00:00" name="calibre:timestamp"/>
         <meta content="劝学篇" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>
