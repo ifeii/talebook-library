@@ -1,22 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d563361e-ab85-450b-b152-6b7d1e1cec66</dc:identifier>
         <dc:title>ABC谋杀案</dc:title>
         <dc:creator opf:file-as="阿加莎.克里斯蒂" opf:role="aut">阿加莎.克里斯蒂</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-06-28T16:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
-        <dc:language>zh-CN</dc:language>
-        <dc:subject>外国小说</dc:subject>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T16:00:00+00:00</dc:date>
+        <dc:description>一个逍遥法外的连环杀手通过字母表一步一步实施犯罪。作为死亡标记，杀手在每个被害人的尸体旁留下一本ABC铁路旅行指南，翻开的那页就是杀人之地。
+先是在安多弗，接着是贝克斯希尔海滩，然后是克拉克爵士被发现谋杀于彻斯顿的海边小径。看起来继续作恶的凶手毫无被擒的希望，直到凶手自己犯了一个致命的错误——向波洛挑战杀人计划……
+当第四封信到来，并宣布下一次作案地点是唐克斯特时，不仅媒体给予了铺天盖地的报道，苏格兰场也部署了大量警力来防范。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020058013</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>阿加莎·克里斯蒂</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>侦探推理</dc:subject>
+        <dc:subject>侦探</dc:subject>
+        <dc:subject>推理小说</dc:subject>
         <dc:subject>侦探小说</dc:subject>
-        <meta content="阿加莎·克里斯蒂" name="calibre:series"/>
-        <meta content="18" name="calibre:series_index"/>
-        <meta content="2011-01-04T16:34:46.753257+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;阿加莎.克里斯蒂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="阿加莎克里斯蒂全集" name="calibre:series"/>
+        <meta content="37" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:11:45+00:00" name="calibre:timestamp"/>
         <meta content="ABC谋杀案" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

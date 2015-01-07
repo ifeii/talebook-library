@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a7c9c50-93e7-436f-88ea-5e7d68eb5657</dc:identifier>
+        <dc:title>Anthem</dc:title>
+        <dc:creator opf:file-as="Ayn Rand" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-27T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The year 2005 marks Ayn Rand's Centennial Year.  Ayn Rand's classic tale of a future dark age of the great ?We??a world that deprives individuals of name, independence, and values?anticipates her later masterpieces, The Fountainhead and Atlas Shrugged.
+(下面內容來自豆瓣)
+　　安·兰德是美国当代最有影响的作家、思想家和公共知识分子之一。
+　　安·兰德宣扬极端个人主义精神，是理性利已主义的倡导者，与利他主义和自我牺牲的伦理学形成最为尖锐的对抗。
+　　在美国，她的作品的销量仅次于《圣经》。
+　　有人说不了解安·兰德就无法理解美国精神。许多大名鼎鼎的人物，包括美联储主席格林斯潘、甲骨文CEO埃里森都是安·兰德哲学的拥趸。</dc:description>
+        <dc:publisher>Boomer Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781434100351</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>AynRand</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>libertarianism</dc:subject>
+        <dc:subject>Russian</dc:subject>
+        <meta content="{&quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Ayn Rand Library" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:53:44+00:00" name="calibre:timestamp"/>
+        <meta content="Anthem" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

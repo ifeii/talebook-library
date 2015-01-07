@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ea08a0e-d2c5-4ad4-81c3-24eadbadc947</dc:identifier>
+        <dc:title>云中命案</dc:title>
+        <dc:creator opf:file-as="阿加莎·克里斯蒂" opf:role="aut">阿加莎·克里斯蒂</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-30T16:00:00+00:00</dc:date>
+        <dc:description>普罗米修斯号航班从巴黎飞往伦敦……
+坐在9号座位上，赫尔克里·波洛能够方便地观察到机舱里的乘客们。在他右手前方的一个位置上坐着一位漂亮的年轻女孩，显然正迷恋着对面的男子。在他的前方，13号座位上，坐着一位伯爵夫人，此人不太会掩饰自己使用可卡因的习惯。在走道另一面的8号座位上，一名侦探小说家正在为一只招惹他的黄蜂而烦恼。
+波洛没有料到的是，坐在他后面的2号座位上的女人蜷成一团——她已经死了。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020058198</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>阿加莎·克里斯蒂</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>侦探</dc:subject>
+        <dc:subject>侦探推理</dc:subject>
+        <dc:subject>侦探小说</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <meta content="{&quot;阿加莎·克里斯蒂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="阿加莎克里斯蒂全集" name="calibre:series"/>
+        <meta content="25" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:11:36+00:00" name="calibre:timestamp"/>
+        <meta content="云中命案" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6790331c-0df1-43c3-9b44-d94605296e8e</dc:identifier>
+        <dc:title>棋王</dc:title>
+        <dc:creator opf:file-as="阿城" opf:role="aut">阿城</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-11T16:00:00+00:00</dc:date>
+        <dc:description>《棋王》名列 世紀百強 第 20。作者阿城，原名鍾阿城(1949- )，中國當代作家。北京人，出生於1949年清明節。十二三歲時就已遍覽曹雪芹、羅貫中、施耐庵、托爾斯泰、巴爾扎克、陀斯妥耶夫斯基、雨果等中外文學名著。中學未讀完，「文化大革命」開始，去山西農村插隊，此時開始習畫。為到草原寫生，轉往內蒙，而後去雲南建設兵團農場落戶。在雲南時，與著名畫家范曾結識，兩人超過「代溝」而成莫逆之交。「文革」後，經范曾推薦，《世界圖書》編輯部破格錄用阿城，作者重返北京。回城後曾在中國圖書進出口公司、東方造型藝術中心、中華國際技術開發總公司工作。現旅居國外。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506300766</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>阿城</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>棋王</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>当代</dc:subject>
+        <dc:subject>中国当代文学</dc:subject>
+        <meta content="{&quot;阿城&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="20" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:17+00:00" name="calibre:timestamp"/>
+        <meta content="棋王" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

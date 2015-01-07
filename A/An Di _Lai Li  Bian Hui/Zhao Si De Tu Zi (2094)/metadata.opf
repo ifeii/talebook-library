@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e62369a8-4c0b-4f46-8fbb-595be3db6d52</dc:identifier>
+        <dc:title>找死的兔子</dc:title>
+        <dc:creator opf:file-as="安迪·莱利 编绘" opf:role="aut">安迪·莱利 编绘</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-31T16:00:00+00:00</dc:date>
+        <dc:description>这是一本主角是兔子的漫画，内容荒诞不经却充满令人惊喜的黑色幽默。小白兔想快乐地、有趣地不再活下去。它透过放大镜静静地望着太阳；它义无反顾地袭击外星人；它炸掉比萨斜塔；它向核武器根据地进攻；它在直升机螺旋桨下玩蹦床；它从下面钻开硫酸瓶子；它口含唱片去撞墙；当其他动物都登上诺亚方舟的时候，它却在地面上悠然自得……</dc:description>
+        <dc:publisher>南海出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544237970</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>绘本</dc:subject>
+        <dc:subject>找死的兔子</dc:subject>
+        <dc:subject>漫画</dc:subject>
+        <dc:subject>小白兔自杀手册</dc:subject>
+        <dc:subject>创意</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>笑死不偿命</dc:subject>
+        <dc:subject>兔子</dc:subject>
+        <meta content="{&quot;安迪·莱利 编绘&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:15+00:00" name="calibre:timestamp"/>
+        <meta content="找死的兔子" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

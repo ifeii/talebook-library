@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7db3aeb-b1bc-4be4-9fd2-d11e922ee3ba</dc:identifier>
+        <dc:title>钢穴</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-31T16:00:00+00:00</dc:date>
+        <dc:description>向来，昨天才是历史，过去才是历史。阿西莫夫却与众不同，他的机器人系列写的是“明天的历史”，是“遥远未来的历史”！这位美国的“太史公”，用史诗般的笔触，用宏大的篇章，向你娓娓动听地讲述了人与机器人跌宕曲折的故事，把“未来的历史”淋漓尽致地奉献给你。书中地球人侦探贝莱和机器人侦探丹尼尔首次登场，共破宇宙城一科学家遭死光枪射杀疑案！
+长久以来，地球受控于外世界人。人类聚集在钢铁密封的各个城市中，城市郊外就有外世界人建立的太空城。
+太空城里发生了离奇的命案：一位外世界人被谋杀了，而外世界人认定是地球人干的。地球便衣刑警伊利亚·贝莱被迫承办这件案子。
+贝莱觉得精神压力大极了。他若不能顺利破案，地球将遭到外世界人的报复。更麻烦的是，他必须接受一位名叫机·丹尼尔的机器人做搭档。
+贝莱一向对机器人深恶痛绝，他能与机器人合作吗？</dc:description>
+        <dc:publisher>天地出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f8590a48-ec3c-4af9-8afa-0b86e36f7e4b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787807260424</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>阿西莫夫</dc:subject>
+        <dc:subject>机器人系列</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>艾萨克·阿西莫夫</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>机器人</dc:subject>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:50+00:00" name="calibre:timestamp"/>
+        <meta content="钢穴" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

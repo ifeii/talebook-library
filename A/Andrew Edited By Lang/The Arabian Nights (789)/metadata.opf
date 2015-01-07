@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">789</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b292bb4b-1fe2-4469-bc5a-c5e5cb1b6f10</dc:identifier>
+        <dc:title>The Arabian Nights</dc:title>
+        <dc:creator opf:file-as="Andrew Edited By Lang" opf:role="aut">Andrew Edited By Lang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-17T16:00:00+00:00</dc:date>
+        <dc:description>THE THOUSAND AND ONE NIGHTS is one of the great storybooks of the world and is a thousand or more years old. As early as the tenth century, a Persian collection of tales told of a king who was in the habit of killing his wives after their first night together.  Finally, he married the Wezir's clever daughter who nightly told him a tale which she left unfinished at dawn so that his curiosity led him to spare her until the tale could be completed.  ALADDIN, ALIBABA and SINDBAD are presented here as a tribute to the enduring power these stories have to enchant, to charm, and to mystify.  
+
+"If you have not done so, read these clever, action-packed stories.  Encourage every child you know to do the same. They are as enthralling as when they were first written." (B-O-T Editorial Review Board)</dc:description>
+        <dc:publisher>Books on Tape, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780736650656</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>ZDC:THSH</dc:subject>
+        <dc:subject>CNTY:USA</dc:subject>
+        <meta content="{&quot;Andrew Edited By Lang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="童话" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:53:56+00:00" name="calibre:timestamp"/>
+        <meta content="Arabian Nights, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

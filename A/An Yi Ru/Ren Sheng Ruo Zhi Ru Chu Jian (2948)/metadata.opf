@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">783f4b6b-c5cc-4068-9d82-1bf601fb97a8</dc:identifier>
+        <dc:title>人生若只如初见</dc:title>
+        <dc:creator opf:file-as="安意如" opf:role="aut">安意如</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T16:00:00+00:00</dc:date>
+        <dc:description>这是一部不甘于淹没在浩瀚书海中的作品。她似在谈诗词，又似在谈风月。她不拘泥于对古典诗词字面的理解，也非传统意义上的简单赏析，而是一种风格独特、感情丰富的散文随笔。她用清丽、感性的笔调，配以优雅、飘逸的插图，描绘出一幕幕古典诗词背后唯美、动人的历史爱情画卷，引领读者倾听一段段经典、震撼的浪漫往事。诗人，词人，凸现其旷世奇才与至真性情。才子，佳人，似笑非笑的嫣然，执迷不悔的凛然，心照不宣的释然，让我们在悲喜交加中恍然……</dc:description>
+        <dc:publisher>天津教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0de46a37-b5a2-4a50-bce4-dfe4f954427c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787530945728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>安意如</dc:subject>
+        <dc:subject>人生若只如初见</dc:subject>
+        <dc:subject>古典诗词</dc:subject>
+        <dc:subject>诗词</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <meta content="{&quot;安意如&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:56+00:00" name="calibre:timestamp"/>
+        <meta content="人生若只如初见" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

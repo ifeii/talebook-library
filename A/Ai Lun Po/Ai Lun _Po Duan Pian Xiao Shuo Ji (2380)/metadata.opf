@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a957048c-8d73-4d2c-92ac-f7e4bb402255</dc:identifier>
+        <dc:title>爱伦·坡短篇小说集</dc:title>
+        <dc:creator opf:file-as="爱伦・坡" opf:role="aut">爱伦・坡</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-31T16:00:00+00:00</dc:date>
+        <dc:description>爱伦·坡著有小说《怪诞故事集》、《黑猫》、《莫格街谋杀案》等。论文有《写作的哲学》、《诗歌原理》。1841年发表的《莫格街谋杀案》是公认为最早的侦探小说。内容写密室凶杀，凶手居然是猩猩。1842年发表的《玛丽·罗杰神秘案件》，纯粹用推理形式破案。其他如《金甲虫》、《你就是杀人凶手》、《被盗窃的信》等五部小说成功创造了五种推理小说模式，（密室杀人、安乐椅上的纯推理侦探、破解密码诡计、侦探即是凶手及心理破案、人的盲点）塑造了业余侦探奥古斯特·杜平这一艺术典型。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020039722</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>爱伦·坡</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;爱伦・坡&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:53+00:00" name="calibre:timestamp"/>
+        <meta content="爱伦·坡短篇小说集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

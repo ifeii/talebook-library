@@ -6,16 +6,28 @@
         <dc:title>自深深处</dc:title>
         <dc:creator opf:file-as="奥斯卡·王尔德" opf:role="aut">奥斯卡·王尔德</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-01-25T16:00:00+00:00</dc:date>
+        <dc:date>2008-03-31T16:00:00+00:00</dc:date>
+        <dc:description>我人生有两大转折点：一是父亲送我进牛津，一是社会送我进监狱。碰上你，对我是危险的，而在那个特定时候碰上你，对我则成了致命。命运将我们两个互不相干的生命丝丝缕缕编成了一个血红的图案，你的确真心爱过我。即使你拒绝收我的信，我也会照写不误，这样你就会知道，不管怎样，总是有信在等着你。
+《自深深处》是王尔德写给他的同性恋伙伴道格拉斯的一封长信，这封信是王尔德在牢狱生活的最后几个月内写成的，信中充满了以道格拉斯爱恨交织的情绪，同时还集中阐述了王尔德的艺术观、生活观。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544704816</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">29f6976f-6975-4342-8f4b-669e1d9256a1</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ibook.178.com</dc:subject>
+        <dc:subject>王尔德</dc:subject>
+        <dc:subject>自深深处</dc:subject>
+        <dc:subject>书信</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>情书</dc:subject>
+        <dc:subject>唯美</dc:subject>
+        <dc:subject>文学</dc:subject>
         <meta content="{&quot;奥斯卡·王尔德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:01:37.219424+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:47+00:00" name="calibre:timestamp"/>
         <meta content="自深深处" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

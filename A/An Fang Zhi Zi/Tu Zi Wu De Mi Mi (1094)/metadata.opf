@@ -1,24 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1094</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ea234bb3-2029-421a-8bb6-5f4d8122b1c9</dc:identifier>
         <dc:title>兔子屋的秘密</dc:title>
         <dc:creator opf:file-as="安房直子" opf:role="aut">安房直子</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-05-11T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;1988年&lt;br&gt;　　 安房直子所营造的是一个唯美的艺术世界，作品充满了奇异的幻想，在甜美的幻想中散发着一种淡淡的哀愁，让人在凄美、空灵、梦幻般的文字中感受生命的诗意；安房直子善于把现实空间和幻想空间编织得天衣无缝，用幻想的故事映照真实的人生；安房直子的作品常见的主题是孤独、温情、怀念和爱。作家用独特的艺术语言和表现方式在探讨一个命题：人究竟是什么？ &lt;br&gt;　　 家住卷心菜田边的年轻太太认识了会做各种美味佳肴的兔子，为了免除下厨的劳累与麻烦，她要求兔子每天为她提供饭菜，为此她付出了沉重的代价，而兔子受到的挫折与挑战更大……在寒冷的冬天，年轻的画家屋里没有暖炉，冻得直发抖，而他的运气更差，所画的画一直卖不出去。有一天，有人来敲门，是一只猫，接下来奇迹发生了……作品中无论是兔子、猫还是玻璃球、藏红花，都拥有某种奇异的魔法与魔力，而爱的力量、善的力量却有如种子一般顽强生长。&lt;/p&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:description>安房直子，一个远离尘嚣的女人，在她的心中，有一片被她称之为“童话森林”的小小的地方，那片森林，一片漆黑，总是有风“呼呼”地吹过。不过，像月光似的，常常会有微弱的光照进来，能模模糊糊地看得见里头的东西。在那里她写下了《被施了魔法的舌头》《风与树的歌》《手绢上的花田》《白鹦鹉的森林》《银孔雀》《紫丁香大街的帽子店》《黄昏海的故事》《天鹿》《遥远的野玫瑰村》《花香小镇》《冬吉和熊的故事》《山的童话：风的旱冰鞋》《狗尾草的原野——豆腐店主的故事》《红玫瑰旅馆的客人》等一部又一部的作品。绝大多数都是精美绝伦的短篇，在日本很风靡。评论家称她的作品如同“在院子的一隅默默地开放的花朵”。确实，它们如梦如幻，精美至极，犹如一首首空灵隽永的短歌，从一个温柔女性的视点出发，把淡淡的哀愁融入到自己那甘美、诡异的文字当中，写出一个个单纯得近乎透明却又让人感受生命的怆痛与诗意的故事。&#13;
+&#13;
+  安房直子所营造的是一个唯美的艺术世界，作品充满了奇异的幻想，在甜美的幻想中散发着一种淡淡的哀愁，让人在凄美、空灵、梦幻般的文字中感受生命的诗意；安房直子善于把现实空间和幻想空间编织得天衣无缝，用幻想的故事映照真实的人生；安房直子的作品常见的主题是孤独、温情、怀念和爱。作家用独特的艺术语言和表现方式在探讨一个命题：人究竟是什么？&#13;
+  家住卷心菜田边的年轻太太认识了会做各种美味佳肴的兔子，为了免除下厨的劳累与麻烦，她要求兔子每天为她提供饭菜，为此她付出了沉重的代价，而兔子受到的挫折与挑战更大……在寒冷的冬天，年轻的画家屋里没有暖炉，冻得直发抖，而他的运气更差，所画的画一直卖不出去。有一天，有人来敲门，是一只猫，接下来奇迹发生了……作品中无论是兔子、猫还是玻璃球、藏红花，都拥有某种奇异的魔法与魔力，而爱的力量、善的力量却有如种子一般顽强生长。</dc:description>
+        <dc:publisher>接力出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787807322641</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:THSH</dc:subject>
-        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>安房直子</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>兔子屋的秘密</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>温暖</dc:subject>
+        <dc:subject>童书</dc:subject>
         <meta content="{&quot;安房直子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="安房直子系列" name="calibre:series"/>
         <meta content="10" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-05-12T11:31:18+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:13+00:00" name="calibre:timestamp"/>
         <meta content="兔子屋的秘密" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

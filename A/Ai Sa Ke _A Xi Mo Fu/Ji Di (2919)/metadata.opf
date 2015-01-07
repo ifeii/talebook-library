@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ca3bf86-cbfd-442a-b53b-0973b885db28</dc:identifier>
+        <dc:title>基地</dc:title>
+        <dc:creator opf:file-as="艾萨克·阿西莫夫" opf:role="aut">艾萨克·阿西莫夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>向来，过去才是历史，昨天才是历史。阿西莫夫却与众不同，他的《基地》系列写的是“未来的历史”，是“遥远未来的历史”，是“明天的历史”！
+阿西莫夫这位“未来历史学家”，这位美国的“太史公”，用“史诗”般的笔触，用“基地”系列宏大的篇章，向读者娓娓动听地讲述了来自“银河帝国”、来自第一基地（通常称为“基地”）和第二基地以及来自那个“骡”的跌宕曲折的故事，把“未来的历史”淋漓尽致地奉献给读者。
+《基地》是“基地”系列三部曲中扣第一部。统治银河系达一万两千年之久的银河帝国，已经逐渐走向衰亡。这时间，只有心事史学的一代宗师哈里·谢顿预见未来银河人人将会经历一段长达三万年、充满无知、野蛮和战争的黑暗时期。谢顿于是设立集合帝国中最优秀的科学家，来到银河边缘的一个荒凉行星建立“基地”，期望它能成为未来世代人类的希望灯塔。
+然而，随着帝国的逐渐衰微，基地被好战的强邻包围。人类也面临痛苦抉择：向野蛮的势力投降、甘心受控制？还是不顾被摧毁的危险起而奋战？</dc:description>
+        <dc:publisher>天地出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806249420</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">45ae402b-1060-4e05-bd3e-e35348671d92</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>阿西莫夫</dc:subject>
+        <dc:subject>基地系列</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>基地</dc:subject>
+        <meta content="{&quot;艾萨克·阿西莫夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:38:29+00:00" name="calibre:timestamp"/>
+        <meta content="基地" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1090</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">29eebfc0-b1ab-4ff1-af2b-cfe4e3326a19</dc:identifier>
         <dc:title>花香小镇</dc:title>
         <dc:creator opf:file-as="安房直子" opf:role="aut">安房直子</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-05-11T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p class="description"&gt;1983年&lt;br&gt;　　（第十一届APPA（亚太地区出版者协会）图书奖翻译铜奖，第六届中国书籍装帧艺术展装帧奖铜奖）&lt;br&gt;　　骑着黄色自行车的少女，带走的是秋日最后一支乐曲。然而，“不论是谁，每一个人心中都有一把小提琴。”只要心中的小提琴没有失去，谁又能够夺走萦绕在我们心中的音乐和芬芳？当信看着远去的少女们，感到她们获得了自由的时候，其实，他的心也和飞舞的丹桂花一样，终于自由了……&lt;/p&gt;&lt;p class="description"&gt;&lt;span class="Apple-style-span" style="color: rgb(4, 12, 41); -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; "&gt;　　安房直子是一个远离尘嚣的女人，她一生淡泊，深居简出，甚至拒绝出门旅行。但她却为我们留下了一山坡野菊花似的短篇幻想小说，如梦如幻，精美至极，犹如一首首空灵隽永的短歌。她总是从一个温柔女性的视点出发，把淡淡的哀愁融入到自己那甘美、诡异的文字当中，写出一个个单纯得近乎透明但却又让人感受生命的怆痛与诗意的故事。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-29T16:00:00+00:00</dc:date>
+        <dc:description>本书为凄美而魅幻，伤感而温馨的幻想小说经典，宛如现代版格林童话……那是一个奇幻的国度，一个精灵出没的世界，那里有狐狸的窗户，那里的树枝上全部落满了白色的鹦赋，那里听得见女孩的灵魂在嘤嘤抽泣……五十一篇让少年与成人一起着迷，一起他享的魅幻故事。</dc:description>
+        <dc:publisher>少年儿童出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787532460182</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:THSH</dc:subject>
-        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>安房直子</dc:subject>
+        <dc:subject>童话</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>儿童文学</dc:subject>
+        <dc:subject>花香小镇</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>幻想</dc:subject>
+        <dc:subject>童书</dc:subject>
         <meta content="{&quot;安房直子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="安房直子系列" name="calibre:series"/>
         <meta content="6" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-05-12T04:01:16+00:00" name="calibre:timestamp"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:06+00:00" name="calibre:timestamp"/>
         <meta content="花香小镇" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

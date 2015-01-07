@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">640c6a5f-de7a-4e66-b8e1-a0f514cbd040</dc:identifier>
+        <dc:title>生命是什么</dc:title>
+        <dc:creator opf:file-as="埃尔温·薛定谔" opf:role="aut">埃尔温·薛定谔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-28T16:00:00+00:00</dc:date>
+        <dc:description>科学，特别是自然科学，最重要的目标之一，就是追寻科学本身的原动力，或曰追寻其第一推动。同时，科学的这种追求精神本身，又成为社会发展和人类进步的一种最基本的推动。
+科学总是寻求发现和了解客观世界的新现象，研究和掌握新规律，总是在不懈地追求真理。科学是认真的、严谨的、实事求是的，同时，科学又是创造的。科学的最基本态度之一就是疑问，科学的最基本精神之一就是批判。
+诺贝尔奖获得者埃尔温·薛定谔的《生命是什么》是20世纪的伟大科学经典之一它是为门外汉写的通俗作品，然而事实证明它已成为分子生物诞生和随后DNA发现的激励者和推动者，本书把《生命是什么？》和《意识和物质》合为一卷出版，后者也是他写的散文，文中研究了那些自古以来就使哲学家困惑迷离的问题，和这两篇经典著作放在一块的是薛定谔的自传。通过对他一生的回顾和引人入胜的描述，提供了他从事科学著作的背景材料。</dc:description>
+        <dc:publisher>湖南科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787535737229</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>薛定谔</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>生物</dc:subject>
+        <dc:subject>科学</dc:subject>
+        <dc:subject>物理</dc:subject>
+        <dc:subject>生命是什么</dc:subject>
+        <dc:subject>生物学</dc:subject>
+        <meta content="{&quot;埃尔温·薛定谔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="科学" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:59+00:00" name="calibre:timestamp"/>
+        <meta content="生命是什么" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

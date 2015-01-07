@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8112c408-c599-4440-8f9a-7861b6bdb154</dc:identifier>
+        <dc:title>傲慢与偏见</dc:title>
+        <dc:creator opf:file-as="奥斯丁" opf:role="aut">奥斯丁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《傲慢与偏见》是英国著名女作家简·奥斯汀（Jane Austen 1775～1817年）的代表作，是一部描写爱情与婚姻的小说。这部小说以男女主人公达西和伊丽莎白由于傲慢和偏见而产生的爱情纠葛为线索，共写了四起姻缘：伊丽莎白与达西、简与宾利、莉迪亚与威克姆、夏洛蒂与柯林斯。伊丽莎白、简和莉迪亚是贝内特家五个女儿中的三个姐妹，而夏洛蒂则是她们的邻居，也是伊丽莎白的朋友。男主人公达西与宾利是好友，且与威克姆一起长大，而柯林斯则是贝内特家的远房亲戚。
+贝内特夫妇五个女儿待字闺中，没有子嗣，依照当时法律，他们死后家产须由远房内侄柯林斯继承，因此把五个女儿嫁到有钱人家，成了贝内特太太最大的心愿。宾利，一位未婚富家子弟，租赁了贝内特家附近的内瑟菲尔德庄园，成为众人注目的焦点和谈论的话题。不久，宾利就与美丽贤淑的大小姐简相爱了。宾利的朋友达西对聪明直率的二小姐伊丽莎白颇有好感，却因在一次舞会上出言不逊使伊丽莎白对他心存偏见。品行不端的威克姆告诉伊丽莎白，他是达西庄园已故总管的儿子，与达西一起长大，达西的父亲先前许诺给他的教职，被达西无端剥夺了。而达西则因为伊丽莎白的母亲及其他妹妹的缘故，劝说宾利中止与简的关系，结果四人不欢而散。威克姆对达西的诋毁，以及达西的劝说对简造成的伤害进一步加深了伊丽莎白对达西的偏见。
+柯林斯为心安理得地继承财产，决定从贝内特家五个漂亮的女儿之中挑选一个“妻子”，于是向伊丽莎白求婚。遭到拒绝后，他马上转向尚未婚配急于找到“归宿”的夏洛蒂小姐，竟然得到应允。伊丽莎白应邀到新婚的柯林斯和夏洛蒂夫妇家中做客，不期遇见前来探望凯瑟琳夫人的达西。达西为伊丽莎白所倾倒，向她求婚，但因其言辞的傲慢，遭到伊丽莎白的愤然拒绝。同时，伊丽莎白指责达西对威克姆冷酷无情，更不应该破坏宾利同简的爱情。事后达西写信为自己申辩，令伊丽莎白的偏见逐渐消除。
+伊丽莎白随舅父舅妈出游时经过达西的庄园，以为达西不在，进去参观，不料达西突然归来，伊丽莎白感到十分窘迫。然而，达西丝毫没有以往的傲慢，非常热情地接待了他们。此时，伊丽莎白突然接到家信，得知威克姆带着妹妹莉迪亚私奔了！匆忙回家后，全家一筹莫展，不料达西暗访到两人的行踪，出资促成他们的婚事并安排了他们的生活，为贝内特一家保全了尊严。此事使伊丽莎白与达西尽释前嫌，宾利也和简重修旧好，最后有情人终成眷属。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532719112</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>奥斯汀</dc:subject>
+        <dc:subject>傲慢与偏见</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>名著</dc:subject>
+        <dc:subject>外国名著</dc:subject>
+        <meta content="{&quot;奥斯丁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:09+00:00" name="calibre:timestamp"/>
+        <meta content="傲慢与偏见" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

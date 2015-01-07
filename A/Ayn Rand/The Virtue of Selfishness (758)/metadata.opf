@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0ac91ed-2296-4801-ae0b-e72ad6925587</dc:identifier>
+        <dc:title>The Virtue of Selfishness</dc:title>
+        <dc:creator opf:file-as="Ayn Rand" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:creator opf:file-as="Ayn Rand" opf:role="aut">Nathaniel Branden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-08-14T16:00:00+00:00</dc:date>
+        <dc:description>Ayn Rand here sets forth the moral principles of Objectivism, the philosophy that holds man's life--the life proper to a rational being--as the standard of moral values and regards altruism as incompatible with man's nature, with the creative requirements of his survival, and with a free society.</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451163936</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>AynRand</dc:subject>
+        <dc:subject>rand</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>ayn</dc:subject>
+        <dc:subject>Aaron</dc:subject>
+        <dc:subject>英语</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <dc:subject>社会心理学</dc:subject>
+        <meta content="{&quot;Nathaniel Branden&quot;: &quot;&quot;, &quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="The Ayn Rand Library" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:53:45+00:00" name="calibre:timestamp"/>
+        <meta content="Virtue of Selfishness, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

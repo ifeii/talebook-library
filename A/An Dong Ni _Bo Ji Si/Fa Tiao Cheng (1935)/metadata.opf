@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fe23be5-73c5-49ac-8902-bfda7cba67ac</dc:identifier>
+        <dc:title>发条橙</dc:title>
+        <dc:creator opf:file-as="安东尼·伯吉斯" opf:role="aut">安东尼·伯吉斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《发条橙》是一部幻想小说。一个生活在英国未来社会的问题少年，由于青春期躁动走上犯罪道路，后受到社会制裁，被剥夺自由意志。经过思考与改造，他重新融入社会，意识到自己不过是上帝手中的一只发条橙……
+本书对青春迷失的写照在文学史上具有划时代的意义。导演库布里克改编的同名电影虽遭禁数十年，却早已在世界各地被奉为青春影片的经典。
+它的一切都让我激动不已，情节、思想、人物，当然还有那语言……
+——斯坦利•库布里克
+安东尼•伯吉斯的小说貌似哗众取宠的滥俗之作，实际上是英语文学中的珍品，是一部哲理小说。
+——《时代》周刊
+在现代小说史上，《发条橙》令人联想到塞林格的《麦田里的守望者》和纳博科夫的《洛丽塔》———在阴郁的论调中充满青春肉感的色泽和汁液，俚语的活力和狂躁的动感。
+——朱朱
+迄今为止，只有三部作品可以让我一口气读完，一部是《发条橙》，另外两部分别是余华的《活着》、《许三观卖血记》。
+——阿乙</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544717441</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>发条橙</dc:subject>
+        <dc:subject>安东尼·伯吉斯</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>英国文学</dc:subject>
+        <dc:subject>概念小说</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <meta content="{&quot;安东尼·伯吉斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:19:06+00:00" name="calibre:timestamp"/>
+        <meta content="发条橙" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

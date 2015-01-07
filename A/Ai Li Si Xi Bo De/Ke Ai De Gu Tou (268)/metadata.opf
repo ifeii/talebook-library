@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a99cdcea-15bd-4aab-8267-7a104b0f962c</dc:identifier>
+        <dc:title>可爱的骨头</dc:title>
+        <dc:creator opf:file-as="艾丽斯・西伯德" opf:role="aut">艾丽斯・西伯德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-31T16:00:00+00:00</dc:date>
+        <dc:description>一个十四岁的女孩遭一名连环杀人的歹徒奸杀并碎尸，这样一桩案件如果见诸美国媒体，或许已然引不起耸人听闻的效果。若是以之为素材敷衍成一部小说，可能会是一个以情节取胜的警探侦破故事。但女作家艾丽斯・西伯德却独辟蹊径，倾注了诚挚的深情，抒发出一曲催人泪下的亲情之歌。
+作为父母爱情首次结晶的苏茜，天资虽不如妹妹琳茜聪慧，却是一个乖女孩。她帮爸爸业余做玻璃瓶中的帆船工艺品，从中体会到父亲对祖父的怀念；在为妈妈拍摄瞬间快照时，理解了妈妈受过高等教育却不得不充当家庭主妇的郁闷心情；她与小她一岁的妹妹有着难分难舍的手足之情；在小弟巴克利病危之时，挺身而出送他到医院急救；她甚至能和嗜酒贪杯、性情有些浮华的外婆做知心的交流。
+但就是这样一个可爱的小女孩却横遭歹徒蹂躏，死后还被肢解，只有一截臂肘被人们发现。
+沙蒙一家遭此惨祸，立即就崩溃了。父亲杰克精神恍惚，屡为警方提供可疑线索遭拒之后，在一次夜间去捉嫌犯时被误伤致残；母亲艾比盖尔无法忍受失女之痛，竟和探长苟且，然后离家出走；妹妹在哀伤之中一夜成人，不顾性命之忧去凶犯家窃取证据；年仅四岁的小弟在得知长姐已死之后，成长中心灵受到创伤；外婆义无反顾地来女婿家操持家务，以她的乐观豁达为这个家庭注入活力。而街坊四邻和学校师生更是自发地组织了一个追思仪式，大家悼念亡者，更为了安慰亲人。
+在将近十年的时间里，苏茜原先的同学先后从大学毕业，走上各自的生活道路。连她的家人似乎也淡忘了家中失去的这名成员，尽管由于她的遭难给家庭带来的不幸和悲哀始终笼罩着全家，挥之不去。……父亲一次突发心脏病，母亲闻讯匆匆赶回，与家人相见难免一番尴尬；父亲从医院回到家中，全家人再次团聚。在一旁偷看的苏茜的魂灵，这时意识到：一个家庭，犹如人的周身骨骼，即使有一块破损了，缺失了，但骨架终会长全，作为缺损部分的她，固然依恋这个家庭，大家也都在忆念中感到遗憾，但全家经历了这场灾难与悲痛之后，终于融溶和合。《可爱的骨头》的书名，点出的正是这一主题。
+或许是有感于当前美国的家庭危机，近年来颇有些美国作家致力于家庭题材的小说创作，不过多以青年和中年的婚恋为骨干故事，因此更像是言情小说。</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506328685</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>可爱的骨头</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>美国小说</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>外国小说</dc:subject>
+        <meta content="{&quot;艾丽斯・西伯德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:13:21+00:00" name="calibre:timestamp"/>
+        <meta content="可爱的骨头" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
