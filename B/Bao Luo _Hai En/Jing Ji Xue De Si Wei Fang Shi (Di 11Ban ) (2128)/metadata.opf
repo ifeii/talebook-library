@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4929019-6ca3-4068-9934-b149e7326301</dc:identifier>
+        <dc:title>经济学的思维方式（第11版）</dc:title>
+        <dc:creator opf:file-as="保罗·海恩" opf:role="aut">保罗·海恩</dc:creator>
+        <dc:creator opf:file-as="保罗·海恩" opf:role="aut">[美] 彼得·勃特克</dc:creator>
+        <dc:creator opf:file-as="保罗·海恩" opf:role="aut">[美] 大卫·普雷契特科</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《经济学的思维方式》是一部既风靡国际又已为经典的另类经济学教科书。与当今流行的主流经济学教材不同，这本书绕开繁复的公式、函数、运算，通过深入浅出的故事和饶有趣味的图画告诉读者：经济学作为一种独特的思维方式，与生活中的各种决策息息相关。正如书名所揭示的，经济学的力量就在于它是一种思维方式，而这部教科书引导读者学会经济学推理方式，从而能够像经济学家一样思考问题。
+作为为非经济学专业学生撰写的一部“一学期学会经济学”的教材，《经济学的思维方式》被认为是经济学教材领域的一次根本性变革。它不仅在英语世界获得了广泛的认可，同时被翻译成日文、俄文、保加利亚文、匈牙利文等多种语言畅销全世界，堪称经济学教育领域一部标尺性著作。</dc:description>
+        <dc:publisher>世界图书出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506293051</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">93e132ca-575c-4444-aba2-b08ab7b9610b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>经济学的思维方式</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>入门</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>经济学原理</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>教材</dc:subject>
+        <meta content="{&quot;保罗·海恩&quot;: &quot;&quot;, &quot;[美] 彼得·勃特克&quot;: &quot;&quot;, &quot;[美] 大卫·普雷契特科&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:39+00:00" name="calibre:timestamp"/>
+        <meta content="经济学的思维方式（第11版）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

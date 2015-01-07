@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e27ce28a-73fb-4cb1-9430-e286d1a6bac4</dc:identifier>
+        <dc:title>朗读者</dc:title>
+        <dc:creator opf:file-as="本哈德·施林克" opf:role="aut">本哈德·施林克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-31T16:00:00+00:00</dc:date>
+        <dc:description>战后的德国萧条破败，一个15岁的少年在电车上病倒了，他独自下车，行走在滂沱大雨中，最后在一个逼仄的过道里吐得一塌糊涂，一个36岁的陌生女人帮助了他……
+3个月后，少年伯格从突如其来的猩红热侵袭中恢复过来，他只是为了去感谢那个曾经在他生病时给予过他帮助的女人，但是，情欲，或者是爱情，在15岁的少年伯格心中渐渐燃烧起来。
+电车售票员汉娜总是让伯格为她朗读，《荷马史诗》、《带小狗的女人》、《战争与和平》，在伯格的朗读中，汉娜像个孩子似的时而痛哭，时而大笑，那个夏天，是他们一生中最短暂最快乐并最终影响了后来岁月的时光……</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787544707923</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>朗读者</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>人性</dc:subject>
+        <dc:subject>电影原著</dc:subject>
+        <dc:subject>本哈德·施林克</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <meta content="{&quot;本哈德·施林克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="国外名著" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:54:07+00:00" name="calibre:timestamp"/>
+        <meta content="朗读者" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

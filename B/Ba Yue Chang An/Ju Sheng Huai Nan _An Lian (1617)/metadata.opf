@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98355696-5a51-467d-8a74-500291ac78f5</dc:identifier>
+        <dc:title>橘生淮南·暗恋</dc:title>
+        <dc:creator opf:file-as="八月长安" opf:role="aut">八月长安</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-29T16:00:00+00:00</dc:date>
+        <dc:description>从没有任何一部青春文学作品能够这样细致地描写少年人的心
+最生动的共鸣青春《橘生淮南·暗恋》
+十万级畅销图书《你好，旧时光》作者八月长安倾心写作四年
+诠释青春年少时，爱上一个人的所有心情。
+“洛枳爱盛淮南，谁也不知道。”
+你有没有爱过一个人，爱到刻骨铭心，却无人知晓？
+只因为幼时的一次遇见，洛枳在长达十一年的时光里，都有一个隐隐约约的盛淮南。
+他的再次出现，是那么光芒万丈，从此以后，洛枳的日记成了只属于他一个人的独幕剧。
+洛枳爱的那么卑微，那么细致，又那么骄傲，她的心魔成长得如此迅猛，再也无法简简单单地收复得了。
+他就在那里，在洛枳的心里，在洛枳的眼前，只需要迈出一步，就能够打破这十几年的距离。可是世界上最远的距离，不是爱着你，你不知道，而是爱着你，却触碰不到。
+北京烦嚣的城中，P大如此广阔，却像遥远北方的振华高中，让洛枳无处可逃。</dc:description>
+        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787546366708</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>八月长安</dc:subject>
+        <dc:subject>暗恋</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>消耗掉青春所有的耐心</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <meta content="{&quot;八月长安&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:30+00:00" name="calibre:timestamp"/>
+        <meta content="橘生淮南·暗恋" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

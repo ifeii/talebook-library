@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe7314ae-54d5-4a19-a5ac-c4a920c5fd4f</dc:identifier>
+        <dc:title>思想家：与十五位杰出哲学家的对话（第2版）</dc:title>
+        <dc:creator opf:file-as="布莱恩・麦基" opf:role="aut">布莱恩・麦基</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-30T16:00:00+00:00</dc:date>
+        <dc:description>70年代中期，英国广播公司（BBC）播放了电视系列节目《思想家》请五位当代西方著名的哲学家（如以赛亚伯林、马尔库塞、奎 因、 乔姆斯基、 德沃金等）到节目中与麦基对谈，直接面对非专业的、很少哲学知识背景的观众。这种在电视中进行哲学对话的形式，十分新颖，很受欢迎。
+    本书即为这些哲学对话的汇编，深入浅出、通俗易懂，历来颇受大学生和哲学门外汉的青睬。读者于此可以看到这些当今思想界的“各路英</dc:description>
+        <dc:publisher>三联书店</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787108021267</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>思想家</dc:subject>
+        <dc:subject>访谈</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>访谈录</dc:subject>
+        <dc:subject>思想史</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>对话</dc:subject>
+        <meta content="{&quot;布莱恩・麦基&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:57+00:00" name="calibre:timestamp"/>
+        <meta content="思想家：与十五位杰出哲学家的对话（第2版）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

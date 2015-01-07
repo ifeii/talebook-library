@@ -1,25 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1148</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">37c90b4d-a599-4450-a813-7548a6a8ac94</dc:identifier>
         <dc:title>推拿</dc:title>
         <dc:creator opf:file-as="毕飞宇" opf:role="aut">毕飞宇</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-08-20T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;继《平原》之后作家毕飞宇时隔3年推出长篇小说《推拿》，这部近十八万字的小说讲述的是一群盲人推拿师内心深处的黑暗与光明，这是国内少有的以盲人群体为题材的文学作品，也是被誉为“最了解女性的男性作家”的毕飞宇首次涉足盲人题材的长篇小说。它的出版为全社会更好地了解盲人这一特殊群体提供了一个范本。&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-31T16:00:00+00:00</dc:date>
+        <dc:description>被誉为“最了解女性的男性作家”的毕飞宇首次涉足盲人题材的写作，摒弃了同情与关爱，本着对盲人群体最大的尊重与理解，描述了一群盲人按摩师独特的生活，细微而彻底，真正深入到了这部分人群的心灵。
+书中强调，和正常人一样，残疾人、盲人有着和我们一样的爱恨情仇和酸甜苦辣，有着同样需要尊重和关注的精神世界和生活世界。《推拿》最大的意义在于，写出了残疾人的快乐、忧伤、爱情、欲望、性、野心、狂想、颓唐，打破了我们对残疾人认知的情感牢笼。 由此引发读者对于盲人这一特殊群体、对于我们正常人人生的深刻反思。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787020068258</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:MDWX</dc:subject>
-        <dc:subject>ZDC:XDWX</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>毕飞宇</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>盲人</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>茅盾文学奖</dc:subject>
+        <dc:subject>推拿</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国文学</dc:subject>
         <meta content="{&quot;毕飞宇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="小说" name="calibre:series"/>
         <meta content="60" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-08-24T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:31+00:00" name="calibre:timestamp"/>
         <meta content="推拿" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

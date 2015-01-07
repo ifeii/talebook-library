@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">713d69c4-5d15-4781-a1a4-1b59ea13c4e9</dc:identifier>
+        <dc:title>我的哲学的发展</dc:title>
+        <dc:creator opf:file-as="伯特兰·罗素" opf:role="aut">伯特兰·罗素</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-31T16:00:00+00:00</dc:date>
+        <dc:description>《我的哲学的发展》（MyPhilosophicalDevelopment）是罗素（1872～1970）写于1959年的一部著作，顾名思义，这《我的哲学的发展》是罗素自己哲学思想发展的一个回顾。罗素一生写了大量著作，在这些著作中，罗素很重视自己在1914年和怀特海合著的《数学原理》（三卷本）一书的成就。我们知道，罗素通过这《我的哲学的发展》建立了逻辑主义数学体系，旨在把整个数学归结为逻辑学。罗素在《我的哲学的发展》中重点叙述了《数学原理》的基本思想。罗素一生的哲学思想屡经变更，但他在《我的哲学的发展》中表示，他于1912年写的《哲学问题》可以作为他一生的代表作。
+罗素作为二十世纪的哲学巨匠，其哲学思想给当代的许多哲学家和哲学流派以很大影响，其中受其影响最深的要算维根斯坦哲学以及整个逻辑实证主义学派。罗素曾于1920年来过我国，在北京大学主讲“物的分析”、“心的分析”等哲学问题，对旧中国的学术界也有过广泛的影响。《我的哲学的发展》这《我的哲学的发展》，是罗素本人对自己哲学思想的总结，作为研究罗素哲学思想的第一手材料，有其特殊的价值。译者温锡增先生，劳作多年，译成此书，因健康欠佳，不遑作序，嘱我们代为小引。</dc:description>
+        <dc:publisher>商务印书馆</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787100004992</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>罗素</dc:subject>
+        <dc:subject>西方哲学</dc:subject>
+        <dc:subject>商务印书馆</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>Bertrand.Russell</dc:subject>
+        <dc:subject>汉译世界学术名著丛书</dc:subject>
+        <dc:subject>汉译名著</dc:subject>
+        <meta content="{&quot;伯特兰·罗素&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:28+00:00" name="calibre:timestamp"/>
+        <meta content="我的哲学的发展" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

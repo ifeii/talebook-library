@@ -6,7 +6,7 @@
         <dc:title>北岛诗选</dc:title>
         <dc:creator opf:file-as="北岛" opf:role="aut">北岛</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-02-08T16:00:00+00:00</dc:date>
+        <dc:date>1986-04-30T16:00:00+00:00</dc:date>
         <dc:description>北岛（1949- ），原名赵振开，曾用笔名：北岛，石默。祖籍浙江湖州，生于北京。中国当代诗人，朦胧诗人代表之一。&#13;
 &#13;
 北岛毕业于北京四中。1969年当建筑工人，后作过翻译和编辑等工作。1970年开始写作，1978年同诗人芒克创办民间诗歌刊物《今天》杂志。80年代末移居国外先后在德国、挪威、瑞典、丹麦、荷兰、法国等国家居住。1990年旅居美国曾任教于加利福尼亚州戴维斯大学，担任斯坦福大学、加利福尼亚大学伯克莱分校、香港中文大学客座教授。2007年，北岛收到香港中文大学的聘书之后搬到香港，与其家人团聚。&#13;
@@ -14,14 +14,23 @@
 北岛曾著有包括《太阳城札记》、《北岛诗选》、《北岛顾城诗选》等在内的多种诗集，他的代表作包括作于1976的《回答》，其中的“卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭”已经成为中国新诗名句。清醒的思辨与直觉思维产生的隐喻、象征意象相结合，是北岛诗显著的艺术特征，具有高度概括力的悖论式警句，造成了北岛诗独有的振聋发聩的艺术力量。北岛的作品被译成二十余种文字，先后获瑞典笔会文学奖、美国西部笔会中心自由写作奖、古根海姆奖学金等，并被选为美国艺术文学院终身荣誉院士，多次获诺贝尔文学奖提名。&#13;
 &#13;
 出版的诗集有：《陌生的海滩》（1978年）、《北岛诗选》（1986年）、《在天涯》（1993年）、《午夜歌手》（1995年）、《零度以上的风景线》（1996年）、《开锁》（1999年），其他作品有：《波动》及英译本（1984年）、《归来的陌生人》（1987年）、《蓝房子》（1999年），散文《失败之书》（2004年），散文集《青灯》(2008年1月)。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:publisher>新世纪出版社</dc:publisher>
         <dc:language>zho</dc:language>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>北岛</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>北岛诗选</dc:subject>
+        <dc:subject>现代文学</dc:subject>
+        <dc:subject>诗</dc:subject>
         <meta content="{&quot;北岛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:00:27.731115+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:25+00:00" name="calibre:timestamp"/>
         <meta content="北岛诗选" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

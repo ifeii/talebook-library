@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea321907-52f6-4a00-85e0-a85f97e1a5c3</dc:identifier>
+        <dc:title>異域</dc:title>
+        <dc:creator opf:file-as="柏楊" opf:role="aut">柏楊</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《異域》原以「血戰異域十一年」連載於民國五十年的《自立晚報》，署名「鄧克保」，其後由平原出版社出版，易名「異域」（一九六一），流傳極廣，一九七七年由星光出版社再版，十一年後另有躍昇文化公司版本。
+本書記載一九四九年底從雲南往緬甸撤退的孤軍之奮戰及其艱難險阻，孤軍腹背受敵（緬軍），又得不著政府之支援，在複雜情勢中的戰略擬定及戰術運用，以及袍澤、親子的關係等情節，交織成一部感人肺腑的戰爭文學作品。
+如今世人皆已知鄧克保是柏楊的化名，他以第一人稱「我」敘述，像是自傳體，但柏楊並未參與其事，而是一種「代言」，不過發表及初版的當時，人們都信其為親身經歷者的報告，這就形成文類歸屬上的歧異，全集從舊，列入報導文學類，一九九九年香港《亞洲週刊》票選「二十世紀中文小說一百強」，《異域》排名三十五，從報導文學的「記實」到小說的「虛擬」，可論述空間極大。同年，在香港大學亞洲研究中心舉辦的「柏楊思想與文學國際學術討論會」中，仍有這一類的辨正，正可見其構成的特異及內涵飽滿的張力。撇開文類的糾結，從戰爭文學的角度來看，《異域》堪稱一部台灣文學的經典之作。</dc:description>
+        <dc:publisher>遠流出版事業股份有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789573242130</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>柏陽</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>战争</dc:subject>
+        <dc:subject>台湾文学</dc:subject>
+        <dc:subject>柏杨</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;柏楊&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="世纪百强" name="calibre:series"/>
+        <meta content="35" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:51:46+00:00" name="calibre:timestamp"/>
+        <meta content="異域" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

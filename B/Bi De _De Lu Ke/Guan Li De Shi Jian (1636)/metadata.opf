@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">705ff7be-b687-416e-9b38-46e47dc8b0e8</dc:identifier>
+        <dc:title>管理的实践</dc:title>
+        <dc:creator opf:file-as="彼得·德鲁克" opf:role="aut">彼得·德鲁克</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《管理的实践》提供了观念、原则和工具，是一套极具系统化的管理知识。这本书问市后，不仅在美国一炮而红，而且在全球各地也都非常成功，包括在欧洲，拉丁美洲，尤其在日本更是备受重视。日本人认为这本书的观念奠定了他们经济成功与工业发展的基石。
+德鲁克以其深厚的人文素养，强调人的理想性、价值观及判断力，成了组织绩效表现的关键资源。因此，惟有找对人，摆对位置，从旁协助，才可能有“对”的成果。德鲁克对人总是以正面（用人之长）评价，对事则是以负面（高标要标）评估，是各类组织惟一最高的指导原则。
+《管理的实践》一书即以管理的本质切入——就管理者的角色、职务、功能的认知及其未来面临的挑战，有着精辟独到的见解，掀开了管理的奥秘与实务。
+全书以“管理企业、管理管理者、管理员工和工作”三项管理的任务，贯穿整本书的主轴和精髓，并以八个关键成果领域、三个经典的问句以及组织的精神丰富其内涵。
+第一部分德鲁克先以一个企业的实例点出了：我们的事业是什么？我们的事业将是什么？我们的事业究竟应该是什么？以及企业的目标、成果与生产的原则。
+第二部分德鲁克以福特汽车的故事，阐述了“目标管理与自我控制”的有效性管理，同时也呈现出组织精神（即企业文化）的完整性。
+第三部分则透过活动、决策与关系等三项分析，深入管理的结构、最终的检验标准及绩效，同时也说明了五种组织结构之优缺点，与适用的大、中、小型企业及其限制条件。
+第四部分德鲁克以其“绩效为核心的整体观”，主张雇佣整个人而不是一双手，以IBM的故事，描述了创新的实践价值，使员工有成就感与满足感，进而创造巅峰绩效的组织。
+第五部分德鲁克描述了管理者及其工作、决策及未来的管理者是什么，尤其一再主张“责任”的重要性与必要性。</dc:description>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787111177678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>德鲁克</dc:subject>
+        <dc:subject>管理的实践</dc:subject>
+        <dc:subject>管理学</dc:subject>
+        <dc:subject>管理经典</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>大师</dc:subject>
+        <meta content="{&quot;彼得·德鲁克&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:46+00:00" name="calibre:timestamp"/>
+        <meta content="管理的实践" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
