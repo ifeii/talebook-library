@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f73f2445-fbcd-43b1-b3cf-8ab69cd0c070</dc:identifier>
+        <dc:title>天行健</dc:title>
+        <dc:creator opf:file-as="方小宁" opf:role="aut">方小宁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-30T16:00:00+00:00</dc:date>
+        <dc:description>吕正操(1905-)，辽宁省海城县人。1922年参加东北军，次年入东北讲武堂学习。毕业后任东北军连长、营长、少校副官队长，沈阳同泽俱乐部主任，第五十三军一一六师参谋处长，六四七团、六九一团团长。1936年任东北武装同志抗日救亡先锋队总队长。1937年五月加入中国共产党。抗日战争时期，任冀中人民自卫军司令员，八路军第三纵队司令员兼冀中军区司令员、冀中行署主任，冀中区总指挥部副总指挥，晋绥军区司令员，中共中央晋绥分局委员。解放战争时期，任东北民主联军副总司令员兼西满军区司令员，东北军区副司令员兼东北铁路总局局长，东北人民政府铁道部部长，中共中央东北局委员，军委铁道部副部长兼铁道兵团副司令员。中华人民共和国成立后，任中央人民政府铁道部副部长、代部长，中央军委军事运输司令员，总参谋部军事交通部部长，中国人民解放军铁道兵政治委员。1955年被授予上将军衔。是第一、二、三届国防委员会委员，第四届全国人民代表大会常务委员会委员，中国人民政治协商会议全国委员会第二、三届常务委员，第六届全国政协副主席，中国共产党第七届候补中央委员，第八、十一届中央委员。在中国共产党第十二次全国代表大会上被选为中央顾问委员会委员。
+    像许多开国将帅一样，吕老指挥过打仗，也领导过建设，为使中华民族顶天立地屹立于世界，不息奋斗。他拥有法国的罗素所说的——三种伟大的情感：对爱情的渴望，对知识的追求，对人类苦难摧肝裂的同情。更令人服膺的是：他一方面有“上下求索，虽九死铖未悔”的勇敢户承；一方面还有“不能物喜，不以已悲”的澄明旷达。
+    他悠长而保持着真实的沧桑岁月，与中国的进步和个人的性格素养密不可分。</dc:description>
+        <dc:publisher>中共党史</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801992345</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>方小宁</dc:subject>
+        <meta content="{&quot;方小宁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:14:23+00:00" name="calibre:timestamp"/>
+        <meta content="天行健" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

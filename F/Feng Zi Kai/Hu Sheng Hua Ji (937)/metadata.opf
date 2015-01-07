@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fba9ab64-be79-44f7-ad7d-15a5c94c4125</dc:identifier>
+        <dc:title>护生画集</dc:title>
+        <dc:creator opf:file-as="丰子恺" opf:role="aut">丰子恺</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
+        <dc:description>本书是中国内地第一次以全集的方式出版丰子恺的《护生画集》，收录了六集全部总计四百五十幅作品。
+本书中的绘图直接复制于浙江图书馆馆藏绘画原作，并由书法家许士中先生弘一法师书法重新书汇后收集绘图文配文，因而全书风格统一。
+本书的绘图，是丰子恺先生漫画风格的代表作品，所倡爱生敬养思想对现世也有一定意义，本书是一本值得珍藏的作品。</dc:description>
+        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787208052239</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>丰子恺</dc:subject>
+        <dc:subject>漫画</dc:subject>
+        <dc:subject>护生画集</dc:subject>
+        <dc:subject>绘本</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>慈悲</dc:subject>
+        <dc:subject>佛</dc:subject>
+        <dc:subject>绘画</dc:subject>
+        <meta content="{&quot;丰子恺&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="漫画·绘本" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:45+00:00" name="calibre:timestamp"/>
+        <meta content="护生画集" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

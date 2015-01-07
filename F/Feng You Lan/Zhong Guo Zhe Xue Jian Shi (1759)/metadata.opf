@@ -6,15 +6,27 @@
         <dc:title>中国哲学简史</dc:title>
         <dc:creator opf:file-as="冯友兰" opf:role="aut">冯友兰</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-01-01T13:27:43+00:00</dc:date>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>作者冯友兰于1947年在美国宾夕法尼亚大学受聘担任讲座教授，讲授中国哲学史。其英文讲稿后经整理写成《中国哲学简史》，于1948年由美国麦克米兰公司出版。此书一出，立即成为西方人了解和学习中国哲学的首选入门书。其后又有法文、意大利文、西班牙文、南斯拉夫文、日文等译本出版。多年来，这部专著一直是世界各大学中国哲学的通用教材，在西方影响很大。</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801872166</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">d44ac79f-3cbe-4e9f-b47c-89b68bfca0eb</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>冯友兰</dc:subject>
+        <dc:subject>中国哲学</dc:subject>
+        <dc:subject>中国哲学简史</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>哲学史</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>文化</dc:subject>
         <meta content="{&quot;冯友兰&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:04:46.874318+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:29+00:00" name="calibre:timestamp"/>
         <meta content="中国哲学简史" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

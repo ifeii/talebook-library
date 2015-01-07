@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45a344ae-4260-40d4-82cd-17f0e083b300</dc:identifier>
+        <dc:title>深渊上的火</dc:title>
+        <dc:creator opf:file-as="弗诺·文奇" opf:role="aut">弗诺·文奇</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
+        <dc:description>冷冻长眠时不会有梦。三天前他们就作好了离开的准备，现在到了这里。小杰佛里很生气，所有热闹他都没赶上。但约翰娜·奥尔森多却高兴自己睡过去了：另一艘飞船上有些大人她认识。约翰娜飘浮在一排排长眠者中间。冬眠箱不断向外排放热乎乎的废气，弄得漆黑的船舱里热得受不了。船壁上长着一块块疥一条窄窄的飘行小径。有些地方狭小得只有杰弗里才挤得进去。这里躺着三百零九个孩子，所有小孩子都睡在冬眠箱里，除了她和弟弟杰弗里……</dc:description>
+        <dc:publisher>四川科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536454583</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">387ab31f-fe44-4dce-8552-b941eea307b4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>弗诺·文奇</dc:subject>
+        <dc:subject>太空歌剧</dc:subject>
+        <dc:subject>深渊上的火</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>世界科幻大师丛书</dc:subject>
+        <meta content="{&quot;弗诺·文奇&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:53+00:00" name="calibre:timestamp"/>
+        <meta content="深渊上的火" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

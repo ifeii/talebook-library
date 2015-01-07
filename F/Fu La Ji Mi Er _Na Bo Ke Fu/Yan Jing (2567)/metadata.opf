@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a7d25f-9d9d-4f15-a836-f8c52416f1cc</dc:identifier>
+        <dc:title>眼睛</dc:title>
+        <dc:creator opf:file-as="弗拉基米尔·纳博科夫" opf:role="aut">弗拉基米尔·纳博科夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T16:00:00+00:00</dc:date>
+        <dc:description>一位严肃的心理学家可以透过我雨滴般晶莹的密码文字分辨出一个灵魂化解的世界，在那里可怜的斯穆罗夫的存在只取决于他在别人头脑里的反映，而他们的头脑接着也像他的一样，被置于同样离奇的镜子似的窘境中。故事的结构戏拟侦探小说的结构，但说实在的，作者否认有任何玩弄、迷惑、愚弄或者欺骗读者的意图。其实，只有立即看懂的读者才会从《眼睛》中获得真正的满足。即便最易轻信的读者，读这篇灵动闪烁的故事时要认识斯穆罗夫为何许人，也不可能费很长时间。我用一位英国老太太，两名研究生，一位冰球教练，一位医生，一位邻居的十二岁的孩子做试验。孩子最快，邻居最慢。
+《眼睛》的主题是实施一项调查研究，它引导主人公通过许许多多的镜子，最后以一对形象的重合告终。三十五年前我以某种神秘模式整合叙事人追索的不同阶段，我不知道我人中得到的强烈快感是否会为现代读者分享，然而，无论如何，强调的不是神秘，而是模式。我相信，尽管时光流转，书海更迭，一种语言的海市蜃楼变成了另一种语言的绿洲然而追踪斯穆罗夫依然是件精彩的活动。情节不会在读者头脑里——如果我把那头脑研读得正确的话——简化为一个惨痛的爱情故事：其中有一颗痛苦扭动的心不仅遭受弃绝，而且受到羞辱和惩罚。想象的力量终归是善的力量，这些力量依然稳稳地驻留在斯穆罗夫一边，而事实证明备受煎熬的爱的苦涩，就像它最销魂的回报一样，令人陶醉，催人奋起。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532744121</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>纳博科夫</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>弗拉基米尔·纳博科夫</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>眼睛</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <meta content="{&quot;弗拉基米尔·纳博科夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:31:20+00:00" name="calibre:timestamp"/>
+        <meta content="眼睛" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
