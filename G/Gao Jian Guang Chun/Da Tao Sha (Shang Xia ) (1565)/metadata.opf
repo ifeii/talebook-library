@@ -7,27 +7,53 @@
         <dc:creator opf:file-as="高見廣春" opf:role="aut">高見廣春</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p class="description"&gt;挑戰人類想像力之極限、撼動人性道德界線、&lt;br&gt;超越經典名著《蒼蠅王》、日劇《漂流教室》之驚悚大作！&lt;br&gt;壓倒《索多瑪120天》的變態美學，血淋淋呈現人性最終本能與慾望！&lt;/p&gt;
-&lt;p class="description"&gt;榮登日本「這部推理很厲害！」第一名！&lt;br&gt;「暢銷偵探小說」讀者票選名列前矛！&lt;br&gt;「恐怖小說獎」入圍作品，評審委員因內容過於聳動拒絕給獎！&lt;br&gt;改編電影後引發日本國會禁演爭議！&lt;br&gt;「各位同學，你們班被選為今年『計畫』的對象啦。」&lt;br&gt;每個中學生日夜憂懼的夢魘還是降臨到了他們身上。&lt;br&gt;原本應該是一次留下美好青春回憶的國三畢業旅行，現在卻成了生命的畢業旅行。&lt;br&gt;可是，要殘殺自己平時相處在一起的同班同學，那怎麼可能！？&lt;br&gt;但你若不投入這場「遊戲計畫」，奮力一戰，就得被迫從人生舞台畢業！！！&lt;/p&gt;
-&lt;p class="description"&gt;戰爭已經開始，你準備好了嗎？&lt;br&gt;實施地點：&lt;br&gt;．方圓六公里的孤島，逃離者格殺毋論&lt;br&gt;基本生存配備：&lt;br&gt;．高科技定位項圈，防水耐撞，遭破壞即刻爆炸&lt;br&gt;．隨機發放武器&lt;br&gt;．基本飲水與食物、地圖、指南針&lt;br&gt;遊戲規則：&lt;br&gt;．不限手段&lt;br&gt;．僅能有一位生存者&lt;br&gt;．活動範圍逐日減少&lt;br&gt;．二十四小時內無人死亡，則處死所有生存者&lt;br&gt;獎勵：&lt;br&gt;終生生活保障和總統陛下的親筆簽名紙板……&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:description>挑戰人類想像力之極限、撼動人性道德界線、
+超越經典名著《蒼蠅王》、日劇《漂流教室》之驚悚大作！
+壓倒《索多瑪120天》的變態美學，血淋淋呈現人性最終本能與慾望！
+
+榮登日本「這部推理很厲害！」第一名！
+「暢銷偵探小說」讀者票選名列前矛！
+「恐怖小說獎」入圍作品，評審委員因內容過於聳動拒絕給獎！
+改編電影後引發日本國會禁演爭議！
+「各位同學，你們班被選為今年『計畫』的對象啦。」
+每個中學生日夜憂懼的夢魘還是降臨到了他們身上。
+原本應該是一次留下美好青春回憶的國三畢業旅行，現在卻成了生命的畢業旅行。
+可是，要殘殺自己平時相處在一起的同班同學，那怎麼可能！？
+但你若不投入這場「遊戲計畫」，奮力一戰，就得被迫從人生舞台畢業！！！
+
+戰爭已經開始，你準備好了嗎？
+實施地點：
+．方圓六公里的孤島，逃離者格殺毋論
+基本生存配備：
+．高科技定位項圈，防水耐撞，遭破壞即刻爆炸
+．隨機發放武器
+．基本飲水與食物、地圖、指南針
+遊戲規則：
+．不限手段
+．僅能有一位生存者
+．活動範圍逐日減少
+．二十四小時內無人死亡，則處死所有生存者
+獎勵：
+終生生活保障和總統陛下的親筆簽名紙板……</dc:description>
         <dc:publisher>木馬文化</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">925462e7-c19f-4fa9-8b04-cbcf9d610fa5</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789867475602</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">925462e7-c19f-4fa9-8b04-cbcf9d610fa5</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
         <dc:subject>大逃杀</dc:subject>
         <dc:subject>日本文学</dc:subject>
-        <dc:subject>外国文学</dc:subject>
+        <dc:subject>高見廣春</dc:subject>
         <dc:subject>高见广春</dc:subject>
         <dc:subject>懸疑推理驚悚</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>高見廣春</dc:subject>
+        <dc:subject>外国文学</dc:subject>
         <meta content="{&quot;高見廣春&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:01:37.626060+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:47+00:00" name="calibre:timestamp"/>
         <meta content="大逃殺(上下)" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

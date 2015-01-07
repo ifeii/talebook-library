@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e975e057-51bf-4613-8c0c-2e35d00581db</dc:identifier>
+        <dc:title>爱与痛的边缘</dc:title>
+        <dc:creator opf:file-as="郭敬明" opf:role="aut">郭敬明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>作者从追溯自己降临这个世界的那一刻起，试图剖析自己性格成长及心灵旨趣变化的内在动因。作者是一个忧伤的孩子，一个性格矛盾的孩子，一个有着鲜明个性、渴望独立自由生活的孩子，同时也是一个具有强烈现实感的孩子。他厌恶学校里压抑沉闷的生活，但他也明白当前惟有高考才是证明自己的成功之阶；他探寻并向往作家丰富的精神世界，但同时又对世俗的金钱、物质有着毫不掩饰的欲望与梦想。所有这些，在作品中都有形象而生动的反映。
+全书分《白昼明媚》与《暗夜未央》两辑。</dc:description>
+        <dc:publisher>东方出版中心</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787806277713</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>郭敬明</dc:subject>
+        <dc:subject>爱与痛的边缘</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>80后</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>青春文学</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <meta content="{&quot;郭敬明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:17+00:00" name="calibre:timestamp"/>
+        <meta content="爱与痛的边缘" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,25 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1140</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ffd27880-292e-41e6-a7ba-50a3cbfce133</dc:identifier>
-        <dc:title>寻找家园</dc:title>
-        <dc:creator opf:file-as="高尔泰" opf:role="aut">高尔泰</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-08-01T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;p class="description"&gt;風物依舊，新世界不新，好像舊世界的延伸，只是沒有了家。——高爾泰&lt;br&gt;　　一個理想主義者對尊嚴、美學與自由的追求&lt;br&gt;　　美學名家高爾泰生死歌哭之作&lt;br&gt;　　2007年獲北京當代漢語研究所「當代漢語貢獻獎」&lt;br&gt;　　被譽為當代散文最美的收穫之一&lt;br&gt;　　你很久沒有看見這樣一部作品了。文字可以如此簡單又無比優雅，情感可以如此清簡又無比飽滿。原來故事可以這樣講，原來歷史可以這樣看，不用吶喊，不用悲泣，卻讓你懂得！從內心裡真正懂得。&lt;br&gt;　　本書共三卷。&lt;br&gt;　　第一卷【夢裡家山】，從一個孩子的眼睛，看一個角落裡的一段歷史。江南小城，抗戰逃難，深山小村，戰後還鄉，政權易手，「土地改革」、「鎮反運動」……為了孩子的安全，父母安排他外出上學。孩子在外想家，故園家破人亡。&lt;br&gt;　　第二卷【流沙墜簡】，寫一個大學生在「肅反運動」中，因「思想問題」被審查，畢業後分配西北，被打成右派，送往戈壁灘上一個關押著三千多人的右派集中營「勞動教養」。不到三年，已有兩千多人死亡。他偶然倖存，得以回到社會，成家立業。文革中又被揪舉，再次家破人亡。&lt;br&gt;　　第三卷【天蒼地茫】，寫「新時期」一個獨立知識分子的命運。「平反」、「歸隊」以後，因違反「四項基本原則」，被「清除清神污染」，禁止教書和出書。後來又被國家科委授予「有突出貢獻的國家級專家」稱號。再後來又以「反革命宣傳」被捕入獄，出獄後逃出中國。&lt;br&gt;　　高爾泰說：「除了活著，還有更多。更多之一，是意義的追尋。」又說「在這資訊滔滔，文字滾滾，每天的印刷品像潮水一樣漫過市場貨架爆滿的日子裡，我一再囑咐自己，要寫得慢些，再慢些。少些，再少些。」他的文字清麗，飽滿而沉重，書中有控訴、有寬容，也有對現實的詰問與超越歷史的思考，使人看見潔白底下的黑暗，以及黑暗底下真正的潔白。面對歷史與過往，高爾泰選擇了寬恕，但對於現世，他卻以剛直的秉性，發出了「絕不妥協」的強音！&lt;/p&gt;&lt;p class="description"&gt;&lt;font class="Apple-style-span" color="#FF0000"&gt;(子乌注：网友&lt;font class="Apple-style-span" color="#00AA00"&gt;Xiaoliang Wang&lt;/font&gt;提供的完整版，整理过程中大致看了一下，应为台版整理而来)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:title>尋找家園</dc:title>
+        <dc:creator opf:file-as="高爾泰" opf:role="aut">高爾泰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-31T16:00:00+00:00</dc:date>
+        <dc:description>風物依舊，新世界不新，好像舊世界的延伸，只是沒有了家。——高爾泰
+
+　　一個理想主義者對尊嚴、美學與自由的追求
+　　美學名家高爾泰生死歌哭之作
+　　2007年獲北京當代漢語研究所「當代漢語貢獻獎」
+　　被譽為當代散文最美的收穫之一
+
+　　你很久沒有看見這樣一部作品了。文字可以如此簡單又無比優雅，情感可以如此清簡又無比飽滿。原來故事可以這樣講，原來歷史可以這樣看，不用吶喊，不用悲泣，卻讓你懂得！從內心裡真正懂得。
+
+　　本書共三卷。
+　　第一卷【夢裡家山】，從一個孩子的眼睛，看一個角落裡的一段歷史。江南小城，抗戰逃難，深山小村，戰後還鄉，政權易手，「土地改革」、「鎮反運動」……為了孩子的安全，父母安排他外出上學。孩子在外想家，故園家破人亡。
+　　第二卷【流沙墜簡】，寫一個大學生在「肅反運動」中，因「思想問題」被審查，畢業後分配西北，被打成右派，送往戈壁灘上一個關押著三千多人的右派集中營「勞動教養」。不到三年，已有兩千多人死亡。他偶然倖存，得以回到社會，成家立業。文革中又被揪舉，再次家破人亡。
+　　第三卷【天蒼地茫】，寫「新時期」一個獨立知識分子的命運。「平反」、「歸隊」以後，因違反「四項基本原則」，被「清除清神污染」，禁止教書和出書。後來又被國家科委授予「有突出貢獻的國家級專家」稱號。再後來又以「反革命宣傳」被捕入獄，出獄後逃出中國。
+
+　　高爾泰說：「除了活著，還有更多。更多之一，是意義的追尋。」又說「在這資訊滔滔，文字滾滾，每天的印刷品像潮水一樣漫過市場貨架爆滿的日子裡，我一再囑咐自己，要寫得慢些，再慢些。少些，再少些。」他的文字清麗，飽滿而沉重，書中有控訴、有寬容，也有對現實的詰問與超越歷史的思考，使人看見潔白底下的黑暗，以及黑暗底下真正的潔白。面對歷史與過往，高爾泰選擇了寬恕，但對於現世，他卻以剛直的秉性，發出了「絕不妥協」的強音！</dc:description>
+        <dc:publisher>印刻文學生活雜誌出版有限公司</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789866377228</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:SGSW</dc:subject>
-        <dc:subject>ZDC:RWZJ</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
-        <meta content="{&quot;高尔泰&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <dc:subject>高爾泰</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>高尔泰</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>寻找家园</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;高爾泰&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="随笔" name="calibre:series"/>
         <meta content="28" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-08-02T04:36:16+00:00" name="calibre:timestamp"/>
-        <meta content="寻找家园" name="calibre:title_sort"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:27+00:00" name="calibre:timestamp"/>
+        <meta content="尋找家園" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

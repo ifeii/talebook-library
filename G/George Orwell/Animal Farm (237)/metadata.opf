@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a37da200-9751-45a8-a6a5-132146ccbdb0</dc:identifier>
+        <dc:title>Animal Farm</dc:title>
+        <dc:creator opf:file-as="George Orwell" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-09-02T16:00:00+00:00</dc:date>
+        <dc:description>Since its publication in 1946, George Orwell's fable of a workers' revolution gone wrong has rivaled Hemingway's The Old Man and the Sea as the Shortest Serious Novel It's OK to Write a Book Report About. (The latter is three pages longer and less fun to read.) Fueled by Orwell's intense disillusionment with Soviet Communism, Animal Farm is a nearly perfect piece of writing, both an engaging story and an allegory that actually works. When the downtrodden beasts of Manor Farm oust their drunken human master and take over management of the land, all are awash in collectivist zeal. Everyone willingly works overtime, productivity soars, and for one brief, glorious season, every belly is full. The animals' Seven Commandment credo is painted in big white letters on the barn. All animals are equal. No animal shall drink alcohol, wear clothes, sleep in a bed, or kill a fellow four-footed creature. Those that go upon four legs or wings are friends and the two-legged are, by definition, the enemy. Too soon, however, the pigs, who have styled themselves leaders by virtue of their intelligence, succumb to the temptations of privilege and power. "We pigs are brainworkers. The whole management and organisation of the farm depend on us. Day and night, we are watching over your welfare. It is for your sake that we drink that milk and eat those apples." While this swinish brotherhood sells out the revolution, cynically editing the Seven Commandments to excuse their violence and greed, the common animals are once again left hungry and exhausted, no better off than in the days when humans ran the farm. Satire Animal Farm may be, but it's a stony reader who remains unmoved when the stalwart workhorse, Boxer, having given his all to his comrades, is sold to the glue factory to buy booze for the pigs. Orwell's view of Communism is bleak indeed, but given the history of the Russian people since 1917, his pessimism has an air of prophecy. --Joyce Thompson --This text refers to the Paperback edition.</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780140278736</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>GeorgeOrwell</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>Orwell</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>英文</dc:subject>
+        <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="反乌托邦" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:49+00:00" name="calibre:timestamp"/>
+        <meta content="Animal Farm" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

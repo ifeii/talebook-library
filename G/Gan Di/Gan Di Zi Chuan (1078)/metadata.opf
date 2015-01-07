@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1078</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">2475055b-e6c9-4ce3-9b0c-0dcb96dcfc05</dc:identifier>
         <dc:title>甘地自传</dc:title>
         <dc:creator opf:file-as="甘地" opf:role="aut">甘地</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-05-08T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;《甘地自传》是20世纪最摄人心魄的精神领袖不怒而威以无形胜有形的传奇全球最畅销的自传作品之一。他是印度独立之父甘地，他有宗教仁厚的胸怀，革命家雄浑的魄力！甘地是个属于全世界的人物，随着本书的展开。我们可以清楚地看到这一点。虽然生为一名印度人，并坚守着一些印度传统。但甘地的遗产却仍然可以为全世界的人所享用。后世之人大概不会相信，像这样一个有血有泪的人，曾在这个地球上走过。莫•卡•甘地是全人类良知的发言人。&lt;/p&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《甘地自传》的传主甘地是一个其貌不扬的普通人，一个谦虚和朴实的人，一个精神、理智、心灵上的王者，感召和引导着印度人民通过几十年不屈不挠的非暴力斗争和不合作运动，赢得了自己国家的独立。也正是他的精神，给迷茫和狂乱世界带来了一种希望，一种光明。</dc:description>
+        <dc:publisher>长江文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787535434739</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:RWZJ</dc:subject>
-        <dc:subject>CNTY:INDIA</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>甘地</dc:subject>
+        <dc:subject>自传</dc:subject>
+        <dc:subject>圣雄</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <dc:subject>印度</dc:subject>
+        <dc:subject>甘地自传</dc:subject>
+        <dc:subject>成长</dc:subject>
         <meta content="{&quot;甘地&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="传记" name="calibre:series"/>
         <meta content="37" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-05-08T18:00:30+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:57+00:00" name="calibre:timestamp"/>
         <meta content="甘地自传" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

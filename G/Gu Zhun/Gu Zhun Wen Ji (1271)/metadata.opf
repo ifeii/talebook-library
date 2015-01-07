@@ -6,16 +6,70 @@
         <dc:title>顾准文集</dc:title>
         <dc:creator opf:file-as="顾准" opf:role="aut">顾准</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-05-04T16:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2007-03-31T16:00:00+00:00</dc:date>
+        <dc:description>在每一个时代，都有一种统治的权威性学说或工艺制度，但大家必须无条件地承认，唯有违反或超过这种权威的探索和研究，才能保证继续进步。所以权威是不可以没有，权威主义则必须打倒。
+秉承了中国知识分子的传统品德，以“天下兴亡”为己任，是具备“直立独行，敢开新路，敢行己志”的现代精神的知识精英。中国市场经济的先驱者。
+“有关许多根本问题，于我来说，他是先知先觉。”——李锐
+“这本文集，看着看着，竟不禁为之击节者再，有感于先得我心者再；读至痛切处甚至禁不住扼腕而叹。”——陈乐民
+“一部《顾准文集》，几乎言必称希腊，其实所言并非希腊，正如言不及中国实所言全在中国，作为个体思想的最沉实也最具挑战性的表达，顾准的著述，乃缘于某种现实使命。”——林贤治
+“顾准是一座巍然屹立的山峰。不管是在天赋聪明才智方面，还是在道德文章方面，我们不一定都能接近于他所达到的境界。”——吴敬琏
+人类社会的前景是光明的，这是肯定无疑的。然而，历史发展的进程毕竟不是一条直线，未来的前景中可以预见到的确实还存在着一些未知待继续进行探索，借以避免若干可以避免的痛苦。如果一切都已经有了现成的答案，那么，当然，这种探索就地变成完全多余和可笑的了。可惜，严酷的现实表明，事实并不是这样。
+这份笔记今后的命运怎样，让人无法预测和断定。也许它会像历史上并不鲜见的许多先人和他们的著作一样，湮没在历史的洪流中；也许它可能在某种历史条件下面，居然还能被人所重视。但是，重要的不是他已经开始的这种历史研究是否有人继续下去，因为，五哥从事这种历史研究，他的本来目的并不在研究历史。
+顾准是1975年以后唯一一个在中国代表精神独立的人，唯一一个能与西方学者如葛兰西、卢卡斯、哈耶克和伯林等对话的人，是以一人之力顽强凿通了那条阻隔中、西思想对话的黑暗隧道的人。本书是他的文集。全书分希腊城邦制度——读希腊史笔记，从理想主义到经验主义，和经济文稿等几部分。
+图书目录
+序言
+希腊城邦制度——读希腊史笔记
+代序：多中心的希腊史
+第一章 什么是城邦
+第二章 远古希腊存在过神授王权
+第三章 海外殖民城市是城邦制度的发源之地
+第四章 希腊本土的城邦化与集团化
+第五章 公元前8-6世纪的希腊世界——城邦制度的最后完成
+第六章 城邦希腊从极盛到衰亡——公元前5-4世纪的希腊
+从理想主义到经验主义
+王元化序
+希腊思想、基督教和中国的史官文化
+僭主政治与民主——《希腊的僭主政治》跋
+附一：希腊的僭主政治（译文）
+附二：托马斯“政治学”语录
+关于海上文明
+统一的专制帝国、奴隶制、亚细亚生产方式及战争
+欧洲中世纪的骑士文明
+《马镫和封建主义——技术造就历史吗？》译文及评注
+资本的原始积累和资本主义发展
+帝国主义和资本主义
+科学与民主
+要确立科学与民主，必须彻底批判中国的传统思想
+直接民主与“议会清谈馆”
+民主与“终极目的”
+老子的“道”及其他
+老子的“无名”是反对孔子的伦常礼教的有名论的吗
+论孔子
+评韩非
+一切判断都得自归纳，归纳所得的结论都是相对的
+辩证法与神学
+经济文稿
+关于社会主义经济中价值及价值规律的问题——一个读书札记
+试论社会主义制度下的商品生产和价值规律
+附录：顾准传记</dc:description>
+        <dc:publisher>中国市场出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787509201206</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>汉译世界学术名著（中国卷）</dc:subject>
+        <dc:subject>顾准</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>民主</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>社会理论:社会学</dc:subject>
         <meta content="{&quot;顾准&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:57:11.684589+00:00" name="calibre:timestamp"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:42+00:00" name="calibre:timestamp"/>
         <meta content="顾准文集" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>
