@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">802535a3-b075-4c04-aeb3-38dd6a0d852c</dc:identifier>
+        <dc:title>一個人住第5年</dc:title>
+        <dc:creator opf:file-as="高木直子" opf:role="aut">高木直子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-30T16:00:00+00:00</dc:date>
+        <dc:description>一個人住了五年的過來人的日常生活。一個人的生活輕鬆也寂寞，卻又難割捨。
+作者利用可愛的圖畫搭配生活化的文字描寫一個人住的生活點滴，只要你曾經一個人住過，一定會有深刻的感覺。一個人住不用跟家人搶浴室洗澡，愛洗多久就洗多久、一個人住偶爾不小心看了恐怖電視而害怕的睡不著覺、一個人住感冒的時候孤單寂寞的心情如潮水般的湧上心頭、一個人住到超商去買菜還會會貨比三家、一個人住會努力想記帳，卻因為偷懶而想出每天存「50元」的計畫、一個人住常會想變換擺設也是不錯而忙到凌晨三點，有點自由隨性卻又有點苦惱，這就是一個人住的生活。
+作者希望可以透過這本書跟读者分享又寂寞又美好的單身生活。</dc:description>
+        <dc:publisher>大田</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789574557806</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>高木直子</dc:subject>
+        <dc:subject>绘本</dc:subject>
+        <dc:subject>一個人住第5年</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>漫画</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>一个人住第5年</dc:subject>
+        <dc:subject>繪本</dc:subject>
+        <meta content="{&quot;高木直子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:33+00:00" name="calibre:timestamp"/>
+        <meta content="一個人住第5年" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9bfbd4b-9d73-40ed-b6bc-f61d937a1a33</dc:identifier>
+        <dc:title>Outliers</dc:title>
+        <dc:creator opf:file-as="Gladwell, Malcolm" opf:role="aut">Gladwell, Malcolm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;In this book, Malcolm Gladwell takes us on an intellectual journey through the world of 'outliers'. He asks the question - what makes high achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from - that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player and why Asians are good at math.&lt;/p&gt;</dc:description>
+        <dc:publisher>Back Bay Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316056281</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>MalcolmGladwell</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>8M</dc:subject>
+        <dc:subject>other</dc:subject>
+        <dc:subject>已购</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>美国@Malcolm_Gladwell</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <meta content="{&quot;Gladwell, Malcolm&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Gladwell Malcolm" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2014-08-22T15:13:41+00:00" name="calibre:timestamp"/>
+        <meta content="Outliers" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

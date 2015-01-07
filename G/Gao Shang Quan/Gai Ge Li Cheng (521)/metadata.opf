@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">633ecefb-84b4-417f-a585-80de89b26e3b</dc:identifier>
+        <dc:title>改革历程</dc:title>
+        <dc:creator opf:file-as="高尚全" opf:role="aut">高尚全</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-31T16:00:00+00:00</dc:date>
+        <dc:description>在这30年间，中国的经济体制从计划走向市场，市场经济体制的框架业已形成；社会结构从城乡二元结构演变为多元化的利益格局，各个利益主体具备了不同的利益诉求；人民生活从贫穷步入小康，物质文化生活得到显著提高；国家从封闭走向开放，逐渐与世界经济融为一体。这一切翻天覆地的变化，显示了30年改革开放的巨大成就，标志着中国在现代化的历史进程中迈出了重要步伐。
+认真总结好30年改革开放的宝贵经验，对我们走好以后的道路尤为重要。我们既不能用今天的认识去解读过去的历史，也不能用先验的教条来评判这场伟大的社会实践；而是应该老老实实地回到历史现场，深入挖掘历史的证据，透过历史的表象，总结出推进这一历史转变的重要经验，以期为今后的道路提供有益的借鉴。只有在对30年改革的纪念与总结中认真思考并逐一求解，才能无愧于30年的艰难探索，才能正视当前社会的各种矛盾，才能更加坚定不移地推进改革开放，使中国步人世界现代国家的行列，使中华民族融人人类社会的主流文明。</dc:description>
+        <dc:publisher>经济科学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505877009</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>改革</dc:subject>
+        <dc:subject>改革历程-HK同名书籍</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>回忆</dc:subject>
+        <dc:subject>天安门</dc:subject>
+        <dc:subject>现代</dc:subject>
+        <meta content="{&quot;高尚全&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="传记" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:50:55+00:00" name="calibre:timestamp"/>
+        <meta content="改革历程" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

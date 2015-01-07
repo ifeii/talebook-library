@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71f9c2c2-9888-45fc-922a-a46c5ac955b1</dc:identifier>
+        <dc:title>Upgrade Your Life</dc:title>
+        <dc:creator opf:file-as="Gina Trapani" opf:role="aut">Gina Trapani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-16T16:00:00+00:00</dc:date>
+        <dc:description>Whether you?re a Mac or Windows user, there are tricks here for you in this helpful resource. You?ll feast on this buffet of new shortcuts to make technology your ally instead of your adversary, so you can spend more time getting things done and less time fiddling with your computer. You?ll learn valuable ways to upgrade your life so that you can work?and live?more efficiently, such as: empty your e-mail inbox, search the Web in three keystrokes, securely save Web site passwords, automatically back up your files, and many more.</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470238363</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>时间管理</dc:subject>
+        <dc:subject>效率</dc:subject>
+        <dc:subject>GTD</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>productivity</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>lifehacker</dc:subject>
+        <dc:subject>个人管理</dc:subject>
+        <meta content="{&quot;Gina Trapani&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:06+00:00" name="calibre:timestamp"/>
+        <meta content="Upgrade Your Life" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

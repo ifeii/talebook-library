@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7106ea7f-cc47-4cf6-966c-8964666c5e80</dc:identifier>
+        <dc:title>古史辨自序</dc:title>
+        <dc:creator opf:file-as="顾颉刚" opf:role="aut">顾颉刚</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-30T16:00:00+00:00</dc:date>
+        <dc:description>这本书主要是提示出战国、秦、汉以来的古书，特别是“经书”上所载的古史，大多出于神话传说的演变，是由不同时代的神话传说一层一层积累起来造成的，从而把古书中的一些虚妄的伪史料清除出去，为进一步科学地研究我国的古代史开辟了道路。顾先生著述宏富，内容广阔，且大都有发前人所未发的创见，为此可以入选的文章很多。但由于本书篇幅有限，只能选入有关他创立“层累地造成的中国古史”观和提示三皇五帝古史系统的几篇论文。这是他主要的学术贡献，由此可以推定他在20世纪史学史上的地位。</dc:description>
+        <dc:publisher>河北教育出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">182fbf25-7a5a-4840-9f4a-3bedc450ddb3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787543438590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>顾颉刚</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>古史辨</dc:subject>
+        <dc:subject>疑古派</dc:subject>
+        <dc:subject>史学</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>中國史</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <meta content="{&quot;顾颉刚&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:49+00:00" name="calibre:timestamp"/>
+        <meta content="古史辨自序" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

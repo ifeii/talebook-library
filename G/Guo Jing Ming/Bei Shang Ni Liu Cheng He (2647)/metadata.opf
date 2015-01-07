@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16765b0e-ddb4-4e76-8363-37f015215d7c</dc:identifier>
+        <dc:title>悲伤逆流成河</dc:title>
+        <dc:creator opf:file-as="郭敬明" opf:role="aut">郭敬明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-30T16:00:00+00:00</dc:date>
+        <dc:description>你曾经有梦见这样无边无际的月光下的水域么？
+无声起伏的黑色的巨浪，在地平线上爆发出沉默的力量。
+就这样，从仅仅打湿脚底，到盖住脚背，漫过小腿，一步一步地，走向寒冷寂静的深渊。
+你有听到过这样的声音么？
+在很遥远，又很贴近的地方响起来。
+像是有细小的虫子飞进了耳孔。在耳腔里嗡嗡地振翅。
+突突地跳动在太阳穴上的声音。
+视界里拉动出长线的模糊的白色光点。
+又是什么。
+漫长的时光像是一条黑暗潮湿的闷热洞穴。
+青春如同悬在头顶上面的点滴瓶。一滴一滴地流逝干净。
+而窗外依然是阳光灿烂的晴朗世界。
+就是这样了吧。</dc:description>
+        <dc:publisher>长江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787535434432</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>郭敬明</dc:subject>
+        <dc:subject>悲伤逆流成河</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>80后</dc:subject>
+        <dc:subject>小四</dc:subject>
+        <dc:subject>青春文艺</dc:subject>
+        <meta content="{&quot;郭敬明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:32:40+00:00" name="calibre:timestamp"/>
+        <meta content="悲伤逆流成河" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

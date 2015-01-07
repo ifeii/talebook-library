@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">233ec326-6617-411f-b371-6a5749c4d585</dc:identifier>
+        <dc:title>慈禧全传(六卷八册)</dc:title>
+        <dc:creator opf:file-as="高阳" opf:role="aut">高阳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《慈禧全傳》全書六部總計一百零八回，跨度七十年，人物上千名，氣勢恢弘的晚清歷史全影畫卷，以慈禧掌權為經，清末政治為緯，編織出一個個吸引人的故事：
+
+第一部《慈禧前傳》1-10 回
+第二部《玉座珠簾》11-40 回
+第三部《清宮外史》41-60 回
+第四部《母子君臣》61-71 回
+第五部《胭脂井》72-90 回
+第六部《瀛臺落日》92-108 回
+
+《慈禧前傳》慈禧從「貴妃」到太后的政治生涯。書始於其皇帝丈夫的死，清咸豐十一年，清文宗死於熱河行宮，幼帝載淳即位，生母被尊為「聖母皇太后」，面對著權力的誘惑，洶洶的政局，跋扈的權臣，慈禧躍上了一條從政之路，一個女人的王朝從此建立起來。這可能是六部書裡面最為流暢、好看的一本。
+
+《玉座珠簾》辛酉政變之後的政局，百廢待興，珠簾之後，年輕的太后，有著怎樣的政治手腕，居然逐步邁向權力之巔？
+
+《清宮外史》宮廷之內的燭光斧影，將相公卿的爾虞我詐，濁世佳公子的風流倜儻，綠林英傑的豪邁壯氣，鄉野小民的離奇遭遇……那一段不堪回首的時光，有著說不盡的搖曳生姿、道不完的萬種風情。
+
+《母子君臣》末世君王，懷著振興乾坤的鴻鵠之志，但強悍的女主、誤國的弄臣，必然扼殺這段改寫歷史的最後機會，宮廷之中，惟有權力，哪有親情？
+
+《胭脂井》戊戌變法將帝黨的矛盾推向極端，憑借袁世凱的「臨機一動」，後黨躍上了權利的巔峰。朝廷意欲借義和團運動滅洋，卻未能阻止洋人的節節進逼，慈禧命人將珍妃投入井後挾皇帝倉皇出逃，國家的命運到了最艱難的歷史關頭。
+
+《瀛台落日》兩宮迴鑾還不到一年的工夫，宦海沉浮，幾人彈冠相慶，幾人不堪回首，各省總督半數遷轉，兩江總督劉坤一的病歿掀起又一輪的明爭暗鬥……</dc:description>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505702882</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>高阳</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>清史小说</dc:subject>
+        <dc:subject>清史</dc:subject>
+        <dc:subject>人物传记</dc:subject>
+        <meta content="{&quot;高阳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="历史小说" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:02+00:00" name="calibre:timestamp"/>
+        <meta content="慈禧全传(六卷八册)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

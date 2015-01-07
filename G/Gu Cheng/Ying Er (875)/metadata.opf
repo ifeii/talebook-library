@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25dab2b6-3117-4116-bf48-72a9950582a4</dc:identifier>
+        <dc:title>英儿</dc:title>
+        <dc:creator opf:file-as="顾城" opf:role="aut">顾城</dc:creator>
+        <dc:creator opf:file-as="顾城" opf:role="aut">雷米</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-11T16:00:00+00:00</dc:date>
+        <dc:description>晓南，人太不一样，秉性最后显出来的时候，太残酷。但毕竟有过那如花如月的一刻，我们在一起，向这边看着。照片还是挺美好的，再给我一点照片吧。&#13;
+  &#13;
+  在书里有我们所有见面的日子。出书的时候我不一定看得到了。&#13;
+                               －－顾城</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506307475</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>顾城</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>英儿</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>死亡</dc:subject>
+        <dc:subject>诗歌</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <meta content="{&quot;雷米&quot;: &quot;&quot;, &quot;顾城&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="44" name="calibre:series_index"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:58:07+00:00" name="calibre:timestamp"/>
+        <meta content="英儿" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

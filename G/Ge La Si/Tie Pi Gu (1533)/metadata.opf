@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b89bd87-f827-4adb-a1f7-4a7034f8bf9d</dc:identifier>
+        <dc:title>铁皮鼓</dc:title>
+        <dc:creator opf:file-as="格拉斯" opf:role="aut">格拉斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《铁皮鼓》是格拉斯的代表作。
+三岁的奥斯卡无意中发母亲和表舅布朗斯偷情，又目睹纳粹力的猖獗，便决定不再长个儿宁愿成为侏儒。从此在他的视角里，社会和周围的人都是怪异和疯狂的。他整天敲打一只铁皮鼓，以发泄对畸形的社会和人世间的愤慨。尽管他子不高，但智力超常，聪明过人。邻居女孩玛丽亚来照顾他，两个发生了性爱，怀孕后她却嫁给了父亲，生下了库尔特。奥斯卡随侏儒杂志团赴前慰问德军，三年后回到家中，苏军攻占了柏林，父亲吞下纳粹党徽身亡。埋葬父亲时奥斯卡丢掉了铁皮鼓，同时亲生儿子库尔特用石子击中了他的后脑勺，使他倒在坟坑中，流血不止；不过他就此开始长个儿，尖叫使玻璃破碎的特异功能也随之消失……
+小说以黑色幽默的虚构故事展示了德国那段最黑暗的历史。根据《铁皮鼓》改编拍摄的同名电影获得了1980年奥期卡最佳外语片奖。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532740154</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>君特·格拉斯</dc:subject>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>铁皮鼓</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>黑色幽默</dc:subject>
+        <dc:subject>德国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <meta content="{&quot;格拉斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:20+00:00" name="calibre:timestamp"/>
+        <meta content="铁皮鼓" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

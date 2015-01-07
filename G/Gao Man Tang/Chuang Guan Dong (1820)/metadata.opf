@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afbf6f66-29d3-46da-a313-9400eae07359</dc:identifier>
+        <dc:title>闯关东</dc:title>
+        <dc:creator opf:file-as="高满堂" opf:role="aut">高满堂</dc:creator>
+        <dc:creator opf:file-as="高满堂" opf:role="aut">孙建业</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-01T16:00:00+00:00</dc:date>
+        <dc:description>《闯关东》是著名平民作家高满堂搭档著名编剧孙建业历时数年、六易其稿的呕心沥血之作。小说以山东章丘人朱开山夫妇和三个儿子闯荡关东的故事为主线，塑造了以朱开山、朱传武等为代表的平民英雄群像，在广阔的民族、地域、人生背景中发掘白山黑水间血染的民族英魂，笔底舒卷风云之色，洋溢着关东寥廓而雄健的气息，那从苍莽悲郁的土地上蒸腾而出的阳刚之美力透纸背。</dc:description>
+        <dc:publisher>山东文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532928033</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>闯关东</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>影视同期书</dc:subject>
+        <dc:subject>民族精神</dc:subject>
+        <dc:subject>高满堂</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>人性</dc:subject>
+        <meta content="{&quot;高满堂&quot;: &quot;&quot;, &quot;孙建业&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:22+00:00" name="calibre:timestamp"/>
+        <meta content="闯关东" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

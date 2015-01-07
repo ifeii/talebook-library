@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b75e70b5-cd76-4610-a434-c7d814c3cb96</dc:identifier>
+        <dc:title>模仿犯（第二部）</dc:title>
+        <dc:creator opf:file-as="宫部美幸" opf:role="aut">宫部美幸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-31T16:00:00+00:00</dc:date>
+        <dc:description>模仿犯第壹部故事回顾：&#13;
+一个姑娘神秘失踪了，不久有人在公园的垃圾箱里发现了一条被砍断的右手，案件就这样拉开了序幕……&#13;
+“我就是那个把右手扔到大川公园的人，你们不想再对这一事件进行报道了吗？”突然有一个电话打到了电视台的直播节目组。罪犯不止一次地给节目组打来电话，兴奋地谈论着案件的相关情况，同时还预告了更恐怖的事情：“直播我的犯罪。”这是个前所未有的“杀人计划”。&#13;
+然而，一场车祸似乎结束了这种恐怖的直播报道。警方证实，两名嫌疑犯在一起意外坠崖车祸中死亡，案件真的会这么简单地结束吗？&#13;
+模仿犯第贰部故事梗概：&#13;
+就在大多数人认为死于车祸的粟桥浩美和高井和明就是罪犯的时候，一个男人闪亮登场，出现在媒体面前，他就是毕业于耶鲁大学的犯罪心理学家纲川浩一。他认为另有一名真正的罪犯。纲川参加了许多电视节目，主张自己的“真凶存在说”。&#13;
+不久，他那极具说服力的主张、潇洒的长相和睿智的谈吐风靡了整个社会……“真正的罪犯还活着”，于是人们开始等待那令人恐惧的结局。可是，纲川认为的那个真正的罪犯到底是谁呢？而他又凭什么信誓旦旦地肯定“罪犯另有其人”呢……&#13;
+加害人、受害人、遗属、警察和媒体，所有知道这件罪案的人全被卷了进来，而案件也进入了极具讽刺意味和冲击力的最后结局……</dc:description>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787505721319</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>宫部美幸</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>宫部美雪</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>日本推理</dc:subject>
+        <dc:subject>社会派</dc:subject>
+        <meta content="{&quot;宫部美幸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:01+00:00" name="calibre:timestamp"/>
+        <meta content="模仿犯（第二部）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

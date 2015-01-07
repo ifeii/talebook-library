@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf65c916-c5b5-472f-86d3-957e9ffd9be3</dc:identifier>
+        <dc:title>天才在左 疯子在右</dc:title>
+        <dc:creator opf:file-as="高铭" opf:role="aut">高铭</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T16:00:00+00:00</dc:date>
+        <dc:description>本书以访谈录的形式记载了生活在另一个角落的人群（精神病患者、心理障碍者等边缘人）深刻、视角独特的所思所想，让人们可以了解到疯子抑或天才真正的内心世界。此书是国内第一本具有人文情怀的精神病患谈访录。内容涉及生理学、心理学、佛学、宗教、量子物理、符号学以及玛雅文明和预言等众多领域。</dc:description>
+        <dc:publisher>武汉大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787307075429</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">dd770219-c4cc-4e02-9016-68eb41cccef7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>精神病学</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>精神病</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>高铭</dc:subject>
+        <dc:subject>量子物理</dc:subject>
+        <meta content="{&quot;高铭&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:53+00:00" name="calibre:timestamp"/>
+        <meta content="天才在左 疯子在右" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

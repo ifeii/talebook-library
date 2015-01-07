@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3ff561a-5f3d-4b25-b575-ec9d5078754c</dc:identifier>
+        <dc:title>第1-50届莫斯科数学奥林匹克</dc:title>
+        <dc:creator opf:file-as="Г.А.嘎尔别林（Г.А.Гальперин）" opf:role="aut">Г.А.嘎尔别林（Г.А.Гальперин）</dc:creator>
+        <dc:creator opf:file-as="Г.А.嘎尔别林（Г.А.Гальперин）" opf:role="aut">（苏）А.К.托尔贝戈（А.К.ТоЛпыго）</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-09T11:48:29+00:00</dc:date>
+        <dc:publisher>科学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787030017239</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">442e77d5-cc89-4ce6-972d-4e8293e32974</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>数学</dc:subject>
+        <dc:subject>1</dc:subject>
+        <dc:subject>科学家推介的20世纪科普佳作</dc:subject>
+        <meta content="{&quot;Г.А.嘎尔别林（Г.А.Гальперин）&quot;: &quot;&quot;, &quot;（苏）А.К.托尔贝戈（А.К.ТоЛпыго）&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T16:20:33+00:00" name="calibre:timestamp"/>
+        <meta content="第1-50届莫斯科数学奥林匹克" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
