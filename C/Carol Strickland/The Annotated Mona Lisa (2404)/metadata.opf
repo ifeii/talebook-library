@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c05483f8-dd42-41ff-8b1c-6dc0ff896519</dc:identifier>
+        <dc:title>The Annotated Mona Lisa</dc:title>
+        <dc:creator opf:file-as="Carol Strickland" opf:role="aut">Carol Strickland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-30T16:00:00+00:00</dc:date>
+        <dc:description>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}} \viewkind4\uc1\pard\lang2057\f0\fs20 'Like music, art is a universal language. Although looking at works of art is a pleasurable enough experience, to appreciate them fully requires certain skills and knowledge.' \par  \par First published in 1992, this backlist best-seller presents new material including the latest trends since 1990: video art, new media (digital &amp; internet), photo based work, figurative imagery and neo-expressionism, conceptual art, installations, artist cooperative collaborations, and the resurgence of traditional craft in painting (the Leipzig group).  It takes art history out of the realm of dreary textbooks, demystifies jargon and theory, and makes art accessible.  From Stonehenge to the Guggenheim and from Holbein to Warhol, more than 25,000 years of art is distilled into five sections covering a little more than 200 pages. \par  \par 'I tried to make this book as reader-friendly as possible. No technical jargon, just a basic introduction to the subject of art history. My mandate was to make the important interesting.' \par }</dc:description>
+        <dc:publisher>Andrews McMeel Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780740768729</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>学习</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <meta content="{&quot;Carol Strickland&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:18+00:00" name="calibre:timestamp"/>
+        <meta content="Annotated Mona Lisa, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -3,18 +3,30 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1526</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">3607ca6c-c489-4e4c-96af-4b2b8368a8e2</dc:identifier>
-        <dc:title>大山裡的人生</dc:title>
-        <dc:creator opf:file-as="沈從文" opf:role="aut">沈從文</dc:creator>
+        <dc:title>大山里的人生</dc:title>
+        <dc:creator opf:file-as="沈从文" opf:role="aut">沈从文</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-21T14:53:40+00:00</dc:date>
+        <dc:date>2000-12-31T16:00:00+00:00</dc:date>
+        <dc:description>本书从作者浩繁的著述中，选取有关人生的纪实和思考的部分散文，以展示一个平凡而伟大的人在凤凰的石板路上，在湘西的大山深处，在都市的街头巷口留下的深深足迹；展示一个以小学毕业的学历而成为作家、学者，在短暂而又漫长的人生旅途上的奋斗与挣扎，辛酸与欢乐，失败与成功；展示一个普普通通的灵魂的苏醒与叛逆、磨炼与裂变……</dc:description>
+        <dc:publisher>湖南文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">9c55698b-05ee-4d74-a0fd-05c301fd6bef</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787540411688</dc:identifier>
         <dc:language>zho</dc:language>
-        <meta content="{&quot;沈從文&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:01:00.973139+00:00" name="calibre:timestamp"/>
-        <meta content="大山裡的人生" name="calibre:title_sort"/>
+        <dc:subject>沈从文</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>散文随笔</dc:subject>
+        <dc:subject>现代文学</dc:subject>
+        <dc:subject>沈丛文</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>沈丛文 谈人生</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <meta content="{&quot;沈从文&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:15+00:00" name="calibre:timestamp"/>
+        <meta content="大山里的人生" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

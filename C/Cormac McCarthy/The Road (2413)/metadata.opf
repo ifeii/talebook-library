@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ac0a03d-ceb1-4e49-a113-10648cb3b88c</dc:identifier>
+        <dc:title>The Road</dc:title>
+        <dc:creator opf:file-as="Cormac Mccarthy" opf:role="aut">Cormac McCarthy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-25T16:00:00+00:00</dc:date>
+        <dc:description>A searing, postapocalyptic novel destined to become Cormac McCarthy’s masterpiece.
+
+A father and his son walk alone through burned America.  Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray.  They sky is dark. Their destination is the coast, although they don’t know what, if anything, awaits them there.  They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearting, a cart of scavenged food—and each other.
+
+The Road is the profoundly moving story of a journey.  It boldly imagines a future in which no hope remains, but in which the father and his son, “each the other’s world entire,” are sustained by love.  Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.&lt;/p&gt;</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307265432</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>;普利策，美国</dc:subject>
+        <dc:subject>路</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>post-apocalyptic</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>普利策</dc:subject>
+        <meta content="{&quot;Cormac McCarthy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:26+00:00" name="calibre:timestamp"/>
+        <meta content="Road, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

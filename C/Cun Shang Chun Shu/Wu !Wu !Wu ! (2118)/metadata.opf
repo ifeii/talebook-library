@@ -4,17 +4,30 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">2118</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">a6c3db4e-442b-4e61-8d9f-d1a479e21e0b</dc:identifier>
         <dc:title>舞！舞！舞！</dc:title>
-        <dc:creator opf:file-as="村上春樹" opf:role="aut">村上春樹</dc:creator>
+        <dc:creator opf:file-as="村上春树" opf:role="aut">村上春树</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>2002-05-31T16:00:00+00:00</dc:date>
+        <dc:description>六具白骨摆列在一间亦真亦幻的死亡之屋里。“我”的老朋友“鼠”已经死于寻羊冒险。“我”好不容易找到了投缘的老同学五反田，可这位被演艺界包装得精神分裂的电影明星，却接连勒死了两名高级应召女郎，自己也驾着高级跑车“玛莎拉蒂”葬身大海。孤独的女孩“雪”和她孤傲的母亲“雨”，虽然还能在这疯狂世界上勉强生存，可“雨”的守护神笛克，却也躲不过一场莫名的车祸。度过了一段死亡陪伴的惊魂日子，“我”终于在宾馆女服务员由美吉那里找到了安全感，也有了在安静城市过安静生活的具体计划。可是，那第六具白骨到底意味着谁呢？“我”依然脱不出死亡之屋。
+“高度发达的资本主义社会，”村上春树把这句话重复了不知多少遍，他是想寻找所有这些死亡和罪恶的源头吧？</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532728893</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">19d732a8-2e35-43f8-ae15-ece99f624844</dc:identifier>
         <dc:language>zho</dc:language>
-        <meta content="{&quot;村上春樹&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:11:11.411986+00:00" name="calibre:timestamp"/>
+        <dc:subject>村上春树</dc:subject>
+        <dc:subject>舞!舞!舞!</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>村上春樹</dc:subject>
+        <meta content="{&quot;村上春树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:34+00:00" name="calibre:timestamp"/>
         <meta content="舞！舞！舞！" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

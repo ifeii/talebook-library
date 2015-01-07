@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c614afaa-51b5-494f-8ba0-23b0bccb86ef</dc:identifier>
+        <dc:title>魅生·凤鸣卷</dc:title>
+        <dc:creator opf:file-as="楚惜刀" opf:role="aut">楚惜刀</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-30T16:00:00+00:00</dc:date>
+        <dc:description>紫颜是一个充满魅力的家伙。
+他轻轻眉眼一动，就能勾动女子们的万千心事，他提起笔来在她们的脸上轻轻勾画，女孩们会醉心于这男子雕琢时专注时的神采，就连他解剖无头尸体的时候，都是那么的帅啊！ 他一不小心，就迷倒了万千众生！ 当文字也变得倾国倾城……一点惊艳，一份惆怅，一段传奇，千白回味。看楚惜刀魅惑众生，于万千色相后演绎永不寂灭的红尘。
+这是一本绝不沉重也不黑色的作品，有诗词的风流和中国古典的曼妙，有的时候她会轻轻地感慨，也像是古时候的仕女们仰叹秋风似的，去了便不留痕迹。
+这是一本绝不沉重也不黑色的作品，内容很飘渺，充满了奇思妙想，手足无措苦惆怅，长歌当哭断柔肠。笑傲人世弃虚妄，心中太阳未露光。
+人之于他，不过是一段又一段可供赁香的故事；他之于人，却直如主宰命运的翻云覆雨手。他，是天下最好的易容大师，如果你想遗忘前生或者替换未来，记得来找他。这里的故事永远是那么的悠远，由古城里的一支红烛深山里的一处茅庐弹道上的一匹骏马、面纱下的一抹红唇这些写意的鳞爪，构建了一个古老的时空。
+紫颜神秘来到沉香谷，跟随侧侧和沉香子学得易容术，在谷中遇险时与制香师姽婳相遇，三人由此结缘。在这一辑中，神秘的十师悉数登场。十师会上十位奇师名家各展奇技，紫颜初露锋芒，姽婳决定为其添翼，而侧侧也通过努力成为青鸾大师之徒。三人一路成长，奔赴京城，为后来的传奇拉开帷幕。</dc:description>
+        <dc:publisher>新世界出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ae0960c9-54c2-4c90-a219-dc84c3352d4c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787802284562</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>楚惜刀</dc:subject>
+        <dc:subject>魅生</dc:subject>
+        <dc:subject>奇幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>紫颜</dc:subject>
+        <dc:subject>九州</dc:subject>
+        <dc:subject>侧侧</dc:subject>
+        <dc:subject>姽婳</dc:subject>
+        <meta content="{&quot;楚惜刀&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:24+00:00" name="calibre:timestamp"/>
+        <meta content="魅生·凤鸣卷" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

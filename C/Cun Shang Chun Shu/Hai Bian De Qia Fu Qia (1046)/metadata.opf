@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1046</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">2eb8816c-df4a-4313-b343-2a9033122608</dc:identifier>
         <dc:title>海边的卡夫卡</dc:title>
         <dc:creator opf:file-as="村上春树" opf:role="aut">村上春树</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2006-12-20T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;小说的主人公是一位自称名叫田村卡夫卡——作者始终未交代其真名——的少年。他在十五岁生日前夜独自离家出走，乘坐夜行长途巴士远赴四国。出走的原因是为了逃避父亲所作的比俄底浦斯王还要可怕的预言：尔将弑父，将与尔母、尔姐交合。卡夫卡四岁时，母亲突然失踪，带走了比卡夫卡年长四岁、其实是田村家养女的姐姐，不知何故却将亲生儿子抛弃。他从未见过母亲的照片，甚至连名字也不知道。仿佛是运命在冥冥之中引导，他偶然来到某私立图书馆，遂栖身于此。馆长佐伯女士是位四十多岁气质高雅的美妇，有着波澜曲折的神秘身世。卡夫卡疑心她是自己的生母，佐伯却对此不置可否。卡夫卡恋上了佐伯，并与之发生肉体关系。小说还另设一条副线，副线的主角是老人中田，他在二战期间读小学时，经历过一次神秘的昏迷事件，从此丧失了记忆，将学过的知识完全忘记，甚至不会认字计数，却获得了与猫对话的神秘能力。中田在神智失控的情况下杀死了一个自称焦尼·沃卡（Johnny Walker）、打扮得酷似那著名威士忌酒商标上所画的英国绅士的狂人，一路搭车也来到此地。小说共分49章，奇数章基本上用写实手法讲述卡夫卡的故事，偶数章则用魔幻手法展现中田的奇遇。两种手法交互使用，编织出极富强烈虚构色彩的、奇幻诡诘的现代寓言。佐伯是将这两个故事联结为一体的结合点，而弑父的预言似乎最终也未能避免，因为狂人焦尼·沃卡居然是卡夫卡生父乔装改扮的，真正的凶手也并非中田…&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-31T16:00:00+00:00</dc:date>
+        <dc:description>小说的主人公是一位自称名叫田村卡夫卡——作者始终未交代其真名——的少年。他在十五岁生日前夜独自离家出走，乘坐夜行长途巴士远赴四国。出走的原因是为了逃避父亲所作的比俄底浦斯王还要可怕的预言：尔将弑父，将与尔母、尔姐交合。卡夫卡四岁时，母亲突然失踪，带走了比卡夫卡年长四岁、其实是田村家养女的姐姐，不知何故却将亲生儿子抛弃。他从未见过母亲的照片，甚至连名字也不知道。仿佛是运命在冥冥之中引导，他偶然来到某私立图书馆，遂栖身于此。馆长佐伯女士是位四十多岁气质高雅的美妇，有着波澜曲折的神秘身世。卡夫卡疑心她是自己的生母，佐伯却对此不置可否。卡夫卡恋上了佐伯，并与之发生肉体关系。小说还另设一条副线，副线的主角是老人中田，他在二战期间读小学时，经历过一次神秘的昏迷事件，从此丧失了记忆，将学过的知识完全忘记，甚至不会认字计数，却获得了与猫对话的神秘能力。中田在神智失控的情况下杀死了一个自称焦尼·沃卡（Johnny Walker）、打扮得酷似那著名威士忌酒商标上所画的英国绅士的狂人，一路搭车也来到此地。小说共分49章，奇数章基本上用写实手法讲述卡夫卡的故事，偶数章则用魔幻手法展现中田的奇遇。两种手法交互使用，编织出极富强烈虚构色彩的、奇幻诡诘的现代寓言。佐伯是将这两个故事联结为一体的结合点，而弑父的预言似乎最终也未能避免，因为狂人焦尼·沃卡居然是卡夫卡生父乔装改扮的，真正的凶手也并非中田……</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787532734191</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>CNTY:JAPAN</dc:subject>
-        <dc:subject>ZDC:WGWX</dc:subject>
+        <dc:subject>村上春树</dc:subject>
+        <dc:subject>海边的卡夫卡</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
         <meta content="{&quot;村上春树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="国外名著" name="calibre:series"/>
         <meta content="36" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-04-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:59:39+00:00" name="calibre:timestamp"/>
         <meta content="海边的卡夫卡" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

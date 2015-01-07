@@ -6,15 +6,27 @@
         <dc:title>梦溪笔谈</dc:title>
         <dc:creator opf:file-as="沈括" opf:role="aut">沈括</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-02-11T15:57:34+00:00</dc:date>
+        <dc:date>2003-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《梦溪笔谈》是中国笔记研究中被研究最多最深的本子之一，一直成为中国科学史研究的重点。然本书内容涉及甚广，人事、官政、权智，下至闾巷之言，亦是研究北宋时期典制礼仪、财役制度、军事制度的重要史料。此次整理，《笔谈》部分以文物出版社影印的元刊本为底本，《补笔谈》、《续笔谈》部分以清光绪三十年陶氏爱庐本为底本。为便于读者阅读，本书目录的卷首条目标题按卷排比，文中出现的人物、典籍、年号编为索引，附于卷末。有价值的各种版本序跋和《沈括事略》收于附录，以见全貌。</dc:description>
+        <dc:publisher>上海书店出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">137cd6e9-d30a-45f0-b41c-73162cb7829a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787806780305</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>沈括</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>梦溪笔谈</dc:subject>
+        <dc:subject>笔记</dc:subject>
+        <dc:subject>古籍</dc:subject>
+        <dc:subject>北宋</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>沈括-梦溪笔谈</dc:subject>
         <meta content="{&quot;沈括&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:09:35.176172+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:10+00:00" name="calibre:timestamp"/>
         <meta content="梦溪笔谈" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

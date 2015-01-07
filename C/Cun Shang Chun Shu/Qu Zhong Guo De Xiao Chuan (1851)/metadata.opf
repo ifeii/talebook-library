@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45e03ef2-0e34-497e-b54f-0fe302b865fc</dc:identifier>
+        <dc:title>去中国的小船</dc:title>
+        <dc:creator opf:file-as="村上春树" opf:role="aut">村上春树</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-30T16:00:00+00:00</dc:date>
+        <dc:description>“我”丢失了楚楚可怜的中国女孩，从此只能每天坐在港口遥望地平线，苦等着去中国的小船；“我”身边的朋友接连死去，未死者也犹如封进了坍塌的纽约煤矿，静等着空气的枯竭。 但“我”并没有丧失生活的希望，尽管“我”设想的穷婶母社会还远在11980年；“我”也没有忘记时不时跟生活开个玩笑，在悉尼肮脏的“绿色大街”当一回滑稽侦探。 村上春树最早的短篇小说集。村上春树的深沉，村上春树的幽默，凝聚于此。
+在日本当代作家中，村上春树的确是个不同凡响的存在，一颗文学奇星。短短十几年时间里，他的作品便风行东瀛列岛。本书是他的又一力作。书中故事有去中国的小船、穷婶母的故事、纽约煤矿的悲剧、袋鼠通讯、下午最后的草坪、她的埋在土中的小狗等。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532746019</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f49f65c6-dd69-489c-8a2b-171d6ea661d4</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>村上春树</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>短篇</dc:subject>
+        <dc:subject>去中国的小船</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>林少华</dc:subject>
+        <meta content="{&quot;村上春树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:49+00:00" name="calibre:timestamp"/>
+        <meta content="去中国的小船" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
