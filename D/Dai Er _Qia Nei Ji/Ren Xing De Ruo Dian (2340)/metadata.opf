@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e7e6a66-cf38-4b7b-9e25-8be89d80131f</dc:identifier>
+        <dc:title>人性的弱点</dc:title>
+        <dc:creator opf:file-as="戴尔·卡内基" opf:role="aut">戴尔·卡内基</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-30T16:00:00+00:00</dc:date>
+        <dc:description>世界成功学第一书，戴尔·卡内基成功学教育全书一！世界上最畅销、最经典、最实用的为人处世参考书。“成人教育之父”戴尔·卡耐基的思想精华和最激动人心的内容，帮助你解决你所面临的最大问题：如何在你的日常生活、商务活动与社会交往中与人打交道，并有效地影响他人；如何击败人类的生存之敌——忧虑，以创造一种幸福美好的人生……
+
+　　戴尔·卡耐基，美国“成人教育之父”。20世纪早期，美国经济陷入萧条，战争和贫困导致人们失去了对美好生活的愿望，而卡耐基独辟蹊径地开始了一套融演讲、推销、为人处世、智能开发于一体的教育方式，他运用社会学和心理学知识，对人性进行了深刻的探讨和分析。他讲述的许多普通人通过奋斗获得成功的真实故事，激励了无数陷入迷茫和困境的人，帮助他们重新找到了自己的人生。本书为“戴尔·卡内基成功学教育全书”的其中一册。</dc:description>
+        <dc:publisher>babyshan hcs@fj163.com</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn|uuid|51037e82-03ff-11dd-9fbb-0018f369440e</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787802032460</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>卡内基</dc:subject>
+        <dc:subject>心理学</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>交际</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>成功学</dc:subject>
+        <dc:subject>人生</dc:subject>
+        <dc:subject>人性的弱点</dc:subject>
+        <meta content="{&quot;戴尔·卡内基&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:09+00:00" name="calibre:timestamp"/>
+        <meta content="人性的弱点" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

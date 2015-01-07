@@ -6,18 +6,28 @@
         <dc:title>东霓</dc:title>
         <dc:creator opf:file-as="笛安" opf:role="aut">笛安</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-11-12T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;相比《西决》，这本《东霓》让我们有机会更真切地认识到笛安在塑造人物上的功力。也许是郑东霓这个女性角色比郑西决更外向，更具戏剧性，更便于作者为她所身处的生活构造矛盾，为她的情感寻找各式各样的宣泄途径，也给了读者更为刻骨铭心的阅读感受——正如文章所写的那样“我总是在最糟糕的时候，莫名其妙地发现，其实我还是喜欢活着。没错，就是活着。比方说现在，我一个人坐在我空荡荡的店里，恶狠狠地打开一罐啤酒，在雪白的泡沫泛滥之前，用我的嘴唇截住它们。它们在我的舌尖上前仆后继地粉身碎骨，那种麻酥酥的破灭，就是活着”。&lt;br&gt;　　我们一向习惯用“精准”来形容笛安的文笔，我们习惯全身心投入笛安的故事——这种感觉并不像在看一部小说、一个虚构时空中的虚构的人事，而是像在回顾自己的一切，在审视自己的生活，身陷在一幕幕熟悉而深刻的场景中，任凭那些或尖锐粗糙或温吞煽情的镜头将自己吞没。笛安的特质，发自她细致入微的笔触，来自她简洁而深刻的叙述，源自她对爱、对亲情、对世间万事的深情厚谊。&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2010-06-30T16:00:00+00:00</dc:date>
+        <dc:description>《东霓》和《西决》一样，还是在讲发生在那个永远的龙城的，郑家人的故事。但是不同于西决的隐忍，东霓是个活色声香的女人。这本《西决》的姐妹篇，却完全转换了主人公以及第一人称叙述的视角，呈现出来一个东霓眼中完全不同的郑家，完全不同的世界。东霓是一个经历坎坷、自私势利，却又坚韧勇敢、情深似海的女人。残酷的生活教会她精明和算计，但是在真正紧要的转折点上，她却依然把自己交付给生命深处燃烧着的冲动和本能。所以她才要不择手段地和前夫争夺，所以她机关算尽却把自己绕了进去，所以她才能勇敢地用伤痕累累的心热切地去爱，所以她才能只是因为一时冲动，给真正最关心她的人留下永远难以磨灭的伤害。
+故事结尾处，东霓放弃了很多，失去了很多，唯一剩下的，却还是她的勇气和热情。她带着自己的秘密重新出发了，龙城依旧是个静默的古老城市，这一次，变成了一个荒凉的戏台，东霓粉墨登场，像个张扬的花旦，在万里晴空之下，上演了一出古老的戏码：北方，有佳人。</dc:description>
+        <dc:publisher>长江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787535445582</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">db4f9be9-f792-4e46-8f58-ea619b81118c</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>轻小说</dc:subject>
+        <dc:subject>笛安</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>东霓</dc:subject>
+        <dc:subject>青春文学</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>柯艾</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>;很喜欢。</dc:subject>
         <meta content="{&quot;笛安&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:01:03.662268+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:13:17+00:00" name="calibre:timestamp"/>
         <meta content="东霓" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">184</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">4fde8873-1ca1-4a35-9111-36e266845e98</dc:identifier>
         <dc:title>彷徨之刃</dc:title>
         <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-01-14T16:00:00+00:00</dc:date>
-        <dc:description>SUMMARY:
-东野圭吾最具争议力作
-雄踞天王作家粉丝站“10大杰作”
-舍命沥血的良知拷问!
-正义存于人心底，还是空洞的条文中？
-法律保护的是受害者，还是凶手？
-为令少年犯改过自新，是否就可以无视受害者撕心裂肺的痛楚？
-凄惶的哀呼一响即灭，无辜少女惨遭凌虐。
-丧女的无尽悲痛令长峰亡命天涯，誓要血债血偿。
-理智与情感、苍白的法律与复仇的渴望激荡冲突，彷徨之刃究竟当指向何方？</dc:description>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:description>正义存于人心底，还是空洞的条文中？
+法律保护的是受害之人，还是凶手？
+无辜少女惨遭凌虐杀戮。在丧女的悲痛面前，世间哪个父亲不悲怒交加？
+长峰重树亡命天涯，发誓要为女儿报仇，要血债血偿！
+苍白的法律与复仇的渴望激荡长空，那把彷徨之刃将刺向何方？</dc:description>
         <dc:publisher>南海出版公司</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787544249904</dc:identifier>
-        <dc:language>zh-CN</dc:language>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>日本</dc:subject>
+        <dc:language>en</dc:language>
         <dc:subject>东野圭吾</dc:subject>
         <dc:subject>推理</dc:subject>
-        <dc:subject>悬疑</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>日系推理</dc:subject>
+        <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="东野圭吾" name="calibre:series"/>
         <meta content="2" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T15:12:15+00:00" name="calibre:timestamp"/>
         <meta content="彷徨之刃" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

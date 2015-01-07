@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6111801b-9bfb-4d84-bc7b-d35469f88d4e</dc:identifier>
+        <dc:title>明朝那些事儿</dc:title>
+        <dc:creator opf:file-as="当年明月" opf:role="aut">当年明月</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-30T16:00:00+00:00</dc:date>
+        <dc:description>《明朝那些事儿》这篇文主要讲述的是从1344年到1644年这三百年间关于明朝的一些事情，以史料为基础，以年代和具体人物为主线，并加入了小说的笔法，对明朝十七帝和其他王公权贵和小人物的命运进行全景展示，尤其对官场政治、战争、帝王心术着墨最多，并加入对当时政治经济制度、人伦道德的演义。</dc:description>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788721304621</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>明朝那些事儿</dc:subject>
+        <dc:subject>当年明月</dc:subject>
+        <dc:subject>明朝</dc:subject>
+        <dc:subject>明史</dc:subject>
+        <dc:subject>有趣</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <meta content="{&quot;当年明月&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:23+00:00" name="calibre:timestamp"/>
+        <meta content="明朝那些事儿" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

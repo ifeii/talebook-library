@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f93dc65-3b21-41fd-871a-cc9f4f29e1d4</dc:identifier>
+        <dc:title>企业参谋</dc:title>
+        <dc:creator opf:file-as="大前研一" opf:role="aut">大前研一</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>【内容简介】
+作为大前研一处女作的《企业参谋》，是他在30岁时所做的工作笔记。大前研一29岁加入麦肯锡公司，在一窍不通的情形下边工作边学习企业经营之道。《企业参谋》在1975年出版时，仅仅日本就卖了16万册。.
+本书则是经过修订之后目前的最新版本。不可思议的是，在经过了30多年之后，本书仍然是日本职场新手的必读书。因为他们的主管之前深受此书的影响，故而极力推荐他们的下属认真研读大前研一的思想源泉。..
+所谓企业参谋，即策略性思考的团队，他们不仅仅起到企业幕僚的作用，而且担负着整个企业发展的命运。这就使得他们虽然身处组织之中，却要担负着超越组织框架的责任，突破旧经济时代的线型思维，客观独立地制定经营战略，并监督其得到有效地执行。虽然现在许多企业已经采纳了企业参谋的做法，然而更多的则徒有虚名。
+阅读本书，你会感受到一种“企业无论处于何种困境，只要如此去执行策略就行了”的信息。这毫无疑问解释了本书之所以畅销几十年的原因何在。本书不仅仅是参谋者必备的策略秘籍，更是想要突破困境、创造优势的企业经营者的必读经典。...
+【目录信息】
+修订版前言.
+第一部分 什么是战略思考
+第一章 战略思考入门
+“旧模式”的经济理论不管用
+思考事物的本质
+找到问题以及解决问题的过程
+探究事物本质的方法论
+成功解决问题的标准
+标准的应用
+第二章 企业的战略思考
+中期经营战略规划
+产品项目组合管理(PPM)
+产品与市场战略
+第三章 把战略思考应用到国事上
+产业结构论的立足点
+新西兰海面上的日本乌贼捕捞船队
+第四章 妨碍战略思考的因素
+美国历史上可悲的教训
+参谋必不可少的五大素质
+第五章 战略思考团队的形成</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508609201</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>大前研一</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>战略</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>管理咨询</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>企业参谋</dc:subject>
+        <dc:subject>咨询</dc:subject>
+        <meta content="{&quot;大前研一&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:39:18+00:00" name="calibre:timestamp"/>
+        <meta content="企业参谋" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

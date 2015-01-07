@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1099</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">efc0e81a-18db-4b00-9002-0d1303645f15</dc:identifier>
-        <dc:title>基督山恩仇記</dc:title>
-        <dc:creator opf:file-as="大仲馬" opf:role="aut">大仲馬</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-05-13T16:00:00+00:00</dc:date>
-        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　《基督山恩仇記》的時代背景設置在法國的復辟時期（拿破崙垮台後的王政時期）。主角鄧迪斯是一位即將成為船長的航海員，在他結婚之即，他的同事唐高斯因嫉妒而寫了告密信誣陷鄧迪斯是拿破崙舊黨，這封信由鄧迪斯的情迪費南特投入郵筒，而代理檢察官偉爾福則因個人的私慾而將鄧迪斯關入暗無天日的黑獄。&lt;br&gt;　　唐高斯、費南特、偉爾福這三個陷害鄧迪斯的惡徒，日後在巴黎飛黃騰達，唐高斯成為金融界的巨擘；費南特成為貴族院的議員；偉爾福則成為巴黎首席檢察官。相對的，被冤枉的鄧迪斯卻在黑牢中過著絕望的生活，他的父親絕死身亡，愛人改駕費南特，在人間最大的悲慘時刻，他在密道中找到難友法利亞長老，得到基度山寶藏的秘密。經過十四年的恐怖煎熬，他終於逃離監獄，獲得龐大的財產。&lt;br&gt;　　鄧迪斯化名基度山伯爵返回巴黎，仰靠龐大的財力，他出入上流社會，開始一連串的復仇行動……&lt;/span&gt;</dc:description>
-        <dc:publisher>好读</dc:publisher>
+        <dc:title>基度山恩仇记</dc:title>
+        <dc:creator opf:file-as="大仲马" opf:role="aut">大仲马</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:description>基度山恩仇记，ISBN：9787544711661，作者：（法）大仲马 著,郑克鲁 译</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787544711661</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>CNTY:FRANCE</dc:subject>
-        <dc:subject>ZDC:WGWX</dc:subject>
-        <meta content="{&quot;大仲馬&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <dc:subject>大仲马</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>法国</dc:subject>
+        <dc:subject>复仇</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>外国名著</dc:subject>
+        <dc:subject>法国文学</dc:subject>
+        <meta content="{&quot;大仲马&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="国外名著" name="calibre:series"/>
         <meta content="39" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-05-14T12:39:21+00:00" name="calibre:timestamp"/>
-        <meta content="基督山恩仇記" name="calibre:title_sort"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:00:17+00:00" name="calibre:timestamp"/>
+        <meta content="基度山恩仇记" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

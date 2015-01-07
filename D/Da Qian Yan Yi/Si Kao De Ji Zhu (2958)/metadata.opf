@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2958</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a35a408-272a-4dea-aeff-60a8a3f0bbf6</dc:identifier>
+        <dc:title>思考的技术</dc:title>
+        <dc:creator opf:file-as="大前研一" opf:role="aut">大前研一</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-10T01:43:29+00:00</dc:date>
+        <dc:description>在充满危机与冒险的新经济时代，企业和个人唯有彻底改变既有的思考模式，放弃对过去成功经验的迷恋，学习有创意的思考方法，方能导出正确的经营思路。
+思考力的差距，会造成收入的差距，而对知识怠惰的人，在未来将因没有竞争力而无法生存下去。管理大师大前研一以过去三十年的个案指导经验，在本书中探讨了新经济的意义与来龙去脉，提出逻辑的、非线性的全新思考方式，为商务人士指明了在新世界生存下去必需的商业思考方法。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508612027</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>大前研一</dc:subject>
+        <dc:subject>思考方法</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>思考</dc:subject>
+        <dc:subject>逻辑</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>企业管理</dc:subject>
+        <meta content="{&quot;大前研一&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:39:06+00:00" name="calibre:timestamp"/>
+        <meta content="思考的技术" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

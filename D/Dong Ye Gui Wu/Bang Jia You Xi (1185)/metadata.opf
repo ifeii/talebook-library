@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1185</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d272ffbd-180c-48b9-9987-89f6faadaced</dc:identifier>
         <dc:title>绑架游戏</dc:title>
         <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-10T11:33:25+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;《绑架游戏》是东野圭吾2002年的力作，在他的作品里，这是相当罕见的题材。佐久间所主导的新车发表广告企划案，被委托厂商的大老板葛城先生斥为肤浅，因此怀恨在心的佐久间偷偷躲在葛城大宅外，却目睹一妙龄女子由宅内翻墙而出，他也随即招了出租车一路跟踪，而绑架就从这个跟踪事件酝酿而来。一手策划绑架游戏的佐久间只是为了和葛城一较高下，而甘愿当人质的树理图的是向老爸勒索的三亿赎金……这个绑架案到底谁才是真正的主导人？一较高下的结果谁才是真正的赢家？ 东野圭吾，日本超人气作家，写实派本格推理小说能手。本书甫一上市便在日本造成轰动，一时洛阳纸贵，随即改编成电影《g＠me》。&lt;/p&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T16:00:00+00:00</dc:date>
+        <dc:description>《绑架游戏》是东野圭吾2002年的崭新力作，在他的作品里，这是相当罕见的题材。佐久间所主导的新车发表广告企划案，被委托厂商的大老板葛城先生斥为肤浅，因此怀恨在心的佐久间偷偷躲在葛城大宅外，却目睹一妙龄女子由宅内翻墙而出，他也随即招了出租车一路跟踪，而绑架就从这个跟踪事件酝酿而来。一手策划绑架游戏的佐久间只是为了和葛城一较高下，而甘愿当人质的树理图的是向老爸勒索的三亿赎金……这个绑架案到底谁才是真正的主导人？一较高下的结果谁才是真正的赢家？ 东野圭吾，日本超人气作家，写实派本格推理小说能手。本书甫一上市便在日本造成轰动，一时洛阳纸贵，随即改编成电影《g＠me》。</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787532749508</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:TLJS</dc:subject>
-        <dc:subject>CNTY:JAPAN</dc:subject>
+        <dc:subject>东野圭吾</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>東野圭吾</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>悬疑</dc:subject>
         <meta content="{&quot;东野圭吾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="东野圭吾" name="calibre:series"/>
         <meta content="19" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2012-03-10T11:33:25+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:54+00:00" name="calibre:timestamp"/>
         <meta content="绑架游戏" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

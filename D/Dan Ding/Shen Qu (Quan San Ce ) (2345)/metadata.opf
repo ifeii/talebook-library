@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b1ed86b-aa87-4b62-a5d7-23687fc3e584</dc:identifier>
+        <dc:title>神曲（全三册）</dc:title>
+        <dc:creator opf:file-as="但丁" opf:role="aut">但丁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-30T16:00:00+00:00</dc:date>
+        <dc:description>《神曲》是但丁的代表作。故事叙述主人公但丁本人在三十五岁那年突然迷失了正路，彷徨了一夜之后，来到一座曙光笼罩的小山脚下，刚欲登山，却被三只野兽(豹、狮、狼)挡住去路。危急之中，古罗马诗人维吉尔受贝雅特丽齐嘱托，前来搭救他，并引导他去游历了地狱和炼狱，后贝雅特丽齐又亲自引导他游历天国。《地狱篇》、《炼狱篇》和《天国篇》三部曲是但丁游历过程和见闻的记载。《神曲》广泛反映了当时的社会生活现实，给了中古文化以艺术性的总结，并显现出了文艺复兴时代人文主义思想的曙光。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020043835</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>但丁</dc:subject>
+        <dc:subject>神曲</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>宗教</dc:subject>
+        <dc:subject>意大利</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>欧洲文学</dc:subject>
+        <meta content="{&quot;但丁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:27:13+00:00" name="calibre:timestamp"/>
+        <meta content="神曲（全三册）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

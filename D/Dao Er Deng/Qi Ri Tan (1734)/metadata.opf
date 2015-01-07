@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89e7800a-afee-478c-bdd5-60f7980d3297</dc:identifier>
+        <dc:title>七日谈</dc:title>
+        <dc:creator opf:file-as="刀尔登" opf:role="aut">刀尔登</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《七日谈》里的故事繁多，但条理清晰，它由两条主线所引领：
+一是生活中最最普通的人和最最普通的故事，这些人中有乞丐，有酒鬼，有隐士，还有江湖骗子。
+另一条主线，写了一个遥远的国度：希里花斯。作者以他的奇崛妙笔，把这个美妙的国度勾画得令人心驰神往。这些寓言故事满载着喻世、警世、醒世的哲思。</dc:description>
+        <dc:publisher>山西人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787203073819</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>刀尔登</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>三七</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>邱小刚</dc:subject>
+        <dc:subject>短篇小说</dc:subject>
+        <meta content="{&quot;刀尔登&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:09+00:00" name="calibre:timestamp"/>
+        <meta content="七日谈" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
