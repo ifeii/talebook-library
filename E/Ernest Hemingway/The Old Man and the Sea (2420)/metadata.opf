@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2420</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0b270ce-9aa9-4e84-8c62-964e457c1486</dc:identifier>
+        <dc:title>The Old Man and the Sea</dc:title>
+        <dc:creator opf:file-as="Ernest Hemingway" opf:role="aut">Ernest Hemingway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-05-04T16:00:00+00:00</dc:date>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780684801223</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ernest.Hemingway</dc:subject>
+        <dc:subject>海明威</dc:subject>
+        <dc:subject>英文原版</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <meta content="{&quot;Ernest Hemingway&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:35+00:00" name="calibre:timestamp"/>
+        <meta content="Old Man and the Sea, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -6,15 +6,32 @@
         <dc:title>花间提壶方大厨</dc:title>
         <dc:creator opf:file-as="耳雅" opf:role="aut">耳雅</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>2010-11-30T16:00:00+00:00</dc:date>
+        <dc:description>瑶柱花生猪手煲，黑鱼红枣南瓜汤。
+耗油香菇炒菜心，塌锅茄子醋里脊。
+鲅鱼肝、生煎翅，黄鱼豆腐爆腰花。
+绿豆酥、香薯球，腊肠煲仔茄汁饭。
+……
+相公，娘子叫你回家吃饭！</dc:description>
+        <dc:publisher>沈阳出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">375df06a-1112-4a5a-ac5d-c7c321c0ed58</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544143219</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>耳雅</dc:subject>
+        <dc:subject>言情</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美食</dc:subject>
+        <dc:subject>美食悬疑爱情</dc:subject>
+        <dc:subject>古代</dc:subject>
+        <dc:subject>晋江</dc:subject>
+        <dc:subject>网络小说</dc:subject>
         <meta content="{&quot;耳雅&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:57:50.922135+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:41+00:00" name="calibre:timestamp"/>
         <meta content="花间提壶方大厨" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>
