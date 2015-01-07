@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2417</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0b04122-1ed8-4e29-a47b-056a2cbe16fd</dc:identifier>
+        <dc:title>The Shipping News</dc:title>
+        <dc:creator opf:file-as="E. Annie Proulx" opf:role="aut">E. Annie Proulx</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-06T16:57:00+00:00</dc:date>
+        <dc:description>In this touching and atmospheric novel set among the fishermen of Newfoundland, Proulx tells the story of Quoyle. From all outward appearances, Quoyle has gone through his first 36 years on earth as a big schlump of a loser. He's not attractive, he's not brilliant or witty or talented, and he's not the kind of person who typically assumes the central position in a novel. But Proulx creates a simple and compelling tale of Quoyle's psychological and spiritual growth. Along the way, we get to look in on the maritime beauty of what is probably a disappearing way of life. (from Amazon.com)</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780671510053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>Annie_Proulx</dc:subject>
+        <dc:subject>普利策</dc:subject>
+        <dc:subject>pulitzer</dc:subject>
+        <dc:subject>AnnieProulx</dc:subject>
+        <dc:subject>Novel</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <meta content="{&quot;E. Annie Proulx&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:28:31+00:00" name="calibre:timestamp"/>
+        <meta content="Shipping News, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
