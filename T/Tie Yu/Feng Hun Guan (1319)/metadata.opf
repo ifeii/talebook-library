@@ -6,27 +6,18 @@
         <dc:title>封魂罐</dc:title>
         <dc:creator opf:file-as="铁鱼" opf:role="aut">铁鱼</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-05-31T16:00:00+00:00</dc:date>
-        <dc:description>《封魂罐:古玩界那些不散的幽魂》主要内容简介：古玩浪子卷入考古谜案，一个战国封魂罐，牵扯各路人物，共赴千年古迹闵王台。手足兄弟离奇失踪，却留下当年父亲的一本日记和一串神秘数字87201，触摸封魂罐之人相继人间蒸发。散发异光的鱼鳞，诡异邪毒的小虫，辟邪血沁的玉器……事件愈演愈烈，而线索扑朔迷离，仿佛有幽魂暗中操控一切。所有人深陷重重悬案，不能自拔，阴魂频频托梦，是真是假？是中邪还是阴谋？</dc:description>
-        <dc:publisher>江苏人民出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787214070203</dc:identifier>
+        <dc:date>2011-07-29T16:00:00+00:00</dc:date>
+        <dc:description>简介:本书中,一只不期而至的战国古玩,打破了主人公平静的生活。在与之接触的过程中,亲密的朋友相继离奇失踪,不明来路的各方势力蠢蠢欲动,而主人公自己也仿佛掉进莫名的漩涡中,遭遇连番险境不能自拔。为了寻找失踪的线索,也为了解开一切的谜团,主人公一行人不得不踏上寻访真相的路途。而又有怎样的奇遇和真相在前方等待他们呢?</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">37f6e438-cfa7-4935-8e94-4ace174f4c80</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>封魂罐</dc:subject>
-        <dc:subject>莲蓬鬼话</dc:subject>
-        <dc:subject>灵异</dc:subject>
-        <dc:subject>盗墓</dc:subject>
-        <dc:subject>网络小说</dc:subject>
-        <dc:subject>悬疑</dc:subject>
-        <dc:subject>历史</dc:subject>
+        <dc:subject>科幻灵异</dc:subject>
         <meta content="{&quot;铁鱼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:03:35+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:46.817599+00:00" name="calibre:timestamp"/>
         <meta content="封魂罐" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

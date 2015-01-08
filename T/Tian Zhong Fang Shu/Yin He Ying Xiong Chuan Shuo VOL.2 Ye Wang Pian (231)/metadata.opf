@@ -1,33 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">231</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">e8313981-be96-43ab-a355-4d75825f7ad2</dc:identifier>
         <dc:title>银河英雄传说VOL.2 野望篇</dc:title>
         <dc:creator opf:file-as="田中芳树" opf:role="aut">田中芳树</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-08-31T16:00:00+00:00</dc:date>
-        <dc:description>《银河英雄传说》是一部以浩瀚银河为舞台的壮丽英雄史诗，全书共十卷，200余万字，跨越近1500年银河历史，前后有200多位巨星一样的人物闪耀登场，一出版即引起强烈轰动，一时洛阳纸贵，并于1988年一举摘日本科幻小说大奖——“星云奖”。出版20余年来，一代又一代的读者为其痴迷和陶醉，被誉淡20世纪“架空历史小说”最完美的杰作，“太空版的《三国演义》”，仅在日本已经销售达1512万册，平均每8个日本人就拥有一册，堪称世界出版史上的奇迹。</dc:description>
+        <dc:description>SUMMARY:
+《银河英雄传说》是一部以浩瀚银河为舞台的壮丽英雄史诗，全书共十卷，200余万字，跨越近1500年银河历史，前后有200多位巨星一样的人物闪耀登场，一出版即引起强烈轰动，一时洛阳纸贵，并于1988年一举摘日本科幻小说大奖——“星云奖”。出版20余年来，一代又一代的读者为其痴迷和陶醉，被誉淡20世纪“架空历史小说”最完美的杰作，“太空版的《三国演义》”，仅在日本已经销售达1512万册，平均每8个日本人就拥有一册，堪称世界出版史上的奇迹。</dc:description>
         <dc:publisher>北京十月文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787530208564</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>田中芳树</dc:subject>
+        <dc:language>zh-CN</dc:language>
         <dc:subject>科幻</dc:subject>
-        <dc:subject>银河英雄传说</dc:subject>
-        <dc:subject>日本</dc:subject>
         <dc:subject>小说</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>田中芳树</dc:subject>
         <dc:subject>架空历史</dc:subject>
-        <dc:subject>银英</dc:subject>
-        <dc:subject>日本文学</dc:subject>
-        <meta content="{&quot;田中芳树&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="银河英雄传说" name="calibre:series"/>
         <meta content="2" name="calibre:series_index"/>
-        <meta content="9" name="calibre:rating"/>
-        <meta content="2014-08-22T15:12:47+00:00" name="calibre:timestamp"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
         <meta content="银河英雄传说VOL.2 野望篇" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

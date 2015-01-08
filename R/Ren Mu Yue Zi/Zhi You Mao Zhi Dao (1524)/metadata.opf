@@ -6,32 +6,26 @@
         <dc:title>只有貓知道</dc:title>
         <dc:creator opf:file-as="仁木悅子" opf:role="aut">仁木悅子</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
-        <dc:description>看見了呀、看見了呀，
-這整件事的來龍去脈，只有我知道啊！
-「日本的阿嘉莎．克莉絲蒂」仁木悅子一鳴驚人出道作
-推理評論家 傅博專文導讀｜第三屆 江戶川亂步獎得獎作品
-被前一任房東趕出門的仁木兄妹，透過友人介紹，搬進箱崎醫院二樓展開新的租屋生活。不過，自從搬入的第二天起，院內便陸續發生奇怪的事件，包括老奶奶不知被誰鎖在屋內、之後失去了蹤影，住院病患與箱崎家的可愛小黑貓也陸續消失，這究竟是怎麼一回事？
-年輕活潑、充滿活力的仁木兄妹順勢扮演起偵探角色，猶如福爾摩斯與華生醫師雙拍檔，展開一連串調查行動。是誰動了殺意？是誰設計了如此精巧的殺人機關？這一切事件的背後真相，只有那隻可愛的黑貓知道……</dc:description>
+        <dc:date>1975-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;看見了呀、看見了呀,&lt;br&gt;這整件事的來龍去脈,只有我知道啊!&lt;br&gt;「日本的阿嘉莎·克莉絲蒂」仁木悅子一鳴驚人出道作&lt;br&gt;推理評論家 傅博專文導讀&lt;br&gt;第三屆 江戶川亂步獎得獎作品&lt;br&gt;被前一任房東趕出門的仁木兄妹,透過友人介紹,搬進箱崎醫院二樓展開新的租屋生活。不過,自從搬入的第二天起,院內便陸續發生奇怪的事件,包括老奶奶不知被誰鎖在屋內、之後失去了蹤影,住院病患與箱崎家的可愛小黑貓也陸續消失,這究竟是怎麼一回事?&lt;br&gt;年輕活潑、充滿活力的仁木兄妹順勢扮演起偵探角色,猶如福爾摩斯與華生醫師雙拍檔,展開一連串調查行動。是誰動了殺意?是誰設計了如此精巧的殺人機關?這一切事件的背後真相,只有那隻可愛的黑貓知道......&lt;/p&gt;</dc:description>
         <dc:publisher>臉譜出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">f27f1185-e6e9-448e-a97a-8176bf8e282b</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9789862350812</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>仁木悅子</dc:subject>
-        <dc:subject>江户川乱步奖</dc:subject>
-        <dc:subject>推理</dc:subject>
         <dc:subject>日本</dc:subject>
-        <dc:subject>推理小说</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>日系推理</dc:subject>
         <dc:subject>日本推理</dc:subject>
+        <dc:subject>推理小说</dc:subject>
+        <dc:subject>江户川乱步奖</dc:subject>
+        <dc:subject>仁木悅子</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>推理</dc:subject>
+        <dc:subject>仁木悦子</dc:subject>
         <meta content="{&quot;仁木悅子&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:13:04+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:00:59.696767+00:00" name="calibre:timestamp"/>
         <meta content="只有貓知道" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

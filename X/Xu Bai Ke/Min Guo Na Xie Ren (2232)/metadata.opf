@@ -6,28 +6,15 @@
         <dc:title>民国那些人</dc:title>
         <dc:creator opf:file-as="徐百柯" opf:role="aut">徐百柯</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
-        <dc:description>以独立的判断和诗一般低徊的笔触，唤醒一段正在消逝的历史，让已经模糊的身影清晰可感。曾经有那样一个时代，曾经有那样一批人物。他们那相样地想着，那样地活着。他们离我们今天并不遥远，但他们守护、在意、体现的精神、传统、风骨，已与我们相去甚远。读着他们，我们感觉到恍若隔世；抚摸历史，我们常常浩汉不已。民国时期的那批学人，有着与今天的学人迥然不同的风度、气质、胸襟、学识和情趣。他们的个性或迂或狷或痴或狂，但内里全不失风骨、风趣或风雅，底子上都有一个“士”字守着。总而言之，是一批不失“硬朗”，而又“好玩”、“有趣”的人。
-本书为中国《中国青年报· 冰点周刊》最佳专栏--“钩沉”结集，其专栏主笔徐百柯从故纸堆里或人们的记忆中，钩起79个人物。这些人物有些是我们些许熟识的，还有一些人物，徐百柯如果不写，恐怕将会被时间或时代彻底湮没与忘记。在这里，你可以看到故去的名校校长，铁肩辣手的报人，以及在世界面前代表中国的外交家……你可以看到那些熟识的名字：梅汝璈、陈望道，你也可以忆起那些或许淡忘的名字：蒋南翔、蒋百里……围绕着他们的一幕幕鲜为人知的传奇轶事，通过本书在历史零散与完整的记忆中生动再现。他们曾经的理想，他们的面容和言行，他们的风度、气质、胸襟、学识和情趣，在徐百柯的文字中一一复活。</dc:description>
-        <dc:publisher>中央编译出版社</dc:publisher>
+        <dc:date>2011-11-24T18:07:03+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">b7ca0264-4298-42c1-8f7b-b9d30ab40227</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787802114876</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>民国</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>徐百柯</dc:subject>
-        <dc:subject>风骨</dc:subject>
-        <dc:subject>学者</dc:subject>
-        <dc:subject>冰点</dc:subject>
-        <dc:subject>钩沉</dc:subject>
-        <dc:subject>中国青年报</dc:subject>
         <meta content="{&quot;徐百柯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:24:13+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:12:55.092748+00:00" name="calibre:timestamp"/>
         <meta content="民国那些人" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

@@ -6,31 +6,14 @@
         <dc:title>闪开，让我歌唱八十年代</dc:title>
         <dc:creator opf:file-as="张立宪" opf:role="aut">张立宪</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-03-31T16:00:00+00:00</dc:date>
-        <dc:description>八十年代，中国最后一个纯真年代。这本书是对这一纯真年代的终极回忆。
-作者老六是生于1968年的“六八式”——所谓“生于六十年代，在八十年代经历青春，在九十年代讨生活、在本世纪负责任”的一代。这本书就是他的一部八十年代微观个人史，由十二章记忆碎片构成——关于麻将、关于校园、关于打架、关于毛片、关于评书、关于电影、关于足球、关于买碟、关于电脑……
-其实，何止“六八式”，任何一代人的青春，激情和痛苦都是一样的，他们对自己所处时代的感念之情也是一样的——一个人的青春在什么时代度过，那就是他最好的年代，所以，翻开本书的人，不是被记忆虐待得同声一叹，便是温暖到会心一笑：
-我们一直以为活的是未来，其实拥有的只有回忆。
-多少人害怕变老，多少人正在变老，多少人已经老了。当一切都已经地覆天翻，精神麻木的现代悲剧大幕拉开之时，多说一句都是多余：
-闪开，让我们开始集体回忆。</dc:description>
-        <dc:publisher>人民文学出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787020066803</dc:identifier>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>闪开，让我歌唱八十年代</dc:subject>
-        <dc:subject>张立宪</dc:subject>
-        <dc:subject>老六</dc:subject>
-        <dc:subject>80年代</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>记忆碎片</dc:subject>
-        <dc:subject>杂文</dc:subject>
-        <dc:subject>文化</dc:subject>
         <meta content="{&quot;张立宪&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:20:38+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:10:01.397038+00:00" name="calibre:timestamp"/>
         <meta content="闪开，让我歌唱八十年代" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

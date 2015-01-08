@@ -6,27 +6,18 @@
         <dc:title>窗里窗外</dc:title>
         <dc:creator opf:file-as="林青霞" opf:role="aut">林青霞</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-08-31T16:00:00+00:00</dc:date>
-        <dc:description>在第一次出版的新书《窗里窗外》中，林青霞回忆了自己的前半生，曝光不少私藏美照。据悉，该书收录的是她从2004年开始执笔的作品，分为“戏、亲、友、趣、缘、悟”六章，收录了其7年来的约50篇散文作品，内容涉及亲情、友情等方面，两个女儿还分别为她写序，全书近400页。该书首篇作品《沧海一声笑》即是悼念挚友黄霑。</dc:description>
-        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;窗里窗外&lt;/p&gt;</dc:description>
+        <dc:publisher>COAY.COM</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">a825474d-283c-4017-a707-12d68f1a797d</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787549507306</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>林青霞</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>散文</dc:subject>
-        <dc:subject>传记</dc:subject>
-        <dc:subject>台湾</dc:subject>
-        <dc:subject>传记类</dc:subject>
-        <dc:subject>2011</dc:subject>
-        <dc:subject>港台文学</dc:subject>
+        <dc:subject>窗里窗外</dc:subject>
         <meta content="{&quot;林青霞&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="6" name="calibre:rating"/>
-        <meta content="2014-08-22T16:12:32+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:00:33.070433+00:00" name="calibre:timestamp"/>
         <meta content="窗里窗外" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

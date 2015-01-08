@@ -6,30 +6,16 @@
         <dc:title>你是那人间的四月天</dc:title>
         <dc:creator opf:file-as="林徽因" opf:role="aut">林徽因</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-10-31T16:00:00+00:00</dc:date>
-        <dc:description>《你是那人间的四月天》的作者以最完美的传奇形象永远定格在历史的天空——她就是那人间的四月天！
-《你是那人间的四月天》收录了林徽因文学作品的经典代表作，例如小说代表作《九十九度中》、散文代表作《窗子以外》。此外，《你是那人间的四月天》还精心收录了林徽因的书信，在这些写给亲友的书信中，我们能看到一代才女最真实的心路历程：有的文字甚至有掩饰不住她当时的急切和冲动，但是正是这些在隐忍过后，仍飞溅出来的情感的火花，留给我们最真实的林徽因。
-除了内文的选排，《你是那人间的四月天》在装帧上也力图呈现最唯美的林徽因，不依赖印刷的封面用纸，和内文每一幅都百看不厌的“十竹斋画谱”，都是对这名伟大女性的致敬，以及为了给读者最完美的视觉体验！
-翻开《你是那人间的四月天》，让我们找到久违的感动，让我们重温那段唯美的时光！</dc:description>
-        <dc:publisher>万卷出版公司</dc:publisher>
+        <dc:date>2012-11-22T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;经典是时间淘洗后留存的精品。它们是人性的画像。是人性的注解。经典的意义在于常读常新，无论时光如何流转，它们依然是读书人书架上不变的风景。林徽因的文字拥有超越时间的魅力，本书收录了她所有最经典、最唯美、最精致的作品，包括诗歌、散文、小说、书信。此外，还精选了名家对林徽因的评论和回忆性文章，以及徐志摩写给她的书信和诗，让你邂逅一个更真实的林徽因。&lt;/p&gt;</dc:description>
         <dc:identifier opf:scheme="MOBI-ASIN">67b27e86-c2dd-48a0-861f-aca65d3fea69</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787547003428</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>林徽因</dc:subject>
-        <dc:subject>散文</dc:subject>
-        <dc:subject>你是那人间的四月天</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>才女</dc:subject>
-        <dc:subject>文学</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>散文随笔</dc:subject>
         <meta content="{&quot;林徽因&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:03:17+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:31.889653+00:00" name="calibre:timestamp"/>
         <meta content="你是那人间的四月天" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

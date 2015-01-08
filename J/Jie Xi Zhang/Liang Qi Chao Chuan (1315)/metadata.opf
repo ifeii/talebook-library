@@ -6,34 +6,17 @@
         <dc:title>梁启超传</dc:title>
         <dc:creator opf:file-as="解玺璋" opf:role="aut">解玺璋</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-08-31T16:00:00+00:00</dc:date>
-        <dc:description>★83年来最客观、最详实的梁启超传记
-★读懂梁启超，就能读懂近代中国
-★刘再复作序，雷颐、止庵、吴思阅后推荐
-本书以梁启超的生平经历为纵轴，以梁启超与康有为、袁世凯、孙中山等人的交往横向铺展开来，以点带面、以人带史，重新评估了梁启超及其思想的历史价值与当代意义；并以宽广 的视野和宏大的格局，以梁启超为中心展示了晚清民国大变局中一代知识分子的痛苦、彷徨及艰难求索的历程。
-本书堪称梁启超辞世83年来最为详尽、客观的传记。
-名家推荐：
-★解著的好处恰恰在于它远离本质化即简单化，而把力气用于对史实的考证与描述，在对待近代史人物的评价中，客观真实地叙述历史人物为中国的进步做了哪些实事。——学者 刘再复
-★梁启超是百科全书般的人物，如同大海汪洋，一本书“把握”其一生，委实不易。玺璋文史兼修，对梁启超研究有素，此书清晰、全面把握、分析了梁的一生，确实难得。——中国社会科学院近代史研究所研究员 雷颐
-★梁启超是中国近代局面最大的学者，也曾是影响至巨的思想家和举足轻重的政治家。现在我们终于有一部配得上他并不漫长但是精彩非凡的一生的传记了。——学者 止庵</dc:description>
-        <dc:publisher>上海文化出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787807409311</dc:identifier>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;《梁启超传（套装上下册）》以梁启超的生平经历为纵轴，以梁启超与康有为、袁世凯、孙中山等人的交往横向铺展开来，以点带面、以人带史，重新评估了梁启超及其思想的历史价值与当代意义；并以宽广的视野和宏大的格局，以梁启超为中心展示了晚清民国大变局中一代知识分子的痛苦、彷徨及艰难求索的历程。&lt;br&gt;　　《梁启超传（套装上下册）》堪称梁启超辞世83年来最为详尽、客观的传记。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>梁启超</dc:subject>
-        <dc:subject>传记</dc:subject>
-        <dc:subject>中国近代史</dc:subject>
-        <dc:subject>历史</dc:subject>
         <dc:subject>人物传记</dc:subject>
-        <dc:subject>民国</dc:subject>
-        <dc:subject>解玺璋</dc:subject>
-        <dc:subject>晚清</dc:subject>
         <meta content="{&quot;解玺璋&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:03:31+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:40.663966+00:00" name="calibre:timestamp"/>
         <meta content="梁启超传" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

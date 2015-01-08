@@ -1,34 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">2afa8c06-598e-4cc5-9275-fab09fa5e32c</dc:identifier>
         <dc:title>时间简史</dc:title>
-        <dc:creator opf:file-as="史蒂芬·霍金" opf:role="aut">史蒂芬·霍金</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-03-31T16:00:00+00:00</dc:date>
-        <dc:description>《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞、黑洞不是这么黑、时间箭头等内容。第一版中的许多理论预言，后来在对微观或宏观宇宙世界观测中得到证实。
-自1988年首版以来，《时间简史》已成为全球科学著作的里程碑。它被翻译成40种文字，销售了近1000万册。此版更新了内容，把许多观测揭示的新知识，以及霍金最新的研究纳入，并配以250幅照片和电脑制作的三维和四维空间图。</dc:description>
-        <dc:publisher>湖南科学技术出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787535732309</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>科普</dc:subject>
-        <dc:subject>史蒂芬·霍金</dc:subject>
-        <dc:subject>时间简史</dc:subject>
-        <dc:subject>物理</dc:subject>
-        <dc:subject>宇宙</dc:subject>
-        <dc:subject>科学</dc:subject>
-        <dc:subject>时间</dc:subject>
-        <dc:subject>物理学</dc:subject>
-        <meta content="{&quot;史蒂芬·霍金&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="科学" name="calibre:series"/>
-        <meta content="2" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T15:11:15+00:00" name="calibre:timestamp"/>
+        <dc:creator opf:file-as="Wells, Herbert George" opf:role="aut">史蒂芬·霍金</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-21T14:58:14+00:00</dc:date>
+        <dc:publisher>babyshan hcs@fj163.com</dc:publisher>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>lcsh: Novel</dc:subject>
+        <meta content="其他" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2011-01-03T16:37:11.239899+00:00" name="calibre:timestamp"/>
         <meta content="时间简史" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

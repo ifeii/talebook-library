@@ -6,26 +6,30 @@
         <dc:title>温故一九四二</dc:title>
         <dc:creator opf:file-as="刘震云" opf:role="aut">刘震云</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-02-28T16:00:00+00:00</dc:date>
-        <dc:description>《温故一九四二》讲述了一个关于饥饿的故事。1942年，河南大旱，灾民3000万，河南成了母亲煮食自己婴儿的地方。关于饥饿，有“我姥娘”“我花生二舅”的记忆，也有美国《时代周刊》记者白修德的考察，共同记录了一个民族最不应该忘却的一次灾难。</dc:description>
-        <dc:publisher>人民文学出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787020066124</dc:identifier>
+        <dc:date>2010-11-13T16:00:00+00:00</dc:date>
+        <dc:description>作者简介&#13;
+刘震云，男，1958年5月生于河南省延津县。 &#13;
+&#13;
+1973年至1978年服兵役。 &#13;
+&#13;
+1978年复员回家乡当中学教员，同年考入北京大学中文系。 &#13;
+&#13;
+1982年毕业到《农民日报》工作。 &#13;
+&#13;
+1988年至1991年在北京师范大学、鲁迅文学院读研究生。 &#13;
+&#13;
+1982年开始文学创作，1987年在《人民文学》上发表短篇小说《塔铺》，引起文坛注目。 &#13;
+&#13;
+主要作品有：《故乡天下黄花》、《故乡相处流传》、《故乡面和花朵》、《塔铺》、《一地鸡毛》、《温故一九四二》、《手机》等。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>刘震云</dc:subject>
-        <dc:subject>纪实</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>一九四二</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>纪实小说</dc:subject>
-        <dc:subject>中国</dc:subject>
+        <dc:subject>纪实文学</dc:subject>
         <meta content="{&quot;刘震云&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:20:28+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:09:51.479558+00:00" name="calibre:timestamp"/>
         <meta content="温故一九四二" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

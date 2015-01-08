@@ -6,36 +6,16 @@
         <dc:title>古董局中局</dc:title>
         <dc:creator opf:file-as="马伯庸" opf:role="aut">马伯庸</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-09-14T16:00:00+00:00</dc:date>
-        <dc:description>这是一部关于古董鉴定、收藏、造假、设局的百科全书式小说。
-字画、青铜、金石、瓷器……
-每一件古董背后，都是深厚的历史积淀和文化传承；
-而每一件仿冒品背后，都是机关算尽的机巧和匪夷所思的圈套。
-古董造假、字画仿冒，古已有之。东晋时，康昕仿冒王羲之的书法真迹，连他儿子王献之也辨认不出来；宋朝皇帝宋徽宗喜欢造假，仿制了一大批商代的青铜兵器，摆在宫廷里，乐此不疲。
-在古董斑驳的纹理中，承载着一个民族的文化，一个时代的风貌，它的价值，不是金钱可以衡量的，但可怜的人类却只会用金钱去衡量它。
-而本来一文不值的东西，精心涂抹一番，就可以价值连城；巨大的利益，令无数人铤而走险，更有一些家族，父传子，子传孙，世世代代在这个晦暗不明、凶险万状的江湖上营生。
-许愿就是这样一个家族的传人，北京城琉璃厂一家古董店的店主，30岁，平时靠家传的半本鉴宝书混饭吃，青铜玉器、字画金石，一眼就断得出真伪，说得出渊源传承，靠这点儿绝活，过着平静而滋润的日子。
-但有一天，一个突然到来的访客，把他带进了一个做梦都想不到的阴谋中，一件坊间传说的稀世珍宝，竟然和自己有着千丝万缕的联系，一个几十年前做的局，竟然已经编排进自己的命运。许愿将使出浑身解数，置身生死之间，和蛰伏了几十年的各方神圣斗智斗勇，和古董江湖里造假做局的各种奇技淫巧一一遭遇……
-翻开本书，了解古董行当里的文化传承与江湖险恶。</dc:description>
-        <dc:publisher>凤凰出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787550614871</dc:identifier>
+        <dc:date>2013-02-23T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">2ac6142d-238b-40c8-86a8-1f21ea7c6b3d</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>马伯庸</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>悬疑</dc:subject>
-        <dc:subject>古董</dc:subject>
-        <dc:subject>祥瑞御免</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>推理</dc:subject>
-        <dc:subject>亲王</dc:subject>
         <meta content="{&quot;马伯庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:03:11+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:28.063397+00:00" name="calibre:timestamp"/>
         <meta content="古董局中局" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

@@ -6,27 +6,18 @@
         <dc:title>你可以不怕死</dc:title>
         <dc:creator opf:file-as="一行禅师" opf:role="aut">一行禅师</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-11-30T16:00:00+00:00</dc:date>
-        <dc:description>在本书中，一行禅师以他的亲身体证，提出了有别于虚无论和灵魂永生的生命哲学：死亡不是句点，透过深观修持的体悟，你会发现超越死亡的秘密——死亡这件事并不存在，就好像云承继了大海、河川以及太阳的高温，而雨又承继了云，事物永远在延续着。事物的消失只不过意味着另一种形式的呈现。生、死、来、去只是我们制造出来的概念，而这些幻象就是我们苦难的源头。一旦洞察万事万物皆是不生不灭，无来无去，无同无异，无存在无不存在，体认到自己无法被摧毁，我们就能“重生般”地享受和欣赏人生了。</dc:description>
-        <dc:publisher>深圳报业集团出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787807092346</dc:identifier>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;你可以不怕死&lt;/p&gt;</dc:description>
+        <dc:publisher>COAY.COM</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">724275e4-6128-4440-bfce-fbb0015662b9</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>佛学</dc:subject>
-        <dc:subject>一行禅师</dc:subject>
-        <dc:subject>灵修</dc:subject>
-        <dc:subject>禅</dc:subject>
-        <dc:subject>哲学</dc:subject>
-        <dc:subject>修行</dc:subject>
-        <dc:subject>胡因梦</dc:subject>
-        <dc:subject>宗教</dc:subject>
+        <dc:subject>你可以不怕死</dc:subject>
         <meta content="{&quot;一行禅师&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:04:29+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:58:38.319142+00:00" name="calibre:timestamp"/>
         <meta content="你可以不怕死" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

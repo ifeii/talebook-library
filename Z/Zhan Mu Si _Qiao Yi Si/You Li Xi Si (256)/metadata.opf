@@ -1,36 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">256</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">0a0ba0bf-070e-4c23-8ab9-789f309d5a65</dc:identifier>
         <dc:title>尤利西斯</dc:title>
         <dc:creator opf:file-as="詹姆斯·乔伊斯" opf:role="aut">詹姆斯·乔伊斯</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1996-02-29T16:00:00+00:00</dc:date>
-        <dc:description>《尤利西斯》被评为二十世纪最佳百部英语小说之首，对于世界上以中文为母语而对乔伊斯著作并不太熟悉的文学爱好者，很可能引起这样一个问题：这一部小说如此受人赞赏、受人推崇，它的艺术性自然是非同一般的，我们通过自己的文学能欣赏到吗？&#13;
-  从认真讲究艺术的角度看，乔伊斯在这部巨著中那种看似信笔乱写而实际用意深刻的构思，读来幽默生动而谈笑之间入骨三分的人物刻画，仿佛天吗行空而到处互相呼应的情节安排，以及他那变化多端而无不恰如其分的文体——这一切都是通过他那处处极其准确的文字表现出来的。&#13;
-  詹姆斯·乔伊斯（1882－1941）是爱尔兰著名的现代派小说家，他历时七载完成了代表作（尤利西斯》（1922）。小说的主人公布卢姆是都柏林一家报纸的广告推销员，作者用许多逼真的细节描写这个彷徨苦闷的小市民和他的寻欢作乐的妻子莫莉以及寻找精神上的父亲的青年学生斯蒂汾这三个人一昼夜中的经历，实质上是现代西方社会中人的孤独与绝望的写照。作者把小说的主人公和荷马史诗《奥德修记》中的英雄尤利西斯（即奥德修斯）相比拟，把他在都柏林的游荡和尤利西斯的十年飘泊相比拟。&#13;
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-14T16:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+《尤利西斯》被评为二十世纪最佳百部英语小说之首，对于世界上以中文为母语而对乔伊斯著作并不太熟悉的文学爱好者，很可能引起这样一个问题：这一部小说如此受人赞赏、受人推崇，它的艺术性自然是非同一般的，我们通过自己的文学能欣赏到吗？
+  从认真讲究艺术的角度看，乔伊斯在这部巨著中那种看似信笔乱写而实际用意深刻的构思，读来幽默生动而谈笑之间入骨三分的人物刻画，仿佛天吗行空而到处互相呼应的情节安排，以及他那变化多端而无不恰如其分的文体——这一切都是通过他那处处极其准确的文字表现出来的。
+  詹姆斯·乔伊斯（1882－1941）是爱尔兰著名的现代派小说家，他历时七载完成了代表作（尤利西斯》（1922）。小说的主人公布卢姆是都柏林一家报纸的广告推销员，作者用许多逼真的细节描写这个彷徨苦闷的小市民和他的寻欢作乐的妻子莫莉以及寻找精神上的父亲的青年学生斯蒂汾这三个人一昼夜中的经历，实质上是现代西方社会中人的孤独与绝望的写照。作者把小说的主人公和荷马史诗《奥德修记》中的英雄尤利西斯（即奥德修斯）相比拟，把他在都柏林的游荡和尤利西斯的十年飘泊相比拟。
   乔伊斯在《尤利西斯》中广泛运用了“意识流”的创作手法，形成一种崭新的风格，成为现代派小说的先驱。他不仅在遣词造句方面刻意创新，而且运用了大量的典故、引语和神话。小说出版后，其中某些词句被认为“淫秽”而受到指摘，因此长期被禁止在英美发行，直到1933 年这部巨著才得以公开与英美读者见面。译者研究本书多年，这个中译本不但译文忠实流畅，还对众多典故、引语等作了详尽的注释。</dc:description>
         <dc:publisher>人民文学出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787020022373</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>乔伊斯</dc:subject>
-        <dc:subject>意识流</dc:subject>
-        <dc:subject>尤利西斯</dc:subject>
-        <dc:subject>外国文学</dc:subject>
-        <dc:subject>爱尔兰</dc:subject>
+        <dc:language>zh-CN</dc:language>
         <dc:subject>小说</dc:subject>
-        <dc:subject>文学</dc:subject>
+        <dc:subject>外国文学</dc:subject>
         <dc:subject>经典</dc:subject>
-        <meta content="{&quot;詹姆斯·乔伊斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="国外名著" name="calibre:series"/>
-        <meta content="16" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T15:13:14+00:00" name="calibre:timestamp"/>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>意识流</dc:subject>
+        <dc:subject>爱尔兰</dc:subject>
+        <dc:subject>乔伊斯</dc:subject>
+        <meta content="小说" name="calibre:series"/>
+        <meta content="12" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-15T16:00:00+00:00" name="calibre:timestamp"/>
         <meta content="尤利西斯" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

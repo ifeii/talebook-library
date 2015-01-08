@@ -6,26 +6,23 @@
         <dc:title>中国往事</dc:title>
         <dc:creator opf:file-as="伊沙" opf:role="aut">伊沙</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2007-06-30T16:00:00+00:00</dc:date>
-        <dc:description>《中国往事》是一部明显带有“自叙传”意味的长篇小说。作者在结构上采取了带有其自创性的“个人编年史”写法，按照公元纪年分章并逐年写来，通过童年一少年视角的目击，展现出上世纪整个70年代中国社会所经历的重大转型，以及时代变迁给人民生活和心灵所带来的深刻影响。同时，这又是一部十分独特的“成长小说”，大时代里也有个人的成长秘密，旧时代里也有青梅竹马、青春萌动和性的困惑觉醒，用小说主人公的话说： “怎么都能长大。”经历过那个年代的人，可以借此回眸自己的成长岁月；出生于那个年代的人，可以借此了解你出生时的中国。本书所写出的正是几代中国人共同的记忆和经历。</dc:description>
-        <dc:publisher>远方出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787807232377</dc:identifier>
+        <dc:date>2012-10-01T16:00:00+00:00</dc:date>
+        <dc:description>本书是一部带有“自叙传”意味的长篇小说，通过童年-少年视角的目击，展现出上世纪70年代中国社会所经历的重要事件和重大转型以及时代变迁对于人民生活和心灵所产生的深刻影响。一部真实有力的“个人编年史”暗含着一个民族的心灵史和一个国家的断代史。同时，这又是一部不同一般的“成长小说”，见证着大时代里也有个人的成长秘密，也有青梅竹马、青春萌动和性的困惑、迷茫与觉醒……&#13;
+&#13;
+　　经历过那个年代的人，可以借此回眸自己的成长岁月；出生于那个年代的人，可以借此了解你出生时的中国。本书所写出的正是几代中国人的集体记忆和共同来历。&#13;
+&#13;
+　　作者简介：&#13;
+&#13;
+　　伊沙，当代著名诗人、作家。1966年生于四川省成都市。1989年毕业于北京师范大学中文系。现居西安，在某大学任教。已出版的主要著作有：长篇小说《江山美人》《狂欢》、中短篇小说集《俗人理解不了的幸福》《谁痛谁知道》、散文随笔集《一个都不放过》《被迫过着花天酒地的生活》《无知者无耻》、诗集《饿死诗人》《野种之歌》《我终于理解了你的拒绝》《伊沙诗选》《我的英雄》《车过黄河》《灵与肉的项目》、长诗《唐》等。编著有《现代诗经》《被遗忘的诗歌经典》(上、下卷)等。曾获多种文学奖项。部分作品被译为英、德、日、韩、瑞典、荷兰、希伯来、世界语在国外发表、出版。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>伊沙</dc:subject>
-        <dc:subject>中国往事</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>文革</dc:subject>
-        <dc:subject>文学</dc:subject>
-        <dc:subject>成长</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>中国文学</dc:subject>
+        <dc:subject>现代·当代</dc:subject>
         <meta content="{&quot;伊沙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:16:02+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:04:19.782801+00:00" name="calibre:timestamp"/>
         <meta content="中国往事" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

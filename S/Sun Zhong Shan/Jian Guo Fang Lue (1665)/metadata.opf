@@ -6,27 +6,15 @@
         <dc:title>建国方略</dc:title>
         <dc:creator opf:file-as="孙中山" opf:role="aut">孙中山</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-02-28T16:00:00+00:00</dc:date>
-        <dc:description>本书主要由三部分组成：《孙文学说》、《实业计划》、《民权初步》。《孙文学说》从心理建设角度论述“知难行易”的哲学思想。《实业计划》是一份全面快速进行经济建设的宏伟纲领，提出了发展中国经济的远景规划，其中包括建设铁路十万多公里，建设华北、华中、华南三大世界级港口等项目。第一次把经济建设放到首位，第一次提出对外开放、引进外资的经济战略思想。《民权初步》是《建国方略》的社会建设，是一部关于民主政治建设的论著，叙述了政府的组织、运作和普通大众在社会生活中应掌握的具体民主原则、程序和方法，反映了孙中山倡导的民主政治思想。书的最后，特别收录了《建国大纲》、《中国国民党第一次全国代表大会宣言》、《总理遗嘱》这三篇民国时期非常重要的历史文献。</dc:description>
-        <dc:publisher>中国长安出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787510703287</dc:identifier>
+        <dc:date>2012-04-30T11:31:20+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">4ab7b8a5-8e56-4957-ad01-dc7768d366a1</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>孙中山</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>政治</dc:subject>
-        <dc:subject>民国</dc:subject>
-        <dc:subject>政治学</dc:subject>
-        <dc:subject>孙中山建国方略</dc:subject>
-        <dc:subject>建国方略</dc:subject>
-        <dc:subject>社会</dc:subject>
         <meta content="{&quot;孙中山&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:15:11+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:03:30.214311+00:00" name="calibre:timestamp"/>
         <meta content="建国方略" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

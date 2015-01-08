@@ -1,32 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1128</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">628cb16a-65f3-4047-8836-13079484a798</dc:identifier>
         <dc:title>美国众神</dc:title>
         <dc:creator opf:file-as="尼尔·盖曼" opf:role="aut">尼尔·盖曼</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2006-11-30T16:00:00+00:00</dc:date>
-        <dc:description>《美国众神》描述主人公——影子从监狱释放后，穿越美国大陆的旅行过程中的一系列奇遇。讲他与生活在美国土地上的各种神祇相遇，由此引发了出许多精彩动人、奇诡绚丽的故事。
-影子为一个叫做星期三的老头跑腿当差使，而星期三其实是一个名叫奥丁的老神仙。奥丁是在9世纪的时候，搭乘怀着早期维京探险者的挪威梦想来到北美的。他不过是美国的无数神祇之一。影子随后还遭遇了主神奥丁的兄弟、狡诈之神洛奇，来自埃及的圣猫女神巴斯特，斯拉夫的黑暗与死亡之神岑诺博格，来自西非的骗术之神南西，印度教的毁灭之神伽梨，埃及神话中的冥界之神阿努比斯，盎格鲁－撒克逊神话中的黎明之神伊斯特，等等。</dc:description>
-        <dc:publisher>四川科学技术出版社</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-18T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　《美国众神》描述主人公——影子从监狱释放后，穿越美国大陆的旅行过程中的一系列奇遇。讲他与生活在美国土地上的各种神祇相遇，由此引发了出许多精彩动人、奇诡绚丽的故事。&lt;br&gt;　　影子为一个叫做星期三的老头跑腿当差使，而星期三其实是一个名叫奥丁的老神仙。奥丁是在9世纪的时候，搭乘怀着早期维京探险者的挪威梦想来到北美的。他不过是美国的无数神祇之一。影子随后还遭遇了主神奥丁的兄弟、狡诈之神洛奇，来自埃及的圣猫女神巴斯特，斯拉夫的黑暗与死亡之神岑诺博格，来自西非的骗术之神南西，印度教的毁灭之神伽梨，埃及神话中的冥界之神阿努比斯，盎格鲁－撒克逊神话中的黎明之神伊斯特，等等。&lt;/span&gt;</dc:description>
+        <dc:publisher>网友</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787536459502</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>尼尔·盖曼</dc:subject>
-        <dc:subject>奇幻</dc:subject>
-        <dc:subject>科幻</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>美国众神</dc:subject>
-        <dc:subject>美国</dc:subject>
-        <dc:subject>文学</dc:subject>
-        <dc:subject>悬疑</dc:subject>
+        <dc:subject>ZDC:KHXH</dc:subject>
         <meta content="{&quot;尼尔·盖曼&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="科幻/奇幻/玄幻" name="calibre:series"/>
         <meta content="23" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:00:49+00:00" name="calibre:timestamp"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-06-19T10:49:22+00:00" name="calibre:timestamp"/>
         <meta content="美国众神" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

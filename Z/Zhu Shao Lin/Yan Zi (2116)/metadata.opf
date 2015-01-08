@@ -6,27 +6,15 @@
         <dc:title>燕子</dc:title>
         <dc:creator opf:file-as="朱少麟" opf:role="aut">朱少麟</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2005-08-31T16:00:00+00:00</dc:date>
-        <dc:description>……当一束亮银色灯光投射在黑衣的她的身上，她所扮演的燕子翩翩舞起时，当场我落泪如雨，我的左冲右撞的灵魂终于凿开了决口，那只燕子从此栖进我心深处……在我眼中她简直是个传奇……一个脾气暴烈如同魔王的舞蹈教授，一个被排拒在舞台之外的天才舞者，一个总是在逃亡中的彷徨女子，交会在悲欢莫名的孤寂城市，互相曝露了深深的缺憾，又在泪光中见到了另一个用了解和希望照亮的世界，他们的心里都有一双翅膀，有时比肩，有时单飞，但飞行从没停歇，只为了追寻自尊与美……</dc:description>
-        <dc:publisher>作家出版社</dc:publisher>
+        <dc:date>2013-03-11T16:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">bb27c324-5b94-4581-becc-cf14cc1c1125</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787506332279</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>朱少麟</dc:subject>
-        <dc:subject>台湾</dc:subject>
-        <dc:subject>燕子</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>台湾文学</dc:subject>
-        <dc:subject>自由</dc:subject>
-        <dc:subject>生命</dc:subject>
-        <dc:subject>文学</dc:subject>
         <meta content="{&quot;朱少麟&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:21:32+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:11:07.966851+00:00" name="calibre:timestamp"/>
         <meta content="燕子" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

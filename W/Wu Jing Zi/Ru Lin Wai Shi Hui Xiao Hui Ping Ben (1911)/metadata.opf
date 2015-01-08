@@ -6,27 +6,15 @@
         <dc:title>儒林外史汇校汇评本</dc:title>
         <dc:creator opf:file-as="吴敬梓" opf:role="aut">吴敬梓</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
-        <dc:description>《儒林外史汇校汇评本》是晚清四大谴责小说之一，书中描写了近二百名各式人物，生动表现了封建社会后期科举制度下知识分子及官绅的活动和精神面貌，历来受到读者的喜爱和学界的重视。李汉秋先生积数十年之功，汇集十种清末以来对此书的评点，融于一书，加以标点、校勘，既便于读者理解，增添阅读乐趣，又便于学者进行各方面研究。</dc:description>
-        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:date>2012-11-22T16:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">5d487a1d-b1f6-42dd-bcbb-4ff08a0ea2da</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787532555567</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>吴敬梓</dc:subject>
-        <dc:subject>古典文学</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>儒林外史</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>明清小说</dc:subject>
-        <dc:subject>文学</dc:subject>
-        <dc:subject>文学：理论/批评/小说/散文/诗歌</dc:subject>
         <meta content="{&quot;吴敬梓&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:18:45+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:07:53.124511+00:00" name="calibre:timestamp"/>
         <meta content="儒林外史汇校汇评本" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

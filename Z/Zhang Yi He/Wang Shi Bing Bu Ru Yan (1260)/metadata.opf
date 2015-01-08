@@ -6,27 +6,18 @@
         <dc:title>往事并不如烟</dc:title>
         <dc:creator opf:file-as="章诒和" opf:role="aut">章诒和</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
-        <dc:description>“中国头号大右派”章伯钧次女章诒和回首往事，并以此书献给已在天国的父母。书中描述史良、储安平、张伯驹、聂绀弩、康同璧、罗隆基等的起落沉浮，由诸多片断入手，组成一个个悲壮的场景，仿佛是一幅壁画，浓彩重墨间呈现出历史的真、人生的幻……
-此书亦是一群经历旧社会、新中国的知识分子悲剧命运的真实写照。</dc:description>
-        <dc:publisher>人民文学出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787020044405</dc:identifier>
+        <dc:date>2012-08-08T16:00:00+00:00</dc:date>
+        <dc:description>“中国头号大右派”章伯钧次女章诒和回首往事，并以此书献给已在天国的父母。书中描述史良、储安平、张伯驹、聂绀弩、康同璧、罗隆基等的起落沉浮，由诸多片断入手，组成一个个悲壮的场景，仿佛是一幅壁画，浓彩重墨间呈现出历史的真、人生的幻……&#13;
+　　此书亦是一群经历旧社会、新中国的知识分子悲剧命运的真实写照。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>章诒和</dc:subject>
-        <dc:subject>回忆录</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>往事并不如烟</dc:subject>
-        <dc:subject>文革</dc:subject>
-        <dc:subject>传记</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>回忆</dc:subject>
+        <dc:subject>现代·当代</dc:subject>
         <meta content="{&quot;章诒和&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:02:36+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:06.357916+00:00" name="calibre:timestamp"/>
         <meta content="往事并不如烟" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

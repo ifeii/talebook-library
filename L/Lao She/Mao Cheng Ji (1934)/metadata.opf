@@ -6,27 +6,17 @@
         <dc:title>猫城记</dc:title>
         <dc:creator opf:file-as="老舍" opf:role="aut">老舍</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-10-31T16:00:00+00:00</dc:date>
-        <dc:description>《猫城记》主要内容：一架飞往火星的飞机在碰撞到火星的一刹那机毁人亡，只剩下“我”幸存下来，却被一群长着猫脸的外星人带到了他们的猫城，开始了艰难的外星生活。猫人也有历史，拥有两万多年的文明，在古代他们也与外国打过仗，而且打胜过，可是在最近五百年中，自相残杀的结果叫他们完全把打外国人的观念忘掉，而一致的对内，导致文明的退化。而“我”亲眼目睹了一场猫人与矮子兵的战争，以猫城全城覆没而结束了这座私欲日益彭胀的外星文明古城。</dc:description>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>人民文学出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787020072293</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">d671bc0c-3970-4f49-a33d-65beab7ffc8d</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>老舍</dc:subject>
-        <dc:subject>小说</dc:subject>
         <dc:subject>科幻</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>猫城记</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>经典</dc:subject>
-        <dc:subject>文学</dc:subject>
         <meta content="{&quot;老舍&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:19:06+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:08:21.169568+00:00" name="calibre:timestamp"/>
         <meta content="猫城记" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

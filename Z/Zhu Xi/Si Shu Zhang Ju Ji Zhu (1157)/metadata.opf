@@ -1,31 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1157</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">3f27825f-a01e-4794-acc5-09faebe46d0d</dc:identifier>
         <dc:title>四書章句集注</dc:title>
         <dc:creator opf:file-as="朱熹" opf:role="aut">朱熹</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1983-09-30T16:00:00+00:00</dc:date>
-        <dc:description>本書集儒家經典中的《大學》、《中庸》、《論語》、《孟子》為一書，注重義理的解釋與發揮，對文字訓詁也很注意，字斟句酌。此次整理以清嘉慶年間吳縣吳氏父子校刻本為底本，用清康熙內府仿刻的宋淳祐二年大字本校勘。</dc:description>
-        <dc:publisher>中華書局</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787101005615</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-03T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;本書集儒家經典中的《大學》、《中庸》、《論語》、《孟子》為一書，注重義理的解釋與發揮，對文字訓詁也很注意，字斟句酌。此次整理以清嘉慶年間吳縣吳氏父子校刻本為底本，用清康熙內府仿刻的宋淳祐二年大字本校勘。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>朱熹</dc:subject>
-        <dc:subject>国学</dc:subject>
-        <dc:subject>四书</dc:subject>
-        <dc:subject>古籍</dc:subject>
-        <dc:subject>哲学</dc:subject>
-        <dc:subject>经典</dc:subject>
-        <dc:subject>理学</dc:subject>
-        <dc:subject>经学</dc:subject>
+        <dc:subject>ZDC:ZXZZ</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
         <meta content="{&quot;朱熹&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="四书五经" name="calibre:series"/>
         <meta content="3" name="calibre:series_index"/>
-        <meta content="9" name="calibre:rating"/>
-        <meta content="2014-08-22T16:01:36+00:00" name="calibre:timestamp"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-10-04T14:49:47+00:00" name="calibre:timestamp"/>
         <meta content="四書章句集注" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

@@ -6,30 +6,18 @@
         <dc:title>直到世界尽头</dc:title>
         <dc:creator opf:file-as="林丹" opf:role="aut">林丹</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-08-04T16:00:00+00:00</dc:date>
-        <dc:description>“不是你今天感觉不好，就可以随随便便输掉的。”
-我要告诉你们：千万不要忘了，我只是个普通的小伙子。通过自己的努力和坚持，是可以做到让别人刮目相看的。
-内容简介：
-世界羽毛球比赛排名第一的运动员林丹，首次出书述说自己的成长之路。
-从5岁开始练习羽毛球到成为世界首位拿到羽毛球全满贯的运动员，林丹的成长并非一帆风顺。如何在逆境中调整好状态重新出发？如何在人生低谷沉住气等待转机？除了剖白自己的心路历程外，林丹更书写了与教练、队友、对手的相处以及与妻子谢杏芳的感情。给读者呈现一个真实、立体的林丹。</dc:description>
-        <dc:publisher>凤凰出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787550614680</dc:identifier>
+        <dc:date>2012-11-16T16:00:00+00:00</dc:date>
+        <dc:description>世界羽毛球比赛排名第一的运动员林丹，首次出书述说自己的成长之路。
+　　从5岁开始练习羽毛球到成为世界首位拿到羽毛球全满贯的运动员，林丹的成长并非一帆风顺。如何在逆境中调整好状态重新出发？如何在人生低谷沉住气等待转机？除了剖白自己的心路历程外，林丹更书写了与教练、队友、对手的相处以及与妻子谢杏芳的感情。给读者呈现一个真实、立体的林丹。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>林丹</dc:subject>
-        <dc:subject>传记</dc:subject>
-        <dc:subject>超级丹</dc:subject>
-        <dc:subject>励志</dc:subject>
-        <dc:subject>自传</dc:subject>
-        <dc:subject>林丹，传记，运动员</dc:subject>
-        <dc:subject>人物</dc:subject>
-        <dc:subject>中国</dc:subject>
+        <dc:subject>中国人物传记</dc:subject>
         <meta content="{&quot;林丹&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:23:11+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:11:43.868756+00:00" name="calibre:timestamp"/>
         <meta content="直到世界尽头" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

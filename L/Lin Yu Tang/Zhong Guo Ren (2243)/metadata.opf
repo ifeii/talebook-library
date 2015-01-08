@@ -6,29 +6,15 @@
         <dc:title>中国人</dc:title>
         <dc:creator opf:file-as="林语堂" opf:role="aut">林语堂</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1994-11-30T16:00:00+00:00</dc:date>
-        <dc:description>《中国人》(My Country and My People)是林语堂在西方文坛的成名作与代表作。林语堂是中西文化结合的产儿，一向以“两脚踏东西文化，一心评宇宙文章”为座右铭。他的著作，在东西方都极受欢迎，曾被译成多种文字出版，以至现今美国大的图书馆几乎都收藏有他的著作。
-《中国人》是他在西方文坛的成名作和代表作，该书是应美国纽约庄台(John Day)公司之约，1934年用英语写就的，1935年由雷诺与希师阁(Reynal &amp; Hitchcock)公司出版。这是一部有关中国社会、历史和文化的著作。它以中国文化为出发点，对中西文化作了广泛深入的比较，旨在向西方介绍中国文化，使西方人能够比较确切而客观地了解中国。
-该书出版之后，在西方引起了不小的轰动，被推崇备至。1936年，英国伦敦威廉・海涅曼(William Heinemann)公司再版，以后曾被译成俄语、日语、瑞典语等多种文字出版。 这部《中国人》全译本除了补上原著第十章第六节《蒋介石其人其谋》、1935年初版《收场语》(其中包括《中华民国的真相》、《领袖人才的要求》、《我们的出路》等重要而容易引起误读、误解的篇章)，还增添了译者附记、索引等。这样不仅恢复原著的“全貌”，而且保持了原著的“原汁原味”，可以让广大读者领略林语堂这部原著的当年风采与全书的基本精神。</dc:description>
-        <dc:publisher>学林出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787806160695</dc:identifier>
+        <dc:date>2012-03-22T08:25:32+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">fd3bf4ec-5e90-41ae-b2f6-a3b5c17e5c5f</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>林语堂</dc:subject>
-        <dc:subject>文化</dc:subject>
-        <dc:subject>中国人</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>社会</dc:subject>
-        <dc:subject>人文</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>杂文</dc:subject>
         <meta content="{&quot;林语堂&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:24:22+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:13:08.525105+00:00" name="calibre:timestamp"/>
         <meta content="中国人" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

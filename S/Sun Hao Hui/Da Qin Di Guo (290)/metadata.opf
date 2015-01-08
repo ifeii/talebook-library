@@ -1,36 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">290</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5e447ed8-c178-45e6-af44-9e3d225ef534</dc:identifier>
         <dc:title>大秦帝国</dc:title>
         <dc:creator opf:file-as="孙皓晖" opf:role="aut">孙皓晖</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-01-16T16:00:00+00:00</dc:date>
-        <dc:description>大秦帝国作为时代精神汇集的帝国，集中地体现了那个时代中华民族的强势生存精神。中华民族的整个文明体系其所以能够绵延如大河奔涌，秦帝国时代开创奠定的强势生存传统起了决定性的作用。
-《大秦帝国》是一部描述秦兴亡生灭过程的长卷历史小说。秦帝国崛起于铁血竞争的群雄列强之际，建立了一个强大统一的帝国，开创了一个全新的铁器文明。但她只有十五年生命，像流星一闪，轰鸣而逝。这巨大的历史落差与戏剧性的帝国命运中，隐藏了难以计数的神奇故事以及伟人名士的悲欢离合。他们以或纤细、或壮美、或正气、或邪恶、或英雄、或平庸的个人命运奏成了这部历史交响乐。帝国所编织的社会文明框架及其所凝聚的文化传统，今天仍然规范着我们的生活，构成了中华民族的巨大精神支柱。
-秦帝国崛起于铁血竞争的群雄列强之林，包容裹挟了那个时代的刚健质朴、创新求实精神。她崇尚法制、彻底变革、努力建设、统一政令，历一百六十余年六代领袖坚定不移地努力追求，才完成了一场最伟大的帝国革命，建立起一个强大统一的帝国，开创了一个全新的铁器文明时代，使中国农业文明完成了伟大的历史转型。
-在这部堪称鸿篇巨制的艺术佳构中，作家力图艺术地再现，在礼崩乐坏，群雄逐鹿的战国末年，面临亡国之祸的秦国于列强环伺之下，从秦孝公开始，筚路蓝缕，变法图强，经过几代君臣的不懈努力，最终扫六合而一统天下的艰辛悲壮历程。</dc:description>
-        <dc:publisher>河南文艺出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787806239421</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>历史小说</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>大秦帝国</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>秦</dc:subject>
-        <dc:subject>战国纵横</dc:subject>
-        <dc:subject>中国历史</dc:subject>
-        <dc:subject>战国</dc:subject>
-        <meta content="{&quot;孙皓晖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="历史小说" name="calibre:series"/>
-        <meta content="10" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T15:13:30+00:00" name="calibre:timestamp"/>
+        <dc:description>&lt;p class="description"&gt;大秦帝国作为时代精神汇集的帝国，集中地体现了那个时代中华民族的强势生存精神。中华民族的整个文明体系其所以能够绵延如大河奔涌，秦帝国时代开创奠定的强势生存传统起了决定性的作用。&lt;br&gt;《大秦帝国》是一部描述秦兴亡生灭过程的长卷历史小说。秦帝国崛起于铁血竞争的群雄列强之际，建立了一个强大统一的帝国，开创了一个全新的铁器文明。但她只有十五年生命，像流星一闪，轰鸣而逝。这巨大的历史落差与戏剧性的帝国命运中，隐藏了难以计数的神奇故事以及伟人名士的悲欢离合。他们以或纤细、或壮美、或正气、或邪恶、或英雄、或平庸的个人命运奏成了这部历史交响乐。帝国所编织的社会文明框架及其所凝聚的文化传统，今天仍然规范着我们的生活，构成了中华民族的巨大精神支柱。&lt;br&gt;秦帝国崛起于铁血竞争的群雄列强之林，包容裹挟了那个时代的刚健质朴、创新求实精神。她崇尚法制、彻底变革、努力建设、统一政令，历一百六十余年六代领袖坚定不移地努力追求，才完成了一场最伟大的帝国革命，建立起一个强大统一的帝国，开创了一个全新的铁器文明时代，使中国农业文明完成了伟大的历史转型。&lt;br&gt;在这部堪称鸿篇巨制的艺术佳构中，作家力图艺术地再现，在礼崩乐坏，群雄逐鹿的战国末年，面临亡国之祸的秦国于列强环伺之下，从秦孝公开始，筚路蓝缕，变法图强，经过几代君臣的不懈努力，最终扫六合而一统天下的艰辛悲壮历程。&lt;/p&gt;</dc:description>
+        <dc:language>zh-CN</dc:language>
+        <meta content="历史/纪实" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-16T16:00:00+00:00" name="calibre:timestamp"/>
         <meta content="大秦帝国" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

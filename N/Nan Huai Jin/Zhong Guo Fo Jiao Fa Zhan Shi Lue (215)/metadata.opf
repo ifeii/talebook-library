@@ -1,33 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">215</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">a3ae6fe1-36e0-40cb-8d7e-021e0fca133f</dc:identifier>
         <dc:title>中国佛教发展史略</dc:title>
-        <dc:creator opf:file-as="南怀瑾" opf:role="aut">南怀瑾</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1996-07-31T16:00:00+00:00</dc:date>
-        <dc:description>《中国佛教发展史略》分为五章，对古代印度的社会与宗教；佛教创始人释迦牟尼的生平事迹；汉代至清代佛教的兴衰变迁；二十世纪中国佛教的现状与思考；以及亚洲和欧美各国的佛教概况等，作了简明扼要的叙述。书末所附的《禅宗丛林制度与中国社会》，乃是研究佛教丛林制度的由来、内容及其社会影响的重要文章，颇具价值。</dc:description>
+        <dc:creator opf:file-as="未知" opf:role="aut">南怀瑾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;兹经《中国佛教发展史略》作者和原出版单位台湾老古文化事业公司授权，将老古1991年第3版改为今名，校订出版，以供研究。&lt;/p&gt;</dc:description>
         <dc:publisher>复旦大学出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787309017069</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>南怀瑾</dc:subject>
-        <dc:subject>佛教</dc:subject>
-        <dc:subject>宗教</dc:subject>
-        <dc:subject>佛学</dc:subject>
+        <dc:language>zh-CN</dc:language>
         <dc:subject>历史</dc:subject>
-        <dc:subject>佛教发展史</dc:subject>
         <dc:subject>哲学</dc:subject>
-        <dc:subject>文化</dc:subject>
-        <meta content="{&quot;南怀瑾&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="哲学/宗教" name="calibre:series"/>
-        <meta content="9" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T15:12:37+00:00" name="calibre:timestamp"/>
+        <dc:subject>佛教</dc:subject>
+        <dc:subject>南怀瑾</dc:subject>
+        <dc:subject>佛学</dc:subject>
+        <dc:subject>宗教及宗教学</dc:subject>
+        <dc:subject>佛教发展史</dc:subject>
+        <dc:subject>宗教</dc:subject>
+        <meta content="哲学" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-12T16:00:00+00:00" name="calibre:timestamp"/>
         <meta content="中国佛教发展史略" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

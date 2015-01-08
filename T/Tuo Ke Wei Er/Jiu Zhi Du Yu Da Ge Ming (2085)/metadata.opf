@@ -6,28 +6,16 @@
         <dc:title>旧制度与大革命</dc:title>
         <dc:creator opf:file-as="托克维尔" opf:role="aut">托克维尔</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1992-07-31T16:00:00+00:00</dc:date>
-        <dc:description>这部《旧制度与大革命》给我们带来了什么新东西，发了什么前人所未发的新意？托克维尔开宗明义就指出，他从事的是“关于法国革命的研究”，而不是写另一部大革命史。既是“研究”，就要提出问题。从各章题目就可以知道作者要解决的是哪些问题。从方法论说，这也可以称为后来“年鉴学派”创导的问题史学。例如，托克维尔企图说明：何以全欧洲几乎都有同样的政体，它们如何到处都陷于崩溃？何以封建特权对法国人民比在其他地方变得更为可憎？何以中央集权行政体制是旧制度的体制，而不是大革命或帝国的创造？何以18世纪的法国的人们比其他国家人民更彼此相似，同时又彼此分离，漠不相关？尽管文明不断进步，何以18世纪法国农民的处境有时甚至比13世纪的农民处境更恶劣？何以18世纪法国文人成为国家的主要政治人物？何以法国人宁愿先要改革，后要自由？何以行政革命先于政治革命？路易十六时期是旧王朝最繁荣时 
-期，这种繁荣如何加速了革命？等等。每一个问题几乎都可写成专著。 
-    与19世纪一些思想家、哲学家——从斯塔埃尔夫人到基内——不同，托克维尔不是凭空“思考”法国革命，而是扎扎实实地依靠对原始材料的分析研究得出结论。他阅读、利用了前人从未接触过的大量档案材料，包括古老的土地清册、赋税簿籍、地方与中央的奏章、指示和大臣间的通信、三级会议记录和1789年的陈情书。他是第一个查阅有关国有财产出售法令的历史家；他还努力挖掘涉及农民状况和农民起义的资料。根据这些史料，他得以深入了解、具体描绘旧制度下的土地、财产、教会、三级会议、中央与地方行政、农民生活、贵族地位、第三等级状况等，并阐发自己的论点。</dc:description>
-        <dc:publisher>商务印书馆</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787100022040</dc:identifier>
+        <dc:date>2012-12-10T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>托克维尔</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>政治学</dc:subject>
-        <dc:subject>法国大革命</dc:subject>
-        <dc:subject>政治</dc:subject>
-        <dc:subject>社会思想</dc:subject>
-        <dc:subject>法国</dc:subject>
-        <dc:subject>制度</dc:subject>
+        <dc:subject>学习资料</dc:subject>
         <meta content="{&quot;托克维尔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:21:08+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:10:33.691408+00:00" name="calibre:timestamp"/>
         <meta content="旧制度与大革命" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

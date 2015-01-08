@@ -6,26 +6,15 @@
         <dc:title>为权利而斗争</dc:title>
         <dc:creator opf:file-as="鲁道夫·冯·耶林" opf:role="aut">鲁道夫·冯·耶林</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
-        <dc:description>《为权利而斗争》主要内容：耶林一生的思想正如他的作品一样可以分成几个阶段：从历史法学派的捍卫者，到概念法学的追随者，再到利益法学的开拓者。耶林的法学作品中有三部特别引人注目：《罗马法的精神》、《为权利而斗争》和《法律目的论》，虽然它们并不一定称的上耶林最著名的作品，但却标志着耶林不同发展阶段的思想。</dc:description>
-        <dc:publisher>法律出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787503669033</dc:identifier>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>鲁道夫·冯·耶林</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>法学</dc:subject>
-        <dc:subject>耶林</dc:subject>
-        <dc:subject>法理学</dc:subject>
-        <dc:subject>法律</dc:subject>
-        <dc:subject>法学经典</dc:subject>
-        <dc:subject>自由主义</dc:subject>
-        <dc:subject>经典</dc:subject>
-        <dc:subject>法理</dc:subject>
         <meta content="{&quot;鲁道夫·冯·耶林&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:23:43+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:12:19.784075+00:00" name="calibre:timestamp"/>
         <meta content="为权利而斗争" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

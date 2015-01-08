@@ -6,29 +6,22 @@
         <dc:title>此间的少年</dc:title>
         <dc:creator opf:file-as="江南" opf:role="aut">江南</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2003-12-31T16:00:00+00:00</dc:date>
-        <dc:description>《此间的少年》讲述的是让人熟悉的大学生活的故事。小说以宋代嘉佑年为时间背景，地点在以北大为模版的“汴京大学”，登场的人物是乔峰、郭靖、令狐冲等大侠，不过在大学里，他们和当代的年轻人没有什么不同。他们早上要跑圈儿，初进校门的时候要扫舞盲，有睡不完的懒觉，站在远处默默注视自己心爱的姑娘……
-在这个学校里，郭靖和黄蓉是因为一场自行车的事故认识的，而这辆自行车是化学系的老师丘处机淘汰下来的，杨康和穆念慈则从中学起就是同学，念慈对杨康的单恋多年无果，最后选择的人却是彭连虎。
-脑中存着金庸小说先前的印象，再徜徉于这样全新的故事中，是一种双重的温习，而这双重的回忆最后归结为一点，便是几乎每个人都经过过或正在经历的轻狂无畏的少年时光。</dc:description>
-        <dc:publisher>华文出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787507515121</dc:identifier>
+        <dc:date>2010-09-17T16:00:00+00:00</dc:date>
+        <dc:description>典藏版语音书,献给象牙塔中尘封青春的华丽纪念册。
+感动于九州天神江南,另类校园小说风情。
+一段纪念大学生活的文字,让少年未满的你心怀憧憬,让洗尽铅华的你开始追忆。
+江南、记忆坊,联手制作《此间的少年》限量典藏版语音书,附语音典藏书光盘一张。一本书,一片真情,一切为了榕锋......
+曾经有一位少年名为榕锋,用魔法将这本小说的文字化为了声音,让黑白的情节变得鲜活。如今,那个声音的主人却不幸患了重症,而且不愿接受外界的无偿捐助,希望以自己的努力来和病魔抗争。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">998ece32-b777-4ec5-960c-fa427a767e72</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>江南</dc:subject>
-        <dc:subject>此间的少年</dc:subject>
-        <dc:subject>青春</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>校园</dc:subject>
-        <dc:subject>大学</dc:subject>
-        <dc:subject>网络小说</dc:subject>
-        <dc:subject>中国</dc:subject>
+        <dc:subject>都市·言情</dc:subject>
         <meta content="{&quot;江南&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:04:38+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:58:49.368901+00:00" name="calibre:timestamp"/>
         <meta content="此间的少年" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

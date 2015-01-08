@@ -6,28 +6,16 @@
         <dc:title>红色海洋</dc:title>
         <dc:creator opf:file-as="韩松" opf:role="aut">韩松</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2004-10-31T16:00:00+00:00</dc:date>
-        <dc:description>在未来，核战争使陆地生态系统全部毁灭，残存在人类用基因工程把自己改造成如同鱼儿一样的水栖里，同时把蓝色海洋改造成红色海洋，使之适应人类下海生存……小说用倒叙的手法，截取不同的历史片断，描写了人类下海生活前后的经历，展示了一幅复杂的诡异、令人扼腕叹息的未来人类寻求新生的命运全图。
-这部堪称科幻史诗的小说想像奇诡丰富，场面壮观悲凉，情节紧张刺激，内容神秘莫测，文学色彩浓郁，而又饱含深刻的哲理思想，有着很强的现实警示意义，是一部代表中国当今科幻创作较高水平的作品。</dc:description>
+        <dc:date>2012-11-01T12:40:41+00:00</dc:date>
         <dc:publisher>上海科学普及出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787542729866</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">6a9f9838-c79f-4a64-9527-70bf0e4879c4</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>科幻</dc:subject>
-        <dc:subject>韩松</dc:subject>
-        <dc:subject>红色海洋</dc:subject>
-        <dc:subject>科幻小说</dc:subject>
-        <dc:subject>中国科幻</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>诡谲 骇人听闻 很韩松</dc:subject>
         <meta content="{&quot;韩松&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:15:44+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:03:58.004566+00:00" name="calibre:timestamp"/>
         <meta content="红色海洋" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

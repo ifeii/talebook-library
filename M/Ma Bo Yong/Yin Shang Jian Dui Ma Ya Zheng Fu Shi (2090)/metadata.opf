@@ -6,36 +6,15 @@
         <dc:title>殷商舰队玛雅征服史</dc:title>
         <dc:creator opf:file-as="马伯庸" opf:role="aut">马伯庸</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2007-09-30T16:00:00+00:00</dc:date>
-        <dc:description>当殷商的远征舰队将墨西哥西海岸纳入射程的时候，玛雅人对自己即将面对的命运仍旧懵懂无知……
-前所未见的历史文本叙述。
-上古文明在疯狂与理性之间振荡往复。
-殷商舰队跨越千里的美洲诡异之旅。
-跨越十三个时区的史诗想象。
-
-隐藏着巨大机械人的金字塔！外星文明与地底人的大碰撞！殷商末代王室的宝藏之谜！这些均不会在本书发生。
-本书附赠殷商舰队玛雅征服史海报一张，卡片四张。
-
-历史就像是薛定鄂那只可怜的猫，在时空中永远处于一种似是而非的迭加状态。唯有当历史学家翻开典籍，开始打算研究的一瞬间，历史的真实状态才会最终凝结。但是这种凝结并非恒定，无法通过重复试验来加以验证。一位古希腊物理学家指出：“人无法两次研究同一段历史。”
-所以，如果读者错误地将本文所涉及到的历史、地理、人文艺术、科学常识以及其他一切自然非自然学科与读者本身所在时空加以对照——哪怕仅仅只是因为他们看起来是如此地相似——并信以为真的话，作者绝不会为这种行为所可能引发的灾难性后果而负责，也绝不会承认自己错了。要知道，本文无任何中心思想，也不想表达任何思想内容。</dc:description>
-        <dc:publisher>二十一世纪出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787539138244</dc:identifier>
+        <dc:date>2012-04-25T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>马伯庸</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>祥瑞御免</dc:subject>
-        <dc:subject>奇幻</dc:subject>
-        <dc:subject>殷商舰队玛雅征服史</dc:subject>
-        <dc:subject>中国</dc:subject>
-        <dc:subject>亲王</dc:subject>
-        <dc:subject>历史</dc:subject>
         <meta content="{&quot;马伯庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:21:11+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:10:36.294817+00:00" name="calibre:timestamp"/>
         <meta content="殷商舰队玛雅征服史" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

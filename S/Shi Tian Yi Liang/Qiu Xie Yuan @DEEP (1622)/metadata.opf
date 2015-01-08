@@ -6,28 +6,17 @@
         <dc:title>秋叶原@DEEP</dc:title>
         <dc:creator opf:file-as="石田衣良" opf:role="aut">石田衣良</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-12-31T16:00:00+00:00</dc:date>
-        <dc:description>一个患有洁癖症和女性恐惧症的设计师；一个患有口吃的天才写手；一个时不时就会进入冻结状态的电子音乐家；一个患有疏离症的少年黑客；一个蜗居十年足不出户，一出门又患上回家恐惧症的法律专家；一个角色扮演咖啡厅的人气服务员，喜欢格斗技与迷彩服的美少女。
-这六个具有边缘性格的年轻人在秋叶原创办了一家IT公司“秋叶原@deep”，并开发出史上第一个人工智能搜索引擎“CROOK”，掀起了网络革命。就在此时，IT业龙头也向他们伸出了魔爪……</dc:description>
-        <dc:publisher>上海人民出版社</dc:publisher>
+        <dc:date>2010-12-02T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">f38f3211-14c6-484f-ac40-fffd0ba9c511</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787208082977</dc:identifier>
         <dc:language>en</dc:language>
-        <dc:subject>石田衣良</dc:subject>
-        <dc:subject>日本</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>秋叶原@DEEP</dc:subject>
-        <dc:subject>日本文学</dc:subject>
-        <dc:subject>推理</dc:subject>
-        <dc:subject>秋叶原</dc:subject>
-        <dc:subject>日本小说</dc:subject>
+        <dc:subject>轻小说</dc:subject>
         <meta content="{&quot;石田衣良&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:14:34+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:02:44.467166+00:00" name="calibre:timestamp"/>
         <meta content="秋叶原@DEEP" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

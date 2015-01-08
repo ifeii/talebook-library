@@ -6,44 +6,17 @@
         <dc:title>首无·作祟之物</dc:title>
         <dc:creator opf:file-as="三津田信三" opf:role="aut">三津田信三</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-05-31T16:00:00+00:00</dc:date>
-        <dc:description>震撼度No.1！关注度NO.1！期待度NO.1！
-横扫各大推理排行榜的惊天名作
-中国读者最翘首苦候的日系小说
-◎特别收录：三津田信三《就〈首无〉再致读者》序文！
-●周刊文春2007年度10大推理小说！
-●探侦小说研究会2008年度10大本格推理小说第2名！
-●“这本推理小说真厉害”2008年度10大推理小说！
-●“这本推理小说真想看”2008年度10大推理小说第3名！
-《首无·作祟之物》这部小说里面，有着我所设下的一个机关——小说里面的三十七个谜题，只凭着一个真相，就可以全部解开！
-◎　　　　　　　　◎　　　　　　　　◎　　　　　　　　◎　　　　　　　　◎　　　 　　　　　◎
-然而，她的左手也提着某样物品。虽然夜色暗淡，那玩意儿怎么也看不真切，但好像是个黑糊糊的球体，没错，好像是——
-（人、人头……）
-——被她提着，垂在她身侧。
-她在向前走。
-（怎、怎么可能……）
-……
-（嗯……她拿的是谁的头？）
-这么一想，斧高猛然想到可能是先前的首无又出现了，几乎当场瘫软。
-（如、如果是淡首大人或首无，那么提的就是它自、自己的头……）</dc:description>
-        <dc:publisher>吉林出版集团有限责任公司</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787546352251</dc:identifier>
+        <dc:date>2012-04-16T16:00:00+00:00</dc:date>
+        <dc:description>“婚舍集会”是奥多摩的秘守家代代相传的仪式，刚满二十三岁的长男长寿郎，必须从三位新娘候选人中挑选出一位。然而仪式进行中，其中一位候选人却惨遭杀害，而且尸体的头部也不见踪影！凶手会是从现场消失的长寿郎吗？突如其来的恐怖命案，再牵扯上家族继承人之争，让混乱的情势更加延烧，而在这期间，又出现了第二个，第三个没有头的牺牲者……这一切，难道是古老传说中的恶灵淡首大人在作祟？还是长寿郎十年前掉入井中死亡的双胞胎妹妹强烈的怨念所致呢？</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>三津田信三</dc:subject>
-        <dc:subject>推理</dc:subject>
-        <dc:subject>日本</dc:subject>
-        <dc:subject>日系推理</dc:subject>
-        <dc:subject>推理小说</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>刀城言耶</dc:subject>
-        <dc:subject>日本推理</dc:subject>
+        <dc:subject>侦探·推理</dc:subject>
         <meta content="{&quot;三津田信三&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:12:57+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:00:55.603527+00:00" name="calibre:timestamp"/>
         <meta content="首无·作祟之物" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

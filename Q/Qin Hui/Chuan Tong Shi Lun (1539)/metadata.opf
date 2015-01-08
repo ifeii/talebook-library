@@ -6,26 +6,17 @@
         <dc:title>传统十论</dc:title>
         <dc:creator opf:file-as="秦晖" opf:role="aut">秦晖</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2004-08-31T16:00:00+00:00</dc:date>
-        <dc:description>本书所收的系列文章主要是对传统社会与文化本身的结构性研究。作者不满于过去流行的“租佃神话”和“宗族神话”，主张在社会-经济分析与思想-文化分析的综合与融会中把握传统时代真正具有规定性的那些规则，跳出“反儒”与“尊儒”对峙的传统观之争，在社会结构上摆脱大共同体本位的传统桎梏而走向公民社会，在文化-象征符号体系中主张“西儒会融，解构法道互补”，以穷则兼济天下、达则独善其身的人格资源与民主宪政-人权保障的现代制度安排来消除那种专制制度下强权-犬儒互补的人格弊病。</dc:description>
-        <dc:publisher>复旦大学出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787309037128</dc:identifier>
+        <dc:date>2011-05-08T16:00:00+00:00</dc:date>
+        <dc:description>秦暉认为，对传统中国乡村社会的认识与乡村改革的认识无法分离。因而自近代以来，在西方政治社会学“国家-社会”二元分析的理论基础上，出现了对古代中国社会“国家-宗族”或“皇权-绅权”的二元分析模式，强调宗族本位，强调乡村自治，强调伦理秩序。这种观点与受阶级分析影响的租佃模式形成对立，并在改革开放后重新进入内地后逐渐形成风趸。秦暉对此提出质疑，认为它不仅无力解释王朝崩溃循环的历史现象，同时也易于迷惑人们对传统与现代的区分认识，从而有可能帮助各种历史沉渣借助现代的名目重新泛起，甚至推衍极端。因此，秦暉需要对传统中国乡土社会重新进行解读，也就是他在《传统十论》中的核心问题，即古代中国国家控制的整体图景和臣民人格的形成。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>秦晖</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>文化</dc:subject>
-        <dc:subject>社会学</dc:subject>
-        <dc:subject>社会</dc:subject>
-        <dc:subject>传统</dc:subject>
-        <dc:subject>传统十论</dc:subject>
-        <dc:subject>政治哲学</dc:subject>
+        <dc:subject>哲学·社会</dc:subject>
         <meta content="{&quot;秦晖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="9" name="calibre:rating"/>
-        <meta content="2014-08-22T16:13:25+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:01:09.312262+00:00" name="calibre:timestamp"/>
         <meta content="传统十论" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

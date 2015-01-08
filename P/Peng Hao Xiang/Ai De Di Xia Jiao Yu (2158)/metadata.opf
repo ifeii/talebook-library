@@ -6,27 +6,14 @@
         <dc:title>愛的地下教育</dc:title>
         <dc:creator opf:file-as="彭浩翔" opf:role="aut">彭浩翔</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
-        <dc:description>本书是2009年9月在彭浩翔博客开设的《爱的地下教育》答信专栏，专门解答读者各种奇难杂症。内容涉及爱情辅导、性教育、心理治疗等范围。
-由于文字恶搞辛辣，推出后迅即于网络火热。每周数十万网民追捧转发，更被各大报刊杂志邀请开设《爱》的专栏，在《外滩画报》、《城市画报》、《男人装》等总发行量超过一百六十多万份的报刊杂志上连载。同时，该书已被网络媒体及电影公司洽购改编版权，计划以其内容改编成同名单元式网络感情节目及电影，足见此栏在答问界中风头的一时无两。</dc:description>
-        <dc:publisher>茶杯雜誌出版有限公司</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789881934123</dc:identifier>
+        <dc:date>2010-08-26T11:05:59+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>彭浩翔</dc:subject>
-        <dc:subject>香港</dc:subject>
-        <dc:subject>爱的地下教育</dc:subject>
-        <dc:subject>情感</dc:subject>
-        <dc:subject>散文</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>2010</dc:subject>
-        <dc:subject>愛情</dc:subject>
         <meta content="{&quot;彭浩翔&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:23:17+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:11:50.542950+00:00" name="calibre:timestamp"/>
         <meta content="愛的地下教育" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

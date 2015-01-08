@@ -6,31 +6,16 @@
         <dc:title>不负如来不负卿</dc:title>
         <dc:creator opf:file-as="姚敏" opf:role="aut">姚敏</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-03-31T16:00:00+00:00</dc:date>
-        <dc:description>住进布达拉宫，我是雪域最大的王。
-流浪在拉萨街头，我是世间最美的情郎。
-六世达赖喇嘛仓央嘉措是藏传佛教历史上最引人注目的一位上师，一生行迹奇特，卓然不群。多年以后，人们忘记了他的活佛身份。他的传奇、他的故事让无数人为之着迷，他的诗歌犹如青藏高原的明珠，照亮了无数人的心房。
-仓央嘉措，虽是布达拉宫的活佛，但内心狂放不羁，对爱情充满渴望，一旦动情，义无反顾。西藏民歌唱道：“莫怪活佛仓央嘉措，风流浪荡；他想要的，和凡人没什么两样。”
-本书通过对仓央嘉措诗歌的解读，让读者领略到诗人的传奇身世和诗歌之美，了解这位神奇活佛的诗与情。</dc:description>
-        <dc:publisher>文化艺术出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787503942143</dc:identifier>
+        <dc:date>2010-11-16T16:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">821a19a0-f64d-4a14-bb93-32df0152d026</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>仓央嘉措</dc:subject>
-        <dc:subject>不负如来不负卿</dc:subject>
-        <dc:subject>西藏</dc:subject>
-        <dc:subject>六世达赖</dc:subject>
-        <dc:subject>诗歌</dc:subject>
-        <dc:subject>散文</dc:subject>
-        <dc:subject>姚敏</dc:subject>
-        <dc:subject>中国文学</dc:subject>
+        <dc:subject>ibook.178.com</dc:subject>
         <meta content="{&quot;姚敏&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:19:48+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:09:19.677636+00:00" name="calibre:timestamp"/>
         <meta content="不负如来不负卿" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

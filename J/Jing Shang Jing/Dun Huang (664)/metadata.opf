@@ -1,33 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">664</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7a88959f-6dbe-47a0-b2f7-27a4494d7c39</dc:identifier>
         <dc:title>敦煌</dc:title>
         <dc:creator opf:file-as="井上靖" opf:role="aut">井上靖</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2002-09-30T16:00:00+00:00</dc:date>
-        <dc:description>选收“洪水”、“楼兰”、“异域之人”、“昆仑玉”等10余篇井上靖中国古代历史小说。</dc:description>
-        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;井上靖先生的中国历史题材小说有一种强烈的画面感，让人会不自觉地跟着痛苦跟着挣扎，那样的真实生动牢牢地攫住人心，让人无法自拔。作为一个外国人，他笔下的历史人物与我们记忆中的总有一些偏差，但是却更具真实感，成为一个个鲜活的真正意义上的人。他的小说总会弥漫着一种无奈的悲剧气息，那些英雄或小人物就笼罩着悲剧的光芒，上演着有声有色的历史。&lt;/p&gt;</dc:description>
+        <dc:publisher>子乌书简</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787020037551</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>井上靖</dc:subject>
-        <dc:subject>敦煌</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>日本</dc:subject>
-        <dc:subject>历史</dc:subject>
-        <dc:subject>历史小说</dc:subject>
-        <dc:subject>文化</dc:subject>
-        <dc:subject>日本作家</dc:subject>
-        <meta content="{&quot;井上靖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>古典·历史</dc:subject>
         <meta content="历史小说" name="calibre:series"/>
         <meta content="7" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T15:53:00+00:00" name="calibre:timestamp"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-22T11:55:31.562000+00:00" name="calibre:timestamp"/>
         <meta content="敦煌" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

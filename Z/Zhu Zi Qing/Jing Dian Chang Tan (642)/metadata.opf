@@ -1,33 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">642</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">0ff6809f-f708-4cb9-8cc6-39099eba4ae8</dc:identifier>
-        <dc:title>经典常谈</dc:title>
+        <dc:title>經典常談</dc:title>
         <dc:creator opf:file-as="朱自清" opf:role="aut">朱自清</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1999-11-30T16:00:00+00:00</dc:date>
-        <dc:description>《经典常谈》是朱自清先生写于一九四二年的一本小书，一九四六年由文光书店刊行，著名教育家叶圣陶先生称其为（极有用处）的好书。（经典）是我国古代流传至今的所谓（国学）着作，包括了经、史、子、集在内的所有优秀文献。作者在自《序》开章便说：（在中等以上的教育裹，经典训练应该是一个必要的项目。经典训练的价值不在实用，而在文化。）但是我国古代典籍浩繁艰深，一般人鸡以有兴趣接近，作者即以十三篇要言不烦的文字介绍了这些华夏民族文化遗产中的精华。内容从识字的《说文解字》开始，继而《易》《书》《诗》《礼》、春秋三传、四书等经部要籍，继而《战国策》《史记》《汉书》等史部典范，诸子、辞赋、诗、文因文献过多，不能一一详述，叙其源流，提纲挈领。（常谈）有（老生常谈）之意，实为作者自谦之词，书中随处可见新旧一兼容的通达的历史观、文化观，无论是对于初学入门者、还是有一定基一础需要寻找正确的治学途径的人，都相当有益。书中口语化的叙述、将一文言翻译成白话的功力、筛选史料改写故事的技巧、对学术界各家观点的宽容气度等等都可见出作者为普及中华优秀经典所做的不懈努力。</dc:description>
-        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;span class="Apple-style-span" style="font-family: Verdana, Arial, Tahoma, sans-serif; color: rgb(51, 51, 51); font-size: 12px; line-height: 20px; "&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;朱自清作品。以十三篇文字解讀了中國古代經典的精華，不僅是本好的導讀、解釋，同時也傳授了極為重要的研究法與讀書法，深入淺出，實為難得。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;以散文《背影》而廣被人知的現代散文家、詩人，百年千書選了這本《經典常談》，實在是寓意深重。朱自清除了創作之外，實為清華大學中文系教授，專攻文學研究。《經典常談》實際上是為了中等教育而撰寫的經典訓練教材，也就是經史子集四部的簡要介紹。&lt;/p&gt;&lt;p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; line-height: 22px; "&gt;深入淺出，實際上是最難達到的境地。若非有著深厚的研究底子，以及獨到的理解，很難跳出窠臼。在四部中的「集部」，朱先生逕自採用了辭賦、詩、文這樣的三分法，就常被人稱道。同時對於諸多名家的介紹，幾句話往往就切中神髓，對於一般人很難細讀的中國古籍，實在是難得一見的必備國學導讀。&lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>百年千书</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787532526710</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>国学</dc:subject>
-        <dc:subject>朱自清</dc:subject>
-        <dc:subject>传统文化</dc:subject>
-        <dc:subject>经典常谈</dc:subject>
-        <dc:subject>经典</dc:subject>
-        <dc:subject>文化</dc:subject>
-        <dc:subject>古典文学</dc:subject>
-        <dc:subject>古籍</dc:subject>
-        <meta content="{&quot;朱自清&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <dc:language>zh-CN</dc:language>
         <meta content="文化" name="calibre:series"/>
         <meta content="5" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T15:52:51+00:00" name="calibre:timestamp"/>
-        <meta content="经典常谈" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-02-18T10:46:01.882000+00:00" name="calibre:timestamp"/>
+        <meta content="經典常談" name="calibre:title_sort"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

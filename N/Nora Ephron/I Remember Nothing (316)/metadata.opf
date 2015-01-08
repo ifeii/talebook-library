@@ -1,35 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">a3e5a2fd-6131-457e-965c-536d2fa90b11</dc:identifier>
         <dc:title>I Remember Nothing</dc:title>
-        <dc:creator opf:file-as="Nora Ephron" opf:role="aut">Nora Ephron</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Ephron, Nora" opf:role="aut">Nora Ephron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-11-08T16:00:00+00:00</dc:date>
-        <dc:description>Nora Ephron returns with her first book since the astounding success of I Feel Bad About My Neck, taking a cool, hard, hilarious look at the past, the present, and the future, bemoaning the vicissitudes of modern life, and recalling with her signature clarity and wisdom everything she hasn’t (yet) forgotten.
-Ephron writes about falling hard for a way of life (“Journalism: A Love Story”) and about breaking up even harder with the men in her life (“The D Word”); lists “Twenty-five Things People Have a Shocking Capacity to Be Surprised by Over and Over Again” (“There is no explaining the stock market but people try”; “You can never know the truth of anyone’s marriage, including your own”; “Cary Grant was Jewish”; “Men cheat”); reveals the alarming evolution, a decade after she wrote and directed You’ve Got Mail, of her relationship with her in-box (“The Six Stages of E-Mail”); and asks the age-old question, which came first, the chicken soup or the cold? All the while, she gives candid, edgy voice to everything women who have reached a certain age have been thinking . . . but rarely acknowledging.
-Filled with insights and observations that instantly ring true—and could have come only from Nora Ephron—I Remember Nothing is pure joy.</dc:description>
-        <dc:publisher>Knopt</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780307595607</dc:identifier>
-        <dc:language>en</dc:language>
-        <dc:subject>美国</dc:subject>
-        <dc:subject>Nora_Ephron</dc:subject>
-        <dc:subject>杂文</dc:subject>
-        <dc:subject>散文随笔杂文</dc:subject>
-        <dc:subject>生活</dc:subject>
-        <dc:subject>外国文学</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>英文版</dc:subject>
-        <meta content="{&quot;Nora Ephron&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307595621</dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:subject>NYTIMES</dc:subject>
+        <dc:subject>英文</dc:subject>
         <meta content="传记" name="calibre:series"/>
         <meta content="5" name="calibre:series_index"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T15:13:44+00:00" name="calibre:timestamp"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-01-19T10:51:20.640000+00:00" name="calibre:timestamp"/>
         <meta content="I Remember Nothing" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" type="cover" title="封面"/>
     </guide>
 </package>

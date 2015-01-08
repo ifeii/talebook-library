@@ -1,31 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1147</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1f58216d-0c70-4982-8ba4-e21019dd16b0</dc:identifier>
         <dc:title>天行者</dc:title>
         <dc:creator opf:file-as="刘醒龙" opf:role="aut">刘醒龙</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-04-30T16:00:00+00:00</dc:date>
-        <dc:description>《天行者》讲述了：中国农村的民办教师，一度有四百万人之多。他们在极其艰苦的环境里，担负着为义务教育阶段的一亿几千万农村中小学生“传道授业解惑”的重任，将现代文明播撒到最偏僻的角落，付出巨大而所得甚少。十多年前，一曲“凤凰琴”让多年在山乡村落默默奉献的民办教师站在了全国民众面前，无数读者曾为之动容，流下眼泪作者刘醒龙意犹未尽，而今又以一部《天行者》继续讲述民办教师艰苦卓绝而充满希望的故事，为这些“在二十世纪后半叶中国大地上默默苦行的民间英雄”献上感天动地的悲壮之歌。</dc:description>
-        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-20T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;高考落榜生张英才焦急等待舅舅给他安排工作。身为乡教育站的万站长为两个即将成为民办教师的年轻人分配去向发愁：一个是外甥，一个是旧情人的儿子蓝飞，哪个去盛产男苕女苕深山里的艰苦卓绝的界岭小学呢？&lt;br&gt;有文艺爱好的张英才委曲进了山。从此，他融进了民办教师勉力办学的爱与恨、忧与痛。进教室吃粉笔灰的猪，自刻油印课本的学生，辍学打工的优等生叶萌，每天笛声伴奏的升降国旗……单纯热血的张英才体味着严峻的教育现状，也感触、认识三位资深同事：教学、照顾瘫妻之余，承担着十几个寄宿家里的学生吃住管理的老好人余校长；节俭、灵活，一切为转正做准备、一丝不苟进行自己人生计划的副校长邓有米；清高、孤傲，与有瘫痪丈夫的王小兰暗中苦恋多年的教导主任孙四海。他们在深山演绎着寂寞、卑微、五味杂陈的岁月，为实现界岭高考零的突破呕心沥血。&lt;/p&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787020075584</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>刘醒龙</dc:subject>
-        <dc:subject>茅盾文学奖</dc:subject>
-        <dc:subject>民办教师</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>写实派</dc:subject>
-        <dc:subject>第八届茅盾文学奖</dc:subject>
-        <dc:subject>中国</dc:subject>
+        <dc:subject>ZDC:MDWX</dc:subject>
+        <dc:subject>ZDC:XDWX</dc:subject>
+        <dc:subject>CNTY:CHINA</dc:subject>
         <meta content="{&quot;刘醒龙&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="小说" name="calibre:series"/>
         <meta content="59" name="calibre:series_index"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:01:30+00:00" name="calibre:timestamp"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-08-24T15:35:18+00:00" name="calibre:timestamp"/>
         <meta content="天行者" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

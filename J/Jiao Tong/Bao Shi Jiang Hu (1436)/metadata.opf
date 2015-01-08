@@ -6,27 +6,18 @@
         <dc:title>暴食江湖</dc:title>
         <dc:creator opf:file-as="焦桐" opf:role="aut">焦桐</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-11-30T16:00:00+00:00</dc:date>
-        <dc:description>作者认为“肥胖是美的”，从小就对食物充满热情，他在上海闸北老丰阁，“独自吃了一整桌菜肴”，令服务员都惊异。他“双手各执一端：左手缪斯，右手烹饪，诗与美食，不相上下”。本书自然是靠右手端。感情用事的诗人，自然也可以感情用事地谈饮馔，然而，本书中，诗人却以严肃而庄重的态度发表靠右端的见解——每篇文章的副标题都以“论”字开头：论素食、论螃蟹、论牛肉面、论红酒、论樱桃……直到论餐馆、论厨师、论养生饮膳。其行文也颇有论文气势，起承转合，上下纵横，古今中外，旁征博引。但诗人毕竟是诗人，诗人的“论文”也颇有诗意，比如“论素食”，是诗人的愤怒——一段关于吃狗肉的经历而“起兴”的；“论螃蟹”中引李渔，极为生动形象，令人垂涎欲……</dc:description>
-        <dc:publisher>生活·读书·新知三联书店</dc:publisher>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;暴食江湖&lt;/p&gt;</dc:description>
+        <dc:publisher>COAY.COM</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">19127fea-7fef-4d02-b8ec-fdb5ed01bfcb</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787108036100</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>美食</dc:subject>
-        <dc:subject>焦桐</dc:subject>
-        <dc:subject>台湾</dc:subject>
-        <dc:subject>饮食</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>生活·读书·新知三联书店</dc:subject>
-        <dc:subject>生活</dc:subject>
-        <dc:subject>三联</dc:subject>
+        <dc:subject>暴食江湖</dc:subject>
         <meta content="{&quot;焦桐&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:05:37+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:59:47.442109+00:00" name="calibre:timestamp"/>
         <meta content="暴食江湖" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

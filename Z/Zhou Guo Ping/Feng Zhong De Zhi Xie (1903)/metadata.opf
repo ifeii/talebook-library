@@ -6,27 +6,18 @@
         <dc:title>风中的纸屑</dc:title>
         <dc:creator opf:file-as="周国平" opf:role="aut">周国平</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2006-01-31T16:00:00+00:00</dc:date>
-        <dc:description>周国平是国内著名的尼采哲学研究专家，出版各类著作二十余种，其中《人与永恒》是他最受读者欢迎，也是他最喜欢的一本书。这本书是周国平的一本随感录，也是他的第二本书，对于周国平具有重要的意义。在1987年出版以后即长销不衰，在广大青年学生和知识分子中间，产生了持久和深远的影响。
-这本书贯穿着对人生重大问题的哲学思考，诸如生命，痛苦，爱……周国平的文字是送给热爱生活，情感深沉丰富，追寻人生价值探求生命意义的读者的一份珍贵的礼物。</dc:description>
-        <dc:publisher>北岳文艺出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787537828376</dc:identifier>
+        <dc:date>2010-12-20T16:00:00+00:00</dc:date>
+        <dc:description>本书是继《人与永恒》之后周国平的第二本随感集，汇集了1992至2000年间所写的随感。
+　在作者的桌上、床头、手边备着一些小纸片，每当脑中闪现出一些想法就将它们纪录在小纸片上。他称这些小纸片是唤醒记忆的线索，没有它们，那些一闪而过的念头就不知会逃逸到什么地方去了。真正说来，思想恰如风中的纸屑，其中有一些落在了幸运的手上，大部分都随风飘散了。这本书正因为如此而取了这个名字。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>周国平</dc:subject>
-        <dc:subject>随笔</dc:subject>
-        <dc:subject>哲学</dc:subject>
-        <dc:subject>风中的纸屑</dc:subject>
-        <dc:subject>散文</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>散文随笔</dc:subject>
-        <dc:subject>文化</dc:subject>
+        <dc:subject>现代·当代</dc:subject>
         <meta content="{&quot;周国平&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:18:36+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:07:37.818417+00:00" name="calibre:timestamp"/>
         <meta content="风中的纸屑" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

@@ -6,27 +6,17 @@
         <dc:title>一个人的村庄</dc:title>
         <dc:creator opf:file-as="刘亮程" opf:role="aut">刘亮程</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2005-12-31T16:00:00+00:00</dc:date>
-        <dc:description>《一个人的村庄》讲述了刘亮程是真正的作家，也是真正的农民，是真正的农民作家。作为农民，写作真正是他业余的事情；而作为作家，他却无时不在创作，即使在他扛着一把铁锨在田间地头闲逛的时候。在文章里，刘亮程是一个农民，但是作为农民的他，是否意识到自己是个作家呢——或者说，在他的内心深处，是否也以作家自许呢？我不知道。我揣测，在他的村庄里，在与他一样日出而作日没而息的村民们的眼里，这个无事扛着铁锨闲逛，到处乱挖，常常不走正道却偏要走无人走过的草丛中的人一定是个难以捉摸、有些古怪的人吧。在他们眼里，这个说不出却总觉着有点不一样的人是不是有点神秘呢？当然，他们也许不知道这个人在跟他们一样的劳作之外，还喜欢偷偷观察着村里的人，以及驴，兔，飞鸟，蚂蚁，蚊子，以及风中的野草和落叶，甚至村东头以及村西头的阳光……</dc:description>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>春风文艺出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787531329329</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">c8a49a17-b992-46b2-ac4a-bcfd5503d3e0</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>刘亮程</dc:subject>
-        <dc:subject>散文</dc:subject>
-        <dc:subject>一个人的村庄</dc:subject>
-        <dc:subject>乡土</dc:subject>
-        <dc:subject>散文随笔</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>村庄</dc:subject>
         <dc:subject>文学</dc:subject>
         <meta content="{&quot;刘亮程&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:15:07+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:03:29.289075+00:00" name="calibre:timestamp"/>
         <meta content="一个人的村庄" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

@@ -7,25 +7,15 @@
         <dc:creator opf:file-as="圣严法师" opf:role="aut">圣严法师</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-01-08T16:00:00+00:00</dc:date>
-        <dc:description>《学佛群疑》是《正信的佛教》的续篇，文字浅显流畅，解答精辟详细，是学佛入门的必读经典。佛教相信神通和异能吗？相信风水算命吗？人能改变自己的命运吗？密宗是什么？念佛能消灾延寿吗？持咒有用吗？魔考是真的吗？如何修行？如何禅修？个人自修和群体共修有什么不同？佛教徒能赚钱吗？能有感情生活吗？佛教的生命观合乎科学吗？佛教的世界观合乎现代科学吗？佛教相信世界末日吗？</dc:description>
-        <dc:publisher>陕西师范大学出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">30afad65-4b7c-46d0-bcef-bc789456353c</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>佛学</dc:subject>
-        <dc:subject>圣严法师</dc:subject>
-        <dc:subject>佛教</dc:subject>
-        <dc:subject>宗教</dc:subject>
-        <dc:subject>入门</dc:subject>
-        <dc:subject>台湾</dc:subject>
-        <dc:subject>禅宗</dc:subject>
-        <dc:subject>中国</dc:subject>
+        <dc:subject>学佛</dc:subject>
         <meta content="{&quot;圣严法师&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:03:12+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:29.206678+00:00" name="calibre:timestamp"/>
         <meta content="学佛群疑" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

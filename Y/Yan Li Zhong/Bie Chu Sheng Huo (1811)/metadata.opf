@@ -6,27 +6,16 @@
         <dc:title>别处生活</dc:title>
         <dc:creator opf:file-as="晏礼中" opf:role="aut">晏礼中</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-04-30T16:00:00+00:00</dc:date>
-        <dc:description>本书是记者晏礼中积累数年的采访集，他视角独特，面向的不是名人，而是一个一个不为常人视角所及的平民，包括快递员、卖唱者、乡村医生、矿工、艾滋病人管理者、话剧演员、狱警、退伍军人、巡道工，等等。一个人就是一个世界。二十副肖像，就是二十个人生。而二十个故事干净利落，最终成了一个故事。他用干净的语言、朴实真诚的叙事态度，自由游离的立场，不多的议论和情绪流露，复原出现实的微缩景观，展示给我们凡人的琐事陈录。</dc:description>
+        <dc:date>2012-03-31T16:00:00+00:00</dc:date>
         <dc:publisher>中国华侨出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">6e99bca7-673b-47cc-8351-afb0c185c105</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9787511320629</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>平民肖像</dc:subject>
-        <dc:subject>晏礼中</dc:subject>
-        <dc:subject>社会</dc:subject>
-        <dc:subject>社会群像</dc:subject>
-        <dc:subject>生活</dc:subject>
-        <dc:subject>人生</dc:subject>
-        <dc:subject>人文</dc:subject>
-        <dc:subject>游走</dc:subject>
         <meta content="{&quot;晏礼中&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:17:13+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:05:58.153862+00:00" name="calibre:timestamp"/>
         <meta content="别处生活" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

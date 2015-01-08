@@ -6,26 +6,15 @@
         <dc:title>我们无处安放的青春</dc:title>
         <dc:creator opf:file-as="吕挽" opf:role="aut">吕挽</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2004-12-31T16:00:00+00:00</dc:date>
-        <dc:description>《我们无处安放的青春》讲述的是一个并不鲜见的平常故事。美丽纯情的女大学生周蒙与青年摄影记者李然倾心相爱。然而，这一对痴心的恋人却并没有能够步入婚姻的殿堂。十年后，各自成家的昔日情侣重逢。没有激烈的冲突，没有爆发的矛盾，老情歌般的氛围中，两人内心的爱情之潮波涛汹涌。他们似乎是平淡地分别了，只是再一次深深地懂得：他们依然爱着对方，刻骨铭心……</dc:description>
-        <dc:publisher>北京十月文艺出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787530207437</dc:identifier>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>吕挽</dc:publisher>
         <dc:language>zho</dc:language>
-        <dc:subject>我们无处安放的青春</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>青春</dc:subject>
-        <dc:subject>爱情</dc:subject>
-        <dc:subject>吕挽</dc:subject>
-        <dc:subject>生活</dc:subject>
-        <dc:subject>找回青春的感觉</dc:subject>
-        <dc:subject>中国</dc:subject>
         <meta content="{&quot;吕挽&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:23:46+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:12:24.988769+00:00" name="calibre:timestamp"/>
         <meta content="我们无处安放的青春" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

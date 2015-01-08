@@ -6,26 +6,16 @@
         <dc:title>倾城之恋</dc:title>
         <dc:creator opf:file-as="张爱玲" opf:role="aut">张爱玲</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1997-02-28T16:00:00+00:00</dc:date>
-        <dc:description>一对现实庸俗的男女，在战争的兵荒马乱之中被命运掷骰子般地掷到了一起，于“一刹那”体会到了“一对平凡的夫妻”之间的“一点真心”⋯⋯张爱玲是作为中国现代文学史上的一位杰出作家，而不是作为一个怪人、异人而存在的。也许她将不仅仅属于现代文学史。遥想几十年、几百年后，她会像她欣赏的李清照一样，在整个中国文学史上占据一个稳定的位置也说不定，而我们知道，那时候今天为我们所熟知的许多现代作家肯定都将被忽略不计了。</dc:description>
-        <dc:publisher>花城出版社</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9787536023918</dc:identifier>
+        <dc:date>2008-07-15T16:00:00+00:00</dc:date>
+        <dc:publisher>babyshan hcs@fj163.com</dc:publisher>
         <dc:language>eng</dc:language>
-        <dc:subject>张爱玲</dc:subject>
-        <dc:subject>倾城之恋</dc:subject>
-        <dc:subject>小说</dc:subject>
-        <dc:subject>爱情</dc:subject>
-        <dc:subject>中国文学</dc:subject>
-        <dc:subject>经典</dc:subject>
-        <dc:subject>文学</dc:subject>
-        <dc:subject>張愛玲</dc:subject>
+        <dc:subject>lcsh: Novel</dc:subject>
         <meta content="{&quot;张爱玲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="8" name="calibre:rating"/>
-        <meta content="2014-08-22T16:16:04+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T14:04:25.443635+00:00" name="calibre:timestamp"/>
         <meta content="倾城之恋" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>

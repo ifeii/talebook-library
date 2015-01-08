@@ -6,35 +6,16 @@
         <dc:title>瞬间赢得信任的冷读术</dc:title>
         <dc:creator opf:file-as="石井裕之" opf:role="aut">石井裕之</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-06-29T16:00:00+00:00</dc:date>
-        <dc:description>善用「冷讀術」，讓你人際關係隨心所欲!
-冷讀術，是一種瞬間打開陌生人心扉的方法，
-不但能讓對方覺得「這個人真是了解我」，
-也能贏得對方絕對的信任。
-它是通往幸福與豐富人生的關鍵技巧，
-幫助你「受人喜歡」、「增加自信」、「拒絕受騙」，
-以及「成為理想的自己」。
-本書介紹的冷讀術，是一種「了解對方心意」與「建立信任關係」的技巧，使用得當，能在瞬間就贏得陌生者信任。
-目前整個社會的心理狀態，與其說是相信別人、接納別人，還不如說是偏向懷疑別人、批判別人。或許有人會說「為了騙人，我想要精通冷讀術」。但是，請你仔細思考一下：這個社會上欺騙、批判、操縱別人的人已經過多，也過於競爭了。
-現在，社會上最供不應求的，毋寧是「了解我」、「信任我」、「接納我」這種類型的人。因此，如果你認真努力的去了解別人的心意，對社會來說，「物以稀為貴」，非但大家搶著成為你的朋友、想和你談戀愛、買你的商品，也會蜂擁而來尋找你。也因此，熟讀「冷讀術」能讓你在工作、戀愛、交友、家庭關係上都隨心所欲。</dc:description>
-        <dc:publisher>天下遠見出版股份有限公司</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9789862163580</dc:identifier>
+        <dc:date>2010-07-16T03:50:37+00:00</dc:date>
         <dc:language>en</dc:language>
-        <dc:subject>心理学</dc:subject>
-        <dc:subject>瞬间赢得信任的冷读术</dc:subject>
-        <dc:subject>社交</dc:subject>
-        <dc:subject>思维</dc:subject>
-        <dc:subject>日本</dc:subject>
-        <dc:subject>沟通</dc:subject>
-        <dc:subject>石井裕之</dc:subject>
-        <dc:subject>心理</dc:subject>
+        <dc:subject>人际关系</dc:subject>
+        <dc:subject>管理学</dc:subject>
         <meta content="{&quot;石井裕之&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="7" name="calibre:rating"/>
-        <meta content="2014-08-22T16:03:25+00:00" name="calibre:timestamp"/>
+        <meta content="2014-07-16T13:57:37.427921+00:00" name="calibre:timestamp"/>
         <meta content="瞬间赢得信任的冷读术" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="Cover"/>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
     </guide>
 </package>
