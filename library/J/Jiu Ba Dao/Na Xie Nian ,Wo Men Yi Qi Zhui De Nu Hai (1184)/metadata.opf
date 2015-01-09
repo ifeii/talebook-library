@@ -1,24 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1184</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f82929bf-2b08-498a-81e8-c1d04688ce33</dc:identifier>
         <dc:title>那些年，我们一起追的女孩</dc:title>
         <dc:creator opf:file-as="九把刀" opf:role="aut">九把刀</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-10T08:49:36+00:00</dc:date>
-        <dc:description>&lt;div&gt;&lt;div style="font-size: 13px; "&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: 'AR PL UKai CN'; font-size: medium; "&gt;&lt;span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;　　柯景腾读国中时是一个成绩暴烂而且又调皮捣蛋的男生，老师将他“托付”给班里最优秀的女生沈佳仪。只要他不认真学习，沈佳仪就会用钢笔戳他的衣服。&lt;br&gt;　　在沈佳仪的监督和鼓励下，柯景腾的成绩就像芝麻开花节节高，渐渐地，他也喜欢上了气质优雅的沈佳仪。但是柯景腾却不敢向心爱的女生表白，因为几乎被所有男生喜欢的沈佳仪对追求她的男生一律有一种反感，她只想好好学习，不希望别人介入自己的生活。&lt;br&gt;　　但是，为何沈佳仪唯独愿意把心事与柯景腾分享呢？她对他究竟有没有别样的感觉呢？柯景腾暗恋沈佳仪八年最终能否修得正果呢？让我们走进《那些年，我们一起追过的女孩》，一起来寻找最纯真的感动吧！&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#111111" face="Arial, Helvetica, sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; line-height: 19px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="font-size: 13px; "&gt;&lt;font class="Apple-style-span" face="Arial, Helvetica, sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; line-height: 19px; "&gt;&lt;font class="Apple-style-span" color="#ff0000"&gt;子乌注&lt;/font&gt;&lt;font class="Apple-style-span" color="#111111"&gt;（难得写这么长的脚注）：&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-size: 13px; "&gt;&lt;span class="Apple-style-span" style="color: rgb(17, 17, 17); font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 19px; "&gt;书籍来源是&lt;a href="http://ikindle.mobi/book/detail/422"&gt;ikindle万卷书&lt;/a&gt;，根据mobi和pdf版重新制作排版，修改了一些错误并尽可能地将混入的广告删除，应该算比较好的版本了（前提是pdf版是正确的……不过还是对明显笔误的地方有做一些修订）。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#111111" face="Arial, Helvetica, sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; line-height: 19px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#111111" face="Arial, Helvetica, sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; line-height: 19px;"&gt;在制作之前，对这类书籍并不太感冒，原因很多，不过其中最重要的一点可能是因为无法代入作者创造的氛围，虽然会感动会难过会开心，不过，放下之后也就那样了。而这本书不同，每个人都年轻过（好吧，你现在还很年轻……），每个人都曾经经历过那些事情，有些修成正果，有些就那样面对面却遥不可及。这本书会将你心中你自以为遗忘的内容重新摆在你的面前，重新回味。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#111111" face="Arial, Helvetica, sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; line-height: 19px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font class="Apple-style-span" color="#111111" face="Arial, Helvetica, sans-serif"&gt;&lt;span class="Apple-style-span" style="font-size: 12px; line-height: 19px;"&gt;那些曾经擦肩而过的女孩们，祝你们幸福，谢谢……&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>子乌书简</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>柯景腾读国中时是一个成绩暴烂而且又调皮捣蛋的男生，老师将他“托付”给班里最优秀的女生沈佳仪。只要他不认真学习，沈佳仪就会用钢笔戳他的衣服。
+在沈佳仪的监督和鼓励下，柯景腾的成绩就像芝麻开花节节高，渐渐地，他也喜欢上了气质优雅的沈佳仪。但是柯景腾却不敢向心爱的女生表白，因为几乎被所有男生喜欢的沈佳仪对追求她的男生一律有一种反感，她只想好好学习，不希望别人介入自己的生活。
+但是，为何沈佳仪唯独愿意把心事与柯景腾分享呢？她对他究竟有没有别样的感觉呢？柯景腾暗恋沈佳仪八年最终能否修得正果呢？让我们走进《那些年，我们一起追过的女孩》，一起来寻找最纯真的感动吧！</dc:description>
+        <dc:publisher>花山文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787806737842</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:XDWX</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>九把刀</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>那些年我们一起追的女孩</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>爱情</dc:subject>
+        <dc:subject>台湾小说</dc:subject>
+        <dc:subject>那些年</dc:subject>
         <meta content="{&quot;九把刀&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="小说" name="calibre:series"/>
         <meta content="65" name="calibre:series_index"/>
-        <meta content="10" name="calibre:rating"/>
-        <meta content="2012-03-10T08:49:36+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:54+00:00" name="calibre:timestamp"/>
         <meta content="那些年，我们一起追的女孩" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

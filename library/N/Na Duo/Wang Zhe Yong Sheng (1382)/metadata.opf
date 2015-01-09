@@ -6,24 +6,36 @@
         <dc:title>亡者永生</dc:title>
         <dc:creator opf:file-as="那多" opf:role="aut">那多</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-12-02T16:00:00+00:00</dc:date>
-        <dc:description>内容简介&#13;
-《亡者永生》内容为：凶猛疫情降临……是恐怖袭击，还是灵异天灾？就在疫情降临的那一刻，那多父母所在的小区被严密封锁，并隔绝一切内外联系。一场比禽流感凶猛百倍的莫名瘟疫从天而降，感染者不仅顷刻丧命，而且死状恐怖。这种神秘的瘟疫最初仅侵袭动物，不久后人类也末能幸免。但奇怪的是，起初人与人之间并不具传染性。在这场灾难中，病毒在迅速地变异，最终是否会演变成某种烈性高致病的瘟疫，并因此导致一场危害全人类的浩劫？没人知道……&#13;
-因为父母被隔离，那多无可选择地成为唯被允许进入封闭小区的记者。在与国际著名医疗机构几名特派员的接触过程中，惊人的内幕渐次揭开：这场让众多生灵毁于一旦的瘟疫的源头原来是对永生的向往。&#13;
-《亡者永生》依旧洋溢着“那多灵异手记”系列的一贯风格，借助于真实的新闻事件大胆虚构，并由此展开无数充满悬念的神奇故事。 &#13;
-编辑推荐&#13;
-《亡者永生》：“9·11”之后，美国宣布那是战争。&#13;
-以范氏病毒为武器攻击上海，其结果将比两幢崩的大厦更惨烈。&#13;
-有多少人会死去？不，绝对不止。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2006-04-30T16:00:00+00:00</dc:date>
+        <dc:description>奇迹般的开头&#13;
+  超乎想象的想象，超乎灵异的灵异&#13;
+  从将死而获得复生来诠释"亡者永生"&#13;
+  霸道又思辩：亡者竟然能永生？&#13;
+  萌芽网以每日千字的速度连载本书，如今读者反响强烈、&#13;
+&#13;
+  好评如潮、万众注目图书出版。&#13;
+&#13;
+  上海遭遇绝密疫情，那多的父母所在的小区被严密封锁，隔绝一切内外联系。一场比禽流感更凶猛百倍的病毒从天而降，感染者迅速死亡，死状异常恐怖。&#13;
+  这种神秘的病毒最初只会感染动物，不久之前人类也开始得病，但不具传染性。而在上海的这场灾难表明，病毒正在迅速地变异中，它是否会最终演变成一种高传染的病毒，从而成为全人类的一场浩劫？&#13;
+  因为父母的关系，那多不可避免地介入其中，成为唯一被允许进入封闭小区的记者。在与国际著名医疗机构的几名特派员的接触中，惊人内幕逐渐揭开。这场让许多人类死亡的瘟疫，源头竟是对永生的向往。</dc:description>
+        <dc:publisher>接力出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807322658</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>恐怖·悬疑</dc:subject>
+        <dc:subject>那多</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>那多手记</dc:subject>
+        <dc:subject>亡者永生</dc:subject>
+        <dc:subject>灵异</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>推理悬疑</dc:subject>
         <meta content="{&quot;那多&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:58:51.826295+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:40+00:00" name="calibre:timestamp"/>
         <meta content="亡者永生" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

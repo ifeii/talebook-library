@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b89db917-65b5-40cd-b501-166d4ffc56ec</dc:identifier>
+        <dc:title>从华尔街到长城(如何在中国投资)（精选本）</dc:title>
+        <dc:creator opf:file-as="【美】马尔基尔等" opf:role="aut">【美】马尔基尔等</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>中国经济的持续高增长已经引发全球的投资热情，如今就有一本运用成熟的西方投资眼光来审视中国市场的投资指南。本书的写作初衷虽然是为境外投资者提供投资参考，但书中对中国投资市场的客观分析和未来预测，对中国基金、股票、房地产、艺术品等投资品的总结和推荐，对于“身在此山中”的中国投资者无疑具有巨大的参考价值，并有助于理清国内投资者的投资思路。书中提出的针对中国投资市场的投资策略，更会指导投资者大胆而谨慎地进行投资。本书第一作者是写出《漫步华尔街》的投资大师马尔基尔，他对中国经济巨大的增长潜力充满信心，使他将目光聚焦在了中国。而读者也能在书中领略其独有的风格——深入浅出、理论结合实例。还有两位中国投资界的专家，一位是长江商学院的金融学教授，一位是博时基金公司的基金经理。如此罕见的跨国组合，如此紧密的理论与实践的结合，将为中国投资者奉献全面的投资视角和方案。</dc:description>
+        <dc:publisher>未知</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>【美】马尔基尔等</dc:subject>
+        <meta content="{&quot;【美】马尔基尔等&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T11:09:18.315956+00:00" name="calibre:timestamp"/>
+        <meta content="从华尔街到长城(如何在中国投资)（精选本）" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

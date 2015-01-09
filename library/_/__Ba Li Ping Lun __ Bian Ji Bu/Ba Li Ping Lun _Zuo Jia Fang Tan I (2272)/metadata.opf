@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84b6222f-76b3-454d-be29-eda6c12112cd</dc:identifier>
+        <dc:title>巴黎评论·作家访谈Ⅰ</dc:title>
+        <dc:creator opf:file-as="《巴黎评论》编辑部" opf:role="aut">《巴黎评论》编辑部</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+        <dc:description>作家访谈是美国著名文学杂志《巴黎评论》最持久也最著名的特色。自一九五三年创刊号中的E .M.福斯特访谈至今，《巴黎评论》一期不落地刊登当代最伟大的作家长篇访谈，最初冠以“小说的艺术”之名，逐渐扩展到“诗歌的艺术”、“批评的艺术”等，迄今已达三百篇以上，囊括了二十世纪下半叶至今世界文坛几乎所有最重要的作家。作家访谈已然成为《巴黎评论》的招牌，同时树立了访谈这一特殊文体的典范。
+一次访谈从准备到实际进行，往往历时数月甚至跨年，且并非为了配合作家某本新书的出版而作，因此毫无商业宣传的气息。作家们自然而然地谈论各自的写作习惯、方法、困惑的时刻、文坛秘辛……内容妙趣横生，具有重要的文献价值，加上围绕访谈所发生的一些趣事，令这一栏目本身即成为传奇，足可谓“世界历史上持续时间最长的文化对话行为之一”。
+经《巴黎评论》授权，我们从中挑选了中国读者比较熟悉的近四十八位受访作家的访谈，分三卷陆续出版。第一卷收录的受访作家包括如下十六位：卡波蒂、海明威、亨利•米勒、纳博科夫、凯鲁亚克、厄普代克、马尔克斯、雷蒙德•卡佛、米兰•昆德拉、罗伯-格里耶、君特•格拉斯、保罗•奥斯特、村上春树、奥尔罕•帕慕克、斯蒂芬•金、翁贝托•埃科。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020074020</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>巴黎评论</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>谈话录</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>文学评论</dc:subject>
+        <dc:subject>访谈</dc:subject>
+        <dc:subject>文学批评</dc:subject>
+        <dc:subject>评论</dc:subject>
+        <meta content="{&quot;《巴黎评论》编辑部&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:55+00:00" name="calibre:timestamp"/>
+        <meta content="巴黎评论·作家访谈Ⅰ" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

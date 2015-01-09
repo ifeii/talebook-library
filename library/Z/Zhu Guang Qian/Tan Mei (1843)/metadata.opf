@@ -6,16 +6,26 @@
         <dc:title>谈美</dc:title>
         <dc:creator opf:file-as="朱光潜" opf:role="aut">朱光潜</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-02-07T16:00:00+00:00</dc:date>
-        <dc:description>《谈美》是朱光潜先生以书信体形式为青年写的一本美学入门书，自问世以来即深受好评，被视为学术性与普及性兼备的经典之作。全书从“要求人生净化，先要求人生美化”的理念出发，顺着美感态度的特性、艺术与人生的距离、美感经验与移情的关系、美感与快感、自然美与艺术美等问题次第展开，最后呼吁人们“慢慢走，欣赏啊”，因为“欣赏之中都寓有创造，创造之中也都寓有欣赏”。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2004-10-31T16:00:00+00:00</dc:date>
+        <dc:description>《谈美》是朱光潜先生为青年写的一本美学入门书。本书采用书信体的形式，从“要求人生净化，先要求人生美化”的理念出发，顺着美感态度的特性、艺术与人生的距离、美感经验与移情的关系、美感与快感、自然美与艺术美等问题次第展开，文字明白晓畅，充满了真知灼见，指引读者一条认识美学的“简捷不绕弯的道路”，自问世以来深受好评，被视为学术性与普及性兼备的经典之作。</dc:description>
+        <dc:publisher>广西师范大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787563349890</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>美学</dc:subject>
+        <dc:subject>朱光潜</dc:subject>
+        <dc:subject>艺术</dc:subject>
+        <dc:subject>哲学</dc:subject>
+        <dc:subject>谈美</dc:subject>
+        <dc:subject>文艺理论</dc:subject>
+        <dc:subject>人文</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;朱光潜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:06:20.646805+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:42+00:00" name="calibre:timestamp"/>
         <meta content="谈美" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

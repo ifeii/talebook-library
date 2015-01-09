@@ -6,16 +6,28 @@
         <dc:title>我们心中的怕和爱</dc:title>
         <dc:creator opf:file-as="水木丁" opf:role="aut">水木丁</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-11-30T16:00:00+00:00</dc:date>
+        <dc:date>2011-12-21T16:00:00+00:00</dc:date>
+        <dc:description>《我们心中的怕和爱》是一本回信集子，内容也多是诉说情感遭际、生活烦恼，还有一些对人生价值的探讨。水木丁的回信，敦厚却有风骨。或三言两语，或长篇累牍，跟你说说生活，说说怎样能让自己生活得舒坦，怎样能在被别人伤害、不被别人爱的时候还能对自己不离不弃，爱自己，不为难自己。
+水木丁的文字有生活中的烟火味，她不是离地三尺教你甩开世俗，更不是手叉双腰做骂醒你状。她双脚踏实地踩在地上，也告诉你，怎样双脚踩地，与生活握手言和地活下去，神清目朗地活下去。</dc:description>
         <dc:publisher>吉林出版集团,时代文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">01cadd3a-dc11-4b92-938b-3dacd2f1d873</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787538738469</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>水木丁</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>心灵</dc:subject>
+        <dc:subject>只看书名就喜欢</dc:subject>
+        <dc:subject>杂文/专栏/随笔/散文/诗</dc:subject>
+        <dc:subject>心理</dc:subject>
+        <dc:subject>小规模荡气回肠</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;水木丁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:03:07.871007+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:56+00:00" name="calibre:timestamp"/>
         <meta content="我们心中的怕和爱" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

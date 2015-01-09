@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f98998a0-8c81-4e9c-a50a-3ae8f52db038</dc:identifier>
+        <dc:title>朱镕基答记者问</dc:title>
+        <dc:creator opf:file-as="《朱镕基答记者问》编辑组 编" opf:role="aut">《朱镕基答记者问》编辑组 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-31T16:00:00+00:00</dc:date>
+        <dc:description>本书收入朱镕基同志在担任国务院副总理、总理期间回答记者提问和在境外发表的部分演讲。
+本书分为4个部分，每部分内容按时间顺序编排。
+第一部分，朱镕基同志自1998年3月担任国务院总理后，先后在九届全国人大会议5次记者招待会上回答中外记者提问。当时，中央电视台、中央人民广播电台、中国国际广播电台和新华网进行了现场直播，世界各大媒体也做了大量报道。
+第二部分，朱镕基同志接受外国记者采访。采访内容境外媒体当时报道过，国内尚未公开发表。
+第三部分，朱镕基同志在境外发表演讲并回答提问。国内外媒体对此曾做过综合报道。这次收入本书的是演讲和答问的全文。
+第四部分，朱镕基同志在出访期间接受香港记者随行采访。当时海外媒体有过报道，这次选取的是其中的部分内容。</dc:description>
+        <dc:publisher>人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787010081618</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">81d46b6c-478e-4f95-8ece-f6a9e443aa56</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>朱镕基</dc:subject>
+        <dc:subject>政治</dc:subject>
+        <dc:subject>朱镕基答记者问</dc:subject>
+        <dc:subject>访谈</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>思想</dc:subject>
+        <dc:subject>政治学</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <meta content="{&quot;《朱镕基答记者问》编辑组 编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:49+00:00" name="calibre:timestamp"/>
+        <meta content="朱镕基答记者问" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

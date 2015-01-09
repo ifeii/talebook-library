@@ -3,18 +3,35 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1281</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b215f729-c554-43bf-ba0a-686e2890efa6</dc:identifier>
-        <dc:title>世說新語箋疏</dc:title>
-        <dc:creator opf:file-as="余嘉錫" opf:role="aut">余嘉錫</dc:creator>
+        <dc:title>世说新语笺疏</dc:title>
+        <dc:creator opf:file-as="余嘉锡" opf:role="aut">余嘉锡</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1993-11-30T16:00:00+00:00</dc:date>
+        <dc:description>[笺疏】
+〔一〕 嘉锡案：国于天地，必有兴立。管子曰：“四维不张，国乃灭亡。”自古未有无礼义，去廉耻，而能保国长世者。自曹操求不仁不孝之人，而节义衰；自司马昭保持阮籍，而礼法废。波靡不返，举国成风，纪纲名教，荡焉无存。以驯致五胡之乱，不惟亡国，且几亡种族矣。君子见微而知着，读世说任诞之篇，亦千古之殷鉴也。文选四十九干宝晋纪总论曰：“风俗淫僻，耻尚失所，学者以老、庄为宗，而黜六经；谈者以虚薄为辩，而贱名检；行身者以放浊为通，而狭节信。”又曰：“观阮籍之行，而觉礼教崩弛之由。”又曰：“民风国势如此，虽以中庸之才，守文之主治之，辛有必见之于祭祀，季札必得之于声乐，范燮必为之请死，贾谊必为之痛哭。又况我惠帝以荡荡之德临之哉？”李善注引王隐晋书曰：“贵游子弟，多祖述于阮籍，同禽兽为通。”抱朴子外篇刺骄篇曰：“世人闻戴叔鸾、阮嗣宗傲俗自放，见谓大度，而不量其材力非傲生之匹，而慕学之。或乱项科头，或裸袒蹲夷，或濯脚于稠众，或溲便于人前，或停客而独食，或行酒而止所亲。此盖左衽之所为，非诸夏之快事也。昔辛有见被发而祭者，知戎之将炽。余观怀、愍之世，俗尚骄亵，夷、虏自遇，其后□胡、猾夏，侵掠上京，及悟斯事，乃先着之妖怪也。”戴叔鸾即后汉逸民传之戴良，见后 “阮籍当葬母”条。
+全晋文三十五应詹上疏陈便宜曰：“元康以来，贱经尚道。以玄虚宏放为夷达，以儒术清俭为鄙俗。望白署空，显以台衡之望；寻文谨案，目以兰薰之器。永嘉之弊，未必不由此也。”
+１  陈留阮籍，谯国嵇康，河内山涛，三人年皆相比，康年少亚之。预此契者：沛国刘伶，陈留阮咸，河内向秀，琅邪王戎。七人常集于竹林之下，〔一〕肆意酣畅，故世谓“竹林七贤。”〔二〕晋阳秋曰：“于时风誉扇于海内，至于今咏之。”
+【笺疏】
+〔一〕 程炎震云：“阮以汉建安十五年庚寅生，山以建安二十年乙未生，少阮五岁。嵇以魏黄初四年癸卯生，少阮十三岁。王戎以魏青龙二年甲寅生，盖于七人中最后死也。沈约七贤论曰：‘仲容年齿不悬，风力粗可。’”
+〔二〕 程炎震云：“文选卷二十一五君咏注引魏氏春秋曰：‘康寓居河内之山阳县，与河内向秀友善，游于竹林。’水经注卷九清水篇曰：‘长泉水出白鹿山，东南伏流，迳十三里，重源浚发于邓城西北，世亦谓之重泉也。又迳七贤祠东，左右筠篁列植，冬夏不变贞萋，向子期所谓“山阳旧居”也。后人立庙于其处。庙南又有一泉，东南流注于长泉水。郭缘生述征记所云“嵇公故居，时有遗竹”也。’御览一百八十引述征记曰：‘山阳县城东北二十里，魏中散大夫嵇康园宅，今悉为田墟，而父老犹谓嵇公竹林，时有遗竹也。’”</dc:description>
+        <dc:publisher>上海古籍出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532515271</dc:identifier>
         <dc:language>en</dc:language>
-        <dc:subject>影乐之声 校对并制作</dc:subject>
-        <meta content="{&quot;余嘉錫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:57:20.601320+00:00" name="calibre:timestamp"/>
-        <meta content="世說新語箋疏" name="calibre:title_sort"/>
+        <dc:subject>世说新语</dc:subject>
+        <dc:subject>余嘉锡</dc:subject>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>魏晋南北朝</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>魏晋</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <meta content="{&quot;余嘉锡&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:02:56+00:00" name="calibre:timestamp"/>
+        <meta content="世说新语笺疏" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

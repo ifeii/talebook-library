@@ -6,18 +6,26 @@
         <dc:title>黑铁时代</dc:title>
         <dc:creator opf:file-as="王小波" opf:role="aut">王小波</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-04-01T16:00:00+00:00</dc:date>
-        <dc:description>在本书中，收入了作家“时代”系列的第四部作品――《黑铁时代》，中篇小说《2010》；还有久为人们传诵的早期手稿――《绿毛水怪》、《歌仙》、《这是真的》、《变形记》……&#13;
-　　如果说前两部作品是《时代三部曲》的逻辑演进；那么后者虽显稚嫩，但文笔流畅、意境清新，已显露出作者的文学才华；其于了解作家渐臻成熟的创作过程有不可忽视之价值。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2001-12-31T16:00:00+00:00</dc:date>
+        <dc:description>收录王小波在1982年出版的数十篇小说及剧本，全书分为六辑，分别为“早期作品”、“唐人故事”、“似水柔情”、“东宫·西宫”、“中篇小说”、“黑铁时代”。</dc:description>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787500646723</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>现代·当代</dc:subject>
+        <dc:subject>王小波</dc:subject>
+        <dc:subject>黑铁时代</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>当代</dc:subject>
+        <dc:subject>王二</dc:subject>
         <meta content="{&quot;王小波&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:04:59.443105+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:16:46+00:00" name="calibre:timestamp"/>
         <meta content="黑铁时代" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

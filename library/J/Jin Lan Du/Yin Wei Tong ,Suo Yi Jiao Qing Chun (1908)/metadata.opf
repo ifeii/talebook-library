@@ -6,14 +6,27 @@
         <dc:title>因为痛，所以叫青春</dc:title>
         <dc:creator opf:file-as="金兰都" opf:role="aut">金兰都</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-12-10T18:21:38+00:00</dc:date>
+        <dc:date>2012-01-31T16:00:00+00:00</dc:date>
+        <dc:description>这是韩国青年导师金兰都 “因为痛，所以叫青春系列”的第一部。第二部《千万次摇摆，才能长大成人》http://book.douban.com/subject/24869702/   已在中国热卖。
+因为痛所以叫青春——写给独自站在人生路口的你》内容简介： 漫漫人生路，一直在迷路。 在一个讲究拼爹的时代，要拼什么才能拼出未来？ 改变亚洲亿万年轻人的疗愈经典。 一位导师父亲写给迷茫孩子的疼痛共鸣。 全亚洲重印512次，10个月销售破15 0万，45周横扫各大排行榜榜首。 很多时候，在学业上，在工作上，甚至在感情问题上，这些年轻人甚至还没有迈出踏进社会的第一步，就已经沦为一个“loser（失败者）”。在《因为痛所以叫青春——写给独自站在人生路口的你》中作者金兰都如实地把为人父母的成年人们所不曾来得及去了解的这代年轻人的困苦和不安展现了出来。作者帮助他们诊视这些无法向他人倾诉的苦痛，并告诉他们如何才能从这种苦找到为未来打拼的能量。</dc:description>
+        <dc:publisher>广西科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787807637295</dc:identifier>
         <dc:language>en</dc:language>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>励志</dc:subject>
+        <dc:subject>治愈</dc:subject>
+        <dc:subject>韩国</dc:subject>
+        <dc:subject>金兰都</dc:subject>
+        <dc:subject>随笔</dc:subject>
+        <dc:subject>痛</dc:subject>
         <meta content="{&quot;金兰都&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:07:44.636669+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:18:42+00:00" name="calibre:timestamp"/>
         <meta content="因为痛，所以叫青春" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

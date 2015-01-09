@@ -6,15 +6,29 @@
         <dc:title>一颗热土豆是一张温馨的床</dc:title>
         <dc:creator opf:file-as="赫塔·米勒" opf:role="aut">赫塔·米勒</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-10-20T09:48:46+00:00</dc:date>
+        <dc:date>2010-08-31T16:00:00+00:00</dc:date>
+        <dc:description>这本书包括《一颗热土豆是一张温馨的床》和《赤足的二月》两部散文集。
+《一颗热土豆是一张温馨的床》所收文章写于1990年9月－1991年12月，往往从日常经历或某个政治事件谈起，既有对时代局势的思考，也有对历史文化的反思，具有高度的政治性和完美的文学性，尖锐却富有诗意。
+《赤足的二月》：异乡人中的家乡，新家乡的陌生人。时而轻快，时而忧郁。米勒描写她新的家乡，感人而生动。</dc:description>
+        <dc:publisher>江苏人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787214064455</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">e7b7681a-fff4-431d-ae80-2c3754faff30</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>德国</dc:subject>
+        <dc:subject>赫塔米勒</dc:subject>
+        <dc:subject>赫塔•米勒</dc:subject>
+        <dc:subject>散文</dc:subject>
+        <dc:subject>诺贝尔文学奖</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>赫塔·米勒</dc:subject>
+        <dc:subject>文学</dc:subject>
         <meta content="{&quot;赫塔·米勒&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:10:59.586817+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:21:20+00:00" name="calibre:timestamp"/>
         <meta content="一颗热土豆是一张温馨的床" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

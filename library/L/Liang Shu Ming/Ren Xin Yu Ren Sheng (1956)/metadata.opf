@@ -6,15 +6,24 @@
         <dc:title>人心與人生</dc:title>
         <dc:creator opf:file-as="梁漱溟" opf:role="aut">梁漱溟</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-21T14:58:11+00:00</dc:date>
+        <dc:date>2013-11-30T16:00:00+00:00</dc:date>
+        <dc:description>”有思想，又且本著自己思想而行動的人“
+紀念一代國學大師、著名思想家、哲學家、教育家
+梁漱溟先生誕辰120周年
+梁?溟畢生三書《東西文化及其哲學》《人心與人生》《中國文化要義》
+我一生心思力氣之用恆在兩個問題上：一個是人生問題，另一個可說是中國問題。不待言，《人心與人生》就是屬於人生問題一面的。在《東西文化及其哲學》出版後的第二年，我很快覺察到其中有關儒家思想一部分粗淺不正確。於是在北京大學哲學系新開「儒家思想」一課，作了一種改正的講法。寫作了兩本書：一書取名《孔學繹旨》；而另一部分關涉到人類心理的認識者，另成《人心與人生》一書。這就是我最初要寫《人心與人生》的由來。
+為什麼有《人心與人生》這本東西出來？——我為什麼要談心理學？我們應當知道，凡是一個倫理學派或一個倫理思想家，都有他的一種心理學為其基礎；或說他的倫理學，都是從他對於人類心理的一種看法，而建樹起來。如果我們不能尋得出孔子的這套心理學來，則我們去講孔子即是講空話。蓋古人往矣！無從起死者而與之語。我們所及見者，惟流傳到今的簡冊上一些字句而已。這些字句，在當時原一一有其所指；但到我們手裡，不過是些符號。此時苟不能返求其所指，而模模糊糊去說去講，則只是掉弄名詞，演繹符號而已；理趣大端，終不可見。——假如今日心理學界有共魂趨勢，或其時代風氣可言，那麼就是和孔子的心理學見解適不相容的一種趨勢、風氣。所以倘你不能推翻今日的心理學，而建樹孔子的心理學，亦即不必來相較量、勘對！《人心與人生》之所為作，凡以此而已！
+─《人心與人生》自序</dc:description>
+        <dc:publisher>臺灣商務印書館</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789570528824</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">5111e15b-d032-4561-a69a-73fbe2707e2b</dc:identifier>
         <dc:language>zho</dc:language>
         <meta content="{&quot;梁漱溟&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:08:47.984665+00:00" name="calibre:timestamp"/>
+        <meta content="2014-08-22T16:19:23+00:00" name="calibre:timestamp"/>
         <meta content="人心與人生" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

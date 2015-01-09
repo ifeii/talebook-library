@@ -6,15 +6,39 @@
         <dc:title>鲁班的诅咒</dc:title>
         <dc:creator opf:file-as="圆太极" opf:role="aut">圆太极</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-11-06T10:57:36+00:00</dc:date>
+        <dc:date>2011-07-31T16:00:00+00:00</dc:date>
+        <dc:description>《鲁班的诅咒》内容简介：鲁班的传世奇书《鲁班书》，并不是讲解木工的，而是描述他那些构思巧妙、制作精湛的暗器和杀戮机关。鲁班曾立下诅咒：凡是读懂此书的人，要么丧妻守寡，要么孤老残疾！所以，该书又叫《缺一门》。
+公元前448年，楚王准备攻打宋国，鲁班奉楚王之命设计了九种杀伤力强大的攻城器具（史称：九攻）；崇尚和平的墨家掌门墨子闻讯前来劝和，当场指出九攻的破绽，令鲁班无言以对，最终化解了这场无谓的战争，这就是著名的九攻九拒。
+而墨子临走时，鲁班把他拉到僻静处，又摆出九攻的九种变化，墨子则无一能解。鲁班说：点拨我这九种变化的，另有其人，你随我来。
+那天下午，在楚水河边，一块黝黑巨石之上，鲁墨二人拜见了一位隐者，并从隐者那里共同领受了一项神圣而又神秘的任务。
+此后数十年，鲁墨二人使出各自的奇工异术，耗尽毕生精力，并代代相传地执行着隐者托付的任务……
+翻开本书，了解鲁班留下的巧夺天工的杀戮机关、疯狂想象力和不灭的诅咒。
+
+海报：
+
+ 
+
+  点击链接进入： 
+ 鲁班的诅咒大全集(套装共5册)</dc:description>
+        <dc:publisher>江苏文艺出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">2a3b7471-f12b-4010-b11a-43aa2eb765b6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787539946283</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>机关暗器</dc:subject>
+        <dc:subject>鲁班</dc:subject>
+        <dc:subject>风水布局</dc:subject>
+        <dc:subject>悬疑</dc:subject>
+        <dc:subject>鲁班的诅咒</dc:subject>
+        <dc:subject>圆太极</dc:subject>
+        <dc:subject>乱七八糟的小说</dc:subject>
         <meta content="{&quot;圆太极&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:10:00.253525+00:00" name="calibre:timestamp"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:37+00:00" name="calibre:timestamp"/>
         <meta content="鲁班的诅咒" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

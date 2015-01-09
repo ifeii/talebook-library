@@ -6,15 +6,29 @@
         <dc:title>人类曾经被毁灭</dc:title>
         <dc:creator opf:file-as="李卫东" opf:role="aut">李卫东</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-04T13:59:51+00:00</dc:date>
+        <dc:date>1997-12-31T16:00:00+00:00</dc:date>
+        <dc:description>1938年，中国考古学家纪蒲泰等人到青海南部的巴颜喀拉山地区考察时，在一个不太显眼的山洞里共挖出716块花岗石圆形体，中间稍四无孔，每块厚度约2厘米，从中间向四周辐射出许多十分规则的水波纹线条，极似现代的镭射唱片，上面还刻有许多现代人无法解读的各种符号。经过测定，这些石盘大约是正万多年以前的东西。后来，石盘几经辗转到达苏联，在莫斯科所作的各项科学分析表明，这些石盘含有大量的钻金属和其他金属元素，而且石盘的振荡频率特别高，这说明它长期用于高电压之中，仿佛石盘曾经带电，或者是某种电路的组成部分。&#13;
+&#13;
+  1962年，一位中国学者徐鸿儒教授根据当地的古老传说，经过长时间的研究，最终破译了石盘上的表意符号，译文是：特罗巴人来自云端，他们乘坐的是古老的飞船，后来飞船在着陆时损坏，这些特罗巴人只好藏身山洞。在巴颜喀拉山地区一直流传着有关特罗巴人的各种传说。实际上在西藏地区确实曾经生活过两个十分特殊的部落，一个叫朱洛巴，一个叫康巴，这两个部落的人种与世界其他地区的人种都不一样，他们就生活在巴颜喀拉山一带，平均身高1．2米，瘦小柔弱，骨骼纤细，眼眶奇大，脑颅容量比一般人平均大100毫升，而且血型独一无二。这两个部落1935年被首次发现，1950年曾有一支考察队前往考察，但结果不得而知。有报道说，最近考古学家在这一带地区曾出上过身材矮小的人种化石，与传说中的特罗巴人和发现的朱洛巴、康巴人十分相似。这些特罗巴人是地球人吗？人类在1万多年以前能造出宇宙飞船吗？</dc:description>
+        <dc:publisher>北京-九洲圖書出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787801143105</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">96d13694-6a06-494b-9bdf-d4a3a02a8588</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>人类曾经被毁灭</dc:subject>
+        <dc:subject>李卫东</dc:subject>
+        <dc:subject>科普</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>科学与幻想</dc:subject>
+        <dc:subject>很好看的科学推想书</dc:subject>
+        <dc:subject>科学</dc:subject>
         <meta content="{&quot;李卫东&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:02:16.153380+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:14:14+00:00" name="calibre:timestamp"/>
         <meta content="人类曾经被毁灭" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

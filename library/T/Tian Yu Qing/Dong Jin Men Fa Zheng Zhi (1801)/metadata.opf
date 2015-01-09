@@ -6,15 +6,27 @@
         <dc:title>东晋门阀政治</dc:title>
         <dc:creator opf:file-as="田余庆" opf:role="aut">田余庆</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-02-08T14:50:44+00:00</dc:date>
+        <dc:date>2005-05-31T16:00:00+00:00</dc:date>
+        <dc:description>本书讲述的是从公元4世纪初年至5世纪初年的百余年间，江左几家侨姓门阀士族与司马氏皇权结合而运转的政治历史。虽不是全面的东晋政治史，但从东晋门阀士族的兴替和门阀政治的发展以至消亡，偏重于政治史方面的研究，它以江左几家侨姓士族的兴衰为线索进行考察，但也不同于各个士族门户的个案研究。书中亦旁及军事、地理、文化、经济诸问题，却也只限于阐明门阀政治的需要。</dc:description>
+        <dc:publisher>北京大学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787301011232</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">2782f4f8-e123-4337-9508-821ceed4a2b7</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>魏晋南北朝</dc:subject>
+        <dc:subject>田余庆</dc:subject>
+        <dc:subject>门阀</dc:subject>
+        <dc:subject>东晋</dc:subject>
+        <dc:subject>士族</dc:subject>
+        <dc:subject>中国历史</dc:subject>
+        <dc:subject>政治</dc:subject>
         <meta content="{&quot;田余庆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:05:48.480530+00:00" name="calibre:timestamp"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:06+00:00" name="calibre:timestamp"/>
         <meta content="东晋门阀政治" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

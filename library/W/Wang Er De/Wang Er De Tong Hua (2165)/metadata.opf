@@ -6,26 +6,27 @@
         <dc:title>王尔德童话</dc:title>
         <dc:creator opf:file-as="王尔德" opf:role="aut">王尔德</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>1972-01-02T06:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;王尔德是19世纪英国最伟大的艺术家之一,以其剧作、诗歌、童话和小说名世。在风流才子那颓废唯美、猖狂放浪的表面姿态下,是一颗纯美纯善,永难泯灭的童心。而这可贵童心一经与卓绝才智结合,便诞生了《王尔德童话》。它不仅为作者奠定了文学声名的基石,更成为世界文学宝库中的传世佳作。其语言纯正优美堪称典范,其意境高洁悠远益人心智,值得向每一个童稚未凿的孩子、每一位葆有赤子之心的成人郑重推荐。&lt;/p&gt;</dc:description>
+        <dc:date>2003-05-31T16:00:00+00:00</dc:date>
+        <dc:description>王尔德童话，ISBN：9787805676104，作者：（英）奥斯卡·王尔德（Oscar Wilde）著；王林译</dc:description>
         <dc:publisher>译林出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">10919f11-77a1-421a-8e1b-522542b8539f</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9787805676104</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>英国文学</dc:subject>
-        <dc:subject>英国</dc:subject>
         <dc:subject>王尔德</dc:subject>
-        <dc:subject>外国文学</dc:subject>
-        <dc:subject>王尔德童话</dc:subject>
         <dc:subject>童话</dc:subject>
-        <dc:subject>经典</dc:subject>
+        <dc:subject>王尔德童话</dc:subject>
+        <dc:subject>英国</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>英国文学</dc:subject>
         <dc:subject>儿童文学</dc:subject>
+        <dc:subject>经典</dc:subject>
         <meta content="{&quot;王尔德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:11:55.373982+00:00" name="calibre:timestamp"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2014-08-22T16:23:21+00:00" name="calibre:timestamp"/>
         <meta content="王尔德童话" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

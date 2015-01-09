@@ -6,15 +6,25 @@
         <dc:title>丰臣家的人们</dc:title>
         <dc:creator opf:file-as="司马辽太郎" opf:role="aut">司马辽太郎</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:publisher>司马辽太郎</dc:publisher>
+        <dc:date>1983-05-31T16:00:00+00:00</dc:date>
+        <dc:description>《丰臣家的人们》所写的，是在日本历史上实现了统一全国伟业的丰臣秀吉及其几个亲属的故事。全书由九个短篇小说组成。由于所写的都是丰臣家的人们的事，相互有联系，因而这九篇故事既是独立的短篇小说，又可以当作描写丰臣家的兴衰史的长篇小说来读。</dc:description>
+        <dc:publisher>外国文学出版社</dc:publisher>
         <dc:language>zho</dc:language>
+        <dc:subject>司马辽太郎</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>日本</dc:subject>
+        <dc:subject>日本战国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>日本文学</dc:subject>
+        <dc:subject>日本历史</dc:subject>
+        <dc:subject>战国</dc:subject>
         <meta content="{&quot;司马辽太郎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:12:49.550894+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:24:04+00:00" name="calibre:timestamp"/>
         <meta content="丰臣家的人们" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

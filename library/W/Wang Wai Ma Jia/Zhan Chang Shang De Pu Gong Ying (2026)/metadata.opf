@@ -6,15 +6,29 @@
         <dc:title>战场上的蒲公英</dc:title>
         <dc:creator opf:file-as="王外马甲" opf:role="aut">王外马甲</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-11-24T18:13:49+00:00</dc:date>
+        <dc:date>2009-03-31T16:00:00+00:00</dc:date>
+        <dc:description>《战场上的蒲公英:一个国民党伞兵的军旅记录》的体裁不属于小说，作者严格尊重史实，从过程到细节，全部来自战场的回忆和记述，无一杜撰。作者的笔法几乎是超自然主义，其真切实感，如挟读者亲临其境，战火硝烟，厮杀呻吟，耳濡目染着你。但也不能算是传记，为让读者更广泛地体验战争，作者将数个人物原型的素材通用，时空剪接，兼采小说和传记之长，超真实地还原一个战争全过程，这是作者的创举，也是该书的特色所在。
+书的主人公叫蔡智诚，出身于贵州殷实之家，抗战后期参军，当上一名空降兵，经历了惨烈的松山战役和南京受降仪式。后在国共内战中，他又亲历豫东战役和淮海战役，九死一生，负伤被俘，逃脱后再被裹挟起义，直到1949年退役返回故乡。书以“蒲公英”为名，既是伞兵空降战场时浪漫凄美的生动写照，更寓意战争年代普通军人命运之飘零无助。
+古今中外的军事著作浩如烟海，优劣各异，但在敌我之分上面，没有含糊的，皆是小葱拌豆腐，一清二白。作者无论实写或虚构，重点不外乎突出我方的勇敢顽强和敌方的凶狠残忍，撩拨读者热血沸腾或感慨流涕。然而此书在这一点却给颠覆了！共产党人反手写国民党，主视角出自战争中的敌军官，敌人眼中的敌人才是神圣的我方。一个人物位置的调换，读者敌我难辨，爱恨拧巴，情感无从代入，战场上的持枪者全是龙的传人了，每一粒夺命的子弹都让人战栗，所有倒下的身影都让人痛惜，真是别有一番滋味在心头。</dc:description>
+        <dc:publisher>山东画报出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">060320a2-f848-4309-bb47-ac7a725dcf0a</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787807137795</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>军事</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>王外马甲</dc:subject>
+        <dc:subject>抗战</dc:subject>
+        <dc:subject>内战</dc:subject>
+        <dc:subject>战场上的蒲公英</dc:subject>
+        <dc:subject>战争</dc:subject>
         <meta content="{&quot;王外马甲&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:09:46.690211+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:20:21+00:00" name="calibre:timestamp"/>
         <meta content="战场上的蒲公英" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

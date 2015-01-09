@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b345ede6-4837-45e4-ba64-fa2263bb4f99</dc:identifier>
+        <dc:title>活着就为改变世界 (缔造苹果神话)</dc:title>
+        <dc:creator opf:file-as="译者:蒋永军, 杰弗里·扬 威廉·西蒙" opf:role="aut">(美国)杰弗里·扬 (美国)威廉·西蒙 译者:蒋永军</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-26T04:00:00+00:00</dc:date>
+        <dc:description>《活着就为改变世界:史蒂夫·乔布斯传》乔布斯本人在生活和创业过程中经历的大起大落在本书中有详尽的讲述,对于其工作和人生的诸多变化,《活着就为改变世界:史蒂夫·乔布斯传》作者杰弗里·扬也作了大量前所未有的报道。《活着就为改变世界:史蒂夫·乔布斯传》试图向读者展示一个真实的乔布斯和他缔造苹果帝国的过程。
+  从小对电子产品的好奇心让乔布斯与他的儿时玩伴沃兹创建了苹果公司,之后因其个性,与身边的好友、女友分道扬镳,最终离开苹果公司。但他的商业生涯并没有结束,对科技的着迷和市场营销的冲动,让他与旧识建立NeXT公司、皮克斯公司,与迪士尼公司合作进军数字电影领域。历经各种挫折之后,他又回到苹果公司,像拯救“濒临灭绝的恐龙一样”把世界的电脑产业带出低谷,并创造出了一个个令人咋舌的革命性的“I”系列产品, imac, ibook, ipod, iphone, ipad......
+  他似乎拥有无穷尽的意志力和行动力,创造出一个个商业神话和新奇产品,这不仅改变着他自己的现实世界和内心世界,也时刻改变和影响着全球人们的生活方式和对未来科技的认识。
+  《活着就为改变世界:史蒂夫·乔布斯传》作为乔布斯的个人传记,不仅定位于从事该行业的读者,更着重定位于年轻的公司白领和对创业有所想法的即将毕业的大学生、苹果产品的粉丝、IT业从业者以及IT历史研究者。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b2173791-f18f-41ec-b531-e8d15aad66e0</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>现代·当代</dc:subject>
+        <meta content="{&quot;(美国)杰弗里·扬 (美国)威廉·西蒙 译者:蒋永军&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T11:28:49.978295+00:00" name="calibre:timestamp"/>
+        <meta content="活着就为改变世界 (缔造苹果神话)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

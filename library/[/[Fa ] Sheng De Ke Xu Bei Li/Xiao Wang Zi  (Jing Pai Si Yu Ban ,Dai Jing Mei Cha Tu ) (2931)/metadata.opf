@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fbfdeac-1eb2-42dd-81bf-6aad77c16b16</dc:identifier>
+        <dc:title>小王子 (精排四语版,带精美插图)</dc:title>
+        <dc:creator opf:file-as="[法] 圣德克旭贝里" opf:role="aut">[法] 圣德克旭贝里</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-18T05:00:00+00:00</dc:date>
+        <dc:description>四种语言的版本,法语,简体中文,繁体中文,英语,没个语言版本里面都带有精美插图,非常值得收藏的一本书。
+
+    本书是法国儿童文学的一部经典作品,叙述小王子离开他的星球来到地球的传奇故事,富有启示意义。一个来自太阳系中某颗小行星的小王子,因为和他那美丽,骄傲的玫瑰闹了别扭,便只身出走,在各星球间游历,见识了国王、自负的人、酒鬼、商人、点灯人和地理学家;最后,他降临地球,在这里同狐狸建立了友谊,并且得到了人生的真谛......在撒哈拉大沙漠,一名迫降的飞行员遇见了一个从外星球来的小王子。这个可爱的小人儿为了寻求爱和友谊曾经访问过六颗行星,这六颗星球上各住着一个人,他们是权欲迷......</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">54618b54-a9ad-4b7b-8127-661b6a83418a</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>外国小说</dc:subject>
+        <meta content="{&quot;[法] 圣德克旭贝里&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-08-22T11:28:48.086443+00:00" name="calibre:timestamp"/>
+        <meta content="小王子 (精排四语版,带精美插图)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -6,15 +6,30 @@
         <dc:title>儒林外史</dc:title>
         <dc:creator opf:file-as="吴敬梓" opf:role="aut">吴敬梓</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-02-11T01:18:09+00:00</dc:date>
+        <dc:date>2001-12-31T16:00:00+00:00</dc:date>
+        <dc:description>吴敬梓的《儒林外史》是中国小说史上少有的几部出类拔萃的巨制之一，是唯一一部真正意义上的讽刺小说。
+    吴敬梓在创作此书时，以对待功名富贵和文行出处的态度为中心，贬抑批判士人中的假儒士和假名士，褒扬推崇真儒士和真名士，热烈赞美具有完整健康人格的、德才兼备的知识分子。
+    《儒林外史》创造了富有民族特色又极具个性的讽刺艺术。塑造人物时，能秉持公心，不虚美，不隐恶，借喜剧性的情节，揭示悲剧性的内涵，令人笑中带泪，具有振聋发聩的艺术效果。
+    小说词义婉曲，叙述含蓄，冷静蕴藉，常常是用白描的笔触，“不尚夸张，一味写实”，让生活的真实来显现讽刺的力量。</dc:description>
+        <dc:publisher>人民文学出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787020036189</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">662261d9-b67d-4e74-a573-fa531621f13c</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>古典文学</dc:subject>
+        <dc:subject>吴敬梓</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>儒林外史</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>古典</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>文学</dc:subject>
         <meta content="{&quot;吴敬梓&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:58:11.160698+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:04:02+00:00" name="calibre:timestamp"/>
         <meta content="儒林外史" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

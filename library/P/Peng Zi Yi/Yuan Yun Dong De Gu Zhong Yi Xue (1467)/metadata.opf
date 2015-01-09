@@ -5,22 +5,33 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ba87a89a-cfa4-4641-872a-4b800da37c15</dc:identifier>
         <dc:title>圆运动的古中医学</dc:title>
         <dc:creator opf:file-as="彭子益" opf:role="aut">彭子益</dc:creator>
+        <dc:creator opf:file-as="彭子益" opf:role="aut">刘力红 主编</dc:creator>
+        <dc:creator opf:file-as="彭子益" opf:role="aut">李可 主校</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-03-02T16:00:00+00:00</dc:date>
-        <dc:description>为什么着名老中医李可先生，经半个世纪苦苦搜求，寻找到并亲自主校《圆运动的古中医学》这本“中医秘籍”。李可老中医认为：该书作者、清末民初的中医学家彭子益，是“中医复兴之父”，是继医圣张仲景之后第二位医中圣人。&#13;
-　　 中医学派，必将逐一攻克世界十大医学难题中之心、肺、肾三衰，肿瘤等奇难重危急症，为全人类的健康长寿作出重大贡献。&#13;
-　　 该书以《易经》河图中气升降圆运动之理，破解《内经》、《难经》、《神农本草经》、《伤寒杂病论》、温病学说的千古奥秘，批判地继承、发展了古中医学，从头绪纷繁的古医经中，理出了“生命宇宙整体观” 、科学实用的中医系统科学。成为当代继承发展中医学的入门向导、成功阶梯。&#13;
-　　 读彭子遗书，深感她不仅是医病之书，更是一册“医医病书”，久历临床者读之，更如醍醐灌顶，格外亲切。犹如长者在侧，耳提面命。&#13;
-　　 彭子遗书的问世，将唤醒国魂与医魂!将引起中医界高层的沉痛反思，将引导老、中、青三代中医走出误区与迷阵，开创中医复兴的新世纪! 世界医学的有识之士，必将受她的启发，重新认识“生命与宇宙整体观”，借鉴彭子学说，实现战略突破，从困境中脱茧而出。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2007-05-31T16:00:00+00:00</dc:date>
+        <dc:description>为什么著名老中医李可先生，经半个世纪苦苦搜求，寻找到并亲自主校《圆运动的古中医学》这本“中医秘籍”? 李可老中医认为：该书作者、清末民初的中医学家彭子益，是“中医复兴之父”，是继医圣张仲景之后第二位医中圣人。
+中国的古中医学派，必将逐一攻克世界十大医学难题中之心、肺、肾三衰，肿瘤等奇难重危急症，为全人类的健康长寿作出重大贡献。
+该书以《易经》河图中气升降圆运动之理，破解《内经》、《难经》、《神农本草经》、《伤寒杂病论》、温病学说的千古奥秘，批判地继承、发展了古中医学，从头绪纷繁的古医经中，理出了“生命宇宙整体观” 、科学实用的中医系统科学。成为当代继承发展中医学的入门向导、成功阶梯。
+读彭子遗书，深感她不仅是医病之书，更是一册“医医病书”，久历临床者读之，更如醍醐灌顶，格外亲切。犹如长者在侧，耳提面命。
+彭子遗书的问世，将唤醒国魂与医魂!将引起中医界高层的沉痛反思，将引导老、中、青三代中医走出误区与迷阵，开创中医复兴的新世纪! 世界医学的有识之士，必将受她的启发，重新认识“生命与宇宙整体观”，借鉴彭子学说，实现战略突破，从困境中脱茧而出。</dc:description>
+        <dc:publisher>中国中医药出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787802312074</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>中医</dc:subject>
-        <meta content="{&quot;彭子益&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:00:20.481862+00:00" name="calibre:timestamp"/>
+        <dc:subject>圆运动的古中医学</dc:subject>
+        <dc:subject>彭子益</dc:subject>
+        <dc:subject>国学</dc:subject>
+        <dc:subject>医学</dc:subject>
+        <dc:subject>中医，养生，保健</dc:subject>
+        <dc:subject>阴阳</dc:subject>
+        <dc:subject>圆运动</dc:subject>
+        <meta content="{&quot;刘力红 主编&quot;: &quot;&quot;, &quot;彭子益&quot;: &quot;&quot;, &quot;李可 主校&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:12:18+00:00" name="calibre:timestamp"/>
         <meta content="圆运动的古中医学" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

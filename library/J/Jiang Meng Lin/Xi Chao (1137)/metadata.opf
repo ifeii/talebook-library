@@ -1,24 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1137</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">9ac7ed15-35dd-44fe-9789-1ca7bfb4d8c1</dc:identifier>
         <dc:title>西潮</dc:title>
         <dc:creator opf:file-as="蔣夢麟" opf:role="aut">蔣夢麟</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.9) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-06-29T16:00:00+00:00</dc:date>
-        <dc:description>&lt;span class="Apple-style-span" style="font-family: MingLiu; color: rgb(51, 51, 51); "&gt;本書記錄了1842年至1941年中國的百年歷史，前半段是作者親聞的，後半段是作者親歷的。蔣夢麟先生的人生歷程（童年私塾、新式教育、留學美國、報效祖國）與激蕩的百年歷史事件、歷史人物，以及建立在作者深厚學養上的精闢反思熔於一爐，歷歷如在眼前。用作者的話說，本書「有點像自傳，有點像回憶錄，也有點像近代史」。這樣的「近代史」比教科書上的近代史要豐富得多，有趣得多，深入人心得多。&lt;/span&gt;</dc:description>
-        <dc:publisher>好读</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9861770275</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-07T16:00:00+00:00</dc:date>
+        <dc:description>一段青年成長的歷史證言．一部超越時代的跨世紀之作
+一個身處於西風東漸潮流下的時代青年，面對一個極度年輕、又極度滄桑的國家時，會是什麼樣的眼光與心情？作者以自傳方式，開卷長言，在看盡了自滿清末年到台灣近代滄海桑田的世局之後，以對社會的人生的深刻透視，提供現代人一部跨世紀的歷史證言，及歷久彌新的人生智慧。
+《西潮》一書是作者蔣夢麟半生的自傳，記載了他的家世及生活的經歷。「西潮」是指中國人的思想被西方精神文化以及近代科學影響的過程，看似嚴肅的題材，卻將中西衝擊最大的七十年間關鍵歷史原汁呈現。</dc:description>
+        <dc:publisher>晨星</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789861770277</dc:identifier>
         <dc:language>zho</dc:language>
-        <dc:subject>ZDC:RWZJ</dc:subject>
-        <dc:subject>CNTY:CHINA</dc:subject>
+        <dc:subject>近代史</dc:subject>
+        <dc:subject>蒋梦麟</dc:subject>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>西潮</dc:subject>
+        <dc:subject>知识分子</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>中国近代史</dc:subject>
+        <dc:subject>教育</dc:subject>
         <meta content="{&quot;蔣夢麟&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="传记" name="calibre:series"/>
         <meta content="41" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-06-29T17:21:57+00:00" name="calibre:timestamp"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2014-08-22T16:01:26+00:00" name="calibre:timestamp"/>
         <meta content="西潮" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" type="cover" title="Cover"/>

@@ -6,15 +6,27 @@
         <dc:title>蒙面之城</dc:title>
         <dc:creator opf:file-as="宁肯" opf:role="aut">宁肯</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>2001-03-31T16:00:00+00:00</dc:date>
+        <dc:description>一段漫长而沉思的生命，是一次伟大的历险，有时甚至是一个家族或一个种族经历的顶点，是对于后者悠远而扑朔迷离的过程的答案，带着那些错误、成功、道德和罪恶的标志。十七岁的马格以可笑的福尔摩斯的眼光怀疑一切，甚至怀疑父亲是否自己的生父，由此堕入历史与现实的迷雾，开始了漫长的“蒙面之旅”。作品以近乎音乐的四个声部描述了马格七年间经历的四个截然不同又具内在联系的地域：古老神秘的北京，民间的寓言般的秦岭，超越与绝顶的西藏，活力四射欲望如海的深圳，故事波云诡谲、荡气回肠，既切入迷雾般的现实生活，又道出鲜为人知的飘零故事，被认为是一部“前所未有的另类长篇小说。”</dc:description>
+        <dc:publisher>作家出版社</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">9f30758f-962e-4af3-ab7c-b5251cb37d21</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787506321013</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>宁肯</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>蒙面之城</dc:subject>
+        <dc:subject>流浪</dc:subject>
+        <dc:subject>青春</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>中国现代</dc:subject>
         <meta content="{&quot;宁肯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:57:37.948097+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:03:26+00:00" name="calibre:timestamp"/>
         <meta content="蒙面之城" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

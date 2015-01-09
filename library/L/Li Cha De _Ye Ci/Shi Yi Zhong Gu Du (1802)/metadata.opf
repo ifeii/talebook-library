@@ -6,15 +6,41 @@
         <dc:title>十一种孤独</dc:title>
         <dc:creator opf:file-as="理查德·耶茨" opf:role="aut">理查德·耶茨</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-10-02T22:52:55+00:00</dc:date>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:description>“我根本不敢肯定这间房子有没有窗户……上帝知道，伯尼，上帝知道这儿当然在哪儿会有窗户的，一扇我们大家的窗户。”
+《十一种孤独》以冷峻的笔触描写了美国二战后五六十年代普通纽约人的生活，写了十一种孤独的人生，主人公都是缺乏安全感、生活不太如意的人：曼哈顿办公楼里被炒的白领、有着杰出想象力的出租车司机、屡屡遭挫却一心想成为作家的年轻人、即将结婚十分迷茫的男女、古怪的老教师、新转学的小学生、肺结核病人、老病号的妻子、爵士钢琴手、郁郁不得志的军官、退役军人等。耶茨笔下都是普通人的普通生活，描写的是普通人的孤独、失落与绝望，他自己曾说：“如果我的作品有什么主题的话，我想只有简单一个：人都是孤独的，没有人逃脱得了，这就是他们的悲剧所在。”
+*      *      *
+被遗忘的最优秀的美国作家。
+——《泰晤士报》
+耶茨是位大师。
+——赛巴斯蒂安·福克斯
+仅仅提到这本书的标题就能在整整一代读者中很快地获得赞同与共鸣，耶茨创作出了《都柏林人》的纽约版本。
+——《纽约时报》
+有史以来十部最好的美国短篇小说集之一。
+——库尔特·冯内古特
+耶茨是一位最杰出的现实主义作家，他自然地继承了海明威朴实无华的风格以及卡佛的极简约主义。然而，耶茨给我们的不只是这些，他的作品有一种透明感。这种透明源于菲茨杰拉德，这位他心目中伟大的文学英雄。
+——《卫报》
+美国最好的战后小说家和短篇故事作家之一。他为他身处的时代贡献了一些最出色的小说，也给今天有幸一读的读者带来了乐趣。
+——《独立报》</dc:description>
+        <dc:publisher>上海译文出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787532749195</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">4a2ff976-b20d-4bc1-99d2-43d5ae39940d</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>理查德·耶茨</dc:subject>
+        <dc:subject>十一种孤独</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>外国文学</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>孤独</dc:subject>
+        <dc:subject>文学</dc:subject>
         <meta content="{&quot;理查德·耶茨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:05:48.889915+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:07+00:00" name="calibre:timestamp"/>
         <meta content="十一种孤独" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

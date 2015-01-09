@@ -6,20 +6,30 @@
         <dc:title>三国机密（下）</dc:title>
         <dc:creator opf:file-as="马伯庸" opf:role="aut">马伯庸</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-10-22T16:00:00+00:00</dc:date>
-        <dc:description>建安五年，曹操与袁绍相持于官渡，大战拉开帷幕。&#13;
-    汉献帝白龙鱼服，深入官渡战地。&#13;
-    曹丕随献帝前往，历经九死一生。&#13;
-    表面看，袁曹两军攻城略地轰轰烈烈，谁知实际的操控者却是沉迷酒色的郭嘉和隐居东山的蜚先生。而多年前的一场爱恨情仇埋下了他们仇恨的种子？&#13;
-    谁会是官渡之战真正的智者，谁才是官渡之战背后最大的赢家？</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2012-07-31T16:00:00+00:00</dc:date>
+        <dc:description>建安五年，曹操与袁绍相持于官渡，大战拉开帷幕。
+汉献帝白龙鱼服，深入官渡战地。
+曹丕随献帝前往，历经九死一生。
+表面看，袁曹两军攻城略地轰轰烈烈，谁知实际的操控者却是沉迷酒色的郭嘉和隐居东山的蜚先生。而多年前的一场爱恨情仇埋下了他们仇恨的种子？
+谁会是官渡之战真正的智者，谁才是官渡之战背后最大的赢家？</dc:description>
+        <dc:publisher>江苏人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787214086341</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>马伯庸</dc:subject>
+        <dc:subject>三国</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>祥瑞御免</dc:subject>
+        <dc:subject>阴谋论</dc:subject>
+        <dc:subject>历史小说</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;马伯庸&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T14:06:05.168136+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:17:21+00:00" name="calibre:timestamp"/>
         <meta content="三国机密（下）" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

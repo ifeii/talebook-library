@@ -1,24 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">713</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">a91ce4c3-fcbd-4ecf-a372-b366e3401e6c</dc:identifier>
         <dc:title>巨流河</dc:title>
-        <dc:creator opf:file-as="齐邦媛" opf:role="aut">齐邦媛</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.46) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-01-27T16:00:00+00:00</dc:date>
-        <dc:description>&lt;p class="description"&gt;一部反映中国近代苦难的家族记忆史；一部过渡新旧时代冲突的女性奋斗史；一部台湾文学走入西方世界的大事纪；一部用生命书写壮阔幽微的天籁诗篇！&lt;br&gt;巨流河，位于中国东北地区，是中国七大江河之一，被称为辽宁百姓的‘母亲河’。南滨渤海与黄海，西南与内蒙内陆河、河北海滦河流域相邻，北与松花江流域相连。这条河古代称句骊河，现在称辽河，清代称巨流河。影响中国命运的‘巨流河之役’，发生在民国十四年，当地淳朴百姓们仍沿用着清代巨流河之名。&lt;br&gt;本书的记述，从长城外的‘巨流河’开始，到台湾南端恒春的‘哑口海’结束……&lt;br&gt;作者齐邦媛的父亲齐世英──民国初年的留德热血青年，九一八事变前的东北维新派，毕生憾恨围绕着巨流河功败垂成的一战，渡不过的巨流像现实中的严寒，外交和革新思想皆困冻于此，从此开始了东北终至波及整个中国的近代苦难。&lt;br&gt;作者的一生，正是整个二十世纪颠沛流离的缩影。&lt;br&gt;作者以邃密通透、深情至性、字字珠玑的笔力，记述纵贯百年、横跨两岸的大时代故事。&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:creator opf:file-as="齊邦媛" opf:role="aut">齊邦媛</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-06T16:00:00+00:00</dc:date>
+        <dc:description>一部反映中國近代苦難的家族記憶史
+一部過渡新舊時代衝突的女性奮鬥史
+一部台灣文學走入西方世界的大事紀
+一部用生命書寫壯闊幽微的天籟詩篇
+巨流河，
+位於中國東北地區，是中國七大江河之一，被稱為遼寧百姓的「母親河」。
+南濱渤海與黃海，西南與內蒙內陸河、河北海灤河流域相鄰，北與松花江流域相連。
+這條河古代稱句驪河，現在稱遼河，清代稱巨流河。
+影響中國命運的「巨流河之役」，發生在民國十四年，當地淳樸百姓們仍沿用著清代巨流河之名。
+本書的記述，從長城外的「巨流河」開始，到台灣南端恆春的「啞口海」結束.........
+作者齊邦媛的父親齊世英──民國初年的留德熱血青年，九一八事變前的東北維新派，
+畢生憾恨圍繞著巨流河功敗垂成的一戰，
+渡不過的巨流像現實中的嚴寒，外交和革新思想皆困凍於此，從此開始了東北終至波及整個中國的近代苦難。
+作者的一生，正是整個二十世紀顛沛流離的縮影。
+本書嘔心瀝血四年完成，
+作者以邃密通透、深情至性、字字珠璣的筆力，記述縱貫百年、橫跨兩岸的大時代故事。
+獻給──所有為國家獻身的人。</dc:description>
+        <dc:publisher>天下遠見出版股份有限公司</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9789862163719</dc:identifier>
-        <dc:language>zh-CN</dc:language>
-        <dc:subject>台港澳文学</dc:subject>
+        <dc:language>en</dc:language>
+        <dc:subject>回忆录</dc:subject>
+        <dc:subject>齊邦媛</dc:subject>
+        <dc:subject>台湾</dc:subject>
+        <dc:subject>历史</dc:subject>
+        <dc:subject>传记</dc:subject>
+        <dc:subject>巨流河</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <meta content="{&quot;齊邦媛&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="传记" name="calibre:series"/>
         <meta content="19" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-02-27T06:53:00.546000+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:53:30+00:00" name="calibre:timestamp"/>
         <meta content="巨流河" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

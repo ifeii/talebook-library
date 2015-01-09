@@ -7,15 +7,35 @@
         <dc:creator opf:file-as="徐星" opf:role="aut">徐星</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-06-17T04:38:17+00:00</dc:date>
+        <dc:description>（据说）录有：
+《无主题变奏》
+《帮忙》
+《城市的故事》
+《殉道者》
+《无为在歧路》
+《饥饿的老鼠》
+《外乡人》
+《剩下的都属于你》
+附记：决不“拿着豆包当点心”</dc:description>
         <dc:publisher>作家出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787506302487</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">cb93f178-449b-4680-a31c-866bb6be6f96</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>徐星</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>无主题变奏</dc:subject>
+        <dc:subject>中国文学</dc:subject>
+        <dc:subject>当代文学</dc:subject>
+        <dc:subject>中国当代文学</dc:subject>
+        <dc:subject>文学</dc:subject>
+        <dc:subject>中国</dc:subject>
         <meta content="{&quot;徐星&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2014-07-16T13:59:24.030104+00:00" name="calibre:timestamp"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T16:05:16+00:00" name="calibre:timestamp"/>
         <meta content="无主题变奏" name="calibre:title_sort"/>
         <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" title="Cover" type="cover"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>

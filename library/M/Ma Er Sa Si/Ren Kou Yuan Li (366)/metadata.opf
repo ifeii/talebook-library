@@ -1,25 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">366</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7d3b61b2-71cc-49f8-bb7d-8e203fb4277c</dc:identifier>
         <dc:title>人口原理</dc:title>
         <dc:creator opf:file-as="马尔萨斯" opf:role="aut">马尔萨斯</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-12-08T16:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;《人口原理》从两个不变法则出发：①食物为人类生存所必需；②两性间的情欲是必然的；论证人口以几何级数增加，生活资料以算术级数增加，人口增长必然超过生活资料增长。人口自然法则要求二者保持平衡，因此，必然发生强大的妨碍，阻止人口的增加，这种妨碍就是贫穷与罪恶。此外，对于人口增加的妨碍，马尔萨斯又举出了道德抑制，即无力赡养自己的子女者不要结婚或者晚婚，而在未婚前要保持贞洁。&lt;/p&gt;
-&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;《人口原理》的基本论题是人口增长有超过食物供应增长趋势的思想。它以“土地报酬递减规律”为基础，认为由于“土地报酬递减规律”的作用，食物生产只能以算术级数增加，赶不上以几何级数增加的人口需要，并认为这是“永恒的人口自然规律”。&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
-        <dc:language>zh-CN</dc:language>
-        <dc:subject>学习资料</dc:subject>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.44.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T16:00:00+00:00</dc:date>
+        <dc:description>《人口原理》讲述人口问题与世界人口爆炸性增长、粮食的匮乏和人们希望减少人口以至最后能消除人口同资源不相适应的各种措施有关的问题。虽然生存斗争一直是人类最基本的活动，但对人口问题深入的理论探讨，则是因资产阶级产业革命所带来的相对人口过剩和其他社会问题的大量涌现而开始的。自从有了第一位人口理论家的名字，“萨尔萨斯的窘境”就成了人口问题的代名词。在经历了上世纪30年代的经济萧条及70年代的人口爆炸之后，以限制人口增长为建立社会和谐之根本的理论，一度被世界各国视为不可动摇的公理。而随着中、印两个超级人口大国在21世纪的飞速崛起，巨大的人口和同样巨大的市场成就了经济起飞的新模式，马尔萨斯的人口理论无疑遭受了当头一击。人口增长将成为财富增长不可逾越的障碍的著名论断，是否仍将如马氏的预言，如期成为这两个新兴大国发展中遭遇的瓶颈？人们将拭目以待。</dc:description>
+        <dc:publisher>敦煌文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787805878546</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>马尔萨斯</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>人口学</dc:subject>
+        <dc:subject>社会学</dc:subject>
+        <dc:subject>人口</dc:subject>
+        <dc:subject>社会</dc:subject>
+        <dc:subject>经典</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <meta content="{&quot;马尔萨斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="其他" name="calibre:series"/>
-        <meta content="5" name="calibre:series_index"/>
-        <meta content="0" name="calibre:rating"/>
-        <meta content="2011-01-21T02:42:29.437000+00:00" name="calibre:timestamp"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2014-08-22T15:14:12+00:00" name="calibre:timestamp"/>
         <meta content="人口原理" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#myshelves" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#myshelves&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;myshelves&quot;, &quot;display&quot;: {&quot;use_decorations&quot;: 0}, &quot;name&quot;: &quot;My Shelves&quot;}"/>
     </metadata>
     <guide>
-        <reference href="cover.jpg" type="cover" title="封面"/>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
     </guide>
 </package>
